@@ -17,6 +17,8 @@ suppressPackageStartupMessages({
 # get all schedule info using ncaa_schedule_info function 
 # clean up the schedule info
 
+######## get team names
+
 d1_schools <- data.frame()
 years <- c(2021,2022,2023,2024,2025)
 for (year in years){
@@ -31,18 +33,97 @@ for (year in years){
 
 head(d1_schools)
 
+
+###### get ids
+
+school_name_mapping <- c(
+  "Miami (FL)" = "Miami",
+  "St. John's (NY)" = "St. John's", 
+  "Miami (OH)" = "Miami",
+  "LMU (CA)" = "LMU",
+  "Saint Mary's (CA)" = "Saint Mary's",
+  "St. Thomas (MN)" = "St. Thomas",
+  "Queens (NC)" = "Queens"
+)
+
+#make a column with cleaned up abbreviations
+d1_schools <- d1_schools %>%
+  mutate(cleaned_school_name = ifelse(team_name %in% names(school_name_mapping),
+                                      school_name_mapping[team_name],
+                                      team_name))
+
 school_ids_by_year <- data.frame()
-unique_d1_schools <- unique(d1_schools$team_name)
-#get ids of each team for that year - shouldnt change y/y but still good to make sure
-for (i in seq_along(unique_d1_schools)){
-  u_school
+unique_cleaned_schools <- unique(d1_schools$cleaned_school_name)
+
+for (i in seq_along(unique_cleaned_schools)) {
+  u_school <- unique_cleaned_schools[i]
+  tryCatch({
+    school_id <- ncaa_school_id_lu(team_name = u_school)
+    school_ids_by_year <- rbind(school_ids_by_year, school_id)
+    cat("Added", u_school, "(", i, "/", length(unique_cleaned_schools), ")\n")
+  }, error = function(e) {
+    cat("Error getting ID for", u_school, ":", e$message, "\n")
+  })
 }
 
-for (u_school in unique_d1_schools){
-  school_id <- ncaa_school_id_lu(team_name = u_school)
-  school_ids_by_year <- rbind(school_ids_by_year,school_id)
-  cat("Added", len(unique_d1_schools), "schools for", "\n")
+#FDU is only mismatch changing from Fairleigh Dickinson in 2024 - manually fix this 
+all_cols <- colnames(school_ids_by_year)
+fdu_manual_entries <- data.frame(
+  team_id = c(222, 222, 222),
+  team_name = c("FDU", "FDU", "FDU"),
+  conference = c("NEC", "NEC", "NEC"),
+  conference_id = c(846, 846, 846),
+  division = c(1, 1, 1),
+  year = c(2021, 2022, 2023),
+  season_id = c(15580, 15860, 16340)
+)
+
+# Add any missing columns as NA
+missing_cols <- setdiff(all_cols, colnames(fdu_manual_entries))
+for(col in missing_cols) {
+  fdu_manual_entries[[col]] <- NA
 }
+
+# Reorder columns to match school_ids_by_year
+fdu_manual_entries <- fdu_manual_entries[all_cols]
+
+# Add the manual FDU entries to school_ids_by_year
+school_ids_by_year <- rbind(school_ids_by_year, fdu_manual_entries)
+
+#write school ids to csv
+write.csv(school_ids_by_year, "d1_schools2125ids_raw.csv", row.names = FALSE)
+
+#join ids to schools 
+d1_school_info <- d1_schools %>%
+  select(team_name,conference_id,division,year) %>%
+  left_join(school_ids_by_year %>%
+              select(team_id,team_name, conference, division, year, season_id), 
+            by = c("team_name","division","year"))
+
+
+#get schedules of all teams for each year
+missing_ids <- d1_school_info %>%
+  filter(is.na(team_id) & year != 2025)
+missing_ids_unique <- unique(missing_ids$team_name)
+cat("Missing IDs:", length(missing_ids_unique), "\n")
+
+ncaa_school_id_lu(team_name = "Fairleigh Dickinson")
+
+
+d1_school_info %>%
+  filter(division == 1 & team_name == 'Missouri')
+
+d1_school_info %>%
+  filter(division == 1 & conference_id  == '827')
+
+school_ids_by_year
+
+#### 2025 teams team_id and conference 
+
+
+ncaa_schedule_info(team_id = 434, year = 2025)
+
+######## NEEED SEASONID TO SCRAPE THE SEASON USING BASEBALLR. MAYBE LOOP THROUGH ALL TEAMS 2025 SEASONS AND GET THE SEASON ID FROM THE URL OR SOMETHING IDK TONGITH WE GRIND
 
 
 
@@ -65,11 +146,6 @@ d1_schools %>%
   filter(team_name == "Missouri" & year == 2025) 
 
 ncaa_school_id_lu(team_name = "school")
-
-
-
-
-
 
 
 
