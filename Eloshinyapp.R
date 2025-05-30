@@ -18,51 +18,51 @@ suppressPackageStartupMessages({
 })
 
 #read in updated csv 
-clean_data <- read.csv('/Users/sam/Desktop/MizBaseball/Playoff Projection/CleanHalfSeason1822.csv')
+clean_data <- read.csv('~/GitHub/NCAA_bid_predictions/CleanHalfSeason1822.csv')
 
 #maybe actual schedule has unique match ids that can be joined to clean data?
-mizzou_sched <- read.csv('/Users/sam/Desktop/MizBaseball/Playoff Projection/Mizzou23Sched.csv')
+mizzou_sched <- read.csv('~/GitHub/NCAA_bid_predictions/Mizzou23Sched.csv')
 
-bid_pred_xgb <- readRDS(file.path('/Users/sam/Desktop/MizBaseball/Playoff Projection/bid_pred_xgb.rds'))
+bid_pred_xgb <- readRDS(file.path('~/GitHub/NCAA_bid_predictions/bid_pred_xgb.rds'))
 
 miz_sched_fake <- dplyr::slice(mizzou_sched, 1:5)
 
 ui <- fluidPage(
-    
+  
   
   sidebarPanel( 
     h3('Select Winner of Game'),
     width = 3,
-  switchInput(inputId = "game1",
-              onLabel = 'Win', offLabel = 'Lose',
-              label = "Oklahoma St. Vs. Missouri Game 1:",
-              value = TRUE),
-  switchInput(inputId = "game2",
-              onLabel = 'Win', offLabel = 'Lose',
-              label = "TCU Vs. Missouri Game 1:",
-              value = TRUE),
-  switchInput(inputId = "game3",
-              onLabel = 'Win', offLabel = 'Lose',
-              label = "Texas Vs. Missouri Game 1:",
-              value = TRUE),
-  switchInput(inputId = "game4",
-              onLabel = 'Win', offLabel = 'Lose',
-              label = "FIU Vs. Missouri Game 1:",
-              value = TRUE),
-  switchInput(inputId = "game5",
-              onLabel = 'Win', offLabel = 'Lose',
-              label = "FIU Vs. Missouri Game 2:",
-              value = TRUE)
+    switchInput(inputId = "game1",
+                onLabel = 'Win', offLabel = 'Lose',
+                label = "Oklahoma St. Vs. Missouri Game 1:",
+                value = TRUE),
+    switchInput(inputId = "game2",
+                onLabel = 'Win', offLabel = 'Lose',
+                label = "TCU Vs. Missouri Game 1:",
+                value = TRUE),
+    switchInput(inputId = "game3",
+                onLabel = 'Win', offLabel = 'Lose',
+                label = "Texas Vs. Missouri Game 1:",
+                value = TRUE),
+    switchInput(inputId = "game4",
+                onLabel = 'Win', offLabel = 'Lose',
+                label = "FIU Vs. Missouri Game 1:",
+                value = TRUE),
+    switchInput(inputId = "game5",
+                onLabel = 'Win', offLabel = 'Lose',
+                label = "FIU Vs. Missouri Game 2:",
+                value = TRUE)
   ),
   
- mainPanel(
-   h4('Bid Prediction'),
-   tableOutput('pred_bid'),
-   
-   width = 9,
-   h1('Results'),
-  # actionButton("submitbutton", "Submit", class = "btn btn-primary"),
-  tableOutput('miz_sched')
+  mainPanel(
+    h4('Bid Prediction'),
+    tableOutput('pred_bid'),
+    
+    width = 9,
+    h1('Results'),
+    actionButton("submitbutton", "Submit", class = "btn btn-primary"),
+    tableOutput('miz_sched')
   )
 )
 
@@ -72,12 +72,12 @@ server <- function(input, output, session) {
     paste(c(input$game1, input$game2, input$game3, input$game4, input$game5))
   })
   
-  # observeEvent(
-  #   input$submitbutton,
-  #   game_output <- reactive({
-  #     paste(c(input$game1, input$game2))
-  #   })
-  # )
+  observeEvent(
+    input$submitbutton,
+    game_output <- reactive({
+      paste(c(input$game1, input$game2))
+    })
+  )
   
   miz_sch <- reactive({
     
@@ -88,15 +88,15 @@ server <- function(input, output, session) {
              date = as.Date(date))
   })
   
-  # output$miz_sched <- renderTable(miz_sch())
+  output$miz_sched <- renderTable(miz_sch())
   
   full_clean_data <- reactive({
     
     joined_dat <- rbind(clean_data %>% mutate(date = as.Date(date, format = "%m/%d/%Y")), miz_sch())
     
     elo_optim <- elo.run(home_win ~ adjust(home_team, 34) + away_team,
-            k = 3,
-            data = joined_dat)
+                         k = 3,
+                         data = joined_dat)
     
     elo_history_fake <- elo_optim %>%
       as.data.frame() %>%
@@ -158,7 +158,6 @@ server <- function(input, output, session) {
     
     fake_xgb_matrix <- xgb.DMatrix(data = fake_matrix)
     
-    fake_preds_xgb <- predict(bid_pred_xgb, newdata = fake_xgb_matrix, reshape = TRUE)
     
     fake_test$fake_pred_bid <- fake_preds_xgb
     
@@ -175,5 +174,3 @@ server <- function(input, output, session) {
 }
 
 shinyApp(ui, server)
-
-
