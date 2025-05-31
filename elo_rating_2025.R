@@ -409,7 +409,7 @@ clean_schedule_data <- function(raw_schedule_df, d1_schools_df = NULL) {
 raw_data_schedules <- scrape_multiple_teams_raw(d1_school_info_clean)
 clean_data_schedules <- clean_schedule_data(raw_data_schedules, d1_school_info_clean)
 
-write.csv(clean_data_schedules, "d1_sched_raw.csv", row.names = FALSE)
+# write.csv(clean_data_schedules, "d1_sched_raw.csv", row.names = FALSE)
 
 #remove games that did not result in a win or loss
 clean_sched <- clean_data_schedules %>%
@@ -434,19 +434,6 @@ half_games_played$home_team_win <- ifelse(half_games_played$home_score > half_ga
 half_games_played <- half_games_played %>%
   mutate(Date = as.Date(Date, format = "%m/%d/%Y")) %>%  
   arrange(Date)
-
-vandy_games <- half_games_played %>%
-  filter(home_team == "Vanderbilt" | away_team == "Vanderbilt")
-
-# Calculate wins/losses
-vandy_home_wins <- sum(vandy_games$home_team_win[vandy_games$home_team == "Vanderbilt"])
-vandy_away_wins <- sum(1 - vandy_games$home_team_win[vandy_games$away_team == "Vanderbilt"])
-vandy_total_wins <- vandy_home_wins + vandy_away_wins
-vandy_total_games <- nrow(vandy_games)
-
-cat("Vanderbilt record:", vandy_total_wins, "-", vandy_total_games - vandy_total_wins, "\n")
-cat("Win percentage:", round(vandy_total_wins/vandy_total_games * 100, 1), "%\n")
-cat("Total games:", vandy_total_games, "\n")
 
 
 # Create function to assign starting Elo by conference
@@ -528,6 +515,8 @@ final.elos(elo_optim)
 team_ranks <- as.data.frame(final.elos(elo_optim))
 team_ranks$school <- rownames(team_ranks)
 rownames(team_ranks) <- 1:nrow(team_ranks)
+
+# write.csv(team_ranks, "team_ranks.csv")
 
 #### define the regionals while web scraping
 
@@ -998,7 +987,31 @@ compare_teams <- function(team1, team2, team_ranks_df, n_sims = 1000) {
 detailed_results <- run_multiple_simulations_detailed(team_ranks, n_sims = 5000)
 bracket_predictions <- create_bracket_predictions(detailed_results)
 
+champ_table <- data.frame(
+  Team = names(detailed_results$championship_probabilities),
+  Win_Probability = as.numeric(detailed_results$championship_probabilities)
+) %>%
+  mutate(
+    Rank = row_number(),
+    Win_Percentage = paste0(round(Win_Probability, 1), "%")
+  ) %>%
+  select(Rank, Team, Win_Percentage)
 
+print(champ_table)
+
+regional_table <- data.frame(
+  Team = names(detailed_results$regional_probabilities$nashville),
+  Regional_Win_Probability = as.numeric(detailed_results$regional_probabilities$nashville)
+) %>%
+  mutate(
+    Rank = row_number(),
+    Win_Percentage = paste0(round(Regional_Win_Probability, 1), "%")
+  ) %>%
+  select(Rank, Team, Win_Percentage)
+
+print(regional_table)
+
+detailed_results$regional_probabilities
 
 ##### plotting
 
@@ -1166,3 +1179,10 @@ regional_plot <- ggplot(regional_2025_data, aes(x = Date, y = team_elo_after, co
   coord_cartesian(clip = "off")
 
 print(regional_plot)
+
+
+final_elo_rating_table <- team_ranks %>%
+  rename(`Elo Rating` = `final.elos(elo_optim)`,
+         Team = school) %>%
+  arrange(desc(`Elo Rating`)) %>%
+  mutate(Rank = row_number())
