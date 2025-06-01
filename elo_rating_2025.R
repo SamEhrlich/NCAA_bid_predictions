@@ -410,6 +410,10 @@ raw_data_schedules <- scrape_multiple_teams_raw(d1_school_info_clean)
 clean_data_schedules <- clean_schedule_data(raw_data_schedules, d1_school_info_clean)
 
 # write.csv(clean_data_schedules, "d1_sched_raw.csv", row.names = FALSE)
+<<<<<<< Updated upstream
+=======
+clean_data_schedules <- read.csv("d1_sched_raw.csv")
+>>>>>>> Stashed changes
 
 #remove games that did not result in a win or loss
 clean_sched <- clean_data_schedules %>%
@@ -446,7 +450,7 @@ get_starting_elo <- function(conference) {
 }
 
 # Create team-conference lookup
-team_conference_lookup <- d1_school_info_clean %>%
+team_conference_lookup <- clean_sched %>%
   filter(year == 2025) %>%
   select(team_name, conference) %>%
   distinct()
@@ -469,6 +473,9 @@ if (length(missing_teams) > 0) {
 
 cat("Final team starting Elos count:", length(team_starting_elos), "\n")
 cat("All teams covered:", all(teams_in_games %in% names(team_starting_elos)), "\n")
+
+#set seed for reproducibility
+set.seed(123)
 
 # Elo model tuning using grid search
 k.options <- seq(from = 10, to = 30, by = 1)
@@ -1015,8 +1022,9 @@ detailed_results$regional_probabilities
 
 ##### plotting
 
+elo_history <- as.data.frame(elo_optim)
 
-#brind elo back to original df
+#bind elo back to original df
 games_with_elo <- bind_cols(half_games_played, elo_history)
 
 #flip home away to team and opponent for full schedules
@@ -1181,8 +1189,62 @@ regional_plot <- ggplot(regional_2025_data, aes(x = Date, y = team_elo_after, co
 print(regional_plot)
 
 
+<<<<<<< Updated upstream
 final_elo_rating_table <- team_ranks %>%
   rename(`Elo Rating` = `final.elos(elo_optim)`,
          Team = school) %>%
   arrange(desc(`Elo Rating`)) %>%
   mutate(Rank = row_number())
+=======
+
+#save items to reproduce quickly
+final_elo_rating_table <- team_ranks %>%
+  rename(`Elo Rating` = `final.elos(elo_optim)`) %>%
+  arrange(desc(`Elo Rating`)) %>%
+  mutate(Rank = row_number())
+
+write.csv(optim_params, "optimal_elo_params.csv")
+write.csv(final_elo_rating_table, "final_elo_rating_table.csv")
+
+iowa24_25 <- team_schedules %>%
+  filter(team == "Iowa" & year %in% c(2024, 2025))
+
+# Create improved plot
+iowa_plot <- ggplot(iowa24_25, aes(x = Date, y = team_elo_after)) +
+  geom_line(linewidth = 1.2, alpha = 0.9, color = "#FFD700") +  # Move color here
+  geom_point(size = 1, color = "#FFD700") +  # Move color here
+  theme_minimal() +
+  theme(
+    plot.title = element_text(size = 18, face = "bold", hjust = 0.5),
+    plot.margin = margin(20, 20, 20, 20),  
+    legend.position = "none",  # Remove legend since we're not using color mapping
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 11),
+    axis.text.y = element_text(size = 11),
+    axis.title = element_text(size = 13, face = "bold"),
+    panel.grid.minor.x = element_blank(),
+    panel.grid.major.x = element_line(),
+    strip.text = element_text(size = 14, face = "bold")  # Style the facet labels
+  ) +
+  labs(
+    title = "Iowa ELO Progression: 2024-2025",
+    x = "Date",
+    y = "ELO Rating"
+  ) +
+  scale_x_date(
+    date_labels = "%b", 
+    date_breaks = "1 month",
+    expand = expansion(mult = c(0.02, 0.02))  
+  ) +
+  scale_y_continuous(
+    expand = expansion(mult = c(0.02, 0.02)),  
+    breaks = scales::pretty_breaks(n = 6)
+  ) +
+  geom_hline(yintercept = 1500, linetype = "dashed", alpha = 0.6, color = "gray50", size = 0.8) +
+  coord_cartesian(clip = "off") +
+  facet_wrap(~ year, scales = "free_x")  # Use facet_wrap for side-by-side panels
+
+print(iowa_plot)
+
+
+
+>>>>>>> Stashed changes
