@@ -1189,13 +1189,12 @@ regional_plot <- ggplot(regional_2025_data, aes(x = Date, y = team_elo_after, co
 print(regional_plot)
 
 
-<<<<<<< Updated upstream
 final_elo_rating_table <- team_ranks %>%
   rename(`Elo Rating` = `final.elos(elo_optim)`,
          Team = school) %>%
   arrange(desc(`Elo Rating`)) %>%
   mutate(Rank = row_number())
-=======
+
 
 #save items to reproduce quickly
 final_elo_rating_table <- team_ranks %>%
@@ -1246,5 +1245,335 @@ iowa_plot <- ggplot(iowa24_25, aes(x = Date, y = team_elo_after)) +
 print(iowa_plot)
 
 
+final_elos <- read.csv("final_elo_rating_table.csv")
+top8_teams <- c("Oregon St.", "Coastal Carolina", "Arizona", "Louisville", 
+                "Arkansas", "UCLA", "LSU", "Murray St.")
+top8 <- final_elos %>%
+  filter(school %in% top8_teams) %>%
+  rename(`Elo Rating` = "Elo.Rating")
 
->>>>>>> Stashed changes
+top8_ranks <- final_elos %>%
+  filter(school %in% top8_teams)
+
+cat("Top 8 Teams Final Elo Rankings:\n")
+cat("================================\n")
+
+# Filter top8_ranks for only the teams that made it to CWS
+top8_elo_data <- top8_ranks %>%
+  filter(school %in% top8_teams) %>%
+  rename(team = school, elo_rating = Elo.Rating, original_rank = Rank) %>%
+  arrange(original_rank)
+
+# Display the rankings
+for (i in 1:nrow(top8_elo_data)) {
+  cat(sprintf("%s: Rank %d, Elo %.0f\n", 
+              top8_elo_data$team[i], 
+              top8_elo_data$original_rank[i], 
+              top8_elo_data$elo_rating[i]))
+}
+
+cat("\nTop 8 Teams Sorted by Original Elo Ranking:\n")
+cat("==========================================\n")
+for (i in 1:nrow(top8_elo_data)) {
+  cat(sprintf("%d. %s (%.0f)\n", 
+              top8_elo_data$original_rank[i], 
+              top8_elo_data$team[i], 
+              top8_elo_data$elo_rating[i]))
+}
+
+# Create team_ranks dataframe for top 8 only (matching your original format)
+top8_team_ranks <- data.frame(
+  school = top8_elo_data$team,
+  elo_rating = top8_elo_data$elo_rating
+)
+names(top8_team_ranks)[2] <- "final.elos(elo_optim)"
+
+cws_bracket <- list(
+  game1 = c("Coastal Carolina", "Arizona"),
+  game2 = c("Oregon St.", "Louisville"), 
+  game3 = c("UCLA", "Murray St."),
+  game4 = c("Arkansas", "LSU")
+)
+
+# Function to simulate CWS with the actual bracket structure
+simulate_cws_top8 <- function(team_ranks_df, bracket, verbose = FALSE) {
+  if (verbose) cat("\n=== COLLEGE WORLD SERIES TOP 8 SIMULATION ===\n")
+  
+  # Simulate first round games
+  semifinal_teams <- c()
+  
+  for (i in 1:length(bracket)) {
+    game_name <- names(bracket)[i]
+    teams <- bracket[[i]]
+    
+    winner <- simulate_game(teams[1], teams[2], team_ranks_df, verbose)
+    semifinal_teams <- c(semifinal_teams, winner)
+    
+    if (verbose) {
+      cat(sprintf("Quarterfinal %d: %s vs %s -> Winner: %s\n", 
+                  i, teams[1], teams[2], winner))
+    }
+  }
+  
+  if (verbose) cat("\nSemifinals:\n")
+  
+  # Semifinals: winners of games 1&2, winners of games 3&4
+  final_teams <- c()
+  
+  # Semifinal 1
+  sf1_winner <- simulate_game(semifinal_teams[1], semifinal_teams[2], team_ranks_df, verbose)
+  final_teams <- c(final_teams, sf1_winner)
+  
+  if (verbose) {
+    cat(sprintf("Semifinal 1: %s vs %s -> Winner: %s\n", 
+                semifinal_teams[1], semifinal_teams[2], sf1_winner))
+  }
+  
+  # Semifinal 2  
+  sf2_winner <- simulate_game(semifinal_teams[3], semifinal_teams[4], team_ranks_df, verbose)
+  final_teams <- c(final_teams, sf2_winner)
+  
+  if (verbose) {
+    cat(sprintf("Semifinal 2: %s vs %s -> Winner: %s\n", 
+                semifinal_teams[3], semifinal_teams[4], sf2_winner))
+  }
+  
+  # Championship
+  if (verbose) cat("\n=== CHAMPIONSHIP GAME ===\n")
+  
+  champion <- simulate_game(final_teams[1], final_teams[2], team_ranks_df, verbose)
+  runner_up <- ifelse(champion == final_teams[1], final_teams[2], final_teams[1])
+  
+  if (verbose) {
+    cat(sprintf("\nCHAMPION: %s defeats %s\n", champion, runner_up))
+  }
+  
+  return(list(
+    champion = champion,
+    runner_up = runner_up,
+    finalists = final_teams,
+    semifinalists = semifinal_teams
+  ))
+}
+
+# Function to run multiple CWS simulations
+run_cws_simulations <- function(team_ranks_df, bracket, n_sims = 1000, verbose = FALSE) {
+  cat("Running", n_sims, "College World Series simulations...\n")
+  
+  results <- list()
+  champions <- c()
+  finalists <- c()
+  semifinalists <- c()
+  
+  for (i in 1:n_sims) {
+    if (i %% 100 == 0) cat("Completed", i, "simulations\n")
+    
+    sim_result <- simulate_cws_top8(team_ranks_df, bracket, verbose = FALSE)
+    results[[i]] <- sim_result
+    champions <- c(champions, sim_result$champion)
+    finalists <- c(finalists, sim_result$finalists)
+    semifinalists <- c(semifinalists, sim_result$semifinalists)
+  }
+  
+  # Calculate probabilities
+  champ_probs <- table(champions) / n_sims * 100
+  champ_probs <- sort(champ_probs, decreasing = TRUE)
+  
+  finalist_probs <- table(finalists) / n_sims * 100
+  finalist_probs <- sort(finalist_probs, decreasing = TRUE)
+  
+  semifinal_probs <- table(semifinalists) / n_sims * 100
+  semifinal_probs <- sort(semifinal_probs, decreasing = TRUE)
+  
+  # Display results
+  cat("\n", paste(rep("=", 60), collapse = ""), "\n")
+  cat("COLLEGE WORLD SERIES SIMULATION RESULTS\n")
+  cat(paste(rep("=", 60), collapse = ""), "\n")
+  
+  cat("\nCHAMPIONSHIP PROBABILITIES:\n")
+  cat(paste(rep("-", 30), collapse = ""), "\n")
+  for (i in 1:length(champ_probs)) {
+    cat(sprintf("%s: %.1f%%\n", names(champ_probs)[i], champ_probs[i]))
+  }
+  
+  cat("\nFINALS APPEARANCE PROBABILITIES:\n")
+  cat(paste(rep("-", 35), collapse = ""), "\n")
+  for (i in 1:length(finalist_probs)) {
+    cat(sprintf("%s: %.1f%%\n", names(finalist_probs)[i], finalist_probs[i]))
+  }
+  
+  cat("\nSEMIFINALS APPEARANCE PROBABILITIES:\n")
+  cat(paste(rep("-", 38), collapse = ""), "\n")
+  for (i in 1:length(semifinal_probs)) {
+    cat(sprintf("%s: %.1f%%\n", names(semifinal_probs)[i], semifinal_probs[i]))
+  }
+  
+  return(list(
+    results = results,
+    championship_probabilities = champ_probs,
+    finals_probabilities = finalist_probs,
+    semifinals_probabilities = semifinal_probs,
+    n_simulations = n_sims
+  ))
+}
+
+# Function to analyze head-to-head matchups for each quarterfinal
+analyze_quarterfinal_matchups <- function(team_ranks_df, bracket, n_sims = 1000) {
+  cat("\nQUARTERFINAL MATCHUP ANALYSIS:\n")
+  cat(paste(rep("=", 40), collapse = ""), "\n")
+  
+  matchup_results <- list()
+  
+  for (i in 1:length(bracket)) {
+    game_name <- names(bracket)[i]
+    teams <- bracket[[i]]
+    
+    cat(sprintf("\nGame %d: %s vs %s\n", i, teams[1], teams[2]))
+    cat(paste(rep("-", 25), collapse = ""), "\n")
+    
+    # Get Elo ratings
+    elo1 <- team_ranks_df$`final.elos(elo_optim)`[team_ranks_df$school == teams[1]]
+    elo2 <- team_ranks_df$`final.elos(elo_optim)`[team_ranks_df$school == teams[2]]
+    
+    cat(sprintf("%s Elo: %.0f\n", teams[1], elo1))
+    cat(sprintf("%s Elo: %.0f\n", teams[2], elo2))
+    
+    # Calculate theoretical win probability
+    win_prob1 <- elo.prob(elo1, elo2)
+    
+    cat(sprintf("%s win probability: %.1f%%\n", teams[1], win_prob1 * 100))
+    cat(sprintf("%s win probability: %.1f%%\n", teams[2], (1 - win_prob1) * 100))
+    
+    # Simulate the matchup
+    wins_team1 <- 0
+    for (j in 1:n_sims) {
+      winner <- simulate_game(teams[1], teams[2], team_ranks_df, verbose = FALSE)
+      if (winner == teams[1]) wins_team1 <- wins_team1 + 1
+    }
+    
+    simulated_prob1 <- wins_team1 / n_sims
+    
+    cat(sprintf("Simulated %s win rate: %.1f%%\n", teams[1], simulated_prob1 * 100))
+    cat(sprintf("Simulated %s win rate: %.1f%%\n", teams[2], (1 - simulated_prob1) * 100))
+    
+    matchup_results[[game_name]] <- list(
+      teams = teams,
+      elo_ratings = c(elo1, elo2),
+      theoretical_probs = c(win_prob1, 1 - win_prob1),
+      simulated_probs = c(simulated_prob1, 1 - simulated_prob1)
+    )
+  }
+  
+  return(matchup_results)
+}
+
+quarterfinal_analysis <- analyze_quarterfinal_matchups(top8_team_ranks, cws_bracket, n_sims = 5000)
+
+# Run full tournament simulation
+cws_sim_results <- run_cws_simulations(top8_team_ranks, cws_bracket, n_sims = 5000)
+
+# Create summary table for championship odds
+championship_table <- data.frame(
+  Team = names(cws_sim_results$championship_probabilities),
+  Championship_Probability = as.numeric(cws_sim_results$championship_probabilities),
+  Finals_Probability = as.numeric(cws_sim_results$finals_probabilities[names(cws_sim_results$championship_probabilities)]),
+  Semifinals_Probability = as.numeric(cws_sim_results$semifinals_probabilities[names(cws_sim_results$championship_probabilities)])
+) %>%
+  mutate(
+    Rank = row_number(),
+    Championship_Pct = paste0(round(Championship_Probability, 1), "%"),
+    Finals_Pct = paste0(round(Finals_Probability, 1), "%"),
+    Semifinals_Pct = paste0(round(Semifinals_Probability, 1), "%")
+  ) %>%
+  select(Rank, Team, Championship_Pct, Finals_Pct, Semifinals_Pct)
+
+cat("\nSUMMARY TABLE:\n")
+print(championship_table)
+
+# One simulation with detailed output
+cat("\n\nSAMPLE TOURNAMENT SIMULATION:\n")
+cat(paste(rep("=", 45), collapse = ""), "\n")
+sample_result <- simulate_cws_top8(top8_team_ranks, cws_bracket, verbose = TRUE)
+
+
+top8_viz_data <- top8_elo_data %>%
+  mutate(
+    championship_prob = as.numeric(cws_sim_results$championship_probabilities[team]),
+    finals_prob = as.numeric(cws_sim_results$finals_probabilities[team]),
+    semifinals_prob = as.numeric(cws_sim_results$semifinals_probabilities[team])
+  ) %>%
+  # Replace NAs with 0 for teams not in results
+  mutate(
+    championship_prob = ifelse(is.na(championship_prob), 0, championship_prob),
+    finals_prob = ifelse(is.na(finals_prob), 0, finals_prob),
+    semifinals_prob = ifelse(is.na(semifinals_prob), 0, semifinals_prob)
+  ) %>%
+  select(-semifinals_prob) %>%
+  rename(c(`Elo Rating`= "elo_rating", 
+           "Team"= "team", 
+           `Top 64 Ranking` = "original_rank", 
+           `Finals Appearance %` = "finals_prob",
+           `CWS Champion %` = "championship_prob")) %>%
+  select(Team, `Top 64 Ranking`, `Elo Rating`, `Finals Appearance %`, `CWS Champion %`)
+
+team_schedules <- read.csv("team_schedules.csv")
+
+
+# School colors for top 8 teams
+top8_colors <- c(
+  "Oregon St." = "#FF6600",         # Orange
+  "Coastal Carolina" = "#006A4E",   # Teal
+  "Arizona" = "#003366",            # Navy Blue
+  "Louisville" = "#AD0000",         # Cardinal Red
+  "Arkansas" = "#9D2235",           # Cardinal
+  "UCLA" = "#2774AE",               # UCLA Blue
+  "LSU" = "#461D7C",                # Purple
+  "Murray St." = "#0033A0"          # Blue
+)
+
+# Filter data for top 8 teams
+top8_2025_data <- team_schedules %>%
+  mutate(Date = as.Date(Date)) %>%
+  filter(team %in% top8_teams & year == 2025) %>%
+  arrange(team, Date) %>%
+  group_by(team) %>%
+  mutate(game_number = row_number()) %>%
+  ungroup()
+
+# Create improved plot for top 8
+top8_plot <- ggplot(top8_2025_data, aes(x = Date, y = team_elo_after, color = team)) +
+  geom_line(size = 1.2, alpha = 0.9) +
+  geom_point(size = 0.8, alpha = 0.7) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(size = 18, face = "bold", hjust = 0.5),
+    plot.margin = margin(20, 20, 20, 20),  
+    legend.position = "right",
+    legend.title = element_text(face = "bold", size = 12),
+    legend.text = element_text(size = 10),
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 11),
+    axis.text.y = element_text(size = 11),
+    axis.title = element_text(size = 13, face = "bold"),
+    panel.grid.minor.x = element_blank(),
+    panel.grid.major.x = element_line()
+  ) +
+  labs(
+    title = "NCAA Baseball CWS Teams - 2025 Elo Ratings",
+    x = "Date",
+    y = "Elo Rating", 
+    color = "CWS Team"
+  ) +
+  scale_x_date(
+    date_labels = "%b %d", 
+    date_breaks = "2 weeks",
+    expand = expansion(mult = c(0.02, 0.02))  
+  ) +
+  scale_y_continuous(
+    expand = expansion(mult = c(0.02, 0.02)),  
+    breaks = scales::pretty_breaks(n = 8)
+  ) +
+  scale_color_manual(values = top8_colors) +
+  geom_hline(yintercept = 1500, linetype = "dashed", alpha = 0.6, color = "gray50", size = 0.8) +
+  coord_cartesian(clip = "off")
+
+print(top8_plot)
