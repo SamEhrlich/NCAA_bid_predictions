@@ -1,0 +1,60 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Oral Roberts,Southern Illinois,2,4,0,0,L,Oral Roberts,Oral-Roberts,Southern-Illinois,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+02/14/2026,Oral Roberts,Southern Illinois,1,0,0,0,W,Oral Roberts,Oral-Roberts,Southern-Illinois,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+02/15/2026,Oral Roberts,Southern Illinois,6,2,0,0,W,Oral Roberts,Oral-Roberts,Southern-Illinois,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+02/17/2026,Oral Roberts,Missouri State,0,11,0,0,L,Oral Roberts,Oral-Roberts,Missouri-State,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+02/20/2026,Abilene Christian,Oral Roberts,2,9,0,0,W,Oral Roberts,Oral-Roberts,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+02/21/2026,Abilene Christian,Oral Roberts,12,3,0,0,L,Oral Roberts,Oral-Roberts,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+02/22/2026,Abilene Christian,Oral Roberts,8,7,0,0,L,Oral Roberts,Oral-Roberts,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+02/24/2026,Missouri State,Oral Roberts,13,1,0,0,L,Oral Roberts,Oral-Roberts,Missouri-State,1,7,"Springfield, MO / Hammons Field",2026,WN2026
+02/26/2026,Dallas Baptist,Oral Roberts,6,5,0,0,L,Oral Roberts,Oral-Roberts,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+02/27/2026,Air Force,Oral Roberts,3,6,0,1,W,Oral Roberts,Oral-Roberts,Air-Force,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+02/28/2026,Dallas Baptist,Oral Roberts,6,8,0,0,W,Oral Roberts,Oral-Roberts,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/03/2026,Arkansas,Oral Roberts,10,2,0,0,L,Oral Roberts,Oral-Roberts,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+03/07/2026,Oral Roberts,Arkansas State,3,2,0,0,W,Oral Roberts,Oral-Roberts,Arkansas-State,0,14,"Tulsa, OK / Chapman Park",2026,WN2026
+03/07/2026,Oral Roberts,Arkansas State,4,3,0,0,W,Oral Roberts,Oral-Roberts,Arkansas-State,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+03/08/2026,Oral Roberts,Arkansas State,0,7,0,0,L,Oral Roberts,Oral-Roberts,Arkansas-State,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+03/10/2026,Central Arkansas,Oral Roberts,8,7,0,0,L,Oral Roberts,Oral-Roberts,Central-Arkansas,1,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/13/2026,Oral Roberts,South Dakota State,4,3,0,0,W,Oral Roberts,Oral-Roberts,South-Dakota-State,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+03/14/2026,Oral Roberts,South Dakota State,3,1,0,0,W,Oral Roberts,Oral-Roberts,South-Dakota-State,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+03/15/2026,Oral Roberts,South Dakota State,12,2,0,0,W,Oral Roberts,Oral-Roberts,South-Dakota-State,0,8,"Tulsa, OK / Chapman Park",2026,WN2026
+03/17/2026,Little Rock,Oral Roberts,11,1,0,0,L,Oral Roberts,Oral-Roberts,Little-Rock,1,8,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+03/18/2026,Little Rock,Oral Roberts,1,11,0,0,W,Oral Roberts,Oral-Roberts,Little-Rock,1,7,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+03/20/2026,Oral Roberts,Saint Thomas,4,0,0,0,W,Oral Roberts,Oral-Roberts,Saint-Thomas,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+03/21/2026,Oral Roberts,Saint Thomas,8,2,0,0,W,Oral Roberts,Oral-Roberts,Saint-Thomas,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+03/22/2026,Oral Roberts,Saint Thomas,11,3,0,0,W,Oral Roberts,Oral-Roberts,Saint-Thomas,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+03/25/2026,Air Force,Oral Roberts,4,3,0,1,L,Oral Roberts,Oral-Roberts,Air-Force,0,9,"Enid, OK / David Allen Memorial Ballpark",2026,WN2026
+03/31/2026,Oral Roberts,Oklahoma,0,4,0,0,L,Oral Roberts,Oral-Roberts,Oklahoma,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+04/02/2026,Oral Roberts,Northern Colorado,3,1,0,0,W,Oral Roberts,Oral-Roberts,Northern-Colorado,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+04/03/2026,Oral Roberts,Northern Colorado,3,2,0,0,W,Oral Roberts,Oral-Roberts,Northern-Colorado,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+04/04/2026,Oral Roberts,Northern Colorado,3,2,0,0,W,Oral Roberts,Oral-Roberts,Northern-Colorado,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+04/07/2026,Oklahoma State,Oral Roberts,9,10,0,0,W,Oral Roberts,Oral-Roberts,Oklahoma-State,1,9,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+04/10/2026,Omaha,Oral Roberts,0,9,0,0,W,Oral Roberts,Oral-Roberts,Omaha,1,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+04/11/2026,Omaha,Oral Roberts,1,13,0,0,W,Oral Roberts,Oral-Roberts,Omaha,1,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+04/12/2026,Omaha,Oral Roberts,8,7,0,0,L,Oral Roberts,Oral-Roberts,Omaha,1,12,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+04/14/2026,Oral Roberts,Central Arkansas,3,5,0,0,L,Oral Roberts,Oral-Roberts,Central-Arkansas,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+04/17/2026,South Dakota State,Oral Roberts,4,8,0,0,W,Oral Roberts,Oral-Roberts,South-Dakota-State,1,9,"Brookings, SD / Erv Huether Field",2026,WN2026
+04/18/2026,South Dakota State,Oral Roberts,2,18,0,0,W,Oral Roberts,Oral-Roberts,South-Dakota-State,1,7,"Brookings, SD / Erv Huether Field",2026,WN2026
+04/19/2026,South Dakota State,Oral Roberts,2,10,0,0,W,Oral Roberts,Oral-Roberts,South-Dakota-State,1,9,"Brookings, SD / Erv Huether Field",2026,WN2026
+04/21/2026,Oklahoma,Oral Roberts,7,6,0,0,L,Oral Roberts,Oral-Roberts,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+04/24/2026,Oral Roberts,North Dakota State,2,3,0,0,L,Oral Roberts,Oral-Roberts,North-Dakota-State,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+04/24/2026,Oral Roberts,North Dakota State,14,3,0,0,W,Oral Roberts,Oral-Roberts,North-Dakota-State,0,7,"Tulsa, OK / Chapman Park",2026,WN2026
+04/25/2026,Oral Roberts,North Dakota State,3,2,0,0,W,Oral Roberts,Oral-Roberts,North-Dakota-State,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+04/26/2026,Oral Roberts,North Dakota State,3,11,0,0,L,Oral Roberts,Oral-Roberts,North-Dakota-State,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+04/28/2026,Oral Roberts,Oklahoma State,11,6,0,0,W,Oral Roberts,Oral-Roberts,Oklahoma-State,0,9,"Tulsa, OK / ONEOK Field",2026,WN2026
+05/01/2026,Saint Thomas,Oral Roberts,4,7,0,0,W,Oral Roberts,Oral-Roberts,Saint-Thomas,1,9,"St. Paul, MN / Koch Diamond",2026,WN2026
+05/02/2026,Saint Thomas,Oral Roberts,14,18,0,0,W,Oral Roberts,Oral-Roberts,Saint-Thomas,1,9,"St. Paul, MN / Koch Diamond",2026,WN2026
+05/03/2026,Saint Thomas,Oral Roberts,2,4,0,0,W,Oral Roberts,Oral-Roberts,Saint-Thomas,1,9,"St. Paul, MN / Koch Diamond",2026,WN2026
+05/05/2026,Oral Roberts,Cincinnati,4,15,0,0,L,Oral Roberts,Oral-Roberts,Cincinnati,0,9,"Tulsa, OK / J. L. Johnson Stadium",2026,WN2026
+05/09/2026,Oral Roberts,Omaha,4,3,0,0,W,Oral Roberts,Oral-Roberts,Omaha,0,9,"Tulsa, OK / J. L. Johnson Stadium / Box Score",2026,WN2026
+05/09/2026,Oral Roberts,Omaha,5,7,0,0,L,Oral Roberts,Oral-Roberts,Omaha,0,9,"Tulsa, OK / J. L. Johnson Stadium / Box Score",2026,WN2026
+05/10/2026,Oral Roberts,Omaha,6,8,0,0,L,Oral Roberts,Oral-Roberts,Omaha,0,9,"Tulsa, OK / J. L. Johnson Stadium / Box Score",2026,WN2026
+05/12/2026,Oral Roberts,Oklahoma State,7,12,0,0,L,Oral Roberts,Oral-Roberts,Oklahoma-State,0,9,"Tulsa, OK / Chapman Park",2026,WN2026
+05/14/2026,Northern Colorado,Oral Roberts,7,6,0,0,L,Oral Roberts,Oral-Roberts,Northern-Colorado,1,9,"Greeley, CO / Jackson Field / Box Score",2026,WN2026
+05/15/2026,Northern Colorado,Oral Roberts,2,14,0,0,W,Oral Roberts,Oral-Roberts,Northern-Colorado,1,9,"Greeley, CO / Jackson Field / Box Score",2026,WN2026
+05/16/2026,Northern Colorado,Oral Roberts,3,10,0,0,W,Oral Roberts,Oral-Roberts,Northern-Colorado,1,9,"Greeley, CO / Jackson Field / Box Score",2026,WN2026
+05/20/2026,South Dakota State,Oral Roberts,7,3,0,1,L,Oral Roberts,Oral-Roberts,South-Dakota-State,0,9,"Minneapolis, MN / Siebert Field / Box Score / Recap",2026,WN2026
+05/21/2026,Omaha,Oral Roberts,0,9,0,1,W,Oral Roberts,Oral-Roberts,Omaha,0,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+05/22/2026,Northern Colorado,Oral Roberts,1,3,0,1,W,Oral Roberts,Oral-Roberts,Northern-Colorado,0,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+05/23/2026,South Dakota State,Oral Roberts,1,4,0,1,W,Oral Roberts,Oral-Roberts,South-Dakota-State,0,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+05/23/2026,South Dakota State,Oral Roberts,9,6,0,1,L,Oral Roberts,Oral-Roberts,South-Dakota-State,0,9,"Minneapolis, MN / Siebert Field",2026,WN2026

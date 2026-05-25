@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Florida State,James Madison,5,1,0,0,L,James Madison,James-Madison,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+02/14/2026,Florida State,James Madison,16,5,0,0,L,James Madison,James-Madison,Florida-State,1,7,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+02/18/2026,Richmond,James Madison,9,5,0,0,L,James Madison,James-Madison,Richmond,1,9,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+02/20/2026,James Madison,Le Moyne,13,11,0,0,W,James Madison,James-Madison,Le-Moyne,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+02/21/2026,James Madison,Le Moyne,16,1,0,0,W,James Madison,James-Madison,Le-Moyne,0,7,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+02/21/2026,James Madison,Le Moyne,11,4,0,0,W,James Madison,James-Madison,Le-Moyne,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+02/24/2026,James Madison,Virginia Tech,4,5,0,0,L,James Madison,James-Madison,Virginia-Tech,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+02/27/2026,Charleston,James Madison,8,7,0,1,L,James Madison,James-Madison,Charleston,0,10,"Greenville, SC / Fluor Field",2026,WN2026
+02/28/2026,Albany,James Madison,3,6,0,1,W,James Madison,James-Madison,Albany,0,9,"Greenville, SC / Fluor Field",2026,WN2026
+03/01/2026,Michigan State,James Madison,2,4,0,1,W,James Madison,James-Madison,Michigan-State,0,9,"Greenville, SC / Fluor Field",2026,WN2026
+03/03/2026,James Madison,George Mason,2,11,0,0,L,James Madison,James-Madison,George-Mason,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/07/2026,James Madison,East Tennessee State,11,1,0,0,W,James Madison,James-Madison,East-Tennessee-State,0,7,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/07/2026,James Madison,East Tennessee State,6,4,0,0,W,James Madison,James-Madison,East-Tennessee-State,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park / Box Score",2026,WN2026
+03/08/2026,James Madison,East Tennessee State,0,13,0,0,L,James Madison,James-Madison,East-Tennessee-State,0,8,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/10/2026,Radford,James Madison,4,2,0,0,L,James Madison,James-Madison,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+03/13/2026,James Madison,Georgia Southern,14,6,0,0,W,James Madison,James-Madison,Georgia-Southern,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/14/2026,James Madison,Georgia Southern,3,2,0,0,W,James Madison,James-Madison,Georgia-Southern,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/15/2026,James Madison,Georgia Southern,12,6,0,0,W,James Madison,James-Madison,Georgia-Southern,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/18/2026,James Madison,George Washington,12,7,0,0,W,James Madison,James-Madison,George-Washington,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/20/2026,Coastal Carolina,James Madison,12,2,0,0,L,James Madison,James-Madison,Coastal-Carolina,1,7,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+03/21/2026,Coastal Carolina,James Madison,10,0,0,0,L,James Madison,James-Madison,Coastal-Carolina,1,7,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+03/22/2026,Coastal Carolina,James Madison,16,6,0,0,L,James Madison,James-Madison,Coastal-Carolina,1,7,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+03/24/2026,James Madison,Radford,6,10,0,0,L,James Madison,James-Madison,Radford,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/27/2026,Arkansas State,James Madison,11,9,0,0,L,James Madison,James-Madison,Arkansas-State,1,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+03/28/2026,Arkansas State,James Madison,10,11,0,0,W,James Madison,James-Madison,Arkansas-State,1,11,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+03/29/2026,Arkansas State,James Madison,2,1,0,0,L,James Madison,James-Madison,Arkansas-State,1,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+03/31/2026,Georgetown,James Madison,7,12,0,0,W,James Madison,James-Madison,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/02/2026,James Madison,Louisiana,4,5,0,0,L,James Madison,James-Madison,Louisiana,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+04/03/2026,James Madison,Louisiana,6,5,0,0,W,James Madison,James-Madison,Louisiana,0,11,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+04/04/2026,James Madison,Louisiana,5,1,0,0,W,James Madison,James-Madison,Louisiana,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+04/07/2026,Virginia,James Madison,7,8,0,0,W,James Madison,James-Madison,Virginia,1,10,"Charlottesville, VA / Davenport Field",2026,WN2026
+04/10/2026,Georgia State,James Madison,10,5,0,0,L,James Madison,James-Madison,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+04/11/2026,Georgia State,James Madison,10,0,0,0,L,James Madison,James-Madison,Georgia-State,1,8,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+04/12/2026,Georgia State,James Madison,5,4,0,0,L,James Madison,James-Madison,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+04/14/2026,James Madison,Richmond,2,10,0,0,L,James Madison,James-Madison,Richmond,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+04/17/2026,James Madison,Appalachian State,0,10,0,0,L,James Madison,James-Madison,Appalachian-State,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+04/18/2026,James Madison,Appalachian State,10,19,0,0,L,James Madison,James-Madison,Appalachian-State,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+04/19/2026,James Madison,Appalachian State,10,14,0,0,L,James Madison,James-Madison,Appalachian-State,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+04/21/2026,George Mason,James Madison,7,4,0,0,L,James Madison,James-Madison,George-Mason,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+04/24/2026,ULM,James Madison,3,11,0,0,W,James Madison,James-Madison,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/25/2026,ULM,James Madison,6,4,0,0,L,James Madison,James-Madison,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/26/2026,ULM,James Madison,2,10,0,0,W,James Madison,James-Madison,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/28/2026,Virginia Tech,James Madison,14,1,0,0,L,James Madison,James-Madison,Virginia-Tech,1,7,"Blacksburg, VA / English Field",2026,WN2026
+05/01/2026,James Madison,Marshall,4,3,0,0,W,James Madison,James-Madison,Marshall,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+05/02/2026,James Madison,Marshall,0,9,0,0,L,James Madison,James-Madison,Marshall,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+05/03/2026,James Madison,Marshall,5,3,0,0,W,James Madison,James-Madison,Marshall,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+05/05/2026,George Washington,James Madison,5,4,0,0,L,James Madison,James-Madison,George-Washington,1,10,"Arlington, VA / Barcroft Park",2026,WN2026
+05/08/2026,James Madison,Southern Miss,5,8,0,0,L,James Madison,James-Madison,Southern-Miss,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park / Box Score",2026,WN2026
+05/09/2026,James Madison,Southern Miss,1,11,0,0,L,James Madison,James-Madison,Southern-Miss,0,8,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park / Box Score",2026,WN2026
+05/10/2026,James Madison,Southern Miss,5,10,0,0,L,James Madison,James-Madison,Southern-Miss,0,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park / Box Score",2026,WN2026
+05/14/2026,Old Dominion,James Madison,5,1,0,0,L,James Madison,James-Madison,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex / Box Score",2026,WN2026
+05/15/2026,Old Dominion,James Madison,10,0,0,0,L,James Madison,James-Madison,Old-Dominion,1,8,"Norfolk, VA / Bud Metheny Baseball Complex / Box Score",2026,WN2026
+05/16/2026,Old Dominion,James Madison,3,7,0,0,W,James Madison,James-Madison,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex / Box Score",2026,WN2026

@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UNCW,Maryland,3,5,0,0,W,Maryland,Maryland,UNCW,1,9,"Wilmington, NC / Brooks Field",2026,WN2026
+02/14/2026,UNCW,Maryland,8,4,0,0,L,Maryland,Maryland,UNCW,1,9,"Wilmington, NC / Brooks Field",2026,WN2026
+02/14/2026,UNCW,Maryland,1,5,0,0,W,Maryland,Maryland,UNCW,1,9,"Wilmington, NC / Brooks Field",2026,WN2026
+02/17/2026,Maryland,Georgetown,16,3,0,0,W,Maryland,Maryland,Georgetown,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+02/20/2026,Louisiana,Maryland,7,6,0,0,L,Maryland,Maryland,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+02/21/2026,Louisiana,Maryland,9,1,0,0,L,Maryland,Maryland,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+02/22/2026,Louisiana,Maryland,6,5,0,0,L,Maryland,Maryland,Louisiana,1,15,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+02/24/2026,Maryland,Delaware,15,14,0,0,W,Maryland,Maryland,Delaware,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+02/27/2026,Maryland,Wagner,10,9,0,0,W,Maryland,Maryland,Wagner,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+02/28/2026,Maryland,Wagner,21,4,0,0,W,Maryland,Maryland,Wagner,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+03/01/2026,Maryland,Wagner,15,10,0,0,W,Maryland,Maryland,Wagner,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+03/04/2026,Delaware,Maryland,3,7,0,0,W,Maryland,Maryland,Delaware,1,9,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+03/06/2026,Troy,Maryland,5,2,0,0,L,Maryland,Maryland,Troy,1,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+03/07/2026,Troy,Maryland,3,9,0,0,W,Maryland,Maryland,Troy,1,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+03/08/2026,Troy,Maryland,6,7,0,0,W,Maryland,Maryland,Troy,1,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+03/10/2026,West Virginia,Maryland,10,3,0,0,L,Maryland,Maryland,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+03/13/2026,Maryland,Purdue,5,16,0,0,L,Maryland,Maryland,Purdue,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+03/14/2026,Maryland,Purdue,6,8,0,0,L,Maryland,Maryland,Purdue,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+03/15/2026,Maryland,Purdue,10,9,0,0,W,Maryland,Maryland,Purdue,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+03/17/2026,Richmond,Maryland,7,5,0,0,L,Maryland,Maryland,Richmond,1,9,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+03/20/2026,UCLA,Maryland,12,2,0,0,L,Maryland,Maryland,UCLA,1,7,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/21/2026,UCLA,Maryland,8,3,0,0,L,Maryland,Maryland,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/22/2026,UCLA,Maryland,14,4,0,0,L,Maryland,Maryland,UCLA,1,8,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/24/2026,Virginia,Maryland,16,6,0,1,L,Maryland,Maryland,Virginia,0,8,"Fredericksburg, VA / Virginia Credit Union Stadium",2026,WN2026
+03/27/2026,Maryland,USC,10,11,0,0,L,Maryland,Maryland,USC,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+03/28/2026,Maryland,USC,6,4,0,0,W,Maryland,Maryland,USC,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+03/29/2026,Maryland,USC,4,14,0,0,L,Maryland,Maryland,USC,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+03/31/2026,Maryland,Richmond,19,4,0,0,W,Maryland,Maryland,Richmond,0,7,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+04/03/2026,Ohio State,Maryland,10,8,0,0,L,Maryland,Maryland,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/04/2026,Ohio State,Maryland,14,12,0,0,L,Maryland,Maryland,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/05/2026,Ohio State,Maryland,7,0,0,0,L,Maryland,Maryland,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/07/2026,UMBC,Maryland,0,11,0,0,W,Maryland,Maryland,UMBC,1,7,"Catonsville, MD / Alumni Field",2026,WN2026
+04/08/2026,Navy,Maryland,2,15,0,0,W,Maryland,Maryland,Navy,1,8,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+04/10/2026,Maryland,Indiana,3,11,0,0,L,Maryland,Maryland,Indiana,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+04/11/2026,Maryland,Indiana,14,4,0,0,W,Maryland,Maryland,Indiana,0,7,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+04/12/2026,Maryland,Indiana,8,6,0,0,W,Maryland,Maryland,Indiana,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+04/14/2026,Maryland,Towson,15,7,0,0,W,Maryland,Maryland,Towson,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+04/18/2026,Iowa,Maryland,13,4,0,0,L,Maryland,Maryland,Iowa,1,8,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/18/2026,Iowa,Maryland,5,2,0,0,L,Maryland,Maryland,Iowa,1,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/19/2026,Iowa,Maryland,5,16,0,0,W,Maryland,Maryland,Iowa,1,8,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/21/2026,Mount Saint Mary's,Maryland,8,19,0,0,W,Maryland,Maryland,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+04/24/2026,Michigan State,Maryland,10,18,0,0,W,Maryland,Maryland,Michigan-State,1,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/25/2026,Michigan State,Maryland,12,4,0,0,L,Maryland,Maryland,Michigan-State,1,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/26/2026,Michigan State,Maryland,13,1,0,0,L,Maryland,Maryland,Michigan-State,1,7,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/28/2026,Georgetown,Maryland,2,11,0,0,W,Maryland,Maryland,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+05/01/2026,Maryland,Michigan,1,2,0,0,L,Maryland,Maryland,Michigan,0,10,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+05/02/2026,Maryland,Michigan,5,17,0,0,L,Maryland,Maryland,Michigan,0,8,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+05/03/2026,Maryland,Michigan,7,8,0,0,L,Maryland,Maryland,Michigan,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+05/05/2026,Towson,Maryland,11,23,0,0,W,Maryland,Maryland,Towson,1,8,"Towson, MD / John B. Schuerholz Park",2026,WN2026
+05/08/2026,Rutgers,Maryland,5,3,0,0,L,Maryland,Maryland,Rutgers,1,9,"Piscataway, NJ / Bainton Field / Box Score",2026,WN2026
+05/09/2026,Rutgers,Maryland,10,0,0,0,L,Maryland,Maryland,Rutgers,1,8,"Piscataway, NJ / Bainton Field / Box Score",2026,WN2026
+05/10/2026,Rutgers,Maryland,7,11,0,0,W,Maryland,Maryland,Rutgers,1,9,"Piscataway, NJ / Bainton Field / Box Score",2026,WN2026
+05/12/2026,Maryland,Georgetown,21,6,0,0,W,Maryland,Maryland,Georgetown,0,7,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+05/14/2026,Maryland,Penn State,3,13,0,0,L,Maryland,Maryland,Penn-State,0,7,"College Park, MD / Bob 'Turtle' Smith Stadium / Box Score",2026,WN2026
+05/15/2026,Maryland,Penn State,12,2,0,0,W,Maryland,Maryland,Penn-State,0,7,"College Park, MD / Bob 'Turtle' Smith Stadium / Box Score",2026,WN2026
+05/16/2026,Maryland,Penn State,6,4,0,0,W,Maryland,Maryland,Penn-State,0,9,"College Park, MD / Bob 'Turtle' Smith Stadium / Box Score",2026,WN2026

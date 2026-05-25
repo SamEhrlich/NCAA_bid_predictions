@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Alabama,Washington State,4,8,0,0,L,Alabama,Alabama,Washington-State,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+02/14/2026,Alabama,Washington State,8,1,0,0,W,Alabama,Alabama,Washington-State,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+02/14/2026,Alabama,Washington State,11,1,0,0,W,Alabama,Alabama,Washington-State,0,7,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+02/17/2026,Samford,Alabama,2,3,0,0,W,Alabama,Alabama,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+02/18/2026,Alabama,Alabama State,2,1,0,0,W,Alabama,Alabama,Alabama-State,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+02/20/2026,Alabama,Rhode Island,19,4,0,0,W,Alabama,Alabama,Rhode-Island,0,7,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+02/21/2026,Alabama,Rhode Island,8,5,0,0,W,Alabama,Alabama,Rhode-Island,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+02/21/2026,Alabama,Rhode Island,11,1,0,0,W,Alabama,Alabama,Rhode-Island,0,8,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+02/24/2026,Southern Miss,Alabama,14,4,0,0,L,Alabama,Alabama,Southern-Miss,1,8,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+02/27/2026,Iowa,Alabama,2,12,0,1,W,Alabama,Alabama,Iowa,0,9,"Frisco, TX / Riders Field",2026,WN2026
+02/28/2026,Oregon State,Alabama,7,8,0,1,W,Alabama,Alabama,Oregon-State,0,9,"Frisco, TX / Riders Field",2026,WN2026
+03/01/2026,Houston,Alabama,8,2,0,1,L,Alabama,Alabama,Houston,0,9,"Frisco, TX / Riders Field",2026,WN2026
+03/03/2026,Alabama,Jacksonville State,6,5,0,0,W,Alabama,Alabama,Jacksonville-State,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/04/2026,Alabama State,Alabama,4,13,0,0,W,Alabama,Alabama,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/06/2026,Alabama,North Florida,7,2,0,0,W,Alabama,Alabama,North-Florida,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/07/2026,Alabama,North Florida,9,3,0,0,W,Alabama,Alabama,North-Florida,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/08/2026,Alabama,North Florida,12,2,0,0,W,Alabama,Alabama,North-Florida,0,7,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/10/2026,Alabama,Troy,7,3,0,0,W,Alabama,Alabama,Troy,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/13/2026,Kentucky,Alabama,7,4,0,0,L,Alabama,Alabama,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+03/14/2026,Kentucky,Alabama,8,7,0,0,L,Alabama,Alabama,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+03/15/2026,Kentucky,Alabama,6,4,0,0,L,Alabama,Alabama,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+03/17/2026,South Alabama,Alabama,6,3,0,0,L,Alabama,Alabama,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+03/20/2026,Alabama,Florida,6,0,0,0,W,Alabama,Alabama,Florida,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/21/2026,Alabama,Florida,8,4,0,0,W,Alabama,Alabama,Florida,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/22/2026,Alabama,Florida,14,7,0,0,W,Alabama,Alabama,Florida,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/24/2026,Austin Peay,Alabama,2,6,0,1,W,Alabama,Alabama,Austin-Peay,0,9,"Huntsville, AL / Toyota Field",2026,WN2026
+03/27/2026,Alabama,Auburn,11,1,0,0,W,Alabama,Alabama,Auburn,0,8,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/28/2026,Alabama,Auburn,3,2,0,0,W,Alabama,Alabama,Auburn,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/29/2026,Alabama,Auburn,3,1,0,0,W,Alabama,Alabama,Auburn,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/31/2026,Jacksonville State,Alabama,3,4,0,0,W,Alabama,Alabama,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+04/02/2026,Oklahoma,Alabama,7,10,0,0,W,Alabama,Alabama,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+04/03/2026,Oklahoma,Alabama,4,2,0,0,L,Alabama,Alabama,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+04/04/2026,Oklahoma,Alabama,2,3,0,0,W,Alabama,Alabama,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+04/07/2026,Alabama,Samford,16,2,0,0,W,Alabama,Alabama,Samford,0,7,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+04/10/2026,Alabama,Arkansas,5,7,0,0,L,Alabama,Alabama,Arkansas,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+04/11/2026,Alabama,Arkansas,6,15,0,0,L,Alabama,Alabama,Arkansas,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+04/12/2026,Alabama,Arkansas,2,3,0,0,L,Alabama,Alabama,Arkansas,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+04/14/2026,UAB,Alabama,6,12,0,0,W,Alabama,Alabama,UAB,1,9,"Birmingham, AL / Regions Field",2026,WN2026
+04/17/2026,Texas,Alabama,10,2,0,0,L,Alabama,Alabama,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+04/18/2026,Texas,Alabama,3,1,0,0,L,Alabama,Alabama,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+04/19/2026,Texas,Alabama,1,2,0,0,W,Alabama,Alabama,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+04/21/2026,Alabama,UAB,2,11,0,0,L,Alabama,Alabama,UAB,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+04/23/2026,Tennessee,Alabama,8,12,0,0,W,Alabama,Alabama,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/24/2026,Tennessee,Alabama,10,0,0,0,L,Alabama,Alabama,Tennessee,1,8,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/24/2026,Tennessee,Alabama,11,4,0,0,L,Alabama,Alabama,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/30/2026,Alabama,Vanderbilt,5,4,0,0,W,Alabama,Alabama,Vanderbilt,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+05/01/2026,Alabama,Vanderbilt,5,0,0,0,W,Alabama,Alabama,Vanderbilt,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+05/02/2026,Alabama,Vanderbilt,8,5,0,0,W,Alabama,Alabama,Vanderbilt,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+05/05/2026,Troy,Alabama,6,1,0,0,L,Alabama,Alabama,Troy,1,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+05/08/2026,South Carolina,Alabama,3,8,0,0,W,Alabama,Alabama,South-Carolina,1,9,"Columbia, SC / Founders Park / Box Score",2026,WN2026
+05/09/2026,South Carolina,Alabama,6,9,0,0,W,Alabama,Alabama,South-Carolina,1,9,"Columbia, SC / Founders Park / Box Score",2026,WN2026
+05/10/2026,South Carolina,Alabama,6,7,0,0,W,Alabama,Alabama,South-Carolina,1,9,"Columbia, SC / Founders Park / Box Score",2026,WN2026
+05/14/2026,Alabama,Ole Miss,5,4,0,0,W,Alabama,Alabama,Ole-Miss,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium / Box Score",2026,WN2026
+05/15/2026,Alabama,Ole Miss,0,9,0,0,L,Alabama,Alabama,Ole-Miss,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium / Box Score",2026,WN2026
+05/16/2026,Alabama,Ole Miss,6,2,0,0,W,Alabama,Alabama,Ole-Miss,0,9,"Tuscaloosa, AL / Sewell-Thomas Stadium / Box Score",2026,WN2026
+05/21/2026,Florida,Alabama,13,3,0,1,L,Alabama,Alabama,Florida,0,8,"Hoover, AL / Hoover Metropolitan Stadium / Recap",2026,WN2026

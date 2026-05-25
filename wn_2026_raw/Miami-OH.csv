@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Southern,Miami (OH),1,11,0,0,W,Miami (OH),Miami-OH,Southern,1,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+02/14/2026,Southern,Miami (OH),3,10,0,0,W,Miami (OH),Miami-OH,Southern,1,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+02/14/2026,Southern,Miami (OH),2,15,0,0,W,Miami (OH),Miami-OH,Southern,1,8,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+02/20/2026,Brown,Miami (OH),8,11,0,1,W,Miami (OH),Miami-OH,Brown,0,9,"Port Charlotte, FL. / Centennial Park",2026,WN2026
+02/20/2026,Indiana State,Miami (OH),11,3,0,1,L,Miami (OH),Miami-OH,Indiana-State,0,9,"Port Charlotte, FL. / Centennial Park",2026,WN2026
+02/21/2026,UMass-Lowell,Miami (OH),12,14,0,1,W,Miami (OH),Miami-OH,UMass-Lowell,0,9,"Port Charlotte, FL / Centennial Park",2026,WN2026
+02/22/2026,Illinois State,Miami (OH),3,5,0,1,W,Miami (OH),Miami-OH,Illinois-State,0,9,"Port Charlotte, FL / Centennial Park",2026,WN2026
+02/25/2026,Southern Illinois,Miami (OH),0,11,0,0,W,Miami (OH),Miami-OH,Southern-Illinois,1,7,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+02/27/2026,Southeast Missouri,Miami (OH),14,10,0,0,L,Miami (OH),Miami-OH,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/28/2026,Southeast Missouri,Miami (OH),10,2,0,0,L,Miami (OH),Miami-OH,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/28/2026,Southeast Missouri,Miami (OH),6,14,0,0,W,Miami (OH),Miami-OH,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/01/2026,Southeast Missouri,Miami (OH),4,2,0,0,L,Miami (OH),Miami-OH,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/06/2026,Miami (OH),Eastern Michigan,13,3,0,0,W,Miami (OH),Miami-OH,Eastern-Michigan,0,8,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+03/07/2026,Miami (OH),Eastern Michigan,13,3,0,0,W,Miami (OH),Miami-OH,Eastern-Michigan,0,8,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+03/08/2026,Miami (OH),Eastern Michigan,9,4,0,0,W,Miami (OH),Miami-OH,Eastern-Michigan,0,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+03/13/2026,Miami (OH),Bowling Green,8,5,0,0,W,Miami (OH),Miami-OH,Bowling-Green,0,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+03/14/2026,Miami (OH),Bowling Green,0,10,0,0,L,Miami (OH),Miami-OH,Bowling-Green,0,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+03/15/2026,Miami (OH),Bowling Green,13,7,0,0,W,Miami (OH),Miami-OH,Bowling-Green,0,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+03/18/2026,Miami (OH),Dayton,13,7,0,0,W,Miami (OH),Miami-OH,Dayton,0,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+03/20/2026,Northern Illinois,Miami (OH),17,13,0,0,L,Miami (OH),Miami-OH,Northern-Illinois,1,10,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+03/21/2026,Northern Illinois,Miami (OH),5,1,0,0,L,Miami (OH),Miami-OH,Northern-Illinois,1,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+03/22/2026,Northern Illinois,Miami (OH),6,4,0,0,L,Miami (OH),Miami-OH,Northern-Illinois,1,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+03/24/2026,Dayton,Miami (OH),4,14,0,0,W,Miami (OH),Miami-OH,Dayton,1,7,"Dayton, OH / Woerner Field",2026,WN2026
+03/27/2026,Kent State,Miami (OH),5,4,0,0,L,Miami (OH),Miami-OH,Kent-State,1,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/28/2026,Kent State,Miami (OH),3,21,0,0,W,Miami (OH),Miami-OH,Kent-State,1,7,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/29/2026,Kent State,Miami (OH),5,8,0,0,W,Miami (OH),Miami-OH,Kent-State,1,10,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/31/2026,Kentucky,Miami (OH),14,11,0,0,L,Miami (OH),Miami-OH,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+04/02/2026,Miami (OH),Ball State,14,4,0,0,W,Miami (OH),Miami-OH,Ball-State,0,7,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+04/03/2026,Miami (OH),Ball State,20,4,0,0,W,Miami (OH),Miami-OH,Ball-State,0,7,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+04/04/2026,Miami (OH),Ball State,7,6,0,0,W,Miami (OH),Miami-OH,Ball-State,0,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+04/08/2026,Cincinnati,Miami (OH),8,7,0,1,L,Miami (OH),Miami-OH,Cincinnati,0,9,"Mason, OH / Prasco Park",2026,WN2026
+04/10/2026,Miami (OH),Ohio,6,7,0,0,L,Miami (OH),Miami-OH,Ohio,0,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+04/11/2026,Miami (OH),Ohio,15,5,0,0,W,Miami (OH),Miami-OH,Ohio,0,7,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+04/12/2026,Miami (OH),Ohio,17,6,0,0,W,Miami (OH),Miami-OH,Ohio,0,7,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+04/14/2026,Purdue,Miami (OH),3,5,0,0,W,Miami (OH),Miami-OH,Purdue,1,11,"West Lafayette, IN / Alexander Field",2026,WN2026
+04/17/2026,Toledo,Miami (OH),2,7,0,0,W,Miami (OH),Miami-OH,Toledo,1,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+04/18/2026,Toledo,Miami (OH),3,6,0,0,W,Miami (OH),Miami-OH,Toledo,1,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+04/19/2026,Toledo,Miami (OH),20,4,0,0,L,Miami (OH),Miami-OH,Toledo,1,7,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+04/21/2026,Miami (OH),Michigan,12,10,0,0,W,Miami (OH),Miami-OH,Michigan,0,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+04/24/2026,Miami (OH),Central Michigan,12,5,0,0,W,Miami (OH),Miami-OH,Central-Michigan,0,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+04/25/2026,Miami (OH),Central Michigan,6,1,0,0,W,Miami (OH),Miami-OH,Central-Michigan,0,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+04/26/2026,Miami (OH),Central Michigan,5,2,0,0,W,Miami (OH),Miami-OH,Central-Michigan,0,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+04/28/2026,Miami (OH),Xavier,7,10,0,0,L,Miami (OH),Miami-OH,Xavier,0,10,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+04/29/2026,Wright State,Miami (OH),7,14,0,0,W,Miami (OH),Miami-OH,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+05/01/2026,Western Michigan,Miami (OH),9,11,0,0,W,Miami (OH),Miami-OH,Western-Michigan,1,9,"Kalamazoo, MI / Hyames Field",2026,WN2026
+05/02/2026,Western Michigan,Miami (OH),8,12,0,0,W,Miami (OH),Miami-OH,Western-Michigan,1,9,"Kalamazoo, MI / Hyames Field",2026,WN2026
+05/03/2026,Western Michigan,Miami (OH),11,10,0,0,L,Miami (OH),Miami-OH,Western-Michigan,1,9,"Kalamazoo, MI / Hyames Field",2026,WN2026
+05/08/2026,Miami (OH),UMass,9,8,0,0,W,Miami (OH),Miami-OH,UMass,0,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park / Box Score",2026,WN2026
+05/09/2026,Miami (OH),UMass,10,8,0,0,W,Miami (OH),Miami-OH,UMass,0,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park / Box Score",2026,WN2026
+05/10/2026,Miami (OH),UMass,8,7,0,0,W,Miami (OH),Miami-OH,UMass,0,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park / Box Score",2026,WN2026
+05/14/2026,Akron,Miami (OH),6,17,0,0,W,Miami (OH),Miami-OH,Akron,1,8,"Akron, OH / Skeeles Field / Box Score",2026,WN2026
+05/15/2026,Akron,Miami (OH),3,13,0,0,W,Miami (OH),Miami-OH,Akron,1,8,"Akron, OH / Skeeles Field / Box Score",2026,WN2026
+05/16/2026,Akron,Miami (OH),8,15,0,0,W,Miami (OH),Miami-OH,Akron,1,9,"Akron, OH / Skeeles Field / Box Score",2026,WN2026
+05/21/2026,Northern Illinois,Miami (OH),6,5,0,1,L,Miami (OH),Miami-OH,Northern-Illinois,0,15,"Avon, OH / Mercy Health Stadium / Recap",2026,WN2026
+05/22/2026,Kent State,Miami (OH),3,1,0,1,L,Miami (OH),Miami-OH,Kent-State,0,9,"Avon, OH / Mercy Health Stadium",2026,WN2026

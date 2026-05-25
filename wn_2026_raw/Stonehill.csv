@@ -1,0 +1,50 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Texas A&M-Corpus Christi,Stonehill,11,1,0,0,L,Stonehill,Stonehill,Texas-AM-Corpus-Christi,1,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+02/14/2026,Texas A&M-Corpus Christi,Stonehill,12,5,0,0,L,Stonehill,Stonehill,Texas-AM-Corpus-Christi,1,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+02/15/2026,Texas A&M-Corpus Christi,Stonehill,11,8,0,0,L,Stonehill,Stonehill,Texas-AM-Corpus-Christi,1,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+02/15/2026,Texas A&M-Corpus Christi,Stonehill,11,1,0,0,L,Stonehill,Stonehill,Texas-AM-Corpus-Christi,1,7,"Corpus Christi, TX / Chapman Field",2026,WN2026
+02/20/2026,FGCU,Stonehill,10,0,0,0,L,Stonehill,Stonehill,FGCU,1,7,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/21/2026,FGCU,Stonehill,4,3,0,0,L,Stonehill,Stonehill,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/22/2026,FGCU,Stonehill,14,7,0,0,L,Stonehill,Stonehill,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/27/2026,VMI,Stonehill,8,2,0,0,L,Stonehill,Stonehill,VMI,1,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/28/2026,VMI,Stonehill,3,0,0,0,L,Stonehill,Stonehill,VMI,1,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/28/2026,VMI,Stonehill,5,16,0,0,W,Stonehill,Stonehill,VMI,1,8,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/01/2026,VMI,Stonehill,7,0,0,0,L,Stonehill,Stonehill,VMI,1,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/10/2026,Bryant,Stonehill,9,1,0,0,L,Stonehill,Stonehill,Bryant,1,9,"Smithfield, RI / Conaty Park",2026,WN2026
+03/13/2026,Maryland Eastern Shore,Stonehill,17,20,0,0,W,Stonehill,Stonehill,Maryland-Eastern-Shore,1,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/14/2026,Maryland Eastern Shore,Stonehill,0,6,0,0,W,Stonehill,Stonehill,Maryland-Eastern-Shore,1,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/15/2026,Maryland Eastern Shore,Stonehill,9,6,0,0,L,Stonehill,Stonehill,Maryland-Eastern-Shore,1,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/18/2026,Rhode Island,Stonehill,8,6,0,0,L,Stonehill,Stonehill,Rhode-Island,1,9,"Kingston, RI / Bill Beck Field",2026,WN2026
+03/20/2026,Stonehill,Mercyhurst,12,9,0,0,W,Stonehill,Stonehill,Mercyhurst,0,9,"Easton, MA / Lou Gorman Field",2026,WN2026
+03/22/2026,Stonehill,Mercyhurst,9,7,0,0,W,Stonehill,Stonehill,Mercyhurst,0,9,"Easton, MA / Lou Gorman Field",2026,WN2026
+03/22/2026,Stonehill,Mercyhurst,15,5,0,0,W,Stonehill,Stonehill,Mercyhurst,0,7,"Easton, MA / Lou Gorman Field",2026,WN2026
+03/24/2026,Brown,Stonehill,0,6,0,0,W,Stonehill,Stonehill,Brown,1,9,"Providence, RI / Murray Stadium",2026,WN2026
+03/27/2026,Stonehill,Central Connecticut,5,3,0,0,W,Stonehill,Stonehill,Central-Connecticut,0,9,"Easton, MA / Lou Gorman Field",2026,WN2026
+03/28/2026,Stonehill,Central Connecticut,10,11,0,0,L,Stonehill,Stonehill,Central-Connecticut,0,12,"Easton, MA / Lou Gorman Field",2026,WN2026
+03/29/2026,Stonehill,Central Connecticut,20,5,0,0,W,Stonehill,Stonehill,Central-Connecticut,0,7,"Easton, MA / Lou Gorman Field",2026,WN2026
+04/02/2026,Delaware State,Stonehill,2,13,0,0,W,Stonehill,Stonehill,Delaware-State,1,7,"Dover, DE / Soldier Field",2026,WN2026
+04/03/2026,Delaware State,Stonehill,5,7,0,0,W,Stonehill,Stonehill,Delaware-State,1,11,"Dover, DE / Soldier Field",2026,WN2026
+04/04/2026,Delaware State,Stonehill,5,13,0,0,W,Stonehill,Stonehill,Delaware-State,1,9,"Dover, DE / Soldier Field",2026,WN2026
+04/08/2026,Holy Cross,Stonehill,6,5,0,0,L,Stonehill,Stonehill,Holy-Cross,1,9,"Worcester, MA / Hanover Insurance Park at Fitton Field",2026,WN2026
+04/10/2026,Fairleigh Dickinson,Stonehill,14,9,0,0,L,Stonehill,Stonehill,Fairleigh-Dickinson,1,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+04/11/2026,Fairleigh Dickinson,Stonehill,6,5,0,0,L,Stonehill,Stonehill,Fairleigh-Dickinson,1,10,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+04/12/2026,Fairleigh Dickinson,Stonehill,8,15,0,0,W,Stonehill,Stonehill,Fairleigh-Dickinson,1,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+04/14/2026,UMass-Lowell,Stonehill,20,10,0,0,L,Stonehill,Stonehill,UMass-Lowell,1,8,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/18/2026,Stonehill,Wagner,5,3,0,0,W,Stonehill,Stonehill,Wagner,0,9,"Easton, MA / Lou Gorman Field",2026,WN2026
+04/18/2026,Stonehill,Wagner,5,12,0,0,L,Stonehill,Stonehill,Wagner,0,9,"Easton, MA / Lou Gorman Field",2026,WN2026
+04/19/2026,Stonehill,Wagner,4,8,0,0,L,Stonehill,Stonehill,Wagner,0,9,"Easton, MA / Lou Gorman Field",2026,WN2026
+04/22/2026,UMass,Stonehill,5,12,0,0,W,Stonehill,Stonehill,UMass,1,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/24/2026,Stonehill,Coppin State,18,5,0,0,W,Stonehill,Stonehill,Coppin-State,0,7,"Easton, MA / Lou Gorman Field",2026,WN2026
+04/25/2026,Stonehill,Coppin State,13,3,0,0,W,Stonehill,Stonehill,Coppin-State,0,7,"Easton, MA / Lou Gorman Field",2026,WN2026
+04/26/2026,Stonehill,Coppin State,5,10,0,0,L,Stonehill,Stonehill,Coppin-State,0,9,"Easton, MA / Lou Gorman Field",2026,WN2026
+04/28/2026,Merrimack,Stonehill,9,14,0,0,W,Stonehill,Stonehill,Merrimack,1,9,"Lawrence, MA / Greater Lawrence Tech",2026,WN2026
+05/01/2026,Le Moyne,Stonehill,5,4,0,0,L,Stonehill,Stonehill,Le-Moyne,1,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+05/02/2026,Le Moyne,Stonehill,2,12,0,0,W,Stonehill,Stonehill,Le-Moyne,1,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+05/03/2026,Le Moyne,Stonehill,9,2,0,0,L,Stonehill,Stonehill,Le-Moyne,1,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+05/08/2026,Long Island,Stonehill,6,5,0,0,L,Stonehill,Stonehill,Long-Island,1,9,"Brooklyn, NY / Long Island University Field / Box Score",2026,WN2026
+05/08/2026,Long Island,Stonehill,5,2,0,0,L,Stonehill,Stonehill,Long-Island,1,9,"Brooklyn, NY / Long Island University Field / Box Score",2026,WN2026
+05/10/2026,Long Island,Stonehill,7,3,0,0,L,Stonehill,Stonehill,Long-Island,1,9,"Brooklyn, NY / Long Island University Field / Box Score",2026,WN2026
+05/12/2026,Bryant,Stonehill,11,1,0,0,L,Stonehill,Stonehill,Bryant,1,7,"Smithfield, RI / Conaty Park",2026,WN2026
+05/15/2026,Stonehill,Norfolk State,3,2,0,0,W,Stonehill,Stonehill,Norfolk-State,0,9,"Easton, MA / Lou Gorman Field / Box Score",2026,WN2026
+05/16/2026,Stonehill,Norfolk State,9,6,0,0,W,Stonehill,Stonehill,Norfolk-State,0,9,"Easton, MA / Lou Gorman Field / Box Score",2026,WN2026
+05/16/2026,Stonehill,Norfolk State,4,15,0,0,L,Stonehill,Stonehill,Norfolk-State,0,8,"Easton, MA / Lou Gorman Field / Box Score",2026,WN2026

@@ -1,0 +1,48 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Longwood,NJIT,10,1,0,0,L,NJIT,NJIT,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+02/14/2026,Longwood,NJIT,3,2,0,0,L,NJIT,NJIT,Longwood,1,15,"Farmville, VA / Bolding Stadium",2026,WN2026
+02/14/2026,Longwood,NJIT,15,0,0,0,L,NJIT,NJIT,Longwood,1,7,"Farmville, VA / Bolding Stadium",2026,WN2026
+02/20/2026,Presbyterian College,NJIT,2,14,0,0,W,NJIT,NJIT,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+02/21/2026,Wofford,NJIT,1,0,0,0,L,NJIT,NJIT,Wofford,1,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/22/2026,South Carolina Upstate,NJIT,17,1,0,0,L,NJIT,NJIT,South-Carolina-Upstate,1,7,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/28/2026,Iona,NJIT,0,8,0,1,W,NJIT,NJIT,Iona,0,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+02/28/2026,Iona,NJIT,2,10,0,1,W,NJIT,NJIT,Iona,0,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+03/06/2026,NJIT,Saint Peter's,13,3,0,0,W,NJIT,NJIT,Saint-Peters,0,7,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/07/2026,NJIT,Saint Peter's,2,4,0,0,L,NJIT,NJIT,Saint-Peters,0,10,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/07/2026,NJIT,Saint Peter's,8,4,0,0,W,NJIT,NJIT,Saint-Peters,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/08/2026,NJIT,Saint Peter's,8,4,0,0,W,NJIT,NJIT,Saint-Peters,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/11/2026,NJIT,Seton Hall,5,8,0,0,L,NJIT,NJIT,Seton-Hall,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/13/2026,NJIT,Niagara,3,6,0,0,L,NJIT,NJIT,Niagara,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/14/2026,NJIT,Niagara,4,7,0,0,L,NJIT,NJIT,Niagara,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/15/2026,NJIT,Niagara,6,8,0,0,L,NJIT,NJIT,Niagara,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/20/2026,NJIT,Albany,5,8,0,0,L,NJIT,NJIT,Albany,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/21/2026,NJIT,Albany,5,4,0,0,W,NJIT,NJIT,Albany,0,10,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/22/2026,NJIT,Albany,3,10,0,0,L,NJIT,NJIT,Albany,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/27/2026,Bryant,NJIT,10,12,0,0,W,NJIT,NJIT,Bryant,1,9,"Smithfield, RI / Conaty Park",2026,WN2026
+03/29/2026,Bryant,NJIT,7,5,0,0,L,NJIT,NJIT,Bryant,1,7,"Smithfield, RI / Conaty Park",2026,WN2026
+03/29/2026,Bryant,NJIT,13,9,0,0,L,NJIT,NJIT,Bryant,1,9,"Smithfield, RI / Conaty Park",2026,WN2026
+03/31/2026,Marist,NJIT,9,11,0,0,W,NJIT,NJIT,Marist,1,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+04/03/2026,NJIT,Binghamton,3,6,0,0,L,NJIT,NJIT,Binghamton,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/04/2026,NJIT,Binghamton,6,8,0,0,L,NJIT,NJIT,Binghamton,0,11,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/05/2026,NJIT,Binghamton,4,5,0,0,L,NJIT,NJIT,Binghamton,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/07/2026,NJIT,Rider,11,1,0,0,W,NJIT,NJIT,Rider,0,7,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/10/2026,UMass-Lowell,NJIT,11,2,0,0,L,NJIT,NJIT,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/11/2026,UMass-Lowell,NJIT,4,3,0,0,L,NJIT,NJIT,UMass-Lowell,1,10,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/12/2026,UMass-Lowell,NJIT,11,14,0,0,W,NJIT,NJIT,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/14/2026,Monmouth,NJIT,5,17,0,0,W,NJIT,NJIT,Monmouth,1,7,"West Long Branch, NJ / Monmouth Baseball Field",2026,WN2026
+04/17/2026,NJIT,Maine,3,5,0,0,L,NJIT,NJIT,Maine,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/18/2026,NJIT,Maine,6,3,0,0,W,NJIT,NJIT,Maine,0,7,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/18/2026,NJIT,Maine,2,4,0,0,L,NJIT,NJIT,Maine,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/21/2026,NJIT,Hofstra,5,11,0,0,L,NJIT,NJIT,Hofstra,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/24/2026,Albany,NJIT,7,5,0,0,L,NJIT,NJIT,Albany,1,9,"Albany, NY / Varsity Field",2026,WN2026
+04/25/2026,Albany,NJIT,1,0,0,0,L,NJIT,NJIT,Albany,1,9,"Albany, NY / Varsity Field",2026,WN2026
+04/26/2026,Albany,NJIT,0,6,0,0,W,NJIT,NJIT,Albany,1,9,"Albany, NY / Varsity Field",2026,WN2026
+05/01/2026,NJIT,Bryant,0,4,0,0,L,NJIT,NJIT,Bryant,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+05/02/2026,NJIT,Bryant,2,5,0,0,L,NJIT,NJIT,Bryant,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+05/03/2026,NJIT,Bryant,5,3,0,0,W,NJIT,NJIT,Bryant,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+05/05/2026,NJIT,Manhattan,2,7,0,0,L,NJIT,NJIT,Manhattan,0,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+05/10/2026,Boston College,NJIT,7,8,0,0,W,NJIT,NJIT,Boston-College,1,9,"Brighton, MA / Eddie Pellagrini Diamond / Box Score",2026,WN2026
+05/10/2026,Boston College,NJIT,6,3,0,0,L,NJIT,NJIT,Boston-College,1,9,"Brighton, MA / Eddie Pellagrini Diamond / Box Score",2026,WN2026
+05/14/2026,UMBC,NJIT,12,4,0,0,L,NJIT,NJIT,UMBC,1,9,"Catonsville, MD / Alumni Field / Box Score",2026,WN2026
+05/15/2026,UMBC,NJIT,17,6,0,0,L,NJIT,NJIT,UMBC,1,7,"Catonsville, MD / Alumni Field / Box Score",2026,WN2026
+05/16/2026,UMBC,NJIT,7,4,0,0,L,NJIT,NJIT,UMBC,1,9,"Catonsville, MD / Alumni Field / Box Score",2026,WN2026

@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,East Carolina,Xavier,3,4,0,0,W,Xavier,Xavier,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+02/14/2026,East Carolina,Xavier,3,9,0,0,W,Xavier,Xavier,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+02/14/2026,East Carolina,Xavier,12,5,0,0,L,Xavier,Xavier,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+02/17/2026,Louisville,Xavier,23,11,0,0,L,Xavier,Xavier,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+02/20/2026,Arkansas,Xavier,5,2,0,0,L,Xavier,Xavier,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+02/21/2026,Arkansas,Xavier,7,6,0,0,L,Xavier,Xavier,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+02/22/2026,Arkansas,Xavier,11,0,0,0,L,Xavier,Xavier,Arkansas,1,8,"Fayetteville, AR / Baum Stadium",2026,WN2026
+02/25/2026,Xavier,Indiana,4,10,0,0,L,Xavier,Xavier,Indiana,0,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+02/27/2026,Cal State Fullerton,Xavier,0,3,0,0,W,Xavier,Xavier,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+02/28/2026,Cal State Fullerton,Xavier,2,3,0,0,W,Xavier,Xavier,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/01/2026,Cal State Fullerton,Xavier,16,7,0,0,L,Xavier,Xavier,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/04/2026,Ohio State,Xavier,4,13,0,0,W,Xavier,Xavier,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/06/2026,Oregon State,Xavier,4,2,0,0,L,Xavier,Xavier,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+03/07/2026,Oregon State,Xavier,7,2,0,0,L,Xavier,Xavier,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+03/08/2026,Oregon State,Xavier,17,2,0,0,L,Xavier,Xavier,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+03/09/2026,Oregon State,Xavier,7,2,0,0,L,Xavier,Xavier,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+03/10/2026,Oregon,Xavier,10,0,0,0,L,Xavier,Xavier,Oregon,1,8,"Eugene, OR / PK Park",2026,WN2026
+03/11/2026,Oregon,Xavier,6,3,0,0,L,Xavier,Xavier,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+03/13/2026,Xavier,Evansville,7,5,0,0,W,Xavier,Xavier,Evansville,0,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+03/14/2026,Xavier,Evansville,4,6,0,0,L,Xavier,Xavier,Evansville,0,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+03/15/2026,Xavier,Evansville,1,5,0,0,L,Xavier,Xavier,Evansville,0,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+03/18/2026,Xavier,Ohio State,4,8,0,0,L,Xavier,Xavier,Ohio-State,0,10,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+03/20/2026,Xavier,Wofford,8,1,0,0,W,Xavier,Xavier,Wofford,0,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+03/21/2026,Xavier,Wofford,2,14,0,0,L,Xavier,Xavier,Wofford,0,7,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+03/22/2026,Xavier,Wofford,5,8,0,0,L,Xavier,Xavier,Wofford,0,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+03/24/2026,Xavier,Cincinnati,4,3,0,0,W,Xavier,Xavier,Cincinnati,0,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+03/27/2026,Connecticut,Xavier,3,1,0,0,L,Xavier,Xavier,Connecticut,1,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+03/28/2026,Connecticut,Xavier,8,0,0,0,L,Xavier,Xavier,Connecticut,1,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+03/29/2026,Connecticut,Xavier,1,6,0,0,W,Xavier,Xavier,Connecticut,1,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+03/31/2026,Ball State,Xavier,12,13,0,0,W,Xavier,Xavier,Ball-State,1,9,"Muncie, IN / Ball Diamond",2026,WN2026
+04/02/2026,Georgetown,Xavier,1,5,0,0,W,Xavier,Xavier,Georgetown,1,12,"Tysons, VA / Capital One Park",2026,WN2026
+04/03/2026,Georgetown,Xavier,6,11,0,0,W,Xavier,Xavier,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/04/2026,Georgetown,Xavier,10,9,0,0,L,Xavier,Xavier,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/07/2026,Wright State,Xavier,2,4,0,1,W,Xavier,Xavier,Wright-State,0,9,"Mason, OH / Prasco Park",2026,WN2026
+04/10/2026,Xavier,Villanova,8,4,0,0,W,Xavier,Xavier,Villanova,0,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+04/11/2026,Xavier,Villanova,9,7,0,0,W,Xavier,Xavier,Villanova,0,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+04/12/2026,Xavier,Villanova,9,6,0,0,W,Xavier,Xavier,Villanova,0,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+04/14/2026,Cincinnati,Xavier,15,5,0,0,L,Xavier,Xavier,Cincinnati,1,7,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+04/17/2026,Seton Hall,Xavier,1,10,0,0,W,Xavier,Xavier,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/18/2026,Seton Hall,Xavier,3,6,0,0,W,Xavier,Xavier,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/19/2026,Seton Hall,Xavier,1,3,0,0,W,Xavier,Xavier,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/21/2026,Vanderbilt,Xavier,11,1,0,0,L,Xavier,Xavier,Vanderbilt,1,8,"Nashville, TN / Hawkins Field",2026,WN2026
+04/24/2026,Xavier,Saint John's,7,12,0,0,L,Xavier,Xavier,Saint-Johns,0,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+04/25/2026,Xavier,Saint John's,6,8,0,0,L,Xavier,Xavier,Saint-Johns,0,11,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+04/26/2026,Xavier,Saint John's,16,6,0,0,W,Xavier,Xavier,Saint-Johns,0,7,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+04/28/2026,Miami (OH),Xavier,7,10,0,0,W,Xavier,Xavier,Miami-OH,1,10,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+05/01/2026,Georgia Tech,Xavier,4,8,0,0,W,Xavier,Xavier,Georgia-Tech,1,10,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+05/02/2026,Georgia Tech,Xavier,7,5,0,0,L,Xavier,Xavier,Georgia-Tech,1,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+05/03/2026,Georgia Tech,Xavier,14,6,0,0,L,Xavier,Xavier,Georgia-Tech,1,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+05/08/2026,Butler,Xavier,2,5,0,0,W,Xavier,Xavier,Butler,1,9,"Indianapolis, IN / Bulldog Park / Box Score",2026,WN2026
+05/09/2026,Butler,Xavier,10,12,0,0,W,Xavier,Xavier,Butler,1,9,"Indianapolis, IN / Bulldog Park / Box Score",2026,WN2026
+05/10/2026,Butler,Xavier,2,9,0,0,W,Xavier,Xavier,Butler,1,9,"Indianapolis, IN / Bulldog Park / Box Score",2026,WN2026
+05/14/2026,Xavier,Creighton,2,5,0,0,L,Xavier,Xavier,Creighton,0,9,"Cincinnati, OH / J. Page Hayden Field / Box Score",2026,WN2026
+05/15/2026,Xavier,Creighton,3,2,0,0,W,Xavier,Xavier,Creighton,0,9,"Cincinnati, OH / J. Page Hayden Field / Box Score",2026,WN2026
+05/16/2026,Xavier,Creighton,5,3,0,0,W,Xavier,Xavier,Creighton,0,9,"Cincinnati, OH / J. Page Hayden Field / Box Score",2026,WN2026
+05/21/2026,Connecticut,Xavier,1,5,0,1,W,Xavier,Xavier,Connecticut,0,9,"Mason, OH / Prasco Park / Box Score / Recap",2026,WN2026
+05/23/2026,Saint John's,Xavier,17,6,0,1,L,Xavier,Xavier,Saint-Johns,0,9,"Mason, OH / Prasco Park",2026,WN2026
+05/23/2026,Creighton,Xavier,7,4,0,1,L,Xavier,Xavier,Creighton,0,9,"Mason, OH / Prasco Park",2026,WN2026

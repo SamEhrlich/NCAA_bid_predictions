@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Georgia State,New Orleans,10,6,0,0,L,New Orleans,New-Orleans,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+02/14/2026,Georgia State,New Orleans,12,4,0,0,L,New Orleans,New-Orleans,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+02/14/2026,Georgia State,New Orleans,5,4,0,0,L,New Orleans,New-Orleans,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+02/18/2026,Southern,New Orleans,5,14,0,0,W,New Orleans,New-Orleans,Southern,1,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+02/20/2026,New Orleans,Alabama A&M,8,10,0,0,L,New Orleans,New-Orleans,Alabama-AM,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+02/21/2026,New Orleans,Northern Kentucky,10,3,0,0,W,New Orleans,New-Orleans,Northern-Kentucky,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+02/22/2026,New Orleans,ULM,1,9,0,0,L,New Orleans,New-Orleans,ULM,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+02/24/2026,New Orleans,Tulane,11,3,0,0,W,New Orleans,New-Orleans,Tulane,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+02/25/2026,New Orleans,Southern,4,0,0,0,W,New Orleans,New-Orleans,Southern,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+02/27/2026,New Orleans,Stephen F. Austin,5,6,0,0,L,New Orleans,New-Orleans,Stephen-F-Austin,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+02/28/2026,New Orleans,Stephen F. Austin,1,3,0,0,L,New Orleans,New-Orleans,Stephen-F-Austin,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/01/2026,New Orleans,Stephen F. Austin,12,6,0,0,W,New Orleans,New-Orleans,Stephen-F-Austin,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/03/2026,New Orleans,Jackson State,11,6,0,0,W,New Orleans,New-Orleans,Jackson-State,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/06/2026,UTRGV,New Orleans,10,0,0,0,L,New Orleans,New-Orleans,UTRGV,1,8,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+03/07/2026,UTRGV,New Orleans,8,6,0,0,L,New Orleans,New-Orleans,UTRGV,1,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+03/08/2026,UTRGV,New Orleans,6,13,0,0,W,New Orleans,New-Orleans,UTRGV,1,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+03/10/2026,New Orleans,Mississippi Valley State,14,0,0,0,W,New Orleans,New-Orleans,Mississippi-Valley-State,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/11/2026,New Orleans,Mississippi Valley State,7,9,0,0,L,New Orleans,New-Orleans,Mississippi-Valley-State,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/13/2026,New Orleans,Incarnate Word,6,9,0,0,L,New Orleans,New-Orleans,Incarnate-Word,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/14/2026,New Orleans,Incarnate Word,1,13,0,0,L,New Orleans,New-Orleans,Incarnate-Word,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/15/2026,New Orleans,Incarnate Word,11,7,0,0,W,New Orleans,New-Orleans,Incarnate-Word,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/17/2026,Tulane,New Orleans,5,2,0,0,L,New Orleans,New-Orleans,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/18/2026,ULM,New Orleans,17,12,0,0,L,New Orleans,New-Orleans,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/20/2026,Northwestern State,New Orleans,2,3,0,0,W,New Orleans,New-Orleans,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+03/21/2026,Northwestern State,New Orleans,6,2,0,0,L,New Orleans,New-Orleans,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+03/22/2026,Northwestern State,New Orleans,6,5,0,0,L,New Orleans,New-Orleans,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+03/24/2026,Jackson State,New Orleans,0,7,0,0,W,New Orleans,New-Orleans,Jackson-State,1,9,"Jackson, MS / Braddy Field",2026,WN2026
+03/27/2026,Southeastern Louisiana,New Orleans,13,11,0,0,L,New Orleans,New-Orleans,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/28/2026,Southeastern Louisiana,New Orleans,11,1,0,0,L,New Orleans,New-Orleans,Southeastern-Louisiana,1,7,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/29/2026,Southeastern Louisiana,New Orleans,7,5,0,0,L,New Orleans,New-Orleans,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/31/2026,South Alabama,New Orleans,1,2,0,0,W,New Orleans,New-Orleans,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+04/02/2026,New Orleans,McNeese,3,4,0,0,L,New Orleans,New-Orleans,McNeese,0,11,"New Orleans, LA / Maestri Field",2026,WN2026
+04/03/2026,New Orleans,McNeese,5,2,0,0,W,New Orleans,New-Orleans,McNeese,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+04/04/2026,New Orleans,McNeese,10,9,0,0,W,New Orleans,New-Orleans,McNeese,0,13,"New Orleans, LA / Maestri Field",2026,WN2026
+04/07/2026,Southern Miss,New Orleans,3,2,0,0,L,New Orleans,New-Orleans,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+04/10/2026,Illinois,New Orleans,13,1,0,0,L,New Orleans,New-Orleans,Illinois,1,7,"Champaign, IL / Illinois Field",2026,WN2026
+04/11/2026,Illinois,New Orleans,4,3,0,0,L,New Orleans,New-Orleans,Illinois,1,10,"Champaign, IL / Illinois Field",2026,WN2026
+04/12/2026,Illinois,New Orleans,7,8,0,0,W,New Orleans,New-Orleans,Illinois,1,10,"Champaign, IL / Illinois Field",2026,WN2026
+04/14/2026,New Orleans,Troy,11,10,0,0,W,New Orleans,New-Orleans,Troy,0,10,"New Orleans, LA / Maestri Field",2026,WN2026
+04/17/2026,Houston Christian,New Orleans,15,1,0,0,L,New Orleans,New-Orleans,Houston-Christian,1,7,"Houston, TX / Husky Field",2026,WN2026
+04/18/2026,Houston Christian,New Orleans,2,1,0,0,L,New Orleans,New-Orleans,Houston-Christian,1,9,"Houston, TX / Husky Field",2026,WN2026
+04/19/2026,Houston Christian,New Orleans,7,11,0,0,W,New Orleans,New-Orleans,Houston-Christian,1,9,"Houston, TX / Husky Field",2026,WN2026
+04/21/2026,LSU,New Orleans,10,7,0,0,L,New Orleans,New-Orleans,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+04/24/2026,New Orleans,Lamar,11,7,0,0,W,New Orleans,New-Orleans,Lamar,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+04/25/2026,New Orleans,Lamar,2,7,0,0,L,New Orleans,New-Orleans,Lamar,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+04/26/2026,New Orleans,Lamar,1,20,0,0,L,New Orleans,New-Orleans,Lamar,0,7,"New Orleans, LA / Maestri Field",2026,WN2026
+04/29/2026,New Orleans,South Alabama,2,4,0,0,L,New Orleans,New-Orleans,South-Alabama,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+05/02/2026,Nicholls,New Orleans,4,10,0,0,W,New Orleans,New-Orleans,Nicholls,1,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+05/02/2026,Nicholls,New Orleans,11,10,0,0,L,New Orleans,New-Orleans,Nicholls,1,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+05/03/2026,Nicholls,New Orleans,10,12,0,0,W,New Orleans,New-Orleans,Nicholls,1,11,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+05/05/2026,Louisiana,New Orleans,6,9,0,0,W,New Orleans,New-Orleans,Louisiana,1,10,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+05/07/2026,New Orleans,Texas A&M-Corpus Christi,9,2,0,0,W,New Orleans,New-Orleans,Texas-AM-Corpus-Christi,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+05/08/2026,New Orleans,Texas A&M-Corpus Christi,6,4,0,0,W,New Orleans,New-Orleans,Texas-AM-Corpus-Christi,0,9,"New Orleans, LA / Maestri Field / Box Score",2026,WN2026
+05/09/2026,New Orleans,Texas A&M-Corpus Christi,7,4,0,0,W,New Orleans,New-Orleans,Texas-AM-Corpus-Christi,0,9,"New Orleans, LA / Maestri Field / Box Score",2026,WN2026

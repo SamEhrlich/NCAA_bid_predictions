@@ -1,0 +1,48 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Jackson State,Prairie View A&M,4,10,0,1,W,Prairie View A&M,Prairie-View-AM,Jackson-State,0,9,"Pearl, MS / Trustmark Park",2026,WN2026
+02/14/2026,Alcorn State,Prairie View A&M,10,15,0,1,W,Prairie View A&M,Prairie-View-AM,Alcorn-State,0,9,"Pearl, MS / Trustmark Park",2026,WN2026
+02/20/2026,Incarnate Word,Prairie View A&M,7,2,0,0,L,Prairie View A&M,Prairie-View-AM,Incarnate-Word,1,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+02/21/2026,Incarnate Word,Prairie View A&M,3,2,0,0,L,Prairie View A&M,Prairie-View-AM,Incarnate-Word,1,10,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+02/22/2026,Incarnate Word,Prairie View A&M,8,1,0,0,L,Prairie View A&M,Prairie-View-AM,Incarnate-Word,1,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+02/24/2026,Texas A&M-Corpus Christi,Prairie View A&M,9,2,0,0,L,Prairie View A&M,Prairie-View-AM,Texas-AM-Corpus-Christi,1,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+02/27/2026,New Mexico State,Prairie View A&M,12,6,0,0,L,Prairie View A&M,Prairie-View-AM,New-Mexico-State,1,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+02/28/2026,New Mexico State,Prairie View A&M,7,2,0,0,L,Prairie View A&M,Prairie-View-AM,New-Mexico-State,1,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/01/2026,New Mexico State,Prairie View A&M,16,1,0,0,L,Prairie View A&M,Prairie-View-AM,New-Mexico-State,1,7,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/06/2026,Sam Houston State,Prairie View A&M,4,1,0,0,L,Prairie View A&M,Prairie-View-AM,Sam-Houston-State,1,9,"Huntsville, TX / Don Sanders Stadium",2026,WN2026
+03/06/2026,Sam Houston State,Prairie View A&M,13,3,0,0,L,Prairie View A&M,Prairie-View-AM,Sam-Houston-State,1,7,"Huntsville, TX / Don Sanders Stadium",2026,WN2026
+03/07/2026,Sam Houston State,Prairie View A&M,16,1,0,0,L,Prairie View A&M,Prairie-View-AM,Sam-Houston-State,1,7,"Huntsville, TX / Don Sanders Stadium",2026,WN2026
+03/11/2026,Stetson,Prairie View A&M,16,6,0,0,L,Prairie View A&M,Prairie-View-AM,Stetson,1,8,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/13/2026,Bethune-Cookman,Prairie View A&M,6,1,0,0,L,Prairie View A&M,Prairie-View-AM,Bethune-Cookman,1,9,"Daytona, FL / Jackie Robinson Training Complex",2026,WN2026
+03/14/2026,Bethune-Cookman,Prairie View A&M,6,3,0,0,L,Prairie View A&M,Prairie-View-AM,Bethune-Cookman,1,9,"Daytona, FL / Jackie Robinson Training Complex",2026,WN2026
+03/14/2026,Bethune-Cookman,Prairie View A&M,10,5,0,0,L,Prairie View A&M,Prairie-View-AM,Bethune-Cookman,1,9,"Daytona, FL / Jackie Robinson Training Complex",2026,WN2026
+03/18/2026,McNeese,Prairie View A&M,16,1,0,0,L,Prairie View A&M,Prairie-View-AM,McNeese,1,7,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+03/20/2026,Jackson State,Prairie View A&M,0,9,0,0,W,Prairie View A&M,Prairie-View-AM,Jackson-State,1,9,"Jackson, MS / Braddy Field",2026,WN2026
+03/21/2026,Jackson State,Prairie View A&M,9,8,0,0,L,Prairie View A&M,Prairie-View-AM,Jackson-State,1,9,"Jackson, MS / Braddy Field",2026,WN2026
+03/22/2026,Jackson State,Prairie View A&M,15,4,0,0,L,Prairie View A&M,Prairie-View-AM,Jackson-State,1,7,"Jackson, MS / Braddy Field",2026,WN2026
+03/27/2026,Southern,Prairie View A&M,9,1,0,0,L,Prairie View A&M,Prairie-View-AM,Southern,1,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+03/28/2026,Southern,Prairie View A&M,3,6,0,0,W,Prairie View A&M,Prairie-View-AM,Southern,1,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+03/29/2026,Southern,Prairie View A&M,9,8,0,0,L,Prairie View A&M,Prairie-View-AM,Southern,1,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+03/31/2026,Stephen F. Austin,Prairie View A&M,15,3,0,0,L,Prairie View A&M,Prairie-View-AM,Stephen-F-Austin,1,7,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/02/2026,Prairie View A&M,Florida A&M,14,17,0,0,L,Prairie View A&M,Prairie-View-AM,Florida-AM,0,9,"Prairie View, TX / Tankersley Field",2026,WN2026
+04/03/2026,Prairie View A&M,Florida A&M,6,10,0,0,L,Prairie View A&M,Prairie-View-AM,Florida-AM,0,9,"Prairie View, TX / Tankersley Field",2026,WN2026
+04/04/2026,Prairie View A&M,Florida A&M,4,14,0,0,L,Prairie View A&M,Prairie-View-AM,Florida-AM,0,8,"Prairie View, TX / Tankersley Field",2026,WN2026
+04/08/2026,Prairie View A&M,Texas A&M-Corpus Christi,4,13,0,0,L,Prairie View A&M,Prairie-View-AM,Texas-AM-Corpus-Christi,0,6,"Prairie View, TX / Tankersley Field",2026,WN2026
+04/11/2026,Prairie View A&M,Arkansas-Pine Bluff,8,22,0,0,L,Prairie View A&M,Prairie-View-AM,Arkansas-Pine-Bluff,0,8,"Houston, TX / Daikin Park",2026,WN2026
+04/11/2026,Prairie View A&M,Arkansas-Pine Bluff,10,9,0,0,W,Prairie View A&M,Prairie-View-AM,Arkansas-Pine-Bluff,0,9,"Prairie View, TX / Tankersley Field",2026,WN2026
+04/12/2026,Prairie View A&M,Arkansas-Pine Bluff,0,12,0,0,L,Prairie View A&M,Prairie-View-AM,Arkansas-Pine-Bluff,0,7,"Prairie View, TX / Tankersley Field",2026,WN2026
+04/14/2026,Prairie View A&M,Stephen F. Austin,7,13,0,0,L,Prairie View A&M,Prairie-View-AM,Stephen-F-Austin,0,9,"Prairie View, TX / Tankersley Field",2026,WN2026
+04/17/2026,Grambling State,Prairie View A&M,12,2,0,0,L,Prairie View A&M,Prairie-View-AM,Grambling-State,1,8,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/18/2026,Grambling State,Prairie View A&M,8,6,0,0,L,Prairie View A&M,Prairie-View-AM,Grambling-State,1,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/19/2026,Grambling State,Prairie View A&M,7,6,0,0,L,Prairie View A&M,Prairie-View-AM,Grambling-State,1,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/24/2026,Prairie View A&M,Texas Southern,0,13,0,0,L,Prairie View A&M,Prairie-View-AM,Texas-Southern,0,9,"Prairie View, TX / Tankersley Field",2026,WN2026
+04/25/2026,Prairie View A&M,Texas Southern,12,14,0,0,L,Prairie View A&M,Prairie-View-AM,Texas-Southern,0,9,"Prairie View, TX / Tankersley Field",2026,WN2026
+04/26/2026,Prairie View A&M,Texas Southern,12,7,0,0,W,Prairie View A&M,Prairie-View-AM,Texas-Southern,0,9,"Prairie View, TX / Tankersley Field",2026,WN2026
+04/28/2026,Prairie View A&M,Houston Christian,2,12,0,0,L,Prairie View A&M,Prairie-View-AM,Houston-Christian,0,9,"Prairie View, TX / Tankersley Field",2026,WN2026
+05/01/2026,Alabama A&M,Prairie View A&M,11,15,0,1,W,Prairie View A&M,Prairie-View-AM,Alabama-AM,0,9,"Chicago, IL / Wrigley Field",2026,WN2026
+05/02/2026,Alabama A&M,Prairie View A&M,10,7,0,1,L,Prairie View A&M,Prairie-View-AM,Alabama-AM,0,9,"Chicago, IL / Wrigley Field",2026,WN2026
+05/03/2026,Alabama A&M,Prairie View A&M,7,8,0,1,W,Prairie View A&M,Prairie-View-AM,Alabama-AM,0,9,"Chicago, IL / Wrigley Field",2026,WN2026
+05/05/2026,Texas A&M,Prairie View A&M,16,7,0,0,L,Prairie View A&M,Prairie-View-AM,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+05/08/2026,Alcorn State,Prairie View A&M,1,11,0,0,W,Prairie View A&M,Prairie-View-AM,Alcorn-State,1,7,"Lorman, MS / Foster Baseball Field at McGowan Stadium / Box Score",2026,WN2026
+05/14/2026,Prairie View A&M,Mississippi Valley State,11,1,0,0,W,Prairie View A&M,Prairie-View-AM,Mississippi-Valley-State,0,8,"Prairie View, TX / Tankersley Field",2026,WN2026
+05/15/2026,Prairie View A&M,Mississippi Valley State,5,3,0,0,W,Prairie View A&M,Prairie-View-AM,Mississippi-Valley-State,0,9,"Prairie View, TX / Tankersley Field",2026,WN2026
+05/16/2026,Prairie View A&M,Mississippi Valley State,14,4,0,0,W,Prairie View A&M,Prairie-View-AM,Mississippi-Valley-State,0,8,"Prairie View, TX / Tankersley Field",2026,WN2026

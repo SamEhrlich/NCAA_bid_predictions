@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Louisville,Michigan State,3,4,0,0,W,Michigan State,Michigan-State,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+02/14/2026,Louisville,Michigan State,4,13,0,0,W,Michigan State,Michigan-State,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+02/15/2026,Louisville,Michigan State,9,1,0,0,L,Michigan State,Michigan-State,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+02/20/2026,Texas,Michigan State,8,1,0,0,L,Michigan State,Michigan-State,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+02/21/2026,Texas,Michigan State,3,1,0,0,L,Michigan State,Michigan-State,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+02/22/2026,Texas,Michigan State,4,0,0,0,L,Michigan State,Michigan-State,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+02/27/2026,Illinois,Michigan State,5,4,0,1,L,Michigan State,Michigan-State,Illinois,0,10,"Greenville, SC / Fluor Field",2026,WN2026
+02/28/2026,Albany,Michigan State,1,4,0,1,W,Michigan State,Michigan-State,Albany,0,9,"Greenville, SC / Fluor Field",2026,WN2026
+03/01/2026,James Madison,Michigan State,4,2,0,1,L,Michigan State,Michigan-State,James-Madison,0,9,"Greenville, SC / Fluor Field",2026,WN2026
+03/03/2026,Winthrop,Michigan State,5,2,0,1,L,Michigan State,Michigan-State,Winthrop,0,9,"Greenville, SC / Fluor Field",2026,WN2026
+03/04/2026,Clemson,Michigan State,12,1,0,1,L,Michigan State,Michigan-State,Clemson,0,7,"Greenville, SC / Fluor Field",2026,WN2026
+03/06/2026,Nebraska,Michigan State,5,4,0,0,L,Michigan State,Michigan-State,Nebraska,1,10,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/07/2026,Nebraska,Michigan State,3,1,0,0,L,Michigan State,Michigan-State,Nebraska,1,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/08/2026,Nebraska,Michigan State,12,2,0,0,L,Michigan State,Michigan-State,Nebraska,1,7,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/10/2026,Eastern Michigan,Michigan State,5,13,0,0,W,Michigan State,Michigan-State,Eastern-Michigan,1,9,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+03/13/2026,Rutgers,Michigan State,9,4,0,0,L,Michigan State,Michigan-State,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/14/2026,Rutgers,Michigan State,3,9,0,0,W,Michigan State,Michigan-State,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/15/2026,Rutgers,Michigan State,8,6,0,0,L,Michigan State,Michigan-State,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/18/2026,Michigan,Michigan State,2,0,0,0,L,Michigan State,Michigan-State,Michigan,1,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+03/20/2026,Michigan State,Iowa,2,0,0,0,W,Michigan State,Michigan-State,Iowa,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+03/21/2026,Michigan State,Iowa,15,5,0,0,W,Michigan State,Michigan-State,Iowa,0,8,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+03/21/2026,Michigan State,Iowa,3,8,0,0,L,Michigan State,Michigan-State,Iowa,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+03/24/2026,Central Michigan,Michigan State,8,19,0,0,W,Michigan State,Michigan-State,Central-Michigan,1,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+03/27/2026,Michigan State,Purdue,4,3,0,0,W,Michigan State,Michigan-State,Purdue,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+03/28/2026,Michigan State,Purdue,13,16,0,0,L,Michigan State,Michigan-State,Purdue,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+03/29/2026,Michigan State,Purdue,4,11,0,0,L,Michigan State,Michigan-State,Purdue,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/03/2026,Northwestern,Michigan State,1,5,0,0,W,Michigan State,Michigan-State,Northwestern,1,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/04/2026,Northwestern,Michigan State,10,9,0,0,L,Michigan State,Michigan-State,Northwestern,1,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/05/2026,Northwestern,Michigan State,8,6,0,0,L,Michigan State,Michigan-State,Northwestern,1,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/08/2026,Notre Dame,Michigan State,4,7,0,0,W,Michigan State,Michigan-State,Notre-Dame,1,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+04/10/2026,Michigan State,Michigan,2,4,0,0,L,Michigan State,Michigan-State,Michigan,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/11/2026,Michigan State,Michigan,4,6,0,0,L,Michigan State,Michigan-State,Michigan,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/12/2026,Michigan State,Michigan,10,5,0,0,W,Michigan State,Michigan-State,Michigan,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/14/2026,Michigan State,Oakland,9,11,0,0,L,Michigan State,Michigan-State,Oakland,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/17/2026,Washington,Michigan State,4,6,0,0,W,Michigan State,Michigan-State,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/18/2026,Washington,Michigan State,8,13,0,0,W,Michigan State,Michigan-State,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/19/2026,Washington,Michigan State,8,5,0,0,L,Michigan State,Michigan-State,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/22/2026,Michigan State,Notre Dame,2,3,0,0,L,Michigan State,Michigan-State,Notre-Dame,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/24/2026,Michigan State,Maryland,10,18,0,0,L,Michigan State,Michigan-State,Maryland,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/25/2026,Michigan State,Maryland,12,4,0,0,W,Michigan State,Michigan-State,Maryland,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/26/2026,Michigan State,Maryland,13,1,0,0,W,Michigan State,Michigan-State,Maryland,0,7,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/01/2026,Michigan State,UCLA,1,4,0,0,L,Michigan State,Michigan-State,UCLA,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/02/2026,Michigan State,UCLA,3,4,0,0,L,Michigan State,Michigan-State,UCLA,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/03/2026,Michigan State,UCLA,11,13,0,0,L,Michigan State,Michigan-State,UCLA,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/05/2026,Michigan State,Bowling Green,12,4,0,0,W,Michigan State,Michigan-State,Bowling-Green,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/06/2026,Michigan State,Western Michigan,8,3,0,0,W,Michigan State,Michigan-State,Western-Michigan,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/08/2026,Ohio State,Michigan State,15,5,0,1,L,Michigan State,Michigan-State,Ohio-State,0,8,"Columbus, OH / Huntington Park / Box Score",2026,WN2026
+05/09/2026,Ohio State,Michigan State,4,7,0,0,W,Michigan State,Michigan-State,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium / Box Score",2026,WN2026
+05/10/2026,Ohio State,Michigan State,3,2,0,0,L,Michigan State,Michigan-State,Ohio-State,1,10,"Columbus, OH / Bill Davis Stadium / Box Score",2026,WN2026
+05/12/2026,Michigan State,Eastern Michigan,5,2,0,0,W,Michigan State,Michigan-State,Eastern-Michigan,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/14/2026,Michigan State,Illinois State,10,0,0,0,W,Michigan State,Michigan-State,Illinois-State,0,7,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/15/2026,Michigan State,Illinois State,3,6,0,0,L,Michigan State,Michigan-State,Illinois-State,0,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/16/2026,Michigan State,Illinois State,18,8,0,0,W,Michigan State,Michigan-State,Illinois-State,0,8,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/19/2026,Purdue,Michigan State,4,8,0,1,W,Michigan State,Michigan-State,Purdue,0,9,"Omaha, NE / Charles Schwab Field Omaha / Recap",2026,WN2026
+05/20/2026,Iowa,Michigan State,3,4,0,1,W,Michigan State,Michigan-State,Iowa,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+05/22/2026,USC,Michigan State,7,0,0,1,L,Michigan State,Michigan-State,USC,0,9,"Omaha, NE / Charles Schwab Field Omaha / Recap",2026,WN2026

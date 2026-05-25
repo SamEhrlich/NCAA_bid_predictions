@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Stanford,Arizona,10,7,0,1,L,Arizona,Arizona,Stanford,0,9,"Surprise, AZ / Surprise Stadium",2026,WN2026
+02/14/2026,Oregon State,Arizona,7,6,0,1,L,Arizona,Arizona,Oregon-State,0,9,"Surprise, AZ / Surprise Stadium",2026,WN2026
+02/15/2026,Michigan,Arizona,4,1,0,1,L,Arizona,Arizona,Michigan,0,9,"Surprise, AZ / Surprise Stadium",2026,WN2026
+02/17/2026,Arizona,Omaha,1,3,0,0,L,Arizona,Arizona,Omaha,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+02/19/2026,Arizona,Connecticut,4,6,0,0,L,Arizona,Arizona,Connecticut,0,12,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+02/20/2026,Arizona,Connecticut,0,4,0,0,L,Arizona,Arizona,Connecticut,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+02/21/2026,Arizona,Connecticut,5,4,0,0,W,Arizona,Arizona,Connecticut,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+02/22/2026,Arizona,Connecticut,2,11,0,0,L,Arizona,Arizona,Connecticut,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+02/27/2026,Oregon,Arizona,7,2,0,1,L,Arizona,Arizona,Oregon,0,9,"Las Vegas, NV / Las Vegas Ballpark",2026,WN2026
+02/28/2026,Vanderbilt,Arizona,1,5,0,1,W,Arizona,Arizona,Vanderbilt,0,9,"Las Vegas, NV / Las Vegas Ballpark",2026,WN2026
+03/01/2026,UC Irvine,Arizona,1,7,0,1,W,Arizona,Arizona,UC-Irvine,0,9,"Las Vegas, NV / Las Vegas Ballpark",2026,WN2026
+03/03/2026,Arizona,Grand Canyon,5,7,0,0,L,Arizona,Arizona,Grand-Canyon,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/06/2026,Arizona,Fresno State,6,0,0,0,W,Arizona,Arizona,Fresno-State,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/07/2026,Arizona,Fresno State,9,5,0,0,W,Arizona,Arizona,Fresno-State,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/08/2026,Arizona,Fresno State,14,4,0,0,W,Arizona,Arizona,Fresno-State,0,8,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/10/2026,Arizona State,Arizona,10,4,0,0,L,Arizona,Arizona,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/13/2026,Utah,Arizona,6,8,0,0,W,Arizona,Arizona,Utah,1,11,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/14/2026,Utah,Arizona,7,6,0,0,L,Arizona,Arizona,Utah,1,10,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/15/2026,Utah,Arizona,8,7,0,0,L,Arizona,Arizona,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/17/2026,Arizona,New Mexico,3,6,0,0,L,Arizona,Arizona,New-Mexico,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/20/2026,Arizona,Texas Tech,5,9,0,0,L,Arizona,Arizona,Texas-Tech,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/21/2026,Arizona,Texas Tech,14,6,0,0,W,Arizona,Arizona,Texas-Tech,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/22/2026,Arizona,Texas Tech,10,12,0,0,L,Arizona,Arizona,Texas-Tech,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/24/2026,Arizona,Grand Canyon,5,4,0,0,W,Arizona,Arizona,Grand-Canyon,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/27/2026,UCF,Arizona,11,6,0,0,L,Arizona,Arizona,UCF,1,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/28/2026,UCF,Arizona,13,3,0,0,L,Arizona,Arizona,UCF,1,8,"Orlando, FL / John Euliano Park",2026,WN2026
+03/29/2026,UCF,Arizona,3,2,0,0,L,Arizona,Arizona,UCF,1,13,"Orlando, FL / John Euliano Park",2026,WN2026
+03/31/2026,Arizona,West Virginia,4,7,0,0,L,Arizona,Arizona,West-Virginia,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/02/2026,Arizona,Arizona State,4,6,0,0,L,Arizona,Arizona,Arizona-State,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/03/2026,Arizona,Arizona State,7,4,0,0,W,Arizona,Arizona,Arizona-State,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/04/2026,Arizona,Arizona State,6,15,0,0,L,Arizona,Arizona,Arizona-State,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/08/2026,Arizona,New Mexico State,13,3,0,0,W,Arizona,Arizona,New-Mexico-State,0,7,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/10/2026,TCU,Arizona,3,4,0,0,W,Arizona,Arizona,TCU,1,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/11/2026,TCU,Arizona,5,0,0,0,L,Arizona,Arizona,TCU,1,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/11/2026,TCU,Arizona,2,3,0,0,W,Arizona,Arizona,TCU,1,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/13/2026,Arizona State,Arizona,3,5,0,0,W,Arizona,Arizona,Arizona-State,1,11,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/17/2026,Arizona,Kansas State,1,2,0,0,L,Arizona,Arizona,Kansas-State,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/18/2026,Arizona,Kansas State,1,11,0,0,L,Arizona,Arizona,Kansas-State,0,8,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/19/2026,Arizona,Kansas State,11,7,0,0,W,Arizona,Arizona,Kansas-State,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/23/2026,Arizona,BYU,6,0,0,0,W,Arizona,Arizona,BYU,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/24/2026,Arizona,BYU,1,5,0,0,L,Arizona,Arizona,BYU,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/25/2026,Arizona,BYU,4,8,0,0,L,Arizona,Arizona,BYU,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/28/2026,Grand Canyon,Arizona,9,8,0,0,L,Arizona,Arizona,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+05/01/2026,Kansas,Arizona,4,2,0,0,L,Arizona,Arizona,Kansas,1,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+05/02/2026,Kansas,Arizona,7,2,0,0,L,Arizona,Arizona,Kansas,1,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+05/03/2026,Kansas,Arizona,11,5,0,0,L,Arizona,Arizona,Kansas,1,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+05/06/2026,Arizona,New Mexico State,8,6,0,0,W,Arizona,Arizona,New-Mexico-State,0,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+05/08/2026,Arizona,Houston,4,7,0,0,L,Arizona,Arizona,Houston,0,9,"Tucson, AZ / Hi Corbett Field / Box Score",2026,WN2026
+05/09/2026,Arizona,Houston,5,7,0,0,L,Arizona,Arizona,Houston,0,13,"Tucson, AZ / Hi Corbett Field / Box Score",2026,WN2026
+05/10/2026,Arizona,Houston,6,5,0,0,W,Arizona,Arizona,Houston,0,9,"Tucson, AZ / Hi Corbett Field / Box Score",2026,WN2026
+05/14/2026,Oklahoma State,Arizona,4,7,0,0,W,Arizona,Arizona,Oklahoma-State,1,9,"Stillwater, OK / O'Brate Stadium / Box Score",2026,WN2026
+05/15/2026,Oklahoma State,Arizona,13,1,0,0,L,Arizona,Arizona,Oklahoma-State,1,7,"Stillwater, OK / O'Brate Stadium / Box Score",2026,WN2026
+05/16/2026,Oklahoma State,Arizona,7,5,0,0,L,Arizona,Arizona,Oklahoma-State,1,9,"Stillwater, OK / O'Brate Stadium / Box Score",2026,WN2026

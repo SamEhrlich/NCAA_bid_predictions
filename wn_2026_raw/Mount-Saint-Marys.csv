@@ -1,0 +1,49 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Missouri,Mount Saint Mary's,5,8,0,1,W,Mount Saint Mary's,Mount-Saint-Marys,Missouri,0,9,"Fort Myers, FL / Terry Park",2026,WN2026
+02/14/2026,Missouri,Mount Saint Mary's,5,4,0,1,L,Mount Saint Mary's,Mount-Saint-Marys,Missouri,0,9,"Fort Myers, FL / Terry Park",2026,WN2026
+02/15/2026,Missouri,Mount Saint Mary's,34,3,0,1,L,Mount Saint Mary's,Mount-Saint-Marys,Missouri,0,9,"Fort Myers, FL / Terry Park",2026,WN2026
+02/17/2026,Coppin State,Mount Saint Mary's,5,11,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+02/20/2026,Mount Saint Mary's,UMass,4,6,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,UMass,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+02/21/2026,Mount Saint Mary's,UMass,6,10,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,UMass,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+02/21/2026,Mount Saint Mary's,UMass,5,7,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,UMass,0,8,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+02/27/2026,Norfolk State,Mount Saint Mary's,6,13,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+02/28/2026,Norfolk State,Mount Saint Mary's,5,6,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+03/01/2026,Norfolk State,Mount Saint Mary's,7,24,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+03/06/2026,Mount Saint Mary's,Iona,2,3,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Iona,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/06/2026,Mount Saint Mary's,Iona,3,5,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Iona,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/08/2026,Mount Saint Mary's,Iona,9,2,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Iona,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/10/2026,UMBC,Mount Saint Mary's,20,4,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,UMBC,1,7,"Catonsville, MD / Alumni Field",2026,WN2026
+03/13/2026,Mount Saint Mary's,Canisius,17,10,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Canisius,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/14/2026,Mount Saint Mary's,Canisius,10,9,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Canisius,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/15/2026,Mount Saint Mary's,Canisius,8,4,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Canisius,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/18/2026,George Mason,Mount Saint Mary's,8,9,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,George-Mason,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/20/2026,Mount Saint Mary's,Rider,8,9,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Rider,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/21/2026,Mount Saint Mary's,Rider,2,6,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Rider,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/22/2026,Mount Saint Mary's,Rider,5,10,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Rider,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/24/2026,Mount Saint Mary's,Bucknell,6,7,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Bucknell,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/27/2026,Sacred Heart,Mount Saint Mary's,4,6,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park",2026,WN2026
+03/28/2026,Sacred Heart,Mount Saint Mary's,3,2,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Sacred-Heart,1,10,"Fairfield, CT / Veterans Park",2026,WN2026
+03/29/2026,Sacred Heart,Mount Saint Mary's,6,9,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/03/2026,Siena,Mount Saint Mary's,7,1,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Siena,1,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+04/03/2026,Siena,Mount Saint Mary's,3,2,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Siena,1,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+04/04/2026,Siena,Mount Saint Mary's,2,3,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Siena,1,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+04/08/2026,Bucknell,Mount Saint Mary's,2,14,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Bucknell,1,8,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+04/10/2026,Mount Saint Mary's,Saint Peter's,15,3,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Saint-Peters,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+04/11/2026,Mount Saint Mary's,Saint Peter's,8,5,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Saint-Peters,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+04/12/2026,Mount Saint Mary's,Saint Peter's,13,3,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Saint-Peters,0,7,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+04/14/2026,Mount Saint Mary's,George Mason,3,15,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,George-Mason,0,7,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+04/17/2026,Fairfield,Mount Saint Mary's,2,1,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/18/2026,Fairfield,Mount Saint Mary's,11,7,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/18/2026,Fairfield,Mount Saint Mary's,5,4,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/21/2026,Mount Saint Mary's,Maryland,8,19,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Maryland,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+04/24/2026,Quinnipiac,Mount Saint Mary's,1,11,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Quinnipiac,1,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+04/25/2026,Quinnipiac,Mount Saint Mary's,4,3,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Quinnipiac,1,10,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+04/26/2026,Quinnipiac,Mount Saint Mary's,3,2,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Quinnipiac,1,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+04/28/2026,Mount Saint Mary's,Coppin State,6,2,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Coppin-State,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+05/01/2026,Mount Saint Mary's,Merrimack,2,4,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Merrimack,0,10,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+05/02/2026,Mount Saint Mary's,Merrimack,4,12,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Merrimack,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+05/03/2026,Mount Saint Mary's,Merrimack,6,16,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Merrimack,0,8,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+05/05/2026,Mount Saint Mary's,Maryland Eastern Shore,16,10,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Maryland-Eastern-Shore,0,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+05/13/2026,Niagara,Mount Saint Mary's,4,15,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Niagara,1,9,"Lewiston, NY / Bobo Field",2026,WN2026
+05/14/2026,Niagara,Mount Saint Mary's,7,6,0,0,L,Mount Saint Mary's,Mount-Saint-Marys,Niagara,1,9,"Lewiston, NY / Bobo Field / Box Score",2026,WN2026
+05/15/2026,Niagara,Mount Saint Mary's,5,12,0,0,W,Mount Saint Mary's,Mount-Saint-Marys,Niagara,1,9,"Lewiston, NY / Bobo Field / Box Score",2026,WN2026

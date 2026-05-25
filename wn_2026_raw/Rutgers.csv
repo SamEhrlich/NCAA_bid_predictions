@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Charleston,Rutgers,8,3,0,0,L,Rutgers,Rutgers,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+02/14/2026,Charleston,Rutgers,2,13,0,0,W,Rutgers,Rutgers,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+02/14/2026,Charleston,Rutgers,2,5,0,0,W,Rutgers,Rutgers,Charleston,1,7,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+02/15/2026,Charleston,Rutgers,4,14,0,0,W,Rutgers,Rutgers,Charleston,1,8,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+02/20/2026,Virginia Tech,Rutgers,1,16,0,0,W,Rutgers,Rutgers,Virginia-Tech,1,8,"Blacksburg, VA / English Field",2026,WN2026
+02/21/2026,Virginia Tech,Rutgers,9,8,0,0,L,Rutgers,Rutgers,Virginia-Tech,1,10,"Blacksburg, VA / English Field",2026,WN2026
+02/22/2026,Virginia Tech,Rutgers,4,3,0,0,L,Rutgers,Rutgers,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+02/27/2026,East Carolina,Rutgers,14,2,0,0,L,Rutgers,Rutgers,East-Carolina,1,7,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+02/28/2026,Western Carolina,Rutgers,3,9,0,1,W,Rutgers,Rutgers,Western-Carolina,0,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+03/01/2026,Troy,Rutgers,2,1,0,1,L,Rutgers,Rutgers,Troy,0,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+03/04/2026,Rutgers,Stony Brook,5,1,0,0,W,Rutgers,Rutgers,Stony-Brook,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/06/2026,Rutgers,Bryant,6,3,0,0,W,Rutgers,Rutgers,Bryant,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/07/2026,Rutgers,Bryant,14,0,0,0,W,Rutgers,Rutgers,Bryant,0,7,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/08/2026,Rutgers,Bryant,4,5,0,0,L,Rutgers,Rutgers,Bryant,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/10/2026,Rutgers,Wagner,8,5,0,0,W,Rutgers,Rutgers,Wagner,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/11/2026,Rutgers,Fordham,7,8,0,0,L,Rutgers,Rutgers,Fordham,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/13/2026,Rutgers,Michigan State,9,4,0,0,W,Rutgers,Rutgers,Michigan-State,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/14/2026,Rutgers,Michigan State,3,9,0,0,L,Rutgers,Rutgers,Michigan-State,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/15/2026,Rutgers,Michigan State,8,6,0,0,W,Rutgers,Rutgers,Michigan-State,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/17/2026,Rutgers,Monmouth,13,3,0,0,W,Rutgers,Rutgers,Monmouth,0,7,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/20/2026,Illinois,Rutgers,13,7,0,0,L,Rutgers,Rutgers,Illinois,1,9,"Champaign, IL / Illinois Field",2026,WN2026
+03/21/2026,Illinois,Rutgers,12,6,0,0,L,Rutgers,Rutgers,Illinois,1,9,"Champaign, IL / Illinois Field",2026,WN2026
+03/22/2026,Illinois,Rutgers,3,8,0,0,W,Rutgers,Rutgers,Illinois,1,9,"Champaign, IL / Illinois Field",2026,WN2026
+03/24/2026,Rutgers,Delaware,8,0,0,0,W,Rutgers,Rutgers,Delaware,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/27/2026,Rutgers,Michigan,4,3,0,0,W,Rutgers,Rutgers,Michigan,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/28/2026,Rutgers,Michigan,5,11,0,0,L,Rutgers,Rutgers,Michigan,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/29/2026,Rutgers,Michigan,2,6,0,0,L,Rutgers,Rutgers,Michigan,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/31/2026,Rutgers,Hofstra,2,3,0,0,L,Rutgers,Rutgers,Hofstra,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/03/2026,Indiana,Rutgers,11,0,0,0,L,Rutgers,Rutgers,Indiana,1,7,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/04/2026,Indiana,Rutgers,6,9,0,0,W,Rutgers,Rutgers,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/05/2026,Indiana,Rutgers,8,2,0,0,L,Rutgers,Rutgers,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/07/2026,Seton Hall,Rutgers,7,12,0,0,W,Rutgers,Rutgers,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/10/2026,Rutgers,UCLA,1,4,0,0,L,Rutgers,Rutgers,UCLA,0,14,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/11/2026,Rutgers,UCLA,1,7,0,0,L,Rutgers,Rutgers,UCLA,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/12/2026,Rutgers,UCLA,2,9,0,0,L,Rutgers,Rutgers,UCLA,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/14/2026,Rutgers,Marist,3,10,0,0,L,Rutgers,Rutgers,Marist,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/15/2026,Saint Joseph's,Rutgers,1,11,0,0,W,Rutgers,Rutgers,Saint-Josephs,1,7,"Merion Station, PA / Smithson Field",2026,WN2026
+04/17/2026,Penn State,Rutgers,11,13,0,0,W,Rutgers,Rutgers,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+04/18/2026,Penn State,Rutgers,1,4,0,0,W,Rutgers,Rutgers,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+04/19/2026,Penn State,Rutgers,14,13,0,0,L,Rutgers,Rutgers,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+04/21/2026,Rutgers,Saint John's,5,10,0,0,L,Rutgers,Rutgers,Saint-Johns,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/24/2026,Rutgers,Ohio State,0,8,0,0,L,Rutgers,Rutgers,Ohio-State,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/24/2026,Rutgers,Ohio State,3,0,0,0,W,Rutgers,Rutgers,Ohio-State,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/26/2026,Rutgers,Ohio State,11,5,0,0,W,Rutgers,Rutgers,Ohio-State,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/28/2026,Rutgers,Connecticut,4,5,0,0,L,Rutgers,Rutgers,Connecticut,0,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+05/01/2026,USC,Rutgers,5,1,0,0,L,Rutgers,Rutgers,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+05/02/2026,USC,Rutgers,11,1,0,0,L,Rutgers,Rutgers,USC,1,7,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+05/03/2026,USC,Rutgers,12,2,0,0,L,Rutgers,Rutgers,USC,1,8,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+05/08/2026,Rutgers,Maryland,5,3,0,0,W,Rutgers,Rutgers,Maryland,0,9,"Piscataway, NJ / Bainton Field / Box Score",2026,WN2026
+05/09/2026,Rutgers,Maryland,10,0,0,0,W,Rutgers,Rutgers,Maryland,0,8,"Piscataway, NJ / Bainton Field / Box Score",2026,WN2026
+05/10/2026,Rutgers,Maryland,7,11,0,0,L,Rutgers,Rutgers,Maryland,0,9,"Piscataway, NJ / Bainton Field / Box Score",2026,WN2026
+05/14/2026,Northwestern,Rutgers,5,8,0,0,W,Rutgers,Rutgers,Northwestern,1,9,"Evanston, IL / Rocky Miller Park / Box Score",2026,WN2026
+05/15/2026,Northwestern,Rutgers,7,6,0,0,L,Rutgers,Rutgers,Northwestern,1,9,"Evanston, IL / Rocky Miller Park / Box Score",2026,WN2026
+05/16/2026,Northwestern,Rutgers,9,15,0,0,W,Rutgers,Rutgers,Northwestern,1,9,"Evanston, IL / Rocky Miller Park / Box Score",2026,WN2026
+05/19/2026,Michigan,Rutgers,10,0,0,1,L,Rutgers,Rutgers,Michigan,0,7,"Omaha, NE / Charles Schwab Field Omaha / Recap",2026,WN2026
+05/20/2026,Ohio State,Rutgers,3,2,0,1,L,Rutgers,Rutgers,Ohio-State,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026

@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Western Kentucky,BYU,2,3,0,0,W,BYU,BYU,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+02/13/2026,Western Kentucky,BYU,5,2,0,0,L,BYU,BYU,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+02/14/2026,Western Kentucky,BYU,4,2,0,0,L,BYU,BYU,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+02/16/2026,Western Kentucky,BYU,8,12,0,0,W,BYU,BYU,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+02/20/2026,San Diego State,BYU,3,0,0,0,L,BYU,BYU,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+02/21/2026,UC San Diego,BYU,7,9,0,0,W,BYU,BYU,UC-San-Diego,1,9,"La Jolla, CA / Triton Park",2026,WN2026
+02/23/2026,UC Riverside,BYU,3,11,0,0,W,BYU,BYU,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/25/2026,Long Beach State,BYU,10,7,0,0,L,BYU,BYU,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+02/26/2026,Washington State,BYU,4,6,0,1,W,BYU,BYU,Washington-State,0,9,"Long Beach, CA",2026,WN2026
+02/27/2026,Washington State,BYU,4,5,0,1,W,BYU,BYU,Washington-State,0,9,"Long Beach, CA",2026,WN2026
+02/28/2026,Long Beach State,BYU,7,6,0,0,L,BYU,BYU,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+03/05/2026,BYU,California Baptist,11,13,0,0,L,BYU,BYU,California-Baptist,0,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+03/06/2026,BYU,California Baptist,7,14,0,0,L,BYU,BYU,California-Baptist,0,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+03/07/2026,BYU,California Baptist,7,11,0,0,L,BYU,BYU,California-Baptist,0,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+03/10/2026,BYU,Utah Tech,19,2,0,0,W,BYU,BYU,Utah-Tech,0,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+03/12/2026,BYU,Cincinnati,5,2,0,0,W,BYU,BYU,Cincinnati,0,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+03/13/2026,BYU,Cincinnati,7,9,0,0,L,BYU,BYU,Cincinnati,0,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+03/14/2026,BYU,Cincinnati,10,9,0,0,W,BYU,BYU,Cincinnati,0,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+03/17/2026,Utah Tech,BYU,5,18,0,0,W,BYU,BYU,Utah-Tech,1,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/19/2026,West Virginia,BYU,7,4,0,0,L,BYU,BYU,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+03/20/2026,West Virginia,BYU,12,10,0,0,L,BYU,BYU,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+03/21/2026,West Virginia,BYU,11,1,0,0,L,BYU,BYU,West-Virginia,1,8,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+03/24/2026,Utah,BYU,5,6,0,0,W,BYU,BYU,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/26/2026,BYU,Oklahoma State,6,5,0,0,W,BYU,BYU,Oklahoma-State,0,10,"Provo, UT / Larry H. Miller Field",2026,WN2026
+03/27/2026,BYU,Oklahoma State,5,12,0,0,L,BYU,BYU,Oklahoma-State,0,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+03/28/2026,BYU,Oklahoma State,5,4,0,0,W,BYU,BYU,Oklahoma-State,0,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+03/31/2026,BYU,Kansas State,3,16,0,0,L,BYU,BYU,Kansas-State,0,8,"Provo, UT / Larry H. Miller Field",2026,WN2026
+04/02/2026,Baylor,BYU,12,5,0,0,L,BYU,BYU,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/03/2026,Baylor,BYU,4,10,0,0,W,BYU,BYU,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/04/2026,Baylor,BYU,3,1,0,0,L,BYU,BYU,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/07/2026,Utah Valley,BYU,5,10,0,0,W,BYU,BYU,Utah-Valley,1,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+04/09/2026,Houston,BYU,2,3,0,0,W,BYU,BYU,Houston,1,9,"Houston, TX / Schroeder Park",2026,WN2026
+04/10/2026,Houston,BYU,2,6,0,0,W,BYU,BYU,Houston,1,9,"Houston, TX / Schroeder Park",2026,WN2026
+04/11/2026,Houston,BYU,1,6,0,0,W,BYU,BYU,Houston,1,9,"Houston, TX / Schroeder Park",2026,WN2026
+04/13/2026,Lamar,BYU,0,4,0,0,W,BYU,BYU,Lamar,1,9,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+04/16/2026,BYU,Arizona State,19,9,0,0,W,BYU,BYU,Arizona-State,0,7,"Provo, UT / Larry H. Miller Field",2026,WN2026
+04/17/2026,BYU,Arizona State,0,13,0,0,L,BYU,BYU,Arizona-State,0,7,"Provo, UT / Larry H. Miller Field",2026,WN2026
+04/18/2026,BYU,Arizona State,8,12,0,0,L,BYU,BYU,Arizona-State,0,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+04/20/2026,BYU,Utah Tech,4,9,0,0,L,BYU,BYU,Utah-Tech,0,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+04/23/2026,Arizona,BYU,6,0,0,0,L,BYU,BYU,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/24/2026,Arizona,BYU,1,5,0,0,W,BYU,BYU,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/25/2026,Arizona,BYU,4,8,0,0,W,BYU,BYU,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/27/2026,Grand Canyon,BYU,10,3,0,0,L,BYU,BYU,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/30/2026,BYU,Utah,6,4,0,0,W,BYU,BYU,Utah,0,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+05/01/2026,BYU,Utah,1,8,0,0,L,BYU,BYU,Utah,0,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+05/02/2026,BYU,Utah,3,8,0,0,L,BYU,BYU,Utah,0,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+05/05/2026,UNLV,BYU,2,5,0,0,W,BYU,BYU,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+05/07/2026,Texas Tech,BYU,2,1,0,0,L,BYU,BYU,Texas-Tech,1,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+05/08/2026,Texas Tech,BYU,3,12,0,0,W,BYU,BYU,Texas-Tech,1,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park / Box Score",2026,WN2026
+05/09/2026,Texas Tech,BYU,15,11,0,0,L,BYU,BYU,Texas-Tech,1,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park / Box Score",2026,WN2026
+05/12/2026,BYU,Utah Valley,13,3,0,0,W,BYU,BYU,Utah-Valley,0,7,"Provo, UT / Larry H. Miller Field",2026,WN2026
+05/14/2026,BYU,Kansas,6,9,0,0,L,BYU,BYU,Kansas,0,9,"Provo, UT / Larry H. Miller Field / Box Score",2026,WN2026
+05/15/2026,BYU,Kansas,6,7,0,0,L,BYU,BYU,Kansas,0,9,"Provo, UT / Larry H. Miller Field / Box Score",2026,WN2026
+05/16/2026,BYU,Kansas,5,4,0,0,W,BYU,BYU,Kansas,0,11,"Provo, UT / Larry H. Miller Field / Box Score",2026,WN2026
+05/19/2026,Texas Tech,BYU,8,18,0,1,W,BYU,BYU,Texas-Tech,0,7,"Surprize, AZ / Surprise Stadium / Recap",2026,WN2026
+05/20/2026,Baylor,BYU,13,9,0,1,L,BYU,BYU,Baylor,0,9,"Surprize, AZ / Surprise Stadium / Recap",2026,WN2026

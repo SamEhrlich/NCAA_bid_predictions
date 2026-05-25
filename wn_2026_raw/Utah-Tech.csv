@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UC Riverside,Utah Tech,5,12,0,0,W,Utah Tech,Utah-Tech,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/14/2026,UC Riverside,Utah Tech,3,4,0,0,W,Utah Tech,Utah-Tech,UC-Riverside,1,7,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/14/2026,UC Riverside,Utah Tech,8,12,0,0,W,Utah Tech,Utah-Tech,UC-Riverside,1,7,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/15/2026,UC Riverside,Utah Tech,1,8,0,0,W,Utah Tech,Utah-Tech,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/18/2026,Cal State Bakersfield,Utah Tech,4,14,0,0,W,Utah Tech,Utah-Tech,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+02/19/2026,Pacific,Utah Tech,4,3,0,0,L,Utah Tech,Utah-Tech,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+02/20/2026,Pacific,Utah Tech,1,2,0,0,W,Utah Tech,Utah-Tech,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+02/21/2026,Pacific,Utah Tech,5,8,0,0,W,Utah Tech,Utah-Tech,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+02/27/2026,Utah Tech,Northern Colorado,11,8,0,0,W,Utah Tech,Utah-Tech,Northern-Colorado,0,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+02/28/2026,Utah Tech,Northern Colorado,6,5,0,0,W,Utah Tech,Utah-Tech,Northern-Colorado,0,7,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+02/28/2026,Utah Tech,Northern Colorado,11,5,0,0,W,Utah Tech,Utah-Tech,Northern-Colorado,0,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/01/2026,Utah Tech,Northern Colorado,6,4,0,0,W,Utah Tech,Utah-Tech,Northern-Colorado,0,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/05/2026,Utah Tech,Austin Peay,15,11,0,0,W,Utah Tech,Utah-Tech,Austin-Peay,0,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/06/2026,Utah Tech,Austin Peay,5,10,0,0,L,Utah Tech,Utah-Tech,Austin-Peay,0,10,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/06/2026,Utah Tech,Austin Peay,4,7,0,0,L,Utah Tech,Utah-Tech,Austin-Peay,0,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/07/2026,Utah Tech,Austin Peay,7,6,0,0,W,Utah Tech,Utah-Tech,Austin-Peay,0,10,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/10/2026,BYU,Utah Tech,19,2,0,0,L,Utah Tech,Utah-Tech,BYU,1,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+03/13/2026,Santa Clara,Utah Tech,8,1,0,0,L,Utah Tech,Utah-Tech,Santa-Clara,1,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/14/2026,Santa Clara,Utah Tech,4,1,0,0,L,Utah Tech,Utah-Tech,Santa-Clara,1,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/15/2026,Santa Clara,Utah Tech,5,4,0,0,L,Utah Tech,Utah-Tech,Santa-Clara,1,10,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/17/2026,Utah Tech,BYU,5,18,0,0,L,Utah Tech,Utah-Tech,BYU,0,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/19/2026,Utah Tech,Fresno State,17,13,0,0,W,Utah Tech,Utah-Tech,Fresno-State,0,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/20/2026,Utah Tech,Fresno State,8,7,0,0,W,Utah Tech,Utah-Tech,Fresno-State,0,10,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/21/2026,UNLV,Utah Tech,11,1,0,0,L,Utah Tech,Utah-Tech,UNLV,1,7,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/22/2026,UNLV,Utah Tech,1,11,0,0,W,Utah Tech,Utah-Tech,UNLV,1,8,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/27/2026,Southern Illinois,Utah Tech,10,0,0,0,L,Utah Tech,Utah-Tech,Southern-Illinois,1,7,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/28/2026,Southern Illinois,Utah Tech,4,9,0,0,W,Utah Tech,Utah-Tech,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/29/2026,Southern Illinois,Utah Tech,4,12,0,0,W,Utah Tech,Utah-Tech,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/30/2026,Saint Louis,Utah Tech,3,2,0,0,L,Utah Tech,Utah-Tech,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+04/02/2026,Utah Tech,Sacramento State,7,6,0,0,W,Utah Tech,Utah-Tech,Sacramento-State,0,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+04/03/2026,Utah Tech,Sacramento State,13,3,0,0,W,Utah Tech,Utah-Tech,Sacramento-State,0,7,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+04/04/2026,Utah Tech,Sacramento State,11,13,0,0,L,Utah Tech,Utah-Tech,Sacramento-State,0,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+04/14/2026,Utah Tech,UNLV,6,8,0,0,L,Utah Tech,Utah-Tech,UNLV,0,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+04/15/2026,Utah Tech,Washington State,18,8,0,0,W,Utah Tech,Utah-Tech,Washington-State,0,7,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+04/17/2026,Utah Valley,Utah Tech,4,7,0,0,W,Utah Tech,Utah-Tech,Utah-Valley,1,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+04/18/2026,Utah Valley,Utah Tech,5,6,0,0,W,Utah Tech,Utah-Tech,Utah-Valley,1,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+04/19/2026,Utah Valley,Utah Tech,10,13,0,0,W,Utah Tech,Utah-Tech,Utah-Valley,1,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+04/20/2026,BYU,Utah Tech,4,9,0,0,W,Utah Tech,Utah-Tech,BYU,1,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+04/24/2026,California Baptist,Utah Tech,7,3,0,0,L,Utah Tech,Utah-Tech,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+04/25/2026,California Baptist,Utah Tech,1,10,0,0,W,Utah Tech,Utah-Tech,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+04/26/2026,California Baptist,Utah Tech,6,0,0,0,L,Utah Tech,Utah-Tech,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+04/28/2026,Utah Tech,UNLV,8,3,0,0,W,Utah Tech,Utah-Tech,UNLV,0,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+05/01/2026,Utah Tech,Tarleton State,6,9,0,0,L,Utah Tech,Utah-Tech,Tarleton-State,0,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+05/02/2026,Utah Tech,Tarleton State,4,8,0,0,L,Utah Tech,Utah-Tech,Tarleton-State,0,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+05/03/2026,Utah Tech,Tarleton State,8,10,0,0,L,Utah Tech,Utah-Tech,Tarleton-State,0,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+05/08/2026,UTA,Utah Tech,2,0,0,0,L,Utah Tech,Utah-Tech,UTA,1,9,"Arlington, TX / Clay Gould Ballpark / Box Score",2026,WN2026
+05/09/2026,UTA,Utah Tech,4,16,0,0,W,Utah Tech,Utah-Tech,UTA,1,9,"Arlington, TX / Clay Gould Ballpark / Box Score",2026,WN2026
+05/10/2026,UTA,Utah Tech,8,5,0,0,L,Utah Tech,Utah-Tech,UTA,1,11,"Arlington, TX / Clay Gould Ballpark / Box Score",2026,WN2026
+05/12/2026,Utah,Utah Tech,16,9,0,0,L,Utah Tech,Utah-Tech,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+05/14/2026,Utah Tech,Abilene Christian,22,12,0,0,W,Utah Tech,Utah-Tech,Abilene-Christian,0,8,"Saint George, UT / Bruce Hurst Field / Box Score",2026,WN2026
+05/15/2026,Utah Tech,Abilene Christian,7,4,0,0,W,Utah Tech,Utah-Tech,Abilene-Christian,0,9,"Saint George, UT / Bruce Hurst Field / Box Score",2026,WN2026
+05/16/2026,Utah Tech,Abilene Christian,19,8,0,0,W,Utah Tech,Utah-Tech,Abilene-Christian,0,8,"Saint George, UT / Bruce Hurst Field / Box Score",2026,WN2026
+05/20/2026,UTA,Utah Tech,0,4,0,1,W,Utah Tech,Utah-Tech,UTA,0,9,"Mesa, AZ / Hohokam Stadium / Box Score / Recap",2026,WN2026
+05/21/2026,California Baptist,Utah Tech,10,7,0,1,L,Utah Tech,Utah-Tech,California-Baptist,0,14,"Mesa, AZ / Hohokam Stadium / Recap",2026,WN2026
+05/21/2026,Abilene Christian,Utah Tech,5,6,0,1,W,Utah Tech,Utah-Tech,Abilene-Christian,0,9,"Mesa, AZ / Hohokam Stadium",2026,WN2026
+05/22/2026,Sacramento State,Utah Tech,5,3,0,1,L,Utah Tech,Utah-Tech,Sacramento-State,0,9,"Mesa, AZ / Hohokam Stadium",2026,WN2026

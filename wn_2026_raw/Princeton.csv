@@ -1,0 +1,43 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/20/2026,North Carolina State,Princeton,6,4,0,0,L,Princeton,Princeton,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+02/21/2026,North Carolina State,Princeton,16,1,0,0,L,Princeton,Princeton,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+02/21/2026,North Carolina State,Princeton,0,1,0,0,W,Princeton,Princeton,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+02/27/2026,Duke,Princeton,6,2,0,0,L,Princeton,Princeton,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/28/2026,Duke,Princeton,9,2,0,0,L,Princeton,Princeton,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/28/2026,Duke,Princeton,14,4,0,0,L,Princeton,Princeton,Duke,1,7,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/01/2026,Duke,Princeton,7,8,0,0,W,Princeton,Princeton,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/07/2026,South Carolina,Princeton,10,7,0,0,L,Princeton,Princeton,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+03/07/2026,South Carolina,Princeton,4,3,0,0,L,Princeton,Princeton,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+03/08/2026,South Carolina,Princeton,13,1,0,0,L,Princeton,Princeton,South-Carolina,1,7,"Columbia, SC / Founders Park",2026,WN2026
+03/10/2026,Winthrop,Princeton,3,10,0,0,W,Princeton,Princeton,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/11/2026,Winthrop,Princeton,11,0,0,0,L,Princeton,Princeton,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/13/2026,Wofford,Princeton,12,1,0,0,L,Princeton,Princeton,Wofford,1,7,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/14/2026,Wofford,Princeton,0,3,0,0,W,Princeton,Princeton,Wofford,1,7,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/14/2026,Wofford,Princeton,5,6,0,0,W,Princeton,Princeton,Wofford,1,11,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/15/2026,Wofford,Princeton,5,2,0,0,L,Princeton,Princeton,Wofford,1,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/21/2026,Princeton,Cornell,13,7,0,0,W,Princeton,Princeton,Cornell,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+03/21/2026,Princeton,Cornell,12,0,0,0,W,Princeton,Princeton,Cornell,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+03/22/2026,Princeton,Cornell,3,6,0,0,L,Princeton,Princeton,Cornell,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+03/25/2026,Seton Hall,Princeton,3,1,0,0,L,Princeton,Princeton,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+03/28/2026,Brown,Princeton,4,0,0,0,L,Princeton,Princeton,Brown,1,9,"Providence, RI / Murray Stadium",2026,WN2026
+03/28/2026,Brown,Princeton,14,1,0,0,L,Princeton,Princeton,Brown,1,9,"Providence, RI / Murray Stadium",2026,WN2026
+03/29/2026,Brown,Princeton,4,0,0,0,L,Princeton,Princeton,Brown,1,9,"Providence, RI / Murray Stadium",2026,WN2026
+04/03/2026,Princeton,Yale,6,7,0,0,L,Princeton,Princeton,Yale,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/04/2026,Princeton,Yale,7,12,0,0,L,Princeton,Princeton,Yale,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/04/2026,Princeton,Yale,4,5,0,0,L,Princeton,Princeton,Yale,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/08/2026,Princeton,Monmouth,8,10,0,0,L,Princeton,Princeton,Monmouth,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/11/2026,Columbia,Princeton,7,11,0,0,W,Princeton,Princeton,Columbia,1,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/11/2026,Columbia,Princeton,8,6,0,0,L,Princeton,Princeton,Columbia,1,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/12/2026,Columbia,Princeton,2,4,0,0,W,Princeton,Princeton,Columbia,1,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/15/2026,Princeton,Rider,10,9,0,0,W,Princeton,Princeton,Rider,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/17/2026,Princeton,Penn,8,6,0,0,W,Princeton,Princeton,Penn,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/18/2026,Princeton,Penn,0,12,0,0,L,Princeton,Princeton,Penn,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/18/2026,Princeton,Penn,7,4,0,0,W,Princeton,Princeton,Penn,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/22/2026,Princeton,Wagner,11,16,0,0,L,Princeton,Princeton,Wagner,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/25/2026,Dartmouth,Princeton,1,6,0,0,W,Princeton,Princeton,Dartmouth,1,9,"Hanover, NH / Red Rolfe Field at Biondi Park",2026,WN2026
+04/25/2026,Dartmouth,Princeton,8,2,0,0,L,Princeton,Princeton,Dartmouth,1,9,"Hanover, NH / Red Rolfe Field at Biondi Park",2026,WN2026
+04/26/2026,Dartmouth,Princeton,2,9,0,0,W,Princeton,Princeton,Dartmouth,1,9,"Hanover, NH / Red Rolfe Field at Biondi Park",2026,WN2026
+04/29/2026,Princeton,Siena,5,1,0,0,W,Princeton,Princeton,Siena,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+05/02/2026,Princeton,Harvard,3,10,0,0,L,Princeton,Princeton,Harvard,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+05/02/2026,Princeton,Harvard,5,7,0,0,L,Princeton,Princeton,Harvard,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+05/03/2026,Princeton,Harvard,6,11,0,0,L,Princeton,Princeton,Harvard,0,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026

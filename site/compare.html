@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Compare Teams — NCAA D1 Baseball Elo</title>
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <style>
+    .compare-pickers {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+      margin-bottom: 22px;
+    }
+    .compare-pickers label {
+      display: block; font-size: 11px;
+      color: var(--text-dim); margin-bottom: 6px;
+      text-transform: uppercase; letter-spacing: 0.5px;
+    }
+    .team-picker {
+      position: relative;
+    }
+    .team-picker .picker-input {
+      width: 100%; padding: 10px 13px;
+      background: var(--bg-elevated); color: var(--text);
+      border: 1px solid var(--border); border-radius: var(--radius);
+      font-size: 14px; font-family: var(--sans);
+      outline: none;
+      transition: border-color 0.12s, box-shadow 0.12s;
+    }
+    .team-picker .picker-input::placeholder { color: var(--text-muted); }
+    .team-picker .picker-input:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 2px var(--accent-fade);
+    }
+    .team-picker .picker-input.has-selection {
+      border-left: 4px solid var(--picker-color, var(--accent));
+      padding-left: 11px;
+    }
+    .team-picker .picker-results {
+      position: absolute; top: calc(100% + 4px); left: 0; right: 0;
+      max-height: 320px; overflow-y: auto;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border); border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      z-index: 30;
+      display: none;
+    }
+    .team-picker.open .picker-results { display: block; }
+    .picker-row {
+      display: grid;
+      grid-template-columns: 28px 1fr auto;
+      gap: 10px; align-items: center;
+      padding: 8px 12px; cursor: pointer;
+      border-bottom: 1px solid var(--border-soft);
+    }
+    .picker-row:last-child { border-bottom: none; }
+    .picker-row:hover, .picker-row.kbd-focus {
+      background: var(--accent-fade);
+      color: var(--accent);
+    }
+    .picker-row img { width: 24px; height: 24px; border-radius: 3px; }
+    .picker-row .nm { font-size: 13px; }
+    .picker-row .meta {
+      font-size: 11px; font-family: var(--mono);
+      color: var(--text-muted);
+    }
+    .picker-row:hover .meta, .picker-row.kbd-focus .meta { color: var(--accent); }
+    .picker-empty {
+      padding: 12px 14px; color: var(--text-muted);
+      font-style: italic; font-size: 12.5px;
+    }
+    .h2h {
+      display: grid;
+      grid-template-columns: 1fr 60px 1fr;
+      gap: 14px; align-items: center;
+      margin: 18px 0;
+      background: var(--bg-elevated); padding: 18px 22px;
+      border-radius: var(--radius); box-shadow: var(--shadow);
+    }
+    .h2h .side { text-align: center; }
+    .h2h .side img { width: 46px; height: 46px; border-radius: 4px; margin-bottom: 6px; }
+    .h2h .side .name { font-size: 15px; font-weight: 600; }
+    .h2h .side .elo { font-family: var(--mono); color: var(--text-dim); font-size: 13px; margin-top: 4px; }
+    .h2h .side .pct { font-family: var(--mono); color: var(--accent); font-size: 22px; margin-top: 6px; font-weight: 700; }
+    .h2h .vs { text-align: center; font-size: 12px; color: var(--text-muted); letter-spacing: 1px; }
+  </style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-brand">NCAA D1 Baseball <span>Elo</span></div>
+  <div class="nav-links">
+    <a href="index.html"   data-nav="leaderboard">Leaderboard</a>
+    <a href="bracket.html" data-nav="bracket">2026 Bracket</a>
+    <a href="whatif.html"  data-nav="whatif">What-If</a>
+    <a href="compare.html" data-nav="compare">Compare</a>
+    <a href="conference.html" data-nav="conference">Conferences</a>
+    <a href="extras.html"  data-nav="extras">Upsets</a>
+  </div>
+  <div class="nav-meta" id="nav-meta"></div>
+</nav>
+
+<div class="container">
+  <h1 class="section-title">
+    Compare Teams
+    <span class="sub">overlay two teams' 2026 Elo trajectories</span>
+  </h1>
+
+  <div class="compare-pickers">
+    <div>
+      <label>Team A</label>
+      <div class="team-picker" id="pickerA">
+        <input type="text" class="picker-input" autocomplete="off"
+               placeholder="Type to search… (e.g. UCLA, SEC, Vanderbilt)" />
+        <div class="picker-results"></div>
+      </div>
+    </div>
+    <div>
+      <label>Team B</label>
+      <div class="team-picker" id="pickerB">
+        <input type="text" class="picker-input" autocomplete="off"
+               placeholder="Type to search… (e.g. Georgia Tech)" />
+        <div class="picker-results"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="h2h" id="h2h" style="display:none;"></div>
+
+  <div class="card">
+    <h2>2026 Elo overlay</h2>
+    <div id="compare-chart" style="min-height:460px; position:relative;"></div>
+  </div>
+</div>
+
+<footer class="footer">
+  Head-to-head probability assumes neutral site (no HFA), using each team's current Elo.
+</footer>
+
+<script type="module">
+import { loadJSON, fmtElo, fmtPct, fmtFullDate, setActiveNav, $ } from "./js/common.js";
+
+setActiveNav("compare");
+
+const meta = await loadJSON("meta.json");
+$("#nav-meta").textContent =
+  `${meta.n_games_fit.toLocaleString()} games · fit ${meta.generated_at.slice(0,10)}`;
+
+const teams = await loadJSON("teams.json");
+const teamsByName = [...teams].sort((a, b) => a.team.localeCompare(b.team));
+const teamBySlug = new Map(teams.map(t => [t.slug, t]));
+
+// ---------- Search-driven team picker ----------
+function makeTeamPicker(rootEl, { onSelect }) {
+  const input = rootEl.querySelector(".picker-input");
+  const results = rootEl.querySelector(".picker-results");
+  let selectedSlug = null;
+  let kbdIdx = -1;
+  let lastQueryTeams = [];
+
+  function filter(q) {
+    q = q.trim().toLowerCase();
+    if (!q) return teamsByName.slice(0, 30);  // top 30 alphabetically when empty
+    return teamsByName.filter(t =>
+      t.team.toLowerCase().includes(q) ||
+      (t.conf || "").toLowerCase().includes(q)
+    ).slice(0, 30);
+  }
+
+  function renderResults() {
+    results.innerHTML = "";
+    if (lastQueryTeams.length === 0) {
+      const e = document.createElement("div");
+      e.className = "picker-empty";
+      e.textContent = "No teams match.";
+      results.appendChild(e);
+      return;
+    }
+    lastQueryTeams.forEach((t, i) => {
+      const row = document.createElement("div");
+      row.className = "picker-row" + (i === kbdIdx ? " kbd-focus" : "");
+      row.innerHTML = `
+        <img src="${t.logo || ""}" alt="" onerror="this.style.visibility='hidden'" loading="lazy">
+        <span class="nm">${t.team}</span>
+        <span class="meta">${t.conf ? t.conf + " · " : ""}Elo ${fmtElo(t.elo)}</span>
+      `;
+      row.addEventListener("mousedown", e => {
+        e.preventDefault();  // keep focus on input
+        select(t);
+      });
+      row.addEventListener("mouseenter", () => { kbdIdx = i; refreshKbdFocus(); });
+      results.appendChild(row);
+    });
+  }
+  function refreshKbdFocus() {
+    results.querySelectorAll(".picker-row").forEach((r, i) =>
+      r.classList.toggle("kbd-focus", i === kbdIdx));
+  }
+  function open() { rootEl.classList.add("open"); }
+  function close() { rootEl.classList.remove("open"); kbdIdx = -1; }
+
+  function select(team) {
+    selectedSlug = team.slug;
+    input.value = `${team.team} · Elo ${fmtElo(team.elo)}`;
+    input.classList.add("has-selection");
+    input.style.setProperty("--picker-color", team.color || "var(--accent)");
+    close();
+    onSelect(team);
+  }
+
+  input.addEventListener("focus", () => {
+    // Show the full list (or last query result) on focus; clear text so the user can type fresh.
+    input.select();
+    lastQueryTeams = filter(input.value);
+    renderResults();
+    open();
+  });
+  input.addEventListener("input", () => {
+    input.classList.remove("has-selection");
+    lastQueryTeams = filter(input.value);
+    kbdIdx = lastQueryTeams.length ? 0 : -1;
+    renderResults();
+    open();
+  });
+  input.addEventListener("keydown", e => {
+    if (e.key === "ArrowDown") {
+      e.preventDefault();
+      kbdIdx = Math.min(kbdIdx + 1, lastQueryTeams.length - 1);
+      refreshKbdFocus();
+    } else if (e.key === "ArrowUp") {
+      e.preventDefault();
+      kbdIdx = Math.max(kbdIdx - 1, 0);
+      refreshKbdFocus();
+    } else if (e.key === "Enter") {
+      e.preventDefault();
+      if (kbdIdx >= 0 && lastQueryTeams[kbdIdx]) select(lastQueryTeams[kbdIdx]);
+    } else if (e.key === "Escape") {
+      close();
+      input.blur();
+    }
+  });
+  document.addEventListener("mousedown", e => {
+    if (!rootEl.contains(e.target)) close();
+  });
+
+  return {
+    set(team) { select(team); },
+    getSlug() { return selectedSlug; },
+  };
+}
+
+const top2 = [...teams].sort((a, b) => a.rank - b.rank).slice(0, 2);
+
+const pickerA = makeTeamPicker($("#pickerA"), { onSelect: () => render() });
+const pickerB = makeTeamPicker($("#pickerB"), { onSelect: () => render() });
+pickerA.set(top2[0]);
+pickerB.set(top2[1]);
+
+async function loadHistory(slug) {
+  return await loadJSON(`elo_history/${slug}.json`);
+}
+
+async function render() {
+  const slugA = pickerA.getSlug(), slugB = pickerB.getSlug();
+  if (!slugA || !slugB) return;
+  const [A, B] = await Promise.all([loadHistory(slugA), loadHistory(slugB)]);
+
+  // ---- Head-to-head card ----
+  const pA = 1 / (1 + Math.pow(10, (B.final_elo - A.final_elo) / 400));
+  $("#h2h").style.display = "grid";
+  $("#h2h").innerHTML = `
+    <div class="side" style="border-left:3px solid ${A.color}; padding-left:14px;">
+      <img src="${A.logo || ''}" alt="" onerror="this.style.visibility='hidden'">
+      <div class="name" style="color:${A.color}">${A.team}</div>
+      <div class="elo">Elo ${fmtElo(A.final_elo)}</div>
+      <div class="pct">${fmtPct(pA*100, 1)}</div>
+    </div>
+    <div class="vs">VS</div>
+    <div class="side" style="border-right:3px solid ${B.color}; padding-right:14px;">
+      <img src="${B.logo || ''}" alt="" onerror="this.style.visibility='hidden'">
+      <div class="name" style="color:${B.color}">${B.team}</div>
+      <div class="elo">Elo ${fmtElo(B.final_elo)}</div>
+      <div class="pct">${fmtPct((1-pA)*100, 1)}</div>
+    </div>
+  `;
+
+  // ---- Overlay chart (2026 only) ----
+  const cont = $("#compare-chart");
+  cont.innerHTML = "";
+  const M = { top:14, right:14, bottom:30, left:48 };
+  const w = cont.clientWidth, h = 460;
+  const iw = w - M.left - M.right, ih = h - M.top - M.bottom;
+
+  const evA = A.events.filter(e => e.date.startsWith("2026")).map(e => ({...e, _dt: new Date(e.date)}));
+  const evB = B.events.filter(e => e.date.startsWith("2026")).map(e => ({...e, _dt: new Date(e.date)}));
+  if (evA.length === 0 && evB.length === 0) {
+    cont.innerHTML = `<p class="loading">No 2026 data for either team.</p>`;
+    return;
+  }
+
+  const svg = d3.select(cont).append("svg")
+    .attr("viewBox", `0 0 ${w} ${h}`)
+    .attr("preserveAspectRatio","xMidYMid meet");
+  const g = svg.append("g").attr("transform",`translate(${M.left},${M.top})`);
+
+  const x = d3.scaleTime()
+    .domain(d3.extent([...evA, ...evB], d => d._dt))
+    .range([0, iw]);
+  const allElos = [...evA, ...evB].flatMap(e => [e.pre_elo, e.post_elo]);
+  const yMin = d3.min(allElos), yMax = d3.max(allElos);
+  const pad = (yMax - yMin) * 0.08;
+  const y = d3.scaleLinear().domain([yMin - pad, yMax + pad]).range([ih, 0]).nice();
+
+  g.append("g").attr("class","elo-grid").call(d3.axisLeft(y).tickSize(-iw).tickFormat(""));
+  g.append("g").attr("class","elo-axis").attr("transform",`translate(0,${ih})`)
+    .call(d3.axisBottom(x).ticks(d3.timeMonth.every(1)).tickFormat(d3.timeFormat("%b")));
+  g.append("g").attr("class","elo-axis").call(d3.axisLeft(y));
+
+  // ---- Tooltip ----
+  const tooltip = d3.select(cont).append("div").attr("class", "tooltip");
+  function tooltipHTML(d, teamMeta) {
+    const wl = d.won ? '<span class="tt-result-w">W</span>' : '<span class="tt-result-l">L</span>';
+    const delta = d.post_elo - d.pre_elo;
+    const dCls = delta >= 0 ? "tt-elo-up" : "tt-elo-down";
+    const dSym = delta >= 0 ? "+" : "";
+    const siteLbl = d.site === "home" ? "vs" : d.site === "away" ? "@" : "vs (neutral)";
+    return `
+      <div class="tt-date" style="color:${teamMeta.color}; font-weight:600;">${teamMeta.team}</div>
+      <div class="tt-date">${fmtFullDate(d.date)}</div>
+      <div class="tt-opp">${siteLbl} ${d.opp}</div>
+      <div class="tt-row"><span>Result</span><span>${wl} ${d.score_for}–${d.score_against}</span></div>
+      <div class="tt-row"><span>Pre-game Elo</span><span>${d.pre_elo.toFixed(1)}</span></div>
+      <div class="tt-row"><span>Post-game Elo</span><span>${d.post_elo.toFixed(1)}</span></div>
+      <div class="tt-row"><span>Δ</span><span class="${dCls}">${dSym}${delta.toFixed(1)}</span></div>
+      <div class="tt-row"><span>Win prob pre-game</span><span>${(d.win_prob_pre * 100).toFixed(1)}%</span></div>
+    `;
+  }
+  function attachDotHandlers(sel, teamMeta) {
+    sel.on("mouseenter", function (event, d) {
+      d3.select(this).attr("r", 6);
+      tooltip.html(tooltipHTML(d, teamMeta)).classed("show", true);
+    });
+    sel.on("mousemove", function (event) {
+      const [mx, my] = d3.pointer(event, cont);
+      const ttW = tooltip.node().offsetWidth;
+      const ttH = tooltip.node().offsetHeight;
+      let left = mx + 14, top = my + 14;
+      if (left + ttW > cont.clientWidth - 4) left = mx - ttW - 14;
+      if (top + ttH > cont.clientHeight)     top  = my - ttH - 14;
+      tooltip.style("left", `${left}px`).style("top", `${top}px`);
+    });
+    sel.on("mouseleave", function () {
+      d3.select(this).attr("r", 3);
+      tooltip.classed("show", false);
+    });
+  }
+
+  const line = d3.line().x(d=>x(d._dt)).y(d=>y(d.post_elo));
+  if (evA.length) {
+    g.append("path").datum(evA).attr("class","elo-line").attr("stroke", A.color).attr("d", line);
+    const dotsA = g.selectAll(".dot-a").data(evA).join("circle")
+      .attr("class","elo-dot")
+      .attr("cx", d=>x(d._dt)).attr("cy", d=>y(d.post_elo))
+      .attr("r", 3).attr("fill", A.color);
+    attachDotHandlers(dotsA, { team: A.team, color: A.color });
+  }
+  if (evB.length) {
+    g.append("path").datum(evB).attr("class","elo-line").attr("stroke", B.color).attr("d", line);
+    const dotsB = g.selectAll(".dot-b").data(evB).join("circle")
+      .attr("class","elo-dot")
+      .attr("cx", d=>x(d._dt)).attr("cy", d=>y(d.post_elo))
+      .attr("r", 3).attr("fill", B.color);
+    attachDotHandlers(dotsB, { team: B.team, color: B.color });
+  }
+  // Legend
+  const lg = svg.append("g").attr("transform",`translate(${M.left + 8},${M.top + 8})`);
+  lg.append("rect").attr("width",12).attr("height",4).attr("fill",A.color);
+  lg.append("text").attr("x",18).attr("y",6).attr("fill","var(--text)")
+    .style("font-size","11px").style("font-family","var(--mono)").text(A.team);
+  lg.append("rect").attr("width",12).attr("height",4).attr("y",16).attr("fill",B.color);
+  lg.append("text").attr("x",18).attr("y",22).attr("fill","var(--text)")
+    .style("font-size","11px").style("font-family","var(--mono)").text(B.team);
+}
+
+window.addEventListener("resize", () => { clearTimeout(window._rt); window._rt = setTimeout(render, 150); });
+</script>
+
+</body>
+</html>

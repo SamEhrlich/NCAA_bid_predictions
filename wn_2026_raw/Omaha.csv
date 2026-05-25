@@ -1,0 +1,48 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Arizona State,Omaha,7,2,0,0,L,Omaha,Omaha,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+02/14/2026,Arizona State,Omaha,11,5,0,0,L,Omaha,Omaha,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+02/15/2026,Arizona State,Omaha,6,4,0,0,L,Omaha,Omaha,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+02/17/2026,Arizona,Omaha,1,3,0,0,W,Omaha,Omaha,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+02/20/2026,Western Michigan,Omaha,7,8,0,1,W,Omaha,Omaha,Western-Michigan,0,9,"La Jolla, CA",2026,WN2026
+02/21/2026,Western Michigan,Omaha,4,9,0,1,W,Omaha,Omaha,Western-Michigan,0,9,"La Jolla, CA",2026,WN2026
+02/26/2026,Wichita State,Omaha,3,2,0,0,L,Omaha,Omaha,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+02/27/2026,Wichita State,Omaha,10,3,0,0,L,Omaha,Omaha,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+02/28/2026,Wichita State,Omaha,5,2,0,0,L,Omaha,Omaha,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+02/28/2026,Wichita State,Omaha,8,15,0,0,W,Omaha,Omaha,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/03/2026,Nebraska,Omaha,8,5,0,0,L,Omaha,Omaha,Nebraska,1,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/06/2026,Southern Illinois,Omaha,9,1,0,1,L,Omaha,Omaha,Southern-Illinois,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/07/2026,Northwestern,Omaha,9,6,0,1,L,Omaha,Omaha,Northwestern,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/08/2026,Minnesota,Omaha,6,4,0,0,L,Omaha,Omaha,Minnesota,1,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/13/2026,Omaha,North Dakota State,4,2,0,0,W,Omaha,Omaha,North-Dakota-State,0,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+03/14/2026,Omaha,North Dakota State,6,2,0,0,W,Omaha,Omaha,North-Dakota-State,0,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+03/14/2026,Omaha,North Dakota State,2,0,0,0,W,Omaha,Omaha,North-Dakota-State,0,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+03/18/2026,Creighton,Omaha,8,2,0,0,L,Omaha,Omaha,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+03/20/2026,Omaha,Northern Colorado,4,11,0,0,L,Omaha,Omaha,Northern-Colorado,0,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+03/21/2026,Omaha,Northern Colorado,12,11,0,0,W,Omaha,Omaha,Northern-Colorado,0,11,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+03/22/2026,Omaha,Northern Colorado,7,8,0,0,L,Omaha,Omaha,Northern-Colorado,0,10,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+03/24/2026,Creighton,Omaha,7,6,0,0,L,Omaha,Omaha,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+03/28/2026,Saint Thomas,Omaha,2,12,0,0,W,Omaha,Omaha,Saint-Thomas,1,8,"St. Paul, MN / Koch Diamond",2026,WN2026
+03/28/2026,Saint Thomas,Omaha,15,3,0,0,L,Omaha,Omaha,Saint-Thomas,1,7,"St. Paul, MN / Koch Diamond",2026,WN2026
+03/29/2026,Saint Thomas,Omaha,7,11,0,0,W,Omaha,Omaha,Saint-Thomas,1,9,"St. Paul, MN / Koch Diamond",2026,WN2026
+04/10/2026,Omaha,Oral Roberts,0,9,0,0,L,Omaha,Omaha,Oral-Roberts,0,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+04/11/2026,Omaha,Oral Roberts,1,13,0,0,L,Omaha,Omaha,Oral-Roberts,0,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+04/12/2026,Omaha,Oral Roberts,8,7,0,0,W,Omaha,Omaha,Oral-Roberts,0,12,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+04/14/2026,Kansas State,Omaha,5,12,0,0,W,Omaha,Omaha,Kansas-State,1,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/19/2026,North Dakota State,Omaha,5,6,0,0,W,Omaha,Omaha,North-Dakota-State,1,9,"Fargo, ND / Newman Outdoor Field",2026,WN2026
+04/19/2026,North Dakota State,Omaha,6,1,0,0,L,Omaha,Omaha,North-Dakota-State,1,9,"Fargo, ND / Newman Outdoor Field",2026,WN2026
+04/22/2026,Omaha,Creighton,10,15,0,0,L,Omaha,Omaha,Creighton,0,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+04/24/2026,Omaha,Saint Thomas,9,1,0,0,W,Omaha,Omaha,Saint-Thomas,0,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+04/25/2026,Omaha,Saint Thomas,5,11,0,0,L,Omaha,Omaha,Saint-Thomas,0,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+04/26/2026,Omaha,Saint Thomas,12,18,0,0,L,Omaha,Omaha,Saint-Thomas,0,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+05/01/2026,Northern Colorado,Omaha,11,7,0,0,L,Omaha,Omaha,Northern-Colorado,1,9,"Greeley, CO / Jackson Field",2026,WN2026
+05/02/2026,Northern Colorado,Omaha,3,6,0,0,W,Omaha,Omaha,Northern-Colorado,1,9,"Greeley, CO / Jackson Field",2026,WN2026
+05/03/2026,Northern Colorado,Omaha,11,12,0,0,W,Omaha,Omaha,Northern-Colorado,1,9,"Greeley, CO / Jackson Field",2026,WN2026
+05/09/2026,Oral Roberts,Omaha,4,3,0,0,L,Omaha,Omaha,Oral-Roberts,1,9,"Tulsa, OK / J. L. Johnson Stadium / Box Score",2026,WN2026
+05/09/2026,Oral Roberts,Omaha,5,7,0,0,W,Omaha,Omaha,Oral-Roberts,1,9,"Tulsa, OK / J. L. Johnson Stadium / Box Score",2026,WN2026
+05/10/2026,Oral Roberts,Omaha,6,8,0,0,W,Omaha,Omaha,Oral-Roberts,1,9,"Tulsa, OK / J. L. Johnson Stadium / Box Score",2026,WN2026
+05/13/2026,South Dakota State,Omaha,5,0,0,0,L,Omaha,Omaha,South-Dakota-State,1,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+05/14/2026,Omaha,South Dakota State,10,7,0,0,W,Omaha,Omaha,South-Dakota-State,0,9,"Omaha, NE / Tal Anderson Field at Maverick Park / Box Score",2026,WN2026
+05/15/2026,Omaha,South Dakota State,11,3,0,0,W,Omaha,Omaha,South-Dakota-State,0,9,"Omaha, NE / Tal Anderson Field at Maverick Park / Box Score",2026,WN2026
+05/16/2026,Omaha,South Dakota State,13,8,0,0,W,Omaha,Omaha,South-Dakota-State,0,9,"Omaha, NE / Tal Anderson Field at Maverick Park / Box Score",2026,WN2026
+05/20/2026,Northern Colorado,Omaha,5,3,0,1,L,Omaha,Omaha,Northern-Colorado,0,9,"Minneapolis, MN / Siebert Field / Box Score / Recap",2026,WN2026
+05/21/2026,Oral Roberts,Omaha,9,0,0,1,L,Omaha,Omaha,Oral-Roberts,0,9,"Minneapolis, MN / Siebert Field",2026,WN2026

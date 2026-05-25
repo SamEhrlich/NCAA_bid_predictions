@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Coastal Carolina,Fairfield,5,3,0,0,W,Coastal Carolina,Coastal-Carolina,Fairfield,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+02/14/2026,Coastal Carolina,Fairfield,5,1,0,0,W,Coastal Carolina,Coastal-Carolina,Fairfield,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+02/14/2026,Coastal Carolina,Fairfield,5,0,0,0,W,Coastal Carolina,Coastal-Carolina,Fairfield,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+02/17/2026,Coastal Carolina,Charleston,3,4,0,0,L,Coastal Carolina,Coastal-Carolina,Charleston,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+02/20/2026,Coastal Carolina,VCU,13,2,0,0,W,Coastal Carolina,Coastal-Carolina,VCU,0,8,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+02/22/2026,Coastal Carolina,VCU,6,3,0,0,W,Coastal Carolina,Coastal-Carolina,VCU,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+02/22/2026,Coastal Carolina,Illinois,5,14,0,0,L,Coastal Carolina,Coastal-Carolina,Illinois,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+02/24/2026,Coastal Carolina,Campbell,13,7,0,0,W,Coastal Carolina,Coastal-Carolina,Campbell,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+02/27/2026,Texas,Coastal Carolina,8,1,0,1,L,Coastal Carolina,Coastal-Carolina,Texas,0,9,"Houston, TX / Daikin Park",2026,WN2026
+02/28/2026,UTSA,Coastal Carolina,16,10,0,1,L,Coastal Carolina,Coastal-Carolina,UTSA,0,9,"Houston, TX / Daikin Park",2026,WN2026
+03/01/2026,Ole Miss,Coastal Carolina,2,9,0,1,W,Coastal Carolina,Coastal-Carolina,Ole-Miss,0,9,"Houston, TX / Daikin Park",2026,WN2026
+03/03/2026,North Carolina State,Coastal Carolina,6,4,0,0,L,Coastal Carolina,Coastal-Carolina,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+03/06/2026,Coastal Carolina,East Carolina,10,6,0,0,W,Coastal Carolina,Coastal-Carolina,East-Carolina,0,10,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+03/07/2026,Coastal Carolina,East Carolina,7,1,0,0,W,Coastal Carolina,Coastal-Carolina,East-Carolina,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+03/08/2026,Coastal Carolina,East Carolina,4,10,0,0,L,Coastal Carolina,Coastal-Carolina,East-Carolina,0,6,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+03/10/2026,Coastal Carolina,Wake Forest,10,4,0,0,W,Coastal Carolina,Coastal-Carolina,Wake-Forest,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+03/13/2026,Appalachian State,Coastal Carolina,6,10,0,0,W,Coastal Carolina,Coastal-Carolina,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+03/14/2026,Appalachian State,Coastal Carolina,4,7,0,0,W,Coastal Carolina,Coastal-Carolina,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+03/15/2026,Appalachian State,Coastal Carolina,7,8,0,0,W,Coastal Carolina,Coastal-Carolina,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+03/18/2026,Campbell,Coastal Carolina,4,3,0,0,L,Coastal Carolina,Coastal-Carolina,Campbell,1,9,"Buies Creek, NC / Jim Perry Stadium",2026,WN2026
+03/20/2026,Coastal Carolina,James Madison,12,2,0,0,W,Coastal Carolina,Coastal-Carolina,James-Madison,0,7,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+03/21/2026,Coastal Carolina,James Madison,10,0,0,0,W,Coastal Carolina,Coastal-Carolina,James-Madison,0,7,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+03/22/2026,Coastal Carolina,James Madison,16,6,0,0,W,Coastal Carolina,Coastal-Carolina,James-Madison,0,7,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+03/24/2026,Clemson,Coastal Carolina,9,11,0,0,W,Coastal Carolina,Coastal-Carolina,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+03/27/2026,Marshall,Coastal Carolina,9,11,0,0,W,Coastal Carolina,Coastal-Carolina,Marshall,1,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/28/2026,Marshall,Coastal Carolina,4,12,0,0,W,Coastal Carolina,Coastal-Carolina,Marshall,1,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/29/2026,Marshall,Coastal Carolina,4,5,0,0,W,Coastal Carolina,Coastal-Carolina,Marshall,1,10,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/31/2026,The Citadel,Coastal Carolina,2,3,0,0,W,Coastal Carolina,Coastal-Carolina,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park",2026,WN2026
+04/02/2026,Coastal Carolina,South Alabama,12,2,0,0,W,Coastal Carolina,Coastal-Carolina,South-Alabama,0,7,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+04/03/2026,Coastal Carolina,South Alabama,2,15,0,0,L,Coastal Carolina,Coastal-Carolina,South-Alabama,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+04/04/2026,Coastal Carolina,South Alabama,8,7,0,0,W,Coastal Carolina,Coastal-Carolina,South-Alabama,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+04/07/2026,Wake Forest,Coastal Carolina,1,2,0,1,W,Coastal Carolina,Coastal-Carolina,Wake-Forest,0,9,"Durham, NC / Durham Bulls Athletic Park",2026,WN2026
+04/10/2026,Arkansas State,Coastal Carolina,7,10,0,0,W,Coastal Carolina,Coastal-Carolina,Arkansas-State,1,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+04/11/2026,Arkansas State,Coastal Carolina,3,4,0,0,W,Coastal Carolina,Coastal-Carolina,Arkansas-State,1,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+04/12/2026,Arkansas State,Coastal Carolina,6,3,0,0,L,Coastal Carolina,Coastal-Carolina,Arkansas-State,1,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+04/14/2026,Wake Forest,Coastal Carolina,10,5,0,0,L,Coastal Carolina,Coastal-Carolina,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+04/17/2026,Coastal Carolina,Georgia State,15,7,0,0,W,Coastal Carolina,Coastal-Carolina,Georgia-State,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+04/18/2026,Coastal Carolina,Georgia State,7,2,0,0,W,Coastal Carolina,Coastal-Carolina,Georgia-State,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+04/19/2026,Coastal Carolina,Georgia State,5,11,0,0,L,Coastal Carolina,Coastal-Carolina,Georgia-State,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+04/21/2026,UNCW,Coastal Carolina,2,1,0,0,L,Coastal Carolina,Coastal-Carolina,UNCW,1,9,"Wilmington, NC / Brooks Field",2026,WN2026
+04/24/2026,Coastal Carolina,Texas State,6,2,0,0,W,Coastal Carolina,Coastal-Carolina,Texas-State,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+04/25/2026,Coastal Carolina,Texas State,2,1,0,0,W,Coastal Carolina,Coastal-Carolina,Texas-State,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+04/26/2026,Coastal Carolina,Texas State,6,10,0,0,L,Coastal Carolina,Coastal-Carolina,Texas-State,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+04/28/2026,North Carolina,Coastal Carolina,2,12,0,0,W,Coastal Carolina,Coastal-Carolina,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+05/01/2026,Georgia Southern,Coastal Carolina,7,8,0,0,W,Coastal Carolina,Coastal-Carolina,Georgia-Southern,1,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+05/03/2026,Georgia Southern,Coastal Carolina,4,14,0,0,W,Coastal Carolina,Coastal-Carolina,Georgia-Southern,1,7,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+05/03/2026,Georgia Southern,Coastal Carolina,7,4,0,0,L,Coastal Carolina,Coastal-Carolina,Georgia-Southern,1,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+05/05/2026,Coastal Carolina,Clemson,4,8,0,0,L,Coastal Carolina,Coastal-Carolina,Clemson,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+05/08/2026,Coastal Carolina,Old Dominion,16,8,0,0,W,Coastal Carolina,Coastal-Carolina,Old-Dominion,0,9,"Conway, SC / Springs Brooks Stadium / Box Score",2026,WN2026
+05/09/2026,Coastal Carolina,Old Dominion,3,6,0,0,L,Coastal Carolina,Coastal-Carolina,Old-Dominion,0,9,"Conway, SC / Springs Brooks Stadium / Box Score",2026,WN2026
+05/10/2026,Coastal Carolina,Old Dominion,2,9,0,0,L,Coastal Carolina,Coastal-Carolina,Old-Dominion,0,9,"Conway, SC / Springs Brooks Stadium / Box Score",2026,WN2026
+05/12/2026,Coastal Carolina,The Citadel,5,3,0,0,W,Coastal Carolina,Coastal-Carolina,The-Citadel,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+05/14/2026,Louisiana,Coastal Carolina,7,2,0,0,L,Coastal Carolina,Coastal-Carolina,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park / Box Score",2026,WN2026
+05/15/2026,Louisiana,Coastal Carolina,0,6,0,0,W,Coastal Carolina,Coastal-Carolina,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park / Box Score",2026,WN2026
+05/16/2026,Louisiana,Coastal Carolina,3,2,0,0,L,Coastal Carolina,Coastal-Carolina,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park / Box Score",2026,WN2026
+05/20/2026,Louisiana,Coastal Carolina,12,11,0,1,L,Coastal Carolina,Coastal-Carolina,Louisiana,0,9,"Montgomery, AL / Dabos Park / Recap",2026,WN2026
+05/21/2026,Appalachian State,Coastal Carolina,2,8,0,1,W,Coastal Carolina,Coastal-Carolina,Appalachian-State,0,9,"Montgomery, AL / Dabos Park",2026,WN2026
+05/22/2026,Louisiana,Coastal Carolina,5,4,0,1,L,Coastal Carolina,Coastal-Carolina,Louisiana,0,9,"Montgomery, AL / Riddle-Pace Field",2026,WN2026

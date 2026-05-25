@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/20/2026,Longwood,UMBC,6,4,0,0,L,UMBC,UMBC,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+02/21/2026,Longwood,UMBC,4,3,0,0,L,UMBC,UMBC,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+02/21/2026,Longwood,UMBC,17,11,0,0,L,UMBC,UMBC,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+02/25/2026,Georgetown,UMBC,7,12,0,0,W,UMBC,UMBC,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+02/28/2026,UMBC,Monmouth,4,3,0,0,W,UMBC,UMBC,Monmouth,0,7,"Catonsville, MD / Alumni Field",2026,WN2026
+02/28/2026,UMBC,Monmouth,10,9,0,0,W,UMBC,UMBC,Monmouth,0,9,"Catonsville, MD / Alumni Field",2026,WN2026
+03/01/2026,UMBC,Monmouth,0,13,0,0,L,UMBC,UMBC,Monmouth,0,8,"Catonsville, MD / Alumni Field",2026,WN2026
+03/07/2026,Penn,UMBC,7,6,0,0,L,UMBC,UMBC,Penn,1,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+03/08/2026,Penn,UMBC,1,4,0,0,W,UMBC,UMBC,Penn,1,10,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+03/08/2026,Penn,UMBC,10,5,0,0,L,UMBC,UMBC,Penn,1,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+03/10/2026,UMBC,Mount Saint Mary's,20,4,0,0,W,UMBC,UMBC,Mount-Saint-Marys,0,7,"Catonsville, MD / Alumni Field",2026,WN2026
+03/11/2026,UMBC,Delaware State,14,6,0,0,W,UMBC,UMBC,Delaware-State,0,9,"Catonsville, MD / Alumni Field",2026,WN2026
+03/13/2026,FAU,UMBC,10,9,0,0,L,UMBC,UMBC,FAU,1,11,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/14/2026,FAU,UMBC,3,14,0,0,W,UMBC,UMBC,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/15/2026,FAU,UMBC,4,3,0,0,L,UMBC,UMBC,FAU,1,10,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/20/2026,UMBC,Maine,7,5,0,0,W,UMBC,UMBC,Maine,0,9,"Catonsville, MD / Alumni Field",2026,WN2026
+03/21/2026,UMBC,Maine,11,5,0,0,W,UMBC,UMBC,Maine,0,9,"Catonsville, MD / Alumni Field",2026,WN2026
+03/22/2026,UMBC,Maine,3,4,0,0,L,UMBC,UMBC,Maine,0,9,"Catonsville, MD / Alumni Field",2026,WN2026
+03/24/2026,Coppin State,UMBC,14,24,0,0,W,UMBC,UMBC,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/27/2026,Albany,UMBC,0,2,0,0,W,UMBC,UMBC,Albany,1,7,"Albany, NY / Varsity Field",2026,WN2026
+03/27/2026,Albany,UMBC,3,8,0,0,W,UMBC,UMBC,Albany,1,9,"Albany, NY / Varsity Field",2026,WN2026
+03/29/2026,Albany,UMBC,6,8,0,0,W,UMBC,UMBC,Albany,1,9,"Albany, NY / Varsity Field",2026,WN2026
+03/31/2026,UMBC,George Washington,7,4,0,0,W,UMBC,UMBC,George-Washington,0,9,"Catonsville, MD / Alumni Field",2026,WN2026
+04/02/2026,UMBC,Iona,9,8,0,0,W,UMBC,UMBC,Iona,0,9,"Catonsville, MD / Alumni Field",2026,WN2026
+04/03/2026,UMBC,Iona,12,2,0,0,W,UMBC,UMBC,Iona,0,7,"Catonsville, MD / Alumni Field",2026,WN2026
+04/04/2026,UMBC,Iona,3,4,0,0,L,UMBC,UMBC,Iona,0,10,"Catonsville, MD / Alumni Field",2026,WN2026
+04/07/2026,UMBC,Maryland,0,11,0,0,L,UMBC,UMBC,Maryland,0,7,"Catonsville, MD / Alumni Field",2026,WN2026
+04/10/2026,Binghamton,UMBC,6,5,0,0,L,UMBC,UMBC,Binghamton,1,10,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/11/2026,Binghamton,UMBC,4,3,0,0,L,UMBC,UMBC,Binghamton,1,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/12/2026,Binghamton,UMBC,16,5,0,0,L,UMBC,UMBC,Binghamton,1,8,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/14/2026,UMBC,Georgetown,3,9,0,0,L,UMBC,UMBC,Georgetown,0,9,"Catonsville, MD / Alumni Field",2026,WN2026
+04/17/2026,UMBC,UMass-Lowell,13,0,0,0,W,UMBC,UMBC,UMass-Lowell,0,7,"Catonsville, MD / Alumni Field",2026,WN2026
+04/18/2026,UMBC,UMass-Lowell,7,9,0,0,L,UMBC,UMBC,UMass-Lowell,0,10,"Catonsville, MD / Alumni Field",2026,WN2026
+04/19/2026,UMBC,UMass-Lowell,12,11,0,0,W,UMBC,UMBC,UMass-Lowell,0,9,"Catonsville, MD / Alumni Field",2026,WN2026
+04/21/2026,UMBC,Towson,6,5,0,0,W,UMBC,UMBC,Towson,0,11,"Catonsville, MD / Alumni Field",2026,WN2026
+04/24/2026,Maine,UMBC,2,3,0,0,W,UMBC,UMBC,Maine,1,9,"Orono, ME / Mahaney Diamond",2026,WN2026
+04/25/2026,Maine,UMBC,8,5,0,0,L,UMBC,UMBC,Maine,1,9,"Orono, ME / Mahaney Diamond",2026,WN2026
+04/26/2026,Maine,UMBC,11,1,0,0,L,UMBC,UMBC,Maine,1,8,"Orono, ME / Mahaney Diamond",2026,WN2026
+04/28/2026,La Salle,UMBC,9,2,0,0,L,UMBC,UMBC,La-Salle,1,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+05/01/2026,UMBC,Albany,11,5,0,0,W,UMBC,UMBC,Albany,0,9,"Catonsville, MD / Alumni Field",2026,WN2026
+05/02/2026,UMBC,Albany,4,8,0,0,L,UMBC,UMBC,Albany,0,9,"Catonsville, MD / Alumni Field",2026,WN2026
+05/03/2026,UMBC,Albany,12,6,0,0,W,UMBC,UMBC,Albany,0,9,"Catonsville, MD / Alumni Field",2026,WN2026
+05/05/2026,UMBC,Coppin State,9,8,0,0,W,UMBC,UMBC,Coppin-State,0,11,"Catonsville, MD / Alumni Field",2026,WN2026
+05/08/2026,Bryant,UMBC,2,4,0,0,W,UMBC,UMBC,Bryant,1,9,"Smithfield, RI / Conaty Park / Box Score",2026,WN2026
+05/09/2026,Bryant,UMBC,5,7,0,0,W,UMBC,UMBC,Bryant,1,9,"Smithfield, RI / Conaty Park / Box Score",2026,WN2026
+05/10/2026,Bryant,UMBC,4,3,0,0,L,UMBC,UMBC,Bryant,1,9,"Smithfield, RI / Conaty Park / Box Score",2026,WN2026
+05/12/2026,Towson,UMBC,9,8,0,0,L,UMBC,UMBC,Towson,1,9,"Towson, MD / John B. Schuerholz Park",2026,WN2026
+05/14/2026,UMBC,NJIT,12,4,0,0,W,UMBC,UMBC,NJIT,0,9,"Catonsville, MD / Alumni Field / Box Score",2026,WN2026
+05/15/2026,UMBC,NJIT,17,6,0,0,W,UMBC,UMBC,NJIT,0,7,"Catonsville, MD / Alumni Field / Box Score",2026,WN2026
+05/16/2026,UMBC,NJIT,7,4,0,0,W,UMBC,UMBC,NJIT,0,9,"Catonsville, MD / Alumni Field / Box Score",2026,WN2026
+05/21/2026,Maine,UMBC,5,4,0,1,L,UMBC,UMBC,Maine,0,9,"Vestal, NY / Bearcats Baseball Complex / Recap",2026,WN2026
+05/21/2026,UMass-Lowell,UMBC,0,9,0,1,W,UMBC,UMBC,UMass-Lowell,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+05/22/2026,Maine,UMBC,11,6,0,1,L,UMBC,UMBC,Maine,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026

@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Southeastern Louisiana,Kent State,3,8,0,0,W,Kent State,Kent-State,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+02/14/2026,Southeastern Louisiana,Kent State,2,11,0,0,W,Kent State,Kent-State,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+02/15/2026,Southeastern Louisiana,Kent State,7,14,0,0,W,Kent State,Kent-State,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+02/16/2026,LSU,Kent State,10,7,0,0,L,Kent State,Kent-State,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+02/20/2026,Tennessee,Kent State,4,3,0,0,L,Kent State,Kent-State,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/21/2026,Tennessee,Kent State,1,2,0,0,W,Kent State,Kent-State,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/22/2026,Tennessee,Kent State,5,9,0,0,W,Kent State,Kent-State,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/25/2026,Wright State,Kent State,8,1,0,0,L,Kent State,Kent-State,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+02/27/2026,Kent State,Rhode Island,8,7,0,0,W,Kent State,Kent-State,Rhode-Island,0,13,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+02/28/2026,Kent State,Rhode Island,7,1,0,0,W,Kent State,Kent-State,Rhode-Island,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+02/28/2026,Kent State,Rhode Island,12,3,0,0,W,Kent State,Kent-State,Rhode-Island,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/04/2026,Kent State,Saint Bonaventure,14,9,0,0,W,Kent State,Kent-State,Saint-Bonaventure,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/06/2026,Kent State,Bowling Green,8,1,0,0,W,Kent State,Kent-State,Bowling-Green,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/07/2026,Kent State,Bowling Green,2,7,0,0,L,Kent State,Kent-State,Bowling-Green,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/08/2026,Kent State,Bowling Green,13,1,0,0,W,Kent State,Kent-State,Bowling-Green,0,7,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/10/2026,Ohio State,Kent State,5,8,0,0,W,Kent State,Kent-State,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/13/2026,Kent State,Central Michigan,11,10,0,0,W,Kent State,Kent-State,Central-Michigan,0,10,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/14/2026,Kent State,Central Michigan,3,2,0,0,W,Kent State,Kent-State,Central-Michigan,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/15/2026,Kent State,Central Michigan,6,4,0,0,W,Kent State,Kent-State,Central-Michigan,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/20/2026,UMass,Kent State,3,14,0,0,W,Kent State,Kent-State,UMass,1,8,"Hartford, CT / Murren Family Field",2026,WN2026
+03/21/2026,UMass,Kent State,3,9,0,0,W,Kent State,Kent-State,UMass,1,9,"Hartford, CT / Murren Family Field",2026,WN2026
+03/22/2026,UMass,Kent State,8,9,0,0,W,Kent State,Kent-State,UMass,1,9,"Hartford, CT / Murren Family Field",2026,WN2026
+03/24/2026,Kent State,Pittsburgh,4,13,0,0,L,Kent State,Kent-State,Pittsburgh,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/27/2026,Kent State,Miami (OH),5,4,0,0,W,Kent State,Kent-State,Miami-OH,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/28/2026,Kent State,Miami (OH),3,21,0,0,L,Kent State,Kent-State,Miami-OH,0,7,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/29/2026,Kent State,Miami (OH),5,8,0,0,L,Kent State,Kent-State,Miami-OH,0,10,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+04/02/2026,Ohio,Kent State,5,11,0,0,W,Kent State,Kent-State,Ohio,1,9,"Athens, OH / Bob Wren Stadium",2026,WN2026
+04/03/2026,Ohio,Kent State,1,15,0,0,W,Kent State,Kent-State,Ohio,1,8,"Athens, OH / Bob Wren Stadium",2026,WN2026
+04/04/2026,Ohio,Kent State,2,16,0,0,W,Kent State,Kent-State,Ohio,1,9,"Athens, OH / Bob Wren Stadium",2026,WN2026
+04/08/2026,Kent State,Akron,12,7,0,0,W,Kent State,Kent-State,Akron,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+04/10/2026,Northern Illinois,Kent State,12,2,0,0,L,Kent State,Kent-State,Northern-Illinois,1,7,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+04/11/2026,Northern Illinois,Kent State,8,9,0,0,W,Kent State,Kent-State,Northern-Illinois,1,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+04/12/2026,Northern Illinois,Kent State,5,2,0,0,L,Kent State,Kent-State,Northern-Illinois,1,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+04/14/2026,Mercyhurst,Kent State,2,14,0,0,W,Kent State,Kent-State,Mercyhurst,1,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+04/17/2026,Kent State,Ball State,3,11,0,0,L,Kent State,Kent-State,Ball-State,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+04/18/2026,Kent State,Ball State,5,1,0,0,W,Kent State,Kent-State,Ball-State,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+04/19/2026,Kent State,Ball State,8,5,0,0,W,Kent State,Kent-State,Ball-State,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+04/22/2026,Kent State,Mercyhurst,13,2,0,0,W,Kent State,Kent-State,Mercyhurst,0,7,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+04/24/2026,Western Michigan,Kent State,7,8,0,0,W,Kent State,Kent-State,Western-Michigan,1,13,"Kalamazoo, MI / Hyames Field",2026,WN2026
+04/25/2026,Western Michigan,Kent State,1,9,0,0,W,Kent State,Kent-State,Western-Michigan,1,9,"Kalamazoo, MI / Hyames Field",2026,WN2026
+04/26/2026,Western Michigan,Kent State,4,3,0,0,L,Kent State,Kent-State,Western-Michigan,1,9,"Kalamazoo, MI / Hyames Field",2026,WN2026
+04/29/2026,Pittsburgh,Kent State,5,13,0,0,W,Kent State,Kent-State,Pittsburgh,1,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+05/02/2026,Akron,Kent State,4,8,0,0,W,Kent State,Kent-State,Akron,1,9,"Akron, OH / Skeeles Field",2026,WN2026
+05/03/2026,Akron,Kent State,1,12,0,0,W,Kent State,Kent-State,Akron,1,8,"Akron, OH / Skeeles Field",2026,WN2026
+05/03/2026,Akron,Kent State,2,7,0,0,W,Kent State,Kent-State,Akron,1,9,"Akron, OH / Skeeles Field",2026,WN2026
+05/08/2026,Kent State,Eastern Michigan,6,5,0,0,W,Kent State,Kent-State,Eastern-Michigan,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium / Box Score",2026,WN2026
+05/09/2026,Kent State,Eastern Michigan,7,10,0,0,L,Kent State,Kent-State,Eastern-Michigan,0,10,"Kent, OH / Olga Mural Field at Schoonover Stadium / Box Score",2026,WN2026
+05/10/2026,Kent State,Eastern Michigan,6,0,0,0,W,Kent State,Kent-State,Eastern-Michigan,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium / Box Score",2026,WN2026
+05/12/2026,Kent State,Michigan,5,3,0,0,W,Kent State,Kent-State,Michigan,0,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+05/14/2026,Toledo,Kent State,3,4,0,0,W,Kent State,Kent-State,Toledo,1,9,"Toledo, OH / Scott Park Baseball Complex / Box Score",2026,WN2026
+05/15/2026,Toledo,Kent State,3,4,0,0,W,Kent State,Kent-State,Toledo,1,9,"Toledo, OH / Scott Park Baseball Complex / Box Score",2026,WN2026
+05/16/2026,Toledo,Kent State,9,6,0,0,L,Kent State,Kent-State,Toledo,1,9,"Toledo, OH / Scott Park Baseball Complex / Box Score",2026,WN2026
+05/21/2026,Toledo,Kent State,8,0,0,1,L,Kent State,Kent-State,Toledo,0,9,"Avon, OH / Mercy Health Stadium / Recap",2026,WN2026
+05/22/2026,Miami (OH),Kent State,1,3,0,1,W,Kent State,Kent-State,Miami-OH,0,9,"Avon, OH / Mercy Health Stadium",2026,WN2026
+05/22/2026,Western Michigan,Kent State,1,6,0,1,W,Kent State,Kent-State,Western-Michigan,0,9,"Avon, OH / Mercy Health Stadium",2026,WN2026
+05/23/2026,Toledo,Kent State,5,2,0,1,L,Kent State,Kent-State,Toledo,0,9,"Avon, OH / Mercy Health Stadium",2026,WN2026

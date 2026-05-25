@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UNC Asheville,Saint Bonaventure,8,0,0,0,W,UNC Asheville,UNC-Asheville,Saint-Bonaventure,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+02/13/2026,UNC Asheville,Saint Bonaventure,7,11,0,0,L,UNC Asheville,UNC-Asheville,Saint-Bonaventure,0,7,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+02/14/2026,UNC Asheville,Saint Bonaventure,5,10,0,0,L,UNC Asheville,UNC-Asheville,Saint-Bonaventure,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+02/14/2026,UNC Asheville,Saint Bonaventure,9,1,0,0,W,UNC Asheville,UNC-Asheville,Saint-Bonaventure,0,7,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+02/17/2026,Tennessee,UNC Asheville,10,3,0,0,L,UNC Asheville,UNC-Asheville,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/20/2026,UNC Asheville,Rider,5,6,0,0,L,UNC Asheville,UNC-Asheville,Rider,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+02/21/2026,UNC Asheville,Rider,8,10,0,0,L,UNC Asheville,UNC-Asheville,Rider,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+02/21/2026,UNC Asheville,Rider,2,10,0,0,L,UNC Asheville,UNC-Asheville,Rider,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+02/27/2026,Mississippi Valley State,UNC Asheville,1,13,0,1,W,UNC Asheville,UNC-Asheville,Mississippi-Valley-State,0,8,"Jackson, MS / Braddy Field",2026,WN2026
+02/28/2026,Jackson State,UNC Asheville,1,7,0,0,W,UNC Asheville,UNC-Asheville,Jackson-State,1,9,"Jackson, MS / Braddy Field",2026,WN2026
+02/28/2026,Alcorn State,UNC Asheville,2,8,0,1,W,UNC Asheville,UNC-Asheville,Alcorn-State,0,9,"Jackson, MS / Braddy Field",2026,WN2026
+03/01/2026,Jackson State,UNC Asheville,6,5,0,0,L,UNC Asheville,UNC-Asheville,Jackson-State,1,9,"Jackson, MS / Braddy Field",2026,WN2026
+03/03/2026,UNC Asheville,Wofford,8,7,0,0,W,UNC Asheville,UNC-Asheville,Wofford,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+03/06/2026,UNC Asheville,Alabama A&M,8,4,0,0,W,UNC Asheville,UNC-Asheville,Alabama-AM,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+03/07/2026,UNC Asheville,Alabama A&M,6,1,0,0,W,UNC Asheville,UNC-Asheville,Alabama-AM,0,7,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+03/07/2026,UNC Asheville,Alabama A&M,11,7,0,0,W,UNC Asheville,UNC-Asheville,Alabama-AM,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+03/08/2026,UNC Asheville,Alabama A&M,12,7,0,0,W,UNC Asheville,UNC-Asheville,Alabama-AM,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+03/10/2026,UNC Asheville,Morehead State,11,16,0,0,L,UNC Asheville,UNC-Asheville,Morehead-State,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+03/13/2026,Presbyterian College,UNC Asheville,5,6,0,0,W,UNC Asheville,UNC-Asheville,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+03/14/2026,Presbyterian College,UNC Asheville,11,0,0,0,L,UNC Asheville,UNC-Asheville,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+03/15/2026,Presbyterian College,UNC Asheville,11,1,0,0,L,UNC Asheville,UNC-Asheville,Presbyterian-College,1,7,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+03/20/2026,Villanova,UNC Asheville,9,12,0,0,W,UNC Asheville,UNC-Asheville,Villanova,1,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+03/21/2026,Villanova,UNC Asheville,10,4,0,0,L,UNC Asheville,UNC-Asheville,Villanova,1,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+03/22/2026,Villanova,UNC Asheville,11,6,0,0,L,UNC Asheville,UNC-Asheville,Villanova,1,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+03/24/2026,UNC Asheville,Western Carolina,8,4,0,0,W,UNC Asheville,UNC-Asheville,Western-Carolina,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+03/27/2026,South Carolina Upstate,UNC Asheville,11,10,0,0,L,UNC Asheville,UNC-Asheville,South-Carolina-Upstate,1,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+03/28/2026,South Carolina Upstate,UNC Asheville,14,1,0,0,L,UNC Asheville,UNC-Asheville,South-Carolina-Upstate,1,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+03/29/2026,South Carolina Upstate,UNC Asheville,3,5,0,0,W,UNC Asheville,UNC-Asheville,South-Carolina-Upstate,1,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+03/31/2026,Appalachian State,UNC Asheville,17,7,0,0,L,UNC Asheville,UNC-Asheville,Appalachian-State,1,8,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/02/2026,UNC Asheville,Gardner-Webb,6,13,0,0,L,UNC Asheville,UNC-Asheville,Gardner-Webb,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+04/03/2026,UNC Asheville,Gardner-Webb,0,6,0,0,L,UNC Asheville,UNC-Asheville,Gardner-Webb,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+04/04/2026,UNC Asheville,Gardner-Webb,12,9,0,0,W,UNC Asheville,UNC-Asheville,Gardner-Webb,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+04/07/2026,UNC Asheville,Appalachian State,5,18,0,0,L,UNC Asheville,UNC-Asheville,Appalachian-State,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+04/10/2026,Longwood,UNC Asheville,8,4,0,0,L,UNC Asheville,UNC-Asheville,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+04/11/2026,Longwood,UNC Asheville,9,2,0,0,L,UNC Asheville,UNC-Asheville,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+04/12/2026,Longwood,UNC Asheville,5,7,0,0,W,UNC Asheville,UNC-Asheville,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+04/14/2026,Tennessee,UNC Asheville,11,1,0,0,L,UNC Asheville,UNC-Asheville,Tennessee,1,8,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/17/2026,UNC Asheville,Wofford,1,16,0,0,L,UNC Asheville,UNC-Asheville,Wofford,0,7,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+04/18/2026,Wofford,UNC Asheville,11,0,0,0,L,UNC Asheville,UNC-Asheville,Wofford,1,7,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+04/19/2026,Wofford,UNC Asheville,20,9,0,0,L,UNC Asheville,UNC-Asheville,Wofford,1,8,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+04/21/2026,North Carolina A&T,UNC Asheville,4,1,0,0,L,UNC Asheville,UNC-Asheville,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+04/24/2026,UNC Asheville,Charleston Southern,2,12,0,0,L,UNC Asheville,UNC-Asheville,Charleston-Southern,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+04/26/2026,UNC Asheville,Charleston Southern,13,8,0,0,W,UNC Asheville,UNC-Asheville,Charleston-Southern,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+04/26/2026,UNC Asheville,Charleston Southern,16,19,0,0,L,UNC Asheville,UNC-Asheville,Charleston-Southern,0,10,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+04/28/2026,East Tennessee State,UNC Asheville,10,7,0,0,L,UNC Asheville,UNC-Asheville,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+05/01/2026,UNC Asheville,Winthrop,1,5,0,0,L,UNC Asheville,UNC-Asheville,Winthrop,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+05/02/2026,UNC Asheville,Winthrop,6,10,0,0,L,UNC Asheville,UNC-Asheville,Winthrop,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+05/03/2026,UNC Asheville,Winthrop,9,0,0,0,W,UNC Asheville,UNC-Asheville,Winthrop,0,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+05/05/2026,Western Carolina,UNC Asheville,4,1,0,0,L,UNC Asheville,UNC-Asheville,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+05/08/2026,Radford,UNC Asheville,9,5,0,0,L,UNC Asheville,UNC-Asheville,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium / Box Score",2026,WN2026
+05/09/2026,Radford,UNC Asheville,2,4,0,0,W,UNC Asheville,UNC-Asheville,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium / Box Score",2026,WN2026
+05/10/2026,Radford,UNC Asheville,4,6,0,0,W,UNC Asheville,UNC-Asheville,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium / Box Score",2026,WN2026
+05/14/2026,UNC Asheville,High Point,10,11,0,0,L,UNC Asheville,UNC-Asheville,High-Point,0,10,"Asheville, NC / Greenwood Baseball Field / Box Score",2026,WN2026
+05/15/2026,UNC Asheville,High Point,11,0,0,0,W,UNC Asheville,UNC-Asheville,High-Point,0,9,"Asheville, NC / Greenwood Baseball Field / Box Score",2026,WN2026
+05/16/2026,UNC Asheville,High Point,5,8,0,0,L,UNC Asheville,UNC-Asheville,High-Point,0,9,"Asheville, NC / Greenwood Baseball Field / Box Score",2026,WN2026

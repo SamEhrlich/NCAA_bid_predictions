@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Arizona State,Omaha,7,2,0,0,W,Arizona State,Arizona-State,Omaha,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+02/14/2026,Arizona State,Omaha,11,5,0,0,W,Arizona State,Arizona-State,Omaha,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+02/15/2026,Arizona State,Omaha,6,4,0,0,W,Arizona State,Arizona-State,Omaha,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+02/17/2026,Arizona State,Connecticut,17,7,0,0,W,Arizona State,Arizona-State,Connecticut,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+02/20/2026,Arizona State,Saint John's,9,1,0,0,W,Arizona State,Arizona-State,Saint-Johns,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+02/21/2026,Arizona State,Saint John's,3,1,0,0,W,Arizona State,Arizona-State,Saint-Johns,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+02/22/2026,Arizona State,Saint John's,16,6,0,0,W,Arizona State,Arizona-State,Saint-Johns,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+02/24/2026,Oklahoma,Arizona State,3,15,0,0,W,Arizona State,Arizona-State,Oklahoma,1,7,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+02/25/2026,Oklahoma,Arizona State,4,3,0,0,L,Arizona State,Arizona-State,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+02/27/2026,Mississippi State,Arizona State,8,4,0,1,L,Arizona State,Arizona-State,Mississippi-State,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/28/2026,Tennessee,Arizona State,5,3,0,1,L,Arizona State,Arizona-State,Tennessee,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+03/01/2026,Texas A&M,Arizona State,9,3,0,1,L,Arizona State,Arizona-State,Texas-AM,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+03/06/2026,Arizona State,Loyola-Marymount,12,4,0,0,W,Arizona State,Arizona-State,Loyola-Marymount,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/07/2026,Arizona State,Loyola-Marymount,9,1,0,0,W,Arizona State,Arizona-State,Loyola-Marymount,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/08/2026,Arizona State,Loyola-Marymount,29,4,0,0,W,Arizona State,Arizona-State,Loyola-Marymount,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/10/2026,Arizona State,Arizona,10,4,0,0,W,Arizona State,Arizona-State,Arizona,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/13/2026,Arizona State,TCU,4,5,0,0,L,Arizona State,Arizona-State,TCU,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/14/2026,Arizona State,TCU,15,8,0,0,W,Arizona State,Arizona-State,TCU,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/15/2026,Arizona State,TCU,4,0,0,0,W,Arizona State,Arizona-State,TCU,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/17/2026,Arizona State,Grand Canyon,4,3,0,0,W,Arizona State,Arizona-State,Grand-Canyon,0,10,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/20/2026,Kansas State,Arizona State,4,5,0,0,W,Arizona State,Arizona-State,Kansas-State,1,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/21/2026,Kansas State,Arizona State,12,18,0,0,W,Arizona State,Arizona-State,Kansas-State,1,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/22/2026,Kansas State,Arizona State,12,1,0,0,L,Arizona State,Arizona-State,Kansas-State,1,7,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/23/2026,UNLV,Arizona State,11,12,0,0,W,Arizona State,Arizona-State,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/25/2026,Arizona State,New Mexico State,10,4,0,0,W,Arizona State,Arizona-State,New-Mexico-State,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/27/2026,Arizona State,West Virginia,14,4,0,0,W,Arizona State,Arizona-State,West-Virginia,0,8,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/28/2026,Arizona State,West Virginia,7,13,0,0,L,Arizona State,Arizona-State,West-Virginia,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/29/2026,Arizona State,West Virginia,5,9,0,0,L,Arizona State,Arizona-State,West-Virginia,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/30/2026,Arizona State,San Diego State,6,2,0,0,W,Arizona State,Arizona-State,San-Diego-State,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/02/2026,Arizona,Arizona State,4,6,0,0,W,Arizona State,Arizona-State,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/03/2026,Arizona,Arizona State,7,4,0,0,L,Arizona State,Arizona-State,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/04/2026,Arizona,Arizona State,6,15,0,0,W,Arizona State,Arizona-State,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/07/2026,Grand Canyon,Arizona State,8,12,0,0,W,Arizona State,Arizona-State,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/08/2026,Arizona State,UNLV,5,7,0,0,L,Arizona State,Arizona-State,UNLV,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/10/2026,Arizona State,Utah,4,10,0,0,L,Arizona State,Arizona-State,Utah,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/11/2026,Arizona State,Utah,14,13,0,0,W,Arizona State,Arizona-State,Utah,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/12/2026,Arizona State,Utah,5,2,0,0,W,Arizona State,Arizona-State,Utah,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/13/2026,Arizona State,Arizona,3,5,0,0,L,Arizona State,Arizona-State,Arizona,0,11,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/16/2026,BYU,Arizona State,19,9,0,0,L,Arizona State,Arizona-State,BYU,1,7,"Provo, UT / Larry H. Miller Field",2026,WN2026
+04/17/2026,BYU,Arizona State,0,13,0,0,W,Arizona State,Arizona-State,BYU,1,7,"Provo, UT / Larry H. Miller Field",2026,WN2026
+04/18/2026,BYU,Arizona State,8,12,0,0,W,Arizona State,Arizona-State,BYU,1,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+04/22/2026,Arizona State,New Mexico State,9,10,0,0,L,Arizona State,Arizona-State,New-Mexico-State,0,11,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/24/2026,Arizona State,Baylor,11,2,0,0,W,Arizona State,Arizona-State,Baylor,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/25/2026,Arizona State,Baylor,4,2,0,0,W,Arizona State,Arizona-State,Baylor,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/26/2026,Arizona State,Baylor,11,4,0,0,W,Arizona State,Arizona-State,Baylor,0,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+05/01/2026,UCF,Arizona State,4,9,0,0,W,Arizona State,Arizona-State,UCF,1,9,"Orlando, FL / John Euliano Park",2026,WN2026
+05/03/2026,UCF,Arizona State,4,2,0,0,L,Arizona State,Arizona-State,UCF,1,9,"Orlando, FL / John Euliano Park",2026,WN2026
+05/03/2026,UCF,Arizona State,3,6,0,0,W,Arizona State,Arizona-State,UCF,1,9,"Orlando, FL / John Euliano Park",2026,WN2026
+05/08/2026,Arizona State,Oklahoma State,6,9,0,0,L,Arizona State,Arizona-State,Oklahoma-State,0,9,"Phoenix, AZ / Phoenix Municipal Stadium / Box Score",2026,WN2026
+05/09/2026,Arizona State,Oklahoma State,6,13,0,0,L,Arizona State,Arizona-State,Oklahoma-State,0,9,"Phoenix, AZ / Phoenix Municipal Stadium / Box Score",2026,WN2026
+05/10/2026,Arizona State,Oklahoma State,11,7,0,0,W,Arizona State,Arizona-State,Oklahoma-State,0,9,"Phoenix, AZ / Phoenix Municipal Stadium / Box Score",2026,WN2026
+05/14/2026,Houston,Arizona State,3,4,0,0,W,Arizona State,Arizona-State,Houston,1,9,"Houston, TX / Schroeder Park / Box Score",2026,WN2026
+05/15/2026,Houston,Arizona State,5,3,0,0,L,Arizona State,Arizona-State,Houston,1,9,"Houston, TX / Schroeder Park / Box Score",2026,WN2026
+05/16/2026,Houston,Arizona State,3,8,0,0,W,Arizona State,Arizona-State,Houston,1,9,"Houston, TX / Schroeder Park / Box Score",2026,WN2026
+05/21/2026,Cincinnati,Arizona State,2,10,0,1,W,Arizona State,Arizona-State,Cincinnati,0,9,"Surprize, AZ / Surprise Stadium / Box Score / Recap",2026,WN2026
+05/22/2026,West Virginia,Arizona State,7,3,0,1,L,Arizona State,Arizona-State,West-Virginia,0,9,"Surprize, AZ / Surprise Stadium",2026,WN2026

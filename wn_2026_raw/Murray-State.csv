@@ -1,0 +1,60 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Ohio,Murray State,4,13,0,1,W,Murray State,Murray-State,Ohio,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+02/15/2026,Ohio,Murray State,8,11,0,1,W,Murray State,Murray-State,Ohio,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+02/15/2026,Ohio,Murray State,15,13,0,1,L,Murray State,Murray-State,Ohio,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+02/18/2026,North Alabama,Murray State,15,5,0,0,L,Murray State,Murray-State,North-Alabama,1,7,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/20/2026,Butler,Murray State,0,6,0,1,W,Murray State,Murray-State,Butler,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/21/2026,Butler,Murray State,4,6,0,1,W,Murray State,Murray-State,Butler,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/21/2026,Butler,Murray State,2,3,0,1,W,Murray State,Murray-State,Butler,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/24/2026,Tennessee-Martin,Murray State,5,7,0,0,W,Murray State,Murray-State,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+02/27/2026,Mercyhurst,Murray State,4,12,0,1,W,Murray State,Murray-State,Mercyhurst,0,9,"Nashville, TN / Jackson Field",2026,WN2026
+02/28/2026,Mercyhurst,Murray State,2,10,0,1,W,Murray State,Murray-State,Mercyhurst,0,9,"Nashville, TN / Jackson Field",2026,WN2026
+02/28/2026,Mercyhurst,Murray State,5,6,0,1,W,Murray State,Murray-State,Mercyhurst,0,7,"Nashville, TN / Jackson Field",2026,WN2026
+03/01/2026,Mercyhurst,Murray State,4,20,0,1,W,Murray State,Murray-State,Mercyhurst,0,7,"Nashville, TN / Jackson Field",2026,WN2026
+03/03/2026,Middle Tennessee,Murray State,5,2,0,0,L,Murray State,Murray-State,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/06/2026,UCF,Murray State,8,3,0,0,L,Murray State,Murray-State,UCF,1,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/07/2026,UCF,Murray State,4,0,0,0,L,Murray State,Murray-State,UCF,1,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/08/2026,UCF,Murray State,10,9,0,0,L,Murray State,Murray-State,UCF,1,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/13/2026,Lindenwood,Murray State,4,0,0,0,L,Murray State,Murray-State,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/14/2026,Lindenwood,Murray State,1,3,0,0,W,Murray State,Murray-State,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/15/2026,Lindenwood,Murray State,4,0,0,0,L,Murray State,Murray-State,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/17/2026,Middle Tennessee,Murray State,3,5,0,0,W,Murray State,Murray-State,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/20/2026,Valparaiso,Murray State,4,9,0,1,W,Murray State,Murray-State,Valparaiso,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/21/2026,Valparaiso,Murray State,1,3,0,1,W,Murray State,Murray-State,Valparaiso,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/22/2026,Valparaiso,Murray State,12,13,0,1,W,Murray State,Murray-State,Valparaiso,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/24/2026,Kentucky,Murray State,14,4,0,0,L,Murray State,Murray-State,Kentucky,1,7,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+03/27/2026,Bradley,Murray State,10,18,0,0,W,Murray State,Murray-State,Bradley,1,9,"Peoria, IL / Dozer Park",2026,WN2026
+03/28/2026,Bradley,Murray State,0,11,0,0,W,Murray State,Murray-State,Bradley,1,7,"Peoria, IL / Dozer Park",2026,WN2026
+03/29/2026,Bradley,Murray State,3,14,0,0,W,Murray State,Murray-State,Bradley,1,9,"Peoria, IL / Dozer Park",2026,WN2026
+03/31/2026,Southeast Missouri,Murray State,8,1,0,0,L,Murray State,Murray-State,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+04/02/2026,Murray State,Belmont,9,3,0,0,W,Murray State,Murray-State,Belmont,0,9,"Murray, KY / Reagan Field",2026,WN2026
+04/03/2026,Murray State,Belmont,1,12,0,0,L,Murray State,Murray-State,Belmont,0,8,"Murray, KY / Reagan Field",2026,WN2026
+04/03/2026,Murray State,Belmont,5,9,0,0,L,Murray State,Murray-State,Belmont,0,9,"Murray, KY / Reagan Field",2026,WN2026
+04/07/2026,Bellarmine,Murray State,7,8,0,0,W,Murray State,Murray-State,Bellarmine,1,10,"Louisville, KY / Knights Field",2026,WN2026
+04/10/2026,UIC,Murray State,3,1,0,0,L,Murray State,Murray-State,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/11/2026,UIC,Murray State,8,2,0,0,L,Murray State,Murray-State,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/12/2026,UIC,Murray State,10,5,0,0,L,Murray State,Murray-State,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/14/2026,Murray State,Southeast Missouri,1,12,0,0,L,Murray State,Murray-State,Southeast-Missouri,0,8,"Murray, KY / Reagan Field",2026,WN2026
+04/18/2026,Murray State,Illinois State,6,1,0,0,W,Murray State,Murray-State,Illinois-State,0,9,"Murray, KY / Reagan Field",2026,WN2026
+04/18/2026,Murray State,Illinois State,1,0,0,0,W,Murray State,Murray-State,Illinois-State,0,9,"Murray, KY / Reagan Field",2026,WN2026
+04/19/2026,Murray State,Illinois State,6,5,0,0,W,Murray State,Murray-State,Illinois-State,0,9,"Murray, KY / Reagan Field",2026,WN2026
+04/21/2026,Ole Miss,Murray State,19,2,0,0,L,Murray State,Murray-State,Ole-Miss,1,7,"Oxford, MS / Swayze Field",2026,WN2026
+04/24/2026,Southern Illinois,Murray State,1,13,0,0,W,Murray State,Murray-State,Southern-Illinois,1,8,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/25/2026,Southern Illinois,Murray State,7,6,0,0,L,Murray State,Murray-State,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/26/2026,Southern Illinois,Murray State,5,7,0,0,W,Murray State,Murray-State,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/28/2026,Murray State,Memphis,9,5,0,0,W,Murray State,Murray-State,Memphis,0,9,"Murray, KY / Reagan Field",2026,WN2026
+05/01/2026,Purdue,Murray State,7,5,0,0,L,Murray State,Murray-State,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+05/02/2026,Purdue,Murray State,11,4,0,0,L,Murray State,Murray-State,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+05/03/2026,Purdue,Murray State,17,8,0,0,L,Murray State,Murray-State,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+05/06/2026,Murray State,Tennessee-Martin,1,5,0,0,L,Murray State,Murray-State,Tennessee-Martin,0,9,"Murray, KY / Reagan Field",2026,WN2026
+05/08/2026,Murray State,Indiana State,2,3,0,0,L,Murray State,Murray-State,Indiana-State,0,9,"Murray, KY / Reagan Field / Box Score",2026,WN2026
+05/09/2026,Murray State,Indiana State,8,10,0,0,L,Murray State,Murray-State,Indiana-State,0,9,"Murray, KY / Reagan Field / Box Score",2026,WN2026
+05/10/2026,Murray State,Indiana State,8,7,0,0,W,Murray State,Murray-State,Indiana-State,0,10,"Murray, KY / Reagan Field / Box Score",2026,WN2026
+05/12/2026,Murray State,North Alabama,9,5,0,0,W,Murray State,Murray-State,North-Alabama,0,9,"Murray, KY / Reagan Field",2026,WN2026
+05/14/2026,Evansville,Murray State,10,6,0,0,L,Murray State,Murray-State,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium / Box Score",2026,WN2026
+05/15/2026,Evansville,Murray State,10,15,0,0,W,Murray State,Murray-State,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium / Box Score",2026,WN2026
+05/16/2026,Evansville,Murray State,5,12,0,0,W,Murray State,Murray-State,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium / Box Score",2026,WN2026
+05/20/2026,Illinois State,Murray State,4,6,0,1,W,Murray State,Murray-State,Illinois-State,0,9,"Murray, KY / Reagan Field / Box Score / Recap",2026,WN2026
+05/21/2026,Indiana State,Murray State,2,3,0,1,W,Murray State,Murray-State,Indiana-State,0,9,"Murray, KY / Reagan Field / Recap",2026,WN2026
+05/23/2026,UIC,Murray State,6,5,0,1,L,Murray State,Murray-State,UIC,0,9,"Murray, KY / Reagan Field",2026,WN2026
+05/23/2026,Southern Illinois,Murray State,9,7,0,1,L,Murray State,Murray-State,Southern-Illinois,0,9,"Murray, KY / Reagan Field",2026,WN2026

@@ -1,0 +1,46 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/20/2026,Missouri,New Haven,12,2,0,1,L,New Haven,New-Haven,Missouri,0,7,"Fort Myers, FL / Terry Park",2026,WN2026
+02/21/2026,Missouri,New Haven,17,5,0,1,L,New Haven,New-Haven,Missouri,0,7,"Fort Myers, FL / Terry Park",2026,WN2026
+02/22/2026,Missouri,New Haven,16,2,0,1,L,New Haven,New-Haven,Missouri,0,7,"Fort Myers, FL / Terry Park",2026,WN2026
+02/27/2026,TCU,New Haven,14,3,0,0,L,New Haven,New-Haven,TCU,1,7,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+02/28/2026,TCU,New Haven,12,4,0,0,L,New Haven,New-Haven,TCU,1,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/01/2026,TCU,New Haven,20,1,0,0,L,New Haven,New-Haven,TCU,1,7,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/04/2026,Connecticut,New Haven,9,4,0,0,L,New Haven,New-Haven,Connecticut,1,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+03/10/2026,Rhode Island,New Haven,11,0,0,0,L,New Haven,New-Haven,Rhode-Island,1,9,"Kingston, RI / Bill Beck Field",2026,WN2026
+03/13/2026,New Haven,Le Moyne,13,6,0,0,W,New Haven,New-Haven,Le-Moyne,0,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+03/14/2026,New Haven,Le Moyne,1,13,0,0,L,New Haven,New-Haven,Le-Moyne,0,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+03/15/2026,New Haven,Le Moyne,5,6,0,0,L,New Haven,New-Haven,Le-Moyne,0,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+03/17/2026,Hofstra,New Haven,15,5,0,0,L,New Haven,New-Haven,Hofstra,1,8,"Hempstead, NY / University Field",2026,WN2026
+03/20/2026,Fairleigh Dickinson,New Haven,17,2,0,0,L,New Haven,New-Haven,Fairleigh-Dickinson,1,7,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+03/21/2026,Fairleigh Dickinson,New Haven,7,3,0,0,L,New Haven,New-Haven,Fairleigh-Dickinson,1,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+03/22/2026,Fairleigh Dickinson,New Haven,6,1,0,0,L,New Haven,New-Haven,Fairleigh-Dickinson,1,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+03/25/2026,Sacred Heart,New Haven,16,3,0,0,L,New Haven,New-Haven,Sacred-Heart,1,7,"Fairfield, CT / Veterans Park",2026,WN2026
+03/27/2026,New Haven,Wagner,9,8,0,0,W,New Haven,New-Haven,Wagner,0,10,"West Haven, CT / Frank Vieira Field",2026,WN2026
+03/28/2026,New Haven,Wagner,9,8,0,0,W,New Haven,New-Haven,Wagner,0,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+03/29/2026,New Haven,Wagner,5,14,0,0,L,New Haven,New-Haven,Wagner,0,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+03/31/2026,New Haven,Stony Brook,12,15,0,0,L,New Haven,New-Haven,Stony-Brook,0,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+04/02/2026,Mercyhurst,New Haven,12,3,0,0,L,New Haven,New-Haven,Mercyhurst,1,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+04/03/2026,Mercyhurst,New Haven,12,2,0,0,L,New Haven,New-Haven,Mercyhurst,1,8,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+04/03/2026,Mercyhurst,New Haven,4,3,0,0,L,New Haven,New-Haven,Mercyhurst,1,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+04/08/2026,Yale,New Haven,20,0,0,0,L,New Haven,New-Haven,Yale,1,7,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+04/10/2026,New Haven,Long Island,1,2,0,0,L,New Haven,New-Haven,Long-Island,0,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+04/11/2026,New Haven,Long Island,16,23,0,0,L,New Haven,New-Haven,Long-Island,0,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+04/12/2026,New Haven,Long Island,12,11,0,0,W,New Haven,New-Haven,Long-Island,0,10,"West Haven, CT / Frank Vieira Field",2026,WN2026
+04/17/2026,Norfolk State,New Haven,9,7,0,0,L,New Haven,New-Haven,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+04/18/2026,Norfolk State,New Haven,10,8,0,0,L,New Haven,New-Haven,Norfolk-State,1,10,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+04/19/2026,Norfolk State,New Haven,4,15,0,0,W,New Haven,New-Haven,Norfolk-State,1,8,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+04/21/2026,New Haven,Quinnipiac,0,13,0,0,L,New Haven,New-Haven,Quinnipiac,0,7,"West Haven, CT / Frank Vieira Field",2026,WN2026
+04/24/2026,Central Connecticut,New Haven,2,6,0,0,W,New Haven,New-Haven,Central-Connecticut,1,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/25/2026,Central Connecticut,New Haven,6,7,0,0,W,New Haven,New-Haven,Central-Connecticut,1,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/26/2026,Central Connecticut,New Haven,10,6,0,0,L,New Haven,New-Haven,Central-Connecticut,1,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/28/2026,New Haven,Rhode Island,3,13,0,0,L,New Haven,New-Haven,Rhode-Island,0,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+05/01/2026,Coppin State,New Haven,6,7,0,0,W,New Haven,New-Haven,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+05/02/2026,Coppin State,New Haven,6,3,0,0,L,New Haven,New-Haven,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+05/03/2026,Coppin State,New Haven,8,9,0,0,W,New Haven,New-Haven,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+05/08/2026,New Haven,Delaware State,4,6,0,0,L,New Haven,New-Haven,Delaware-State,0,9,"West Haven, CT / Frank Vieira Field / Box Score",2026,WN2026
+05/08/2026,New Haven,Delaware State,5,3,0,0,W,New Haven,New-Haven,Delaware-State,0,9,"West Haven, CT / Frank Vieira Field / Box Score",2026,WN2026
+05/10/2026,New Haven,Delaware State,7,8,0,0,L,New Haven,New-Haven,Delaware-State,0,9,"West Haven, CT / Frank Vieira Field / Box Score",2026,WN2026
+05/12/2026,Fairfield,New Haven,13,11,0,0,L,New Haven,New-Haven,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+05/15/2026,New Haven,Maryland Eastern Shore,1,5,0,0,L,New Haven,New-Haven,Maryland-Eastern-Shore,0,9,"West Haven, CT / Frank Vieira Field / Box Score",2026,WN2026
+05/15/2026,New Haven,Maryland Eastern Shore,5,4,0,0,W,New Haven,New-Haven,Maryland-Eastern-Shore,0,9,"West Haven, CT / Frank Vieira Field / Box Score",2026,WN2026
+05/16/2026,New Haven,Maryland Eastern Shore,11,9,0,0,W,New Haven,New-Haven,Maryland-Eastern-Shore,0,9,"West Haven, CT / Frank Vieira Field / Box Score",2026,WN2026

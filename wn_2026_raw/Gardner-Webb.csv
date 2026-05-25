@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Gardner-Webb,Valparaiso,7,6,0,0,W,Gardner-Webb,Gardner-Webb,Valparaiso,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+02/13/2026,Gardner-Webb,Valparaiso,7,3,0,0,W,Gardner-Webb,Gardner-Webb,Valparaiso,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+02/14/2026,Gardner-Webb,Valparaiso,10,11,0,0,L,Gardner-Webb,Gardner-Webb,Valparaiso,0,7,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+02/14/2026,Gardner-Webb,Valparaiso,12,1,0,0,W,Gardner-Webb,Gardner-Webb,Valparaiso,0,7,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+02/18/2026,South Carolina,Gardner-Webb,12,2,0,0,L,Gardner-Webb,Gardner-Webb,South-Carolina,1,8,"Columbia, SC / Founders Park",2026,WN2026
+02/20/2026,Gardner-Webb,Fairleigh Dickinson,0,6,0,0,L,Gardner-Webb,Gardner-Webb,Fairleigh-Dickinson,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+02/21/2026,Gardner-Webb,Dartmouth,8,7,0,0,W,Gardner-Webb,Gardner-Webb,Dartmouth,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+02/21/2026,Gardner-Webb,Fairleigh Dickinson,10,1,0,0,W,Gardner-Webb,Gardner-Webb,Fairleigh-Dickinson,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+02/22/2026,Gardner-Webb,Dartmouth,6,2,0,0,W,Gardner-Webb,Gardner-Webb,Dartmouth,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+02/27/2026,Gardner-Webb,Appalachian State,7,6,0,0,W,Gardner-Webb,Gardner-Webb,Appalachian-State,0,12,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+02/28/2026,Gardner-Webb,Appalachian State,11,10,0,0,W,Gardner-Webb,Gardner-Webb,Appalachian-State,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+03/01/2026,Gardner-Webb,Appalachian State,8,7,0,0,W,Gardner-Webb,Gardner-Webb,Appalachian-State,0,11,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+03/03/2026,Duke,Gardner-Webb,15,3,0,0,L,Gardner-Webb,Gardner-Webb,Duke,1,7,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/06/2026,Oklahoma State,Gardner-Webb,5,19,0,0,W,Gardner-Webb,Gardner-Webb,Oklahoma-State,1,7,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+03/07/2026,Oklahoma State,Gardner-Webb,4,2,0,0,L,Gardner-Webb,Gardner-Webb,Oklahoma-State,1,9,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+03/08/2026,Oklahoma State,Gardner-Webb,16,1,0,0,L,Gardner-Webb,Gardner-Webb,Oklahoma-State,1,7,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+03/10/2026,Davidson,Gardner-Webb,11,10,0,0,L,Gardner-Webb,Gardner-Webb,Davidson,1,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+03/13/2026,Gardner-Webb,Longwood,1,3,0,0,L,Gardner-Webb,Gardner-Webb,Longwood,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+03/14/2026,Gardner-Webb,Longwood,7,2,0,0,W,Gardner-Webb,Gardner-Webb,Longwood,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+03/15/2026,Gardner-Webb,Longwood,9,4,0,0,W,Gardner-Webb,Gardner-Webb,Longwood,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+03/18/2026,Western Carolina,Gardner-Webb,8,4,0,0,L,Gardner-Webb,Gardner-Webb,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/20/2026,Charleston Southern,Gardner-Webb,16,5,0,0,L,Gardner-Webb,Gardner-Webb,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+03/21/2026,Charleston Southern,Gardner-Webb,5,8,0,0,W,Gardner-Webb,Gardner-Webb,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+03/22/2026,Charleston Southern,Gardner-Webb,14,4,0,0,L,Gardner-Webb,Gardner-Webb,Charleston-Southern,1,7,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+03/24/2026,Gardner-Webb,North Carolina A&T,6,10,0,0,L,Gardner-Webb,Gardner-Webb,North-Carolina-AT,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+03/27/2026,Gardner-Webb,High Point,3,10,0,0,L,Gardner-Webb,Gardner-Webb,High-Point,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+03/28/2026,Gardner-Webb,High Point,8,12,0,0,L,Gardner-Webb,Gardner-Webb,High-Point,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+03/29/2026,Gardner-Webb,High Point,4,15,0,0,L,Gardner-Webb,Gardner-Webb,High-Point,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+03/31/2026,North Carolina A&T,Gardner-Webb,16,6,0,0,L,Gardner-Webb,Gardner-Webb,North-Carolina-AT,1,7,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+04/02/2026,UNC Asheville,Gardner-Webb,6,13,0,0,W,Gardner-Webb,Gardner-Webb,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+04/03/2026,UNC Asheville,Gardner-Webb,0,6,0,0,W,Gardner-Webb,Gardner-Webb,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+04/04/2026,UNC Asheville,Gardner-Webb,12,9,0,0,L,Gardner-Webb,Gardner-Webb,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+04/07/2026,Gardner-Webb,Elon,14,11,0,0,W,Gardner-Webb,Gardner-Webb,Elon,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+04/09/2026,Washington State,Gardner-Webb,3,2,0,0,L,Gardner-Webb,Gardner-Webb,Washington-State,1,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/10/2026,Washington State,Gardner-Webb,7,4,0,0,L,Gardner-Webb,Gardner-Webb,Washington-State,1,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/11/2026,Washington State,Gardner-Webb,5,3,0,0,L,Gardner-Webb,Gardner-Webb,Washington-State,1,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/14/2026,Gardner-Webb,Queens,11,1,0,0,W,Gardner-Webb,Gardner-Webb,Queens,0,7,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+04/17/2026,Radford,Gardner-Webb,8,4,0,0,L,Gardner-Webb,Gardner-Webb,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+04/18/2026,Radford,Gardner-Webb,10,15,0,0,W,Gardner-Webb,Gardner-Webb,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+04/19/2026,Radford,Gardner-Webb,3,0,0,0,L,Gardner-Webb,Gardner-Webb,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+04/21/2026,Gardner-Webb,Western Carolina,1,11,0,0,L,Gardner-Webb,Gardner-Webb,Western-Carolina,0,8,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+04/24/2026,Gardner-Webb,Winthrop,3,0,0,0,W,Gardner-Webb,Gardner-Webb,Winthrop,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+04/25/2026,Gardner-Webb,Winthrop,7,9,0,0,L,Gardner-Webb,Gardner-Webb,Winthrop,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+04/26/2026,Gardner-Webb,Winthrop,7,6,0,0,W,Gardner-Webb,Gardner-Webb,Winthrop,0,10,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+04/28/2026,Wofford,Gardner-Webb,0,6,0,0,W,Gardner-Webb,Gardner-Webb,Wofford,1,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+05/01/2026,South Carolina Upstate,Gardner-Webb,16,8,0,0,L,Gardner-Webb,Gardner-Webb,South-Carolina-Upstate,1,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+05/02/2026,South Carolina Upstate,Gardner-Webb,12,4,0,0,L,Gardner-Webb,Gardner-Webb,South-Carolina-Upstate,1,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+05/03/2026,South Carolina Upstate,Gardner-Webb,13,2,0,0,L,Gardner-Webb,Gardner-Webb,South-Carolina-Upstate,1,7,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+05/08/2026,Gardner-Webb,Bradley,10,9,0,0,W,Gardner-Webb,Gardner-Webb,Bradley,0,9,"Boiling Springs, NC / John Henry Moss Stadium / Box Score",2026,WN2026
+05/09/2026,Gardner-Webb,Campbell,9,11,0,0,L,Gardner-Webb,Gardner-Webb,Campbell,0,9,"Boiling Springs, NC / John Henry Moss Stadium / Box Score",2026,WN2026
+05/09/2026,Gardner-Webb,Bradley,7,6,0,0,W,Gardner-Webb,Gardner-Webb,Bradley,0,9,"Boiling Springs, NC / John Henry Moss Stadium / Box Score",2026,WN2026
+05/12/2026,Charlotte,Gardner-Webb,11,1,0,0,L,Gardner-Webb,Gardner-Webb,Charlotte,1,8,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+05/14/2026,Gardner-Webb,Presbyterian College,2,11,0,0,L,Gardner-Webb,Gardner-Webb,Presbyterian-College,0,9,"Boiling Springs, NC / John Henry Moss Stadium / Box Score",2026,WN2026
+05/15/2026,Gardner-Webb,Presbyterian College,11,6,0,0,W,Gardner-Webb,Gardner-Webb,Presbyterian-College,0,9,"Boiling Springs, NC / John Henry Moss Stadium / Box Score",2026,WN2026
+05/16/2026,Gardner-Webb,Presbyterian College,9,2,0,0,W,Gardner-Webb,Gardner-Webb,Presbyterian-College,0,9,"Boiling Springs, NC / John Henry Moss Stadium / Box Score",2026,WN2026

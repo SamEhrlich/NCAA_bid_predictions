@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,North Carolina,Indiana,9,4,0,0,L,Indiana,Indiana,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+02/14/2026,North Carolina,Indiana,12,2,0,0,L,Indiana,Indiana,North-Carolina,1,7,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+02/14/2026,North Carolina,Indiana,4,3,0,0,L,Indiana,Indiana,North-Carolina,1,11,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+02/17/2026,Indiana,Bradley,15,3,0,0,W,Indiana,Indiana,Bradley,0,7,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+02/20/2026,LSU,Indiana,14,7,0,1,L,Indiana,Indiana,LSU,0,9,"Jacksonville, FL / VyStar Ballpark",2026,WN2026
+02/21/2026,UCF,Indiana,1,6,0,1,W,Indiana,Indiana,UCF,0,9,"Jacksonville, FL / VyStar Ballpark",2026,WN2026
+02/22/2026,Notre Dame,Indiana,9,8,0,1,L,Indiana,Indiana,Notre-Dame,0,11,"Jacksonville, FL / VyStar Ballpark",2026,WN2026
+02/25/2026,Xavier,Indiana,4,10,0,0,W,Indiana,Indiana,Xavier,1,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+02/27/2026,Western Kentucky,Indiana,4,1,0,0,L,Indiana,Indiana,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+02/28/2026,Western Kentucky,Indiana,1,3,0,0,W,Indiana,Indiana,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+02/28/2026,Western Kentucky,Indiana,14,12,0,0,L,Indiana,Indiana,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+03/01/2026,Western Kentucky,Indiana,3,7,0,0,W,Indiana,Indiana,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+03/06/2026,Indiana,Washington,4,2,0,0,W,Indiana,Indiana,Washington,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+03/07/2026,Indiana,Washington,2,9,0,0,L,Indiana,Indiana,Washington,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+03/08/2026,Indiana,Washington,4,13,0,0,L,Indiana,Indiana,Washington,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+03/10/2026,Indiana,Wright State,12,4,0,0,W,Indiana,Indiana,Wright-State,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+03/13/2026,Oregon,Indiana,3,2,0,0,L,Indiana,Indiana,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+03/14/2026,Oregon,Indiana,5,1,0,0,L,Indiana,Indiana,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+03/15/2026,Oregon,Indiana,7,6,0,0,L,Indiana,Indiana,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+03/17/2026,Vanderbilt,Indiana,1,5,0,0,W,Indiana,Indiana,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/20/2026,Indiana,Minnesota,8,6,0,0,W,Indiana,Indiana,Minnesota,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+03/21/2026,Indiana,Minnesota,7,2,0,0,W,Indiana,Indiana,Minnesota,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+03/22/2026,Indiana,Minnesota,2,14,0,0,L,Indiana,Indiana,Minnesota,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+03/24/2026,Indiana,Indiana State,4,5,0,0,L,Indiana,Indiana,Indiana-State,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+03/27/2026,Nebraska,Indiana,6,5,0,0,L,Indiana,Indiana,Nebraska,1,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/28/2026,Nebraska,Indiana,12,7,0,0,L,Indiana,Indiana,Nebraska,1,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/29/2026,Nebraska,Indiana,12,4,0,0,L,Indiana,Indiana,Nebraska,1,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/31/2026,Evansville,Indiana,5,4,0,0,L,Indiana,Indiana,Evansville,1,11,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+04/03/2026,Indiana,Rutgers,11,0,0,0,W,Indiana,Indiana,Rutgers,0,7,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/04/2026,Indiana,Rutgers,6,9,0,0,L,Indiana,Indiana,Rutgers,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/05/2026,Indiana,Rutgers,8,2,0,0,W,Indiana,Indiana,Rutgers,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/07/2026,Indiana,Ball State,6,4,0,0,W,Indiana,Indiana,Ball-State,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/10/2026,Maryland,Indiana,3,11,0,0,W,Indiana,Indiana,Maryland,1,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+04/11/2026,Maryland,Indiana,14,4,0,0,L,Indiana,Indiana,Maryland,1,7,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+04/12/2026,Maryland,Indiana,8,6,0,0,L,Indiana,Indiana,Maryland,1,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+04/14/2026,Indiana State,Indiana,12,17,0,0,W,Indiana,Indiana,Indiana-State,1,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/15/2026,Indiana,Evansville,8,6,0,0,W,Indiana,Indiana,Evansville,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/17/2026,Indiana,Abilene Christian,13,3,0,0,W,Indiana,Indiana,Abilene-Christian,0,7,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/18/2026,Indiana,Abilene Christian,4,8,0,0,L,Indiana,Indiana,Abilene-Christian,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/19/2026,Indiana,Abilene Christian,5,4,0,0,W,Indiana,Indiana,Abilene-Christian,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/21/2026,Ball State,Indiana,10,20,0,0,W,Indiana,Indiana,Ball-State,1,8,"Muncie, IN / Ball Diamond",2026,WN2026
+04/24/2026,Indiana,Iowa,2,12,0,0,L,Indiana,Indiana,Iowa,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/25/2026,Indiana,Iowa,2,9,0,0,L,Indiana,Indiana,Iowa,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/26/2026,Indiana,Iowa,4,7,0,0,L,Indiana,Indiana,Iowa,0,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/28/2026,Louisville,Indiana,6,10,0,0,W,Indiana,Indiana,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+05/01/2026,Northwestern,Indiana,2,9,0,0,W,Indiana,Indiana,Northwestern,1,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+05/02/2026,Northwestern,Indiana,7,4,0,0,L,Indiana,Indiana,Northwestern,1,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+05/03/2026,Northwestern,Indiana,9,6,0,0,L,Indiana,Indiana,Northwestern,1,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+05/08/2026,Purdue,Indiana,11,9,0,0,L,Indiana,Indiana,Purdue,1,9,"West Lafayette, IN / Alexander Field / Box Score",2026,WN2026
+05/09/2026,Purdue,Indiana,5,4,0,0,L,Indiana,Indiana,Purdue,1,9,"West Lafayette, IN / Alexander Field / Box Score",2026,WN2026
+05/10/2026,Purdue,Indiana,11,8,0,0,L,Indiana,Indiana,Purdue,1,9,"West Lafayette, IN / Alexander Field / Box Score",2026,WN2026
+05/14/2026,Indiana,Illinois,10,4,0,0,W,Indiana,Indiana,Illinois,0,9,"Bloomington, IN / Bart Kaufman Field / Box Score",2026,WN2026
+05/15/2026,Indiana,Illinois,7,9,0,0,L,Indiana,Indiana,Illinois,0,10,"Bloomington, IN / Bart Kaufman Field / Box Score",2026,WN2026
+05/16/2026,Indiana,Illinois,11,2,0,0,W,Indiana,Indiana,Illinois,0,9,"Bloomington, IN / Bart Kaufman Field / Box Score",2026,WN2026

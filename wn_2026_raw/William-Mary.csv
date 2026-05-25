@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Virginia Tech,William & Mary,9,2,0,0,L,William & Mary,William-Mary,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+02/14/2026,Virginia Tech,William & Mary,8,7,0,0,L,William & Mary,William-Mary,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+02/14/2026,Virginia Tech,William & Mary,8,2,0,0,L,William & Mary,William-Mary,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+02/20/2026,William & Mary,Binghamton,8,9,0,0,L,William & Mary,William-Mary,Binghamton,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+02/21/2026,William & Mary,Binghamton,10,5,0,0,W,William & Mary,William-Mary,Binghamton,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+02/21/2026,William & Mary,Binghamton,5,4,0,0,W,William & Mary,William-Mary,Binghamton,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+02/27/2026,William & Mary,Lafayette,10,3,0,0,W,William & Mary,William-Mary,Lafayette,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+02/28/2026,William & Mary,Lafayette,12,6,0,0,W,William & Mary,William-Mary,Lafayette,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+03/01/2026,William & Mary,Lafayette,12,5,0,0,W,William & Mary,William-Mary,Lafayette,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+03/03/2026,VCU,William & Mary,9,2,0,0,L,William & Mary,William-Mary,VCU,1,9,"Richmond, VA / The Diamond",2026,WN2026
+03/06/2026,Campbell,William & Mary,9,2,0,0,L,William & Mary,William-Mary,Campbell,1,9,"Buies Creek, NC / Jim Perry Stadium",2026,WN2026
+03/07/2026,Campbell,William & Mary,6,1,0,0,L,William & Mary,William-Mary,Campbell,1,9,"Buies Creek, NC / Jim Perry Stadium",2026,WN2026
+03/08/2026,Campbell,William & Mary,8,5,0,0,L,William & Mary,William-Mary,Campbell,1,9,"Buies Creek, NC / Jim Perry Stadium",2026,WN2026
+03/10/2026,Virginia,William & Mary,9,7,0,0,L,William & Mary,William-Mary,Virginia,1,9,"Charlottesville, VA / Davenport Field",2026,WN2026
+03/11/2026,William & Mary,East Carolina,3,24,0,0,L,William & Mary,William-Mary,East-Carolina,0,7,"Williamsburg, VA / Plumeri Park",2026,WN2026
+03/13/2026,Georgetown,William & Mary,6,5,0,0,L,William & Mary,William-Mary,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/14/2026,Georgetown,William & Mary,2,8,0,0,W,William & Mary,William-Mary,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/15/2026,Georgetown,William & Mary,3,7,0,0,W,William & Mary,William-Mary,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/17/2026,Longwood,William & Mary,8,6,0,0,L,William & Mary,William-Mary,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+03/20/2026,William & Mary,North Carolina A&T,9,5,0,0,W,William & Mary,William-Mary,North-Carolina-AT,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+03/21/2026,William & Mary,North Carolina A&T,6,5,0,0,W,William & Mary,William-Mary,North-Carolina-AT,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+03/22/2026,William & Mary,North Carolina A&T,11,10,0,0,W,William & Mary,William-Mary,North-Carolina-AT,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+03/24/2026,Old Dominion,William & Mary,3,6,0,0,W,William & Mary,William-Mary,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+03/27/2026,UNCW,William & Mary,5,3,0,0,L,William & Mary,William-Mary,UNCW,1,9,"Wilmington, NC / Brooks Field",2026,WN2026
+03/28/2026,UNCW,William & Mary,22,1,0,0,L,William & Mary,William-Mary,UNCW,1,7,"Wilmington, NC / Brooks Field",2026,WN2026
+03/29/2026,UNCW,William & Mary,8,9,0,0,W,William & Mary,William-Mary,UNCW,1,9,"Wilmington, NC / Brooks Field",2026,WN2026
+03/31/2026,William & Mary,VMI,3,10,0,0,L,William & Mary,William-Mary,VMI,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+04/02/2026,William & Mary,Campbell,2,5,0,0,L,William & Mary,William-Mary,Campbell,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+04/03/2026,William & Mary,Campbell,2,12,0,0,L,William & Mary,William-Mary,Campbell,0,7,"Williamsburg, VA / Plumeri Park",2026,WN2026
+04/04/2026,William & Mary,Campbell,6,8,0,0,L,William & Mary,William-Mary,Campbell,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+04/07/2026,William & Mary,Old Dominion,3,15,0,0,L,William & Mary,William-Mary,Old-Dominion,0,8,"Williamsburg, VA / Plumeri Park",2026,WN2026
+04/10/2026,Elon,William & Mary,6,9,0,0,W,William & Mary,William-Mary,Elon,1,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+04/11/2026,Elon,William & Mary,1,13,0,0,W,William & Mary,William-Mary,Elon,1,7,"Elon, NC / Walter C. Latham Park",2026,WN2026
+04/12/2026,Elon,William & Mary,9,4,0,0,L,William & Mary,William-Mary,Elon,1,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+04/14/2026,William & Mary,Longwood,7,3,0,0,W,William & Mary,William-Mary,Longwood,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+04/17/2026,William & Mary,Charleston,10,16,0,0,L,William & Mary,William-Mary,Charleston,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+04/18/2026,William & Mary,Charleston,7,5,0,0,W,William & Mary,William-Mary,Charleston,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+04/19/2026,William & Mary,Charleston,0,4,0,0,L,William & Mary,William-Mary,Charleston,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+04/21/2026,Richmond,William & Mary,12,11,0,0,L,William & Mary,William-Mary,Richmond,1,9,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+04/24/2026,North Carolina A&T,William & Mary,5,14,0,0,W,William & Mary,William-Mary,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+04/26/2026,North Carolina A&T,William & Mary,7,21,0,0,W,William & Mary,William-Mary,North-Carolina-AT,1,8,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+04/26/2026,North Carolina A&T,William & Mary,0,9,0,0,W,William & Mary,William-Mary,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+05/01/2026,William & Mary,Elon,5,4,0,0,W,William & Mary,William-Mary,Elon,0,12,"Williamsburg, VA / Plumeri Park",2026,WN2026
+05/02/2026,William & Mary,Elon,2,5,0,0,L,William & Mary,William-Mary,Elon,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+05/03/2026,William & Mary,Elon,5,7,0,0,L,William & Mary,William-Mary,Elon,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+05/05/2026,William & Mary,George Mason,14,15,0,0,L,William & Mary,William-Mary,George-Mason,0,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+05/08/2026,William & Mary,Towson,3,15,0,0,L,William & Mary,William-Mary,Towson,0,9,"Williamsburg, VA / Plumeri Park / Box Score",2026,WN2026
+05/09/2026,William & Mary,Towson,10,11,0,0,L,William & Mary,William-Mary,Towson,0,9,"Williamsburg, VA / Plumeri Park / Box Score",2026,WN2026
+05/10/2026,William & Mary,Towson,14,6,0,0,W,William & Mary,William-Mary,Towson,0,9,"Williamsburg, VA / Plumeri Park / Box Score",2026,WN2026
+05/12/2026,Duke,William & Mary,14,9,0,0,L,William & Mary,William-Mary,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+05/14/2026,Charleston,William & Mary,9,2,0,0,L,William & Mary,William-Mary,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point / Box Score",2026,WN2026
+05/15/2026,Charleston,William & Mary,8,5,0,0,L,William & Mary,William-Mary,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point / Box Score",2026,WN2026
+05/16/2026,Charleston,William & Mary,12,2,0,0,L,William & Mary,William-Mary,Charleston,1,7,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point / Box Score",2026,WN2026

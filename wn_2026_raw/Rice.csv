@@ -1,0 +1,60 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Rice,Northwestern,7,6,0,0,W,Rice,Rice,Northwestern,0,9,"Houston, TX / Reckling Park",2026,WN2026
+02/13/2026,Rice,Northwestern,3,2,0,0,W,Rice,Rice,Northwestern,0,9,"Houston, TX / Reckling Park",2026,WN2026
+02/15/2026,Rice,Northwestern,6,17,0,0,L,Rice,Rice,Northwestern,0,7,"Houston, TX / Reckling Park",2026,WN2026
+02/17/2026,Rice,Louisiana,0,3,0,0,L,Rice,Rice,Louisiana,0,9,"Houston, TX / Reckling Park",2026,WN2026
+02/18/2026,Rice,Purdue,5,2,0,0,W,Rice,Rice,Purdue,0,9,"Houston, TX / Reckling Park",2026,WN2026
+02/20/2026,USC,Rice,5,0,0,0,L,Rice,Rice,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+02/21/2026,USC,Rice,4,1,0,0,L,Rice,Rice,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+02/22/2026,USC,Rice,4,2,0,0,L,Rice,Rice,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+02/24/2026,Rice,Houston Christian,8,11,0,0,L,Rice,Rice,Houston-Christian,0,11,"Houston, TX / Reckling Park",2026,WN2026
+02/27/2026,Rice,Harvard,11,7,0,0,W,Rice,Rice,Harvard,0,9,"Houston, TX / Reckling Park",2026,WN2026
+02/28/2026,Rice,Harvard,2,1,0,0,W,Rice,Rice,Harvard,0,9,"Houston, TX / Reckling Park",2026,WN2026
+03/01/2026,Rice,Harvard,9,0,0,0,W,Rice,Rice,Harvard,0,9,"Houston, TX / Reckling Park",2026,WN2026
+03/04/2026,Lamar,Rice,1,4,0,0,W,Rice,Rice,Lamar,1,9,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+03/06/2026,Abilene Christian,Rice,4,5,0,0,W,Rice,Rice,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/07/2026,Abilene Christian,Rice,6,8,0,0,W,Rice,Rice,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/08/2026,Abilene Christian,Rice,4,1,0,0,L,Rice,Rice,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/10/2026,Houston,Rice,13,1,0,0,L,Rice,Rice,Houston,1,8,"Houston, TX / Schroeder Park",2026,WN2026
+03/13/2026,Grand Canyon,Rice,5,16,0,0,W,Rice,Rice,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/13/2026,Saint Mary's College,Rice,5,6,0,1,W,Rice,Rice,Saint-Marys-College,0,9,"Phoenix, AZ",2026,WN2026
+03/14/2026,Grand Canyon,Rice,2,13,0,0,W,Rice,Rice,Grand-Canyon,1,7,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/15/2026,Saint Mary's College,Rice,11,8,0,1,L,Rice,Rice,Saint-Marys-College,0,8,"Phoenix, AZ",2026,WN2026
+03/17/2026,Rice,UTRGV,7,3,0,0,W,Rice,Rice,UTRGV,0,9,"Houston, TX / Reckling Park",2026,WN2026
+03/20/2026,South Florida,Rice,4,5,0,0,W,Rice,Rice,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/21/2026,South Florida,Rice,2,0,0,0,L,Rice,Rice,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/22/2026,South Florida,Rice,7,2,0,0,L,Rice,Rice,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/25/2026,Houston Christian,Rice,7,10,0,0,W,Rice,Rice,Houston-Christian,1,9,"Houston, TX / Husky Field",2026,WN2026
+03/27/2026,Rice,FAU,2,6,0,0,L,Rice,Rice,FAU,0,9,"Houston, TX / Reckling Park",2026,WN2026
+03/28/2026,Rice,FAU,5,2,0,0,W,Rice,Rice,FAU,0,9,"Houston, TX / Reckling Park",2026,WN2026
+03/29/2026,Rice,FAU,8,1,0,0,W,Rice,Rice,FAU,0,9,"Houston, TX / Reckling Park",2026,WN2026
+03/31/2026,Rice,UTRGV,6,4,0,0,W,Rice,Rice,UTRGV,0,9,"Houston, TX / Reckling Park",2026,WN2026
+04/02/2026,Rice,UTSA,3,2,0,0,W,Rice,Rice,UTSA,0,10,"Houston, TX / Reckling Park",2026,WN2026
+04/03/2026,Rice,UTSA,0,8,0,0,L,Rice,Rice,UTSA,0,9,"Houston, TX / Reckling Park",2026,WN2026
+04/04/2026,Rice,UTSA,0,13,0,0,L,Rice,Rice,UTSA,0,7,"Houston, TX / Reckling Park",2026,WN2026
+04/07/2026,Rice,Texas A&M-Corpus Christi,18,4,0,0,W,Rice,Rice,Texas-AM-Corpus-Christi,0,9,"Houston, TX / Reckling Park",2026,WN2026
+04/10/2026,Charlotte,Rice,5,7,0,0,W,Rice,Rice,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+04/11/2026,Charlotte,Rice,2,6,0,0,W,Rice,Rice,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+04/12/2026,Charlotte,Rice,2,3,0,0,W,Rice,Rice,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+04/15/2026,Rice,Sam Houston State,5,3,0,0,W,Rice,Rice,Sam-Houston-State,0,9,"Houston, TX / Reckling Park",2026,WN2026
+04/17/2026,Rice,Memphis,1,4,0,0,L,Rice,Rice,Memphis,0,9,"Houston, TX / Reckling Park",2026,WN2026
+04/19/2026,Rice,Memphis,6,10,0,0,L,Rice,Rice,Memphis,0,9,"Houston, TX / Reckling Park",2026,WN2026
+04/19/2026,Rice,Memphis,5,6,0,0,L,Rice,Rice,Memphis,0,10,"Houston, TX / Reckling Park",2026,WN2026
+04/21/2026,Rice,Houston,3,4,0,0,L,Rice,Rice,Houston,0,9,"Houston, TX / Reckling Park",2026,WN2026
+04/24/2026,Wichita State,Rice,5,1,0,0,L,Rice,Rice,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+04/25/2026,Wichita State,Rice,2,3,0,0,W,Rice,Rice,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+04/26/2026,Wichita State,Rice,13,3,0,0,L,Rice,Rice,Wichita-State,1,7,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+04/28/2026,Rice,Lamar,6,5,0,0,W,Rice,Rice,Lamar,0,9,"Houston, TX / Reckling Park",2026,WN2026
+05/02/2026,Rice,UAB,16,9,0,0,W,Rice,Rice,UAB,0,9,"Houston, TX / Reckling Park",2026,WN2026
+05/02/2026,Rice,UAB,12,2,0,0,W,Rice,Rice,UAB,0,7,"Houston, TX / Reckling Park",2026,WN2026
+05/03/2026,Rice,UAB,10,3,0,0,W,Rice,Rice,UAB,0,9,"Houston, TX / Reckling Park",2026,WN2026
+05/08/2026,East Carolina,Rice,5,10,0,0,W,Rice,Rice,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium / Box Score",2026,WN2026
+05/09/2026,East Carolina,Rice,3,5,0,0,W,Rice,Rice,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium / Box Score",2026,WN2026
+05/10/2026,East Carolina,Rice,3,0,0,0,L,Rice,Rice,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium / Box Score",2026,WN2026
+05/12/2026,Houston,Rice,14,3,0,0,L,Rice,Rice,Houston,1,7,"Houston, TX / Schroeder Park",2026,WN2026
+05/14/2026,Rice,Tulane,12,0,0,0,W,Rice,Rice,Tulane,0,7,"Houston, TX / Reckling Park / Box Score",2026,WN2026
+05/15/2026,Rice,Tulane,10,6,0,0,W,Rice,Rice,Tulane,0,9,"Houston, TX / Reckling Park / Box Score",2026,WN2026
+05/16/2026,Rice,Tulane,6,5,0,0,W,Rice,Rice,Tulane,0,11,"Houston, TX / Reckling Park / Box Score",2026,WN2026
+05/21/2026,Wichita State,Rice,4,5,0,1,W,Rice,Rice,Wichita-State,0,9,"Clearwater, FL / BayCare Ballpark / Recap",2026,WN2026
+05/22/2026,East Carolina,Rice,4,3,0,1,L,Rice,Rice,East-Carolina,0,9,"Clearwater, FL / BayCare Ballpark / Recap",2026,WN2026
+05/22/2026,UAB,Rice,9,6,0,1,L,Rice,Rice,UAB,0,9,"Clearwater, FL / BayCare Ballpark",2026,WN2026

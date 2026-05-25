@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Florida A&M,Eastern Illinois,4,13,0,0,L,Florida A&M,Florida-AM,Eastern-Illinois,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+02/14/2026,Florida A&M,Eastern Illinois,7,6,0,0,W,Florida A&M,Florida-AM,Eastern-Illinois,0,7,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+02/14/2026,Florida A&M,Eastern Illinois,0,2,0,0,L,Florida A&M,Florida-AM,Eastern-Illinois,0,7,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+02/18/2026,Florida A&M,North Florida,4,15,0,0,L,Florida A&M,Florida-AM,North-Florida,0,8,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+02/20/2026,Alabama State,Florida A&M,11,4,0,1,L,Florida A&M,Florida-AM,Alabama-State,0,9,Vero Beach. FL / Jackie Robinson Training Complex,2026,WN2026
+02/21/2026,Bethune-Cookman,Florida A&M,6,2,0,1,L,Florida A&M,Florida-AM,Bethune-Cookman,0,9,"Vero Beach, FL / Jackie Robinson Training Complex",2026,WN2026
+02/24/2026,Mercer,Florida A&M,7,0,0,0,L,Florida A&M,Florida-AM,Mercer,1,9,"Macon, GA / Claude Smith Field",2026,WN2026
+02/25/2026,Mercer,Florida A&M,5,1,0,0,L,Florida A&M,Florida-AM,Mercer,1,9,"Macon, GA / Claude Smith Field",2026,WN2026
+02/28/2026,Florida A&M,Central Connecticut,4,0,0,0,W,Florida A&M,Florida-AM,Central-Connecticut,0,7,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+02/28/2026,Florida A&M,Central Connecticut,1,4,0,0,L,Florida A&M,Florida-AM,Central-Connecticut,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/01/2026,Florida A&M,Central Connecticut,9,4,0,0,W,Florida A&M,Florida-AM,Central-Connecticut,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/04/2026,Florida,Florida A&M,7,5,0,0,L,Florida A&M,Florida-AM,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/06/2026,Florida A&M,Villanova,4,1,0,0,W,Florida A&M,Florida-AM,Villanova,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/07/2026,Florida A&M,Villanova,6,5,0,0,W,Florida A&M,Florida-AM,Villanova,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/08/2026,Florida A&M,Villanova,1,4,0,0,L,Florida A&M,Florida-AM,Villanova,0,8,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/13/2026,Florida A&M,Southern,12,7,0,0,W,Florida A&M,Florida-AM,Southern,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/14/2026,Florida A&M,Southern,5,9,0,0,L,Florida A&M,Florida-AM,Southern,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/15/2026,Florida A&M,Southern,10,6,0,0,W,Florida A&M,Florida-AM,Southern,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/17/2026,Florida A&M,Mercer,2,9,0,0,L,Florida A&M,Florida-AM,Mercer,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/20/2026,Arkansas-Pine Bluff,Florida A&M,11,4,0,0,L,Florida A&M,Florida-AM,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+03/21/2026,Arkansas-Pine Bluff,Florida A&M,5,7,0,0,W,Florida A&M,Florida-AM,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+03/22/2026,Arkansas-Pine Bluff,Florida A&M,5,11,0,0,W,Florida A&M,Florida-AM,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+03/25/2026,Florida A&M,Troy,4,7,0,0,L,Florida A&M,Florida-AM,Troy,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/27/2026,Florida A&M,Alabama State,5,1,0,0,W,Florida A&M,Florida-AM,Alabama-State,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/28/2026,Florida A&M,Alabama State,9,1,0,0,W,Florida A&M,Florida-AM,Alabama-State,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/29/2026,Florida A&M,Alabama State,7,2,0,0,W,Florida A&M,Florida-AM,Alabama-State,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+04/02/2026,Prairie View A&M,Florida A&M,14,17,0,0,W,Florida A&M,Florida-AM,Prairie-View-AM,1,9,"Prairie View, TX / Tankersley Field",2026,WN2026
+04/03/2026,Prairie View A&M,Florida A&M,6,10,0,0,W,Florida A&M,Florida-AM,Prairie-View-AM,1,9,"Prairie View, TX / Tankersley Field",2026,WN2026
+04/04/2026,Prairie View A&M,Florida A&M,4,14,0,0,W,Florida A&M,Florida-AM,Prairie-View-AM,1,8,"Prairie View, TX / Tankersley Field",2026,WN2026
+04/08/2026,Troy,Florida A&M,12,2,0,0,L,Florida A&M,Florida-AM,Troy,1,7,"Troy, AL / Riddle-Pace Field",2026,WN2026
+04/10/2026,Jackson State,Florida A&M,5,4,0,0,L,Florida A&M,Florida-AM,Jackson-State,1,11,"Jackson, MS / Braddy Field",2026,WN2026
+04/11/2026,Jackson State,Florida A&M,7,8,0,0,W,Florida A&M,Florida-AM,Jackson-State,1,10,"Jackson, MS / Braddy Field",2026,WN2026
+04/12/2026,Jackson State,Florida A&M,8,23,0,0,W,Florida A&M,Florida-AM,Jackson-State,1,8,"Jackson, MS / Braddy Field",2026,WN2026
+04/14/2026,North Florida,Florida A&M,11,2,0,0,L,Florida A&M,Florida-AM,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/17/2026,Florida A&M,Mississippi Valley State,6,5,0,0,W,Florida A&M,Florida-AM,Mississippi-Valley-State,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+04/18/2026,Florida A&M,Mississippi Valley State,14,4,0,0,W,Florida A&M,Florida-AM,Mississippi-Valley-State,0,7,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+04/19/2026,Florida A&M,Mississippi Valley State,14,8,0,0,W,Florida A&M,Florida-AM,Mississippi-Valley-State,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+04/24/2026,Florida A&M,Bethune-Cookman,3,4,0,0,L,Florida A&M,Florida-AM,Bethune-Cookman,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+04/25/2026,Florida A&M,Bethune-Cookman,4,10,0,0,L,Florida A&M,Florida-AM,Bethune-Cookman,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+04/26/2026,Florida A&M,Bethune-Cookman,15,13,0,0,W,Florida A&M,Florida-AM,Bethune-Cookman,0,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+05/02/2026,Grambling State,Florida A&M,12,11,0,0,L,Florida A&M,Florida-AM,Grambling-State,1,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+05/02/2026,Grambling State,Florida A&M,6,4,0,0,L,Florida A&M,Florida-AM,Grambling-State,1,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+05/03/2026,Grambling State,Florida A&M,19,9,0,0,L,Florida A&M,Florida-AM,Grambling-State,1,7,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+05/07/2026,Alabama A&M,Florida A&M,8,9,0,0,W,Florida A&M,Florida-AM,Alabama-AM,1,9,"Huntsville, AL / Bulldog Field",2026,WN2026
+05/09/2026,Alabama A&M,Florida A&M,2,6,0,0,W,Florida A&M,Florida-AM,Alabama-AM,1,7,"Huntsville, AL / Bulldog Field / Box Score",2026,WN2026
+05/09/2026,Alabama A&M,Florida A&M,3,10,0,0,W,Florida A&M,Florida-AM,Alabama-AM,1,9,"Huntsville, AL / Bulldog Field / Box Score",2026,WN2026
+05/14/2026,Florida A&M,Texas Southern,4,2,0,0,W,Florida A&M,Florida-AM,Texas-Southern,0,9,"Tallahassee, FL / Moore-Kittles Field / Box Score",2026,WN2026
+05/15/2026,Florida A&M,Texas Southern,13,2,0,0,W,Florida A&M,Florida-AM,Texas-Southern,0,9,"Tallahassee, FL / Moore-Kittles Field / Box Score",2026,WN2026
+05/16/2026,Florida A&M,Texas Southern,9,8,0,0,W,Florida A&M,Florida-AM,Texas-Southern,0,16,"Tallahassee, FL / Moore-Kittles Field / Box Score",2026,WN2026
+05/20/2026,Texas Southern,Florida A&M,6,8,0,1,W,Florida A&M,Florida-AM,Texas-Southern,0,9,"Birmingham, AL / Rickwood Field / Box Score / Recap",2026,WN2026
+05/21/2026,Southern,Florida A&M,6,15,0,1,W,Florida A&M,Florida-AM,Southern,0,9,"Birmingham, AL / Rickwood Field",2026,WN2026
+05/23/2026,Southern,Florida A&M,1,5,0,1,W,Florida A&M,Florida-AM,Southern,0,9,"Birmingham, AL / Rickwood Field",2026,WN2026
+05/24/2026,Alabama State,Florida A&M,8,6,0,1,L,Florida A&M,Florida-AM,Alabama-State,0,9,"Birmingham, AL / Rickwood Field",2026,WN2026

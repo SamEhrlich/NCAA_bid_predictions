@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Evansville,Marshall,2,5,0,1,W,Marshall,Marshall,Evansville,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+02/14/2026,Kennesaw State,Marshall,10,9,0,0,L,Marshall,Marshall,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+02/14/2026,Evansville,Marshall,11,18,0,1,W,Marshall,Marshall,Evansville,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+02/20/2026,The Citadel,Marshall,4,3,0,0,L,Marshall,Marshall,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park",2026,WN2026
+02/21/2026,The Citadel,Marshall,11,6,0,0,L,Marshall,Marshall,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park",2026,WN2026
+02/22/2026,Navy,Marshall,8,1,0,1,L,Marshall,Marshall,Navy,0,9,"Columbia, SC / Founders Park",2026,WN2026
+02/23/2026,Winthrop,Marshall,11,7,0,0,L,Marshall,Marshall,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/27/2026,Marshall,Butler,4,3,0,0,W,Marshall,Marshall,Butler,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+02/28/2026,Marshall,Butler,2,7,0,0,L,Marshall,Marshall,Butler,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/01/2026,Marshall,Butler,3,1,0,0,W,Marshall,Marshall,Butler,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/03/2026,Virginia Tech,Marshall,4,13,0,0,W,Marshall,Marshall,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+03/06/2026,Marshall,Saint Bonaventure,5,4,0,0,W,Marshall,Marshall,Saint-Bonaventure,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/07/2026,Marshall,Saint Bonaventure,11,1,0,0,W,Marshall,Marshall,Saint-Bonaventure,0,8,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/08/2026,Marshall,Saint Bonaventure,25,2,0,0,W,Marshall,Marshall,Saint-Bonaventure,0,7,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/10/2026,Louisville,Marshall,16,5,0,0,L,Marshall,Marshall,Louisville,1,7,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/11/2026,Louisville,Marshall,18,8,0,0,L,Marshall,Marshall,Louisville,1,7,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/13/2026,Marshall,Georgia State,5,2,0,0,W,Marshall,Marshall,Georgia-State,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/14/2026,Marshall,Georgia State,4,2,0,0,W,Marshall,Marshall,Georgia-State,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/15/2026,Marshall,Georgia State,13,7,0,0,W,Marshall,Marshall,Georgia-State,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/20/2026,Georgia Southern,Marshall,16,17,0,0,W,Marshall,Marshall,Georgia-Southern,1,14,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/21/2026,Georgia Southern,Marshall,5,13,0,0,W,Marshall,Marshall,Georgia-Southern,1,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/22/2026,Georgia Southern,Marshall,18,12,0,0,L,Marshall,Marshall,Georgia-Southern,1,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/24/2026,Marshall,West Virginia,0,3,0,0,L,Marshall,Marshall,West-Virginia,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/27/2026,Marshall,Coastal Carolina,9,11,0,0,L,Marshall,Marshall,Coastal-Carolina,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/28/2026,Marshall,Coastal Carolina,4,12,0,0,L,Marshall,Marshall,Coastal-Carolina,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/29/2026,Marshall,Coastal Carolina,4,5,0,0,L,Marshall,Marshall,Coastal-Carolina,0,10,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/31/2026,Marshall,Ohio,3,5,0,0,L,Marshall,Marshall,Ohio,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+04/02/2026,Appalachian State,Marshall,6,12,0,0,W,Marshall,Marshall,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/03/2026,Appalachian State,Marshall,5,4,0,0,L,Marshall,Marshall,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/04/2026,Appalachian State,Marshall,10,4,0,0,L,Marshall,Marshall,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/08/2026,West Virginia,Marshall,12,2,0,0,L,Marshall,Marshall,West-Virginia,1,8,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+04/10/2026,Marshall,Old Dominion,8,1,0,0,W,Marshall,Marshall,Old-Dominion,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+04/11/2026,Marshall,Old Dominion,1,4,0,0,L,Marshall,Marshall,Old-Dominion,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+04/12/2026,Marshall,Old Dominion,7,5,0,0,W,Marshall,Marshall,Old-Dominion,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+04/15/2026,Ohio State,Marshall,7,11,0,0,W,Marshall,Marshall,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/17/2026,South Alabama,Marshall,2,6,0,0,W,Marshall,Marshall,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+04/18/2026,South Alabama,Marshall,7,3,0,0,L,Marshall,Marshall,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+04/19/2026,South Alabama,Marshall,4,1,0,0,L,Marshall,Marshall,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+04/22/2026,Marshall,Morehead State,2,11,0,0,L,Marshall,Marshall,Morehead-State,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+04/24/2026,Marshall,Troy,7,4,0,0,W,Marshall,Marshall,Troy,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+04/25/2026,Marshall,Troy,2,8,0,0,L,Marshall,Marshall,Troy,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+04/26/2026,Marshall,Troy,0,1,0,0,L,Marshall,Marshall,Troy,0,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+04/28/2026,Morehead State,Marshall,9,6,0,0,L,Marshall,Marshall,Morehead-State,1,9,"Morehead, KY / Allen Field",2026,WN2026
+04/29/2026,Ohio,Marshall,2,5,0,0,W,Marshall,Marshall,Ohio,1,9,"Athens, OH / Bob Wren Stadium",2026,WN2026
+05/01/2026,James Madison,Marshall,4,3,0,0,L,Marshall,Marshall,James-Madison,1,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+05/02/2026,James Madison,Marshall,0,9,0,0,W,Marshall,Marshall,James-Madison,1,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+05/03/2026,James Madison,Marshall,5,3,0,0,L,Marshall,Marshall,James-Madison,1,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+05/05/2026,West Virginia,Marshall,7,2,0,1,L,Marshall,Marshall,West-Virginia,0,9,"Charleston, WV / GoMart Ballpark",2026,WN2026
+05/08/2026,Marshall,ULM,7,4,0,0,W,Marshall,Marshall,ULM,0,9,"Huntington, WV / Jack Cook Field / Box Score",2026,WN2026
+05/09/2026,Marshall,ULM,13,10,0,0,W,Marshall,Marshall,ULM,0,9,"Huntington, WV / Jack Cook Field / Box Score",2026,WN2026
+05/10/2026,Marshall,ULM,5,7,0,0,L,Marshall,Marshall,ULM,0,9,"Huntington, WV / Jack Cook Field / Box Score",2026,WN2026
+05/14/2026,Texas State,Marshall,5,0,0,0,L,Marshall,Marshall,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark / Box Score",2026,WN2026
+05/15/2026,Texas State,Marshall,12,9,0,0,L,Marshall,Marshall,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark / Box Score",2026,WN2026
+05/16/2026,Texas State,Marshall,5,4,0,0,L,Marshall,Marshall,Texas-State,1,10,"San Marcos, TX / Bobcat Ballpark / Box Score",2026,WN2026
+05/19/2026,Louisiana,Marshall,11,1,0,1,L,Marshall,Marshall,Louisiana,0,7,"Montgomery, AL / Dabos Park / Box Score / Recap",2026,WN2026

@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Pacific,Utah Valley,2,3,0,0,L,Pacific,Pacific,Utah-Valley,0,11,"Stockton, CA / Klein Family Field",2026,WN2026
+02/14/2026,Pacific,Utah Valley,6,9,0,0,L,Pacific,Pacific,Utah-Valley,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+02/14/2026,Pacific,Utah Valley,13,7,0,0,W,Pacific,Pacific,Utah-Valley,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+02/15/2026,Pacific,Utah Valley,3,2,0,0,W,Pacific,Pacific,Utah-Valley,0,10,"Stockton, CA / Klein Family Field",2026,WN2026
+02/19/2026,Pacific,Utah Tech,4,3,0,0,W,Pacific,Pacific,Utah-Tech,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+02/20/2026,Pacific,Utah Tech,1,2,0,0,L,Pacific,Pacific,Utah-Tech,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+02/21/2026,Pacific,Utah Tech,5,8,0,0,L,Pacific,Pacific,Utah-Tech,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+02/25/2026,Pacific,Sacramento State,8,7,0,0,W,Pacific,Pacific,Sacramento-State,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+02/27/2026,Grand Canyon,Pacific,5,4,0,0,L,Pacific,Pacific,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+02/28/2026,Grand Canyon,Pacific,2,3,0,0,W,Pacific,Pacific,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/01/2026,Grand Canyon,Pacific,11,10,0,0,L,Pacific,Pacific,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/03/2026,San Jose State,Pacific,5,11,0,0,W,Pacific,Pacific,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/06/2026,Nevada,Pacific,11,7,0,0,L,Pacific,Pacific,Nevada,1,9,"Reno, NV / William Peccole Park",2026,WN2026
+03/07/2026,Nevada,Pacific,10,5,0,0,L,Pacific,Pacific,Nevada,1,9,"Reno, NV / William Peccole Park",2026,WN2026
+03/08/2026,Nevada,Pacific,12,2,0,0,L,Pacific,Pacific,Nevada,1,8,"Reno, NV / William Peccole Park",2026,WN2026
+03/11/2026,Sacramento State,Pacific,10,0,0,0,L,Pacific,Pacific,Sacramento-State,1,7,"Sacramento, CA / John Smith Field",2026,WN2026
+03/13/2026,Sacramento State,Pacific,3,5,0,0,W,Pacific,Pacific,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+03/14/2026,Pacific,Sacramento State,7,6,0,0,W,Pacific,Pacific,Sacramento-State,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+03/15/2026,Pacific,Sacramento State,6,18,0,0,L,Pacific,Pacific,Sacramento-State,0,7,"Stockton, CA / Klein Family Field",2026,WN2026
+03/17/2026,Pacific,Winthrop,2,8,0,0,L,Pacific,Pacific,Winthrop,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+03/20/2026,Pacific,Seattle University,6,4,0,0,W,Pacific,Pacific,Seattle-University,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+03/21/2026,Pacific,Seattle University,2,5,0,0,L,Pacific,Pacific,Seattle-University,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+03/22/2026,Pacific,Seattle University,10,15,0,0,L,Pacific,Pacific,Seattle-University,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+03/24/2026,Pacific,UC Davis,8,10,0,0,L,Pacific,Pacific,UC-Davis,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+03/27/2026,Pacific,Gonzaga,6,7,0,0,L,Pacific,Pacific,Gonzaga,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+03/28/2026,Pacific,Gonzaga,5,12,0,0,L,Pacific,Pacific,Gonzaga,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+03/29/2026,Pacific,Gonzaga,7,4,0,0,W,Pacific,Pacific,Gonzaga,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+04/03/2026,Saint Mary's College,Pacific,11,4,0,0,L,Pacific,Pacific,Saint-Marys-College,1,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/03/2026,Saint Mary's College,Pacific,6,4,0,0,L,Pacific,Pacific,Saint-Marys-College,1,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/04/2026,Saint Mary's College,Pacific,2,1,0,0,L,Pacific,Pacific,Saint-Marys-College,1,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/06/2026,Cal State Bakersfield,Pacific,8,1,0,0,L,Pacific,Pacific,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+04/10/2026,Pepperdine,Pacific,7,8,0,0,W,Pacific,Pacific,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+04/11/2026,Pepperdine,Pacific,10,3,0,0,L,Pacific,Pacific,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+04/12/2026,Pepperdine,Pacific,4,9,0,0,W,Pacific,Pacific,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+04/14/2026,UC Davis,Pacific,6,5,0,0,L,Pacific,Pacific,UC-Davis,1,10,"Davis, CA / Dobbins Stadium",2026,WN2026
+04/17/2026,Pacific,Santa Clara,3,1,0,0,W,Pacific,Pacific,Santa-Clara,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+04/18/2026,Pacific,Santa Clara,6,3,0,0,W,Pacific,Pacific,Santa-Clara,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+04/19/2026,Pacific,Santa Clara,7,1,0,0,W,Pacific,Pacific,Santa-Clara,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+04/24/2026,San Francisco,Pacific,5,10,0,0,W,Pacific,Pacific,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+04/25/2026,San Francisco,Pacific,5,3,0,0,L,Pacific,Pacific,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+04/26/2026,San Francisco,Pacific,2,8,0,0,W,Pacific,Pacific,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+04/28/2026,Pacific,Cal State Bakersfield,4,17,0,0,L,Pacific,Pacific,Cal-State-Bakersfield,0,8,"Stockton, CA / Klein Family Field",2026,WN2026
+05/01/2026,Pacific,Loyola-Marymount,8,0,0,0,W,Pacific,Pacific,Loyola-Marymount,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+05/02/2026,Pacific,Loyola-Marymount,15,9,0,0,W,Pacific,Pacific,Loyola-Marymount,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+05/03/2026,Pacific,Loyola-Marymount,6,4,0,0,W,Pacific,Pacific,Loyola-Marymount,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+05/05/2026,Pacific,California,1,2,0,0,L,Pacific,Pacific,California,0,9,"Stockton, CA / Klein Family Field",2026,WN2026
+05/08/2026,Pacific,San Diego,6,4,0,0,W,Pacific,Pacific,San-Diego,0,9,"Stockton, CA / Klein Family Field / Box Score",2026,WN2026
+05/09/2026,Pacific,San Diego,18,6,0,0,W,Pacific,Pacific,San-Diego,0,7,"Stockton, CA / Klein Family Field / Box Score",2026,WN2026
+05/14/2026,Portland,Pacific,5,7,0,0,W,Pacific,Pacific,Portland,1,9,"Portland, OR / Joe Etzel Field / Box Score",2026,WN2026
+05/15/2026,Portland,Pacific,3,2,0,0,L,Pacific,Pacific,Portland,1,12,"Portland, OR / Joe Etzel Field / Box Score",2026,WN2026
+05/16/2026,Portland,Pacific,9,5,0,0,L,Pacific,Pacific,Portland,1,9,"Portland, OR / Joe Etzel Field / Box Score",2026,WN2026
+05/21/2026,San Francisco,Pacific,4,8,0,1,W,Pacific,Pacific,San-Francisco,0,9,"Scottsdale, AZ / Scottsdale Stadium / Recap",2026,WN2026
+05/22/2026,Saint Mary's College,Pacific,10,7,0,1,L,Pacific,Pacific,Saint-Marys-College,0,9,"Scottsdale, AZ / Scottsdale Stadium",2026,WN2026
+05/22/2026,San Francisco,Pacific,10,6,0,1,L,Pacific,Pacific,San-Francisco,0,9,"Scottsdale, AZ / Scottsdale Stadium",2026,WN2026

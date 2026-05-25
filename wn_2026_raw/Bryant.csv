@@ -1,0 +1,53 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Davidson,Bryant,5,6,0,0,W,Bryant,Bryant,Davidson,1,10,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+02/14/2026,Davidson,Bryant,11,10,0,0,L,Bryant,Bryant,Davidson,1,8,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+02/14/2026,Davidson,Bryant,5,8,0,0,W,Bryant,Bryant,Davidson,1,7,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+02/20/2026,Clemson,Bryant,9,3,0,0,L,Bryant,Bryant,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+02/21/2026,Clemson,Bryant,5,3,0,0,L,Bryant,Bryant,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+02/22/2026,Clemson,Bryant,7,5,0,0,L,Bryant,Bryant,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+02/27/2026,Radford,Bryant,5,4,0,0,L,Bryant,Bryant,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+02/28/2026,Radford,Bryant,2,15,0,0,W,Bryant,Bryant,Radford,1,7,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+03/01/2026,Radford,Bryant,6,12,0,0,W,Bryant,Bryant,Radford,1,10,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+03/06/2026,Rutgers,Bryant,6,3,0,0,L,Bryant,Bryant,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/07/2026,Rutgers,Bryant,14,0,0,0,L,Bryant,Bryant,Rutgers,1,7,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/08/2026,Rutgers,Bryant,4,5,0,0,W,Bryant,Bryant,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/10/2026,Bryant,Stonehill,9,1,0,0,W,Bryant,Bryant,Stonehill,0,9,"Smithfield, RI / Conaty Park",2026,WN2026
+03/13/2026,Bryant,Binghamton,3,4,0,0,L,Bryant,Bryant,Binghamton,0,10,"Smithfield, RI / Conaty Park",2026,WN2026
+03/14/2026,Bryant,Binghamton,5,3,0,0,W,Bryant,Bryant,Binghamton,0,9,"Smithfield, RI / Conaty Park",2026,WN2026
+03/15/2026,Bryant,Binghamton,8,4,0,0,W,Bryant,Bryant,Binghamton,0,9,"Smithfield, RI / Conaty Park",2026,WN2026
+03/17/2026,Bryant,Holy Cross,11,1,0,0,W,Bryant,Bryant,Holy-Cross,0,7,"Smithfield, RI / Conaty Park",2026,WN2026
+03/18/2026,Bryant,Dartmouth,10,6,0,0,W,Bryant,Bryant,Dartmouth,0,9,"Smithfield, RI / Conaty Park",2026,WN2026
+03/20/2026,Bryant,Sacred Heart,11,1,0,0,W,Bryant,Bryant,Sacred-Heart,0,7,"Smithfield, RI / Conaty Park",2026,WN2026
+03/21/2026,Bryant,Sacred Heart,6,2,0,0,W,Bryant,Bryant,Sacred-Heart,0,7,"Smithfield, RI / Conaty Park",2026,WN2026
+03/21/2026,Bryant,Sacred Heart,14,11,0,0,W,Bryant,Bryant,Sacred-Heart,0,9,"Smithfield, RI / Conaty Park",2026,WN2026
+03/25/2026,Rhode Island,Bryant,2,4,0,0,W,Bryant,Bryant,Rhode-Island,1,9,"Kingston, RI / Bill Beck Field",2026,WN2026
+03/27/2026,Bryant,NJIT,10,12,0,0,L,Bryant,Bryant,NJIT,0,9,"Smithfield, RI / Conaty Park",2026,WN2026
+03/29/2026,Bryant,NJIT,7,5,0,0,W,Bryant,Bryant,NJIT,0,7,"Smithfield, RI / Conaty Park",2026,WN2026
+03/29/2026,Bryant,NJIT,13,9,0,0,W,Bryant,Bryant,NJIT,0,9,"Smithfield, RI / Conaty Park",2026,WN2026
+03/31/2026,Brown,Bryant,10,0,0,0,L,Bryant,Bryant,Brown,1,8,"Providence, RI / Murray Stadium",2026,WN2026
+04/02/2026,Maine,Bryant,3,4,0,0,W,Bryant,Bryant,Maine,1,9,"Orono, ME / Mahaney Diamond",2026,WN2026
+04/03/2026,Maine,Bryant,11,5,0,0,L,Bryant,Bryant,Maine,1,9,"Orono, ME / Mahaney Diamond",2026,WN2026
+04/04/2026,Maine,Bryant,5,2,0,0,L,Bryant,Bryant,Maine,1,9,"Orono, ME / Mahaney Diamond",2026,WN2026
+04/07/2026,Bryant,Connecticut,2,6,0,0,L,Bryant,Bryant,Connecticut,0,9,"Smithfield, RI / Conaty Park",2026,WN2026
+04/10/2026,Bryant,Albany,15,5,0,0,W,Bryant,Bryant,Albany,0,7,"Smithfield, RI / Conaty Park",2026,WN2026
+04/11/2026,Bryant,Albany,3,6,0,0,L,Bryant,Bryant,Albany,0,9,"Smithfield, RI / Conaty Park",2026,WN2026
+04/12/2026,Bryant,Albany,15,5,0,0,W,Bryant,Bryant,Albany,0,8,"Smithfield, RI / Conaty Park",2026,WN2026
+04/14/2026,Bryant,Rhode Island,9,10,0,0,L,Bryant,Bryant,Rhode-Island,0,9,"Kingston, RI / Bill Beck Field",2026,WN2026
+04/17/2026,Binghamton,Bryant,4,2,0,0,L,Bryant,Bryant,Binghamton,1,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/18/2026,Binghamton,Bryant,13,9,0,0,L,Bryant,Bryant,Binghamton,1,7,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/18/2026,Binghamton,Bryant,8,7,0,0,L,Bryant,Bryant,Binghamton,1,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/24/2026,UMass-Lowell,Bryant,5,8,0,0,W,Bryant,Bryant,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/25/2026,UMass-Lowell,Bryant,3,5,0,0,W,Bryant,Bryant,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/26/2026,UMass-Lowell,Bryant,2,4,0,0,W,Bryant,Bryant,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/29/2026,Holy Cross,Bryant,7,6,0,0,L,Bryant,Bryant,Holy-Cross,1,10,"Worcester, MA / Hanover Insurance Park at Fitton Field",2026,WN2026
+05/01/2026,NJIT,Bryant,0,4,0,0,W,Bryant,Bryant,NJIT,1,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+05/02/2026,NJIT,Bryant,2,5,0,0,W,Bryant,Bryant,NJIT,1,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+05/03/2026,NJIT,Bryant,5,3,0,0,L,Bryant,Bryant,NJIT,1,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+05/05/2026,Merrimack,Bryant,10,20,0,0,W,Bryant,Bryant,Merrimack,1,8,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+05/08/2026,Bryant,UMBC,2,4,0,0,L,Bryant,Bryant,UMBC,0,9,"Smithfield, RI / Conaty Park / Box Score",2026,WN2026
+05/09/2026,Bryant,UMBC,5,7,0,0,L,Bryant,Bryant,UMBC,0,9,"Smithfield, RI / Conaty Park / Box Score",2026,WN2026
+05/10/2026,Bryant,UMBC,4,3,0,0,W,Bryant,Bryant,UMBC,0,9,"Smithfield, RI / Conaty Park / Box Score",2026,WN2026
+05/12/2026,Bryant,Stonehill,11,1,0,0,W,Bryant,Bryant,Stonehill,0,7,"Smithfield, RI / Conaty Park",2026,WN2026
+05/15/2026,Marist,Bryant,3,2,0,0,L,Bryant,Bryant,Marist,1,7,"Poughkeepsie, NY / James J. McCann Baseball Field / Box Score",2026,WN2026
+05/15/2026,Marist,Bryant,9,2,0,0,L,Bryant,Bryant,Marist,1,7,"Poughkeepsie, NY / James J. McCann Baseball Field / Box Score",2026,WN2026
+05/20/2026,UMass-Lowell,Bryant,7,5,0,1,L,Bryant,Bryant,UMass-Lowell,0,11,"Vestal, NY / Bearcats Baseball Complex / Box Score / Recap",2026,WN2026

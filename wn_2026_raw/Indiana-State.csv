@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Manhattan,Indiana State,3,10,0,1,W,Indiana State,Indiana-State,Manhattan,0,9,"Caguas, PR",2026,WN2026
+02/14/2026,North Carolina State,Indiana State,10,4,0,1,L,Indiana State,Indiana-State,North-Carolina-State,0,9,"Ponce, PR",2026,WN2026
+02/15/2026,Wake Forest,Indiana State,10,1,0,1,L,Indiana State,Indiana-State,Wake-Forest,0,9,"Ponce, PR",2026,WN2026
+02/18/2026,Miami (FL),Indiana State,6,2,0,0,L,Indiana State,Indiana-State,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/20/2026,Miami (OH),Indiana State,3,11,0,1,W,Indiana State,Indiana-State,Miami-OH,0,9,"Port Charlotte, FL. / Centennial Park",2026,WN2026
+02/21/2026,Brown,Indiana State,16,12,0,1,L,Indiana State,Indiana-State,Brown,0,9,"Port Charlotte, FL. / Centennial Park",2026,WN2026
+02/22/2026,UMass-Lowell,Indiana State,2,10,0,1,W,Indiana State,Indiana-State,UMass-Lowell,0,9,"Port Charlotte, FL. / Centennial Park",2026,WN2026
+02/24/2026,FGCU,Indiana State,17,1,0,0,L,Indiana State,Indiana-State,FGCU,1,7,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/25/2026,FGCU,Indiana State,4,5,0,0,W,Indiana State,Indiana-State,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/27/2026,Penn State,Indiana State,5,8,0,1,W,Indiana State,Indiana-State,Penn-State,0,9,"Nassau, Bahamas",2026,WN2026
+02/28/2026,Penn State,Indiana State,1,2,0,1,W,Indiana State,Indiana-State,Penn-State,0,9,"Nassau, Bahamas",2026,WN2026
+03/01/2026,Penn State,Indiana State,9,8,0,1,L,Indiana State,Indiana-State,Penn-State,0,11,"Nassau, Bahamas",2026,WN2026
+03/06/2026,Western Kentucky,Indiana State,6,5,0,0,L,Indiana State,Indiana-State,Western-Kentucky,1,10,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+03/07/2026,Western Kentucky,Indiana State,6,11,0,0,W,Indiana State,Indiana-State,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+03/08/2026,Western Kentucky,Indiana State,7,4,0,0,L,Indiana State,Indiana-State,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+03/10/2026,Vanderbilt,Indiana State,14,6,0,0,L,Indiana State,Indiana-State,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/13/2026,Indiana State,Gonzaga,4,7,0,0,L,Indiana State,Indiana-State,Gonzaga,0,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+03/14/2026,Indiana State,Gonzaga,4,7,0,0,L,Indiana State,Indiana-State,Gonzaga,0,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+03/15/2026,Indiana State,Gonzaga,16,23,0,0,L,Indiana State,Indiana-State,Gonzaga,0,10,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+03/18/2026,Indiana State,Illinois,4,3,0,0,W,Indiana State,Indiana-State,Illinois,0,11,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+03/20/2026,Indiana State,Bradley,8,10,0,0,L,Indiana State,Indiana-State,Bradley,0,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+03/21/2026,Indiana State,Bradley,8,3,0,0,W,Indiana State,Indiana-State,Bradley,0,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+03/22/2026,Indiana State,Bradley,18,10,0,0,W,Indiana State,Indiana-State,Bradley,0,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+03/24/2026,Indiana,Indiana State,4,5,0,0,W,Indiana State,Indiana-State,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+03/28/2026,Valparaiso,Indiana State,2,18,0,0,W,Indiana State,Indiana-State,Valparaiso,1,7,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+03/29/2026,Valparaiso,Indiana State,10,1,0,0,L,Indiana State,Indiana-State,Valparaiso,1,9,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+03/30/2026,Valparaiso,Indiana State,1,10,0,0,W,Indiana State,Indiana-State,Valparaiso,1,9,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+03/31/2026,Indiana State,Purdue,12,4,0,0,W,Indiana State,Indiana-State,Purdue,0,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/02/2026,Indiana State,UIC,20,10,0,0,W,Indiana State,Indiana-State,UIC,0,8,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/03/2026,Indiana State,UIC,10,3,0,0,W,Indiana State,Indiana-State,UIC,0,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/04/2026,Indiana State,UIC,3,17,0,0,L,Indiana State,Indiana-State,UIC,0,7,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/07/2026,Illinois,Indiana State,7,3,0,0,L,Indiana State,Indiana-State,Illinois,1,9,"Champaign, IL / Illinois Field",2026,WN2026
+04/08/2026,Indiana State,SIUE,9,17,0,0,L,Indiana State,Indiana-State,SIUE,0,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/10/2026,Illinois State,Indiana State,1,11,0,0,W,Indiana State,Indiana-State,Illinois-State,1,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/11/2026,Illinois State,Indiana State,6,4,0,0,L,Indiana State,Indiana-State,Illinois-State,1,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/12/2026,Illinois State,Indiana State,1,6,0,0,W,Indiana State,Indiana-State,Illinois-State,1,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/14/2026,Indiana State,Indiana,12,17,0,0,L,Indiana State,Indiana-State,Indiana,0,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/17/2026,Wright State,Indiana State,7,8,0,0,W,Indiana State,Indiana-State,Wright-State,1,14,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+04/17/2026,Wright State,Indiana State,3,6,0,0,W,Indiana State,Indiana-State,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+04/19/2026,Wright State,Indiana State,8,11,0,0,W,Indiana State,Indiana-State,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+04/21/2026,Purdue,Indiana State,5,6,0,0,W,Indiana State,Indiana-State,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+04/24/2026,Indiana State,Evansville,4,3,0,0,W,Indiana State,Indiana-State,Evansville,0,10,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/25/2026,Indiana State,Evansville,8,5,0,0,W,Indiana State,Indiana-State,Evansville,0,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/26/2026,Indiana State,Evansville,3,4,0,0,L,Indiana State,Indiana-State,Evansville,0,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+05/01/2026,Southern Illinois,Indiana State,5,8,0,0,W,Indiana State,Indiana-State,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+05/02/2026,Southern Illinois,Indiana State,2,1,0,0,L,Indiana State,Indiana-State,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+05/03/2026,Southern Illinois,Indiana State,3,14,0,0,W,Indiana State,Indiana-State,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+05/06/2026,Indiana State,Western Illinois,3,13,0,0,L,Indiana State,Indiana-State,Western-Illinois,0,8,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+05/08/2026,Murray State,Indiana State,2,3,0,0,W,Indiana State,Indiana-State,Murray-State,1,9,"Murray, KY / Reagan Field / Box Score",2026,WN2026
+05/09/2026,Murray State,Indiana State,8,10,0,0,W,Indiana State,Indiana-State,Murray-State,1,9,"Murray, KY / Reagan Field / Box Score",2026,WN2026
+05/10/2026,Murray State,Indiana State,8,7,0,0,L,Indiana State,Indiana-State,Murray-State,1,10,"Murray, KY / Reagan Field / Box Score",2026,WN2026
+05/12/2026,Indiana State,Lindenwood,11,6,0,0,W,Indiana State,Indiana-State,Lindenwood,0,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+05/14/2026,Indiana State,Belmont,5,4,0,0,W,Indiana State,Indiana-State,Belmont,0,11,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium / Box Score",2026,WN2026
+05/15/2026,Indiana State,Belmont,9,13,0,0,L,Indiana State,Indiana-State,Belmont,0,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium / Box Score",2026,WN2026
+05/16/2026,Indiana State,Belmont,2,5,0,0,L,Indiana State,Indiana-State,Belmont,0,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium / Box Score",2026,WN2026
+05/21/2026,Murray State,Indiana State,3,2,0,1,L,Indiana State,Indiana-State,Murray-State,0,9,"Murray, KY / Reagan Field / Recap",2026,WN2026
+05/23/2026,Southern Illinois,Indiana State,7,5,0,1,L,Indiana State,Indiana-State,Southern-Illinois,0,9,"Murray, KY / Reagan Field",2026,WN2026

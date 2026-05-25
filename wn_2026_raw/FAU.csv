@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,FAU,Notre Dame,7,1,0,0,W,FAU,FAU,Notre-Dame,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/14/2026,FAU,Notre Dame,1,14,0,0,L,FAU,FAU,Notre-Dame,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/15/2026,FAU,Notre Dame,1,7,0,0,L,FAU,FAU,Notre-Dame,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/17/2026,FAU,Missouri,4,2,0,0,W,FAU,FAU,Missouri,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/20/2026,FAU,Iowa,2,7,0,0,L,FAU,FAU,Iowa,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/21/2026,FAU,Iowa,1,6,0,0,L,FAU,FAU,Iowa,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/22/2026,FAU,Iowa,3,2,0,0,W,FAU,FAU,Iowa,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/25/2026,FAU,Miami (FL),7,11,0,0,L,FAU,FAU,Miami-FL,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/27/2026,FAU,Villanova,11,4,0,0,W,FAU,FAU,Villanova,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/28/2026,FAU,Villanova,11,5,0,0,W,FAU,FAU,Villanova,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/01/2026,FAU,Villanova,15,5,0,0,W,FAU,FAU,Villanova,0,7,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/03/2026,Florida,FAU,4,0,0,0,L,FAU,FAU,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/06/2026,FAU,FIU,14,2,0,0,W,FAU,FAU,FIU,0,7,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/07/2026,FIU,FAU,3,5,0,0,W,FAU,FAU,FIU,1,11,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+03/08/2026,FAU,FIU,7,3,0,0,W,FAU,FAU,FIU,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/10/2026,FAU,Presbyterian College,12,2,0,0,W,FAU,FAU,Presbyterian-College,0,8,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/11/2026,FAU,Presbyterian College,7,2,0,0,W,FAU,FAU,Presbyterian-College,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/13/2026,FAU,UMBC,10,9,0,0,W,FAU,FAU,UMBC,0,11,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/14/2026,FAU,UMBC,3,14,0,0,L,FAU,FAU,UMBC,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/15/2026,FAU,UMBC,4,3,0,0,W,FAU,FAU,UMBC,0,10,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/17/2026,FAU,FGCU,4,12,0,0,L,FAU,FAU,FGCU,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/20/2026,FAU,UTSA,1,4,0,0,L,FAU,FAU,UTSA,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/21/2026,FAU,UTSA,7,6,0,0,W,FAU,FAU,UTSA,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/22/2026,FAU,UTSA,8,18,0,0,L,FAU,FAU,UTSA,0,7,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/24/2026,Miami (FL),FAU,10,6,0,0,L,FAU,FAU,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/27/2026,Rice,FAU,2,6,0,0,W,FAU,FAU,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+03/28/2026,Rice,FAU,5,2,0,0,L,FAU,FAU,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+03/29/2026,Rice,FAU,8,1,0,0,L,FAU,FAU,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+03/31/2026,FIU,FAU,9,1,0,0,L,FAU,FAU,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+04/02/2026,FAU,UAB,2,7,0,0,L,FAU,FAU,UAB,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/03/2026,FAU,UAB,8,11,0,0,L,FAU,FAU,UAB,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/04/2026,FAU,UAB,4,10,0,0,L,FAU,FAU,UAB,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/10/2026,Memphis,FAU,4,17,0,0,W,FAU,FAU,Memphis,1,8,"Memphis, TN / FedExPark",2026,WN2026
+04/11/2026,Memphis,FAU,4,6,0,0,W,FAU,FAU,Memphis,1,13,"Memphis, TN / FedExPark",2026,WN2026
+04/12/2026,Memphis,FAU,11,6,0,0,L,FAU,FAU,Memphis,1,9,"Memphis, TN / FedExPark",2026,WN2026
+04/14/2026,FAU,FGCU,6,8,0,0,L,FAU,FAU,FGCU,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/17/2026,FAU,Tulane,11,3,0,0,W,FAU,FAU,Tulane,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/18/2026,FAU,Tulane,10,9,0,0,W,FAU,FAU,Tulane,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/19/2026,FAU,Tulane,4,12,0,0,L,FAU,FAU,Tulane,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/22/2026,FAU,Miami (FL),4,5,0,0,L,FAU,FAU,Miami-FL,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/24/2026,FAU,Charlotte,3,1,0,0,W,FAU,FAU,Charlotte,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/25/2026,FAU,Charlotte,9,4,0,0,W,FAU,FAU,Charlotte,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/26/2026,FAU,Charlotte,4,5,0,0,L,FAU,FAU,Charlotte,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/28/2026,FGCU,FAU,1,8,0,0,W,FAU,FAU,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+05/01/2026,South Florida,FAU,9,12,0,0,W,FAU,FAU,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+05/02/2026,South Florida,FAU,5,6,0,0,W,FAU,FAU,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+05/03/2026,South Florida,FAU,11,6,0,0,L,FAU,FAU,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+05/05/2026,FAU,UCF,6,5,0,0,W,FAU,FAU,UCF,0,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+05/08/2026,Wichita State,FAU,2,4,0,0,W,FAU,FAU,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park / Box Score",2026,WN2026
+05/09/2026,Wichita State,FAU,7,9,0,0,W,FAU,FAU,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park / Box Score",2026,WN2026
+05/10/2026,Wichita State,FAU,4,1,0,0,L,FAU,FAU,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park / Box Score",2026,WN2026
+05/12/2026,FGCU,FAU,3,9,0,0,W,FAU,FAU,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+05/14/2026,FAU,East Carolina,5,7,0,0,L,FAU,FAU,East-Carolina,0,9,"Boca Raton, FL / FAU Baseball Stadium / Box Score",2026,WN2026
+05/15/2026,FAU,East Carolina,1,6,0,0,L,FAU,FAU,East-Carolina,0,9,"Boca Raton, FL / FAU Baseball Stadium / Box Score",2026,WN2026
+05/16/2026,FAU,East Carolina,2,13,0,0,L,FAU,FAU,East-Carolina,0,7,"Boca Raton, FL / FAU Baseball Stadium / Box Score",2026,WN2026
+05/20/2026,Wichita State,FAU,3,2,0,1,L,FAU,FAU,Wichita-State,0,9,"Clearwater, FL / BayCare Ballpark / Box Score / Recap",2026,WN2026

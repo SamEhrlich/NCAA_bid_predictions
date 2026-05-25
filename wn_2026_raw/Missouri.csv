@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Mount Saint Mary's,Missouri,8,5,0,1,L,Missouri,Missouri,Mount-Saint-Marys,0,9,"Fort Myers, FL / Terry Park",2026,WN2026
+02/14/2026,Mount Saint Mary's,Missouri,4,5,0,1,W,Missouri,Missouri,Mount-Saint-Marys,0,9,"Fort Myers, FL / Terry Park",2026,WN2026
+02/15/2026,Mount Saint Mary's,Missouri,3,34,0,1,W,Missouri,Missouri,Mount-Saint-Marys,0,9,"Fort Myers, FL / Terry Park",2026,WN2026
+02/17/2026,FAU,Missouri,4,2,0,0,L,Missouri,Missouri,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/20/2026,New Haven,Missouri,2,12,0,1,W,Missouri,Missouri,New-Haven,0,7,"Fort Myers, FL / Terry Park",2026,WN2026
+02/21/2026,New Haven,Missouri,5,17,0,1,W,Missouri,Missouri,New-Haven,0,7,"Fort Myers, FL / Terry Park",2026,WN2026
+02/22/2026,New Haven,Missouri,2,16,0,1,W,Missouri,Missouri,New-Haven,0,7,"Fort Myers, FL / Terry Park",2026,WN2026
+02/24/2026,Missouri,Arkansas-Pine Bluff,15,1,0,0,W,Missouri,Missouri,Arkansas-Pine-Bluff,0,7,"Columbia, MO / Taylor Stadium",2026,WN2026
+02/25/2026,Missouri,Arkansas-Pine Bluff,5,1,0,0,W,Missouri,Missouri,Arkansas-Pine-Bluff,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+02/27/2026,Missouri,North Dakota State,11,5,0,0,W,Missouri,Missouri,North-Dakota-State,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+02/28/2026,Missouri,North Dakota State,5,3,0,0,W,Missouri,Missouri,North-Dakota-State,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+02/28/2026,Missouri,North Dakota State,7,5,0,0,W,Missouri,Missouri,North-Dakota-State,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/05/2026,Missouri,UIC,9,8,0,0,W,Missouri,Missouri,UIC,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/07/2026,Missouri,UIC,13,12,0,0,W,Missouri,Missouri,UIC,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/07/2026,Missouri,UIC,7,0,0,0,W,Missouri,Missouri,UIC,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/08/2026,Missouri,UIC,10,0,0,0,W,Missouri,Missouri,UIC,0,7,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/10/2026,Missouri,Southern Indiana,14,6,0,0,W,Missouri,Missouri,Southern-Indiana,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/13/2026,Missouri,Auburn,0,2,0,0,L,Missouri,Missouri,Auburn,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/14/2026,Missouri,Auburn,3,4,0,0,L,Missouri,Missouri,Auburn,0,10,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/14/2026,Missouri,Auburn,2,9,0,0,L,Missouri,Missouri,Auburn,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/18/2026,Kansas,Missouri,10,0,0,0,L,Missouri,Missouri,Kansas,1,7,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/20/2026,Tennessee,Missouri,4,8,0,0,W,Missouri,Missouri,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/21/2026,Tennessee,Missouri,4,2,0,0,L,Missouri,Missouri,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/22/2026,Tennessee,Missouri,7,1,0,0,L,Missouri,Missouri,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/24/2026,Illinois,Missouri,1,5,0,1,W,Missouri,Missouri,Illinois,0,9,"OFallon, MO",2026,WN2026
+03/25/2026,Lindenwood,Missouri,10,4,0,0,L,Missouri,Missouri,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/27/2026,Missouri,Texas A&M,9,11,0,0,L,Missouri,Missouri,Texas-AM,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/28/2026,Missouri,Texas A&M,6,14,0,0,L,Missouri,Missouri,Texas-AM,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/29/2026,Missouri,Texas A&M,3,14,0,0,L,Missouri,Missouri,Texas-AM,0,7,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/31/2026,Missouri,Kansas,8,11,0,0,L,Missouri,Missouri,Kansas,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+04/03/2026,Kentucky,Missouri,4,5,0,0,W,Missouri,Missouri,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+04/04/2026,Kentucky,Missouri,9,2,0,0,L,Missouri,Missouri,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+04/05/2026,Kentucky,Missouri,2,5,0,0,W,Missouri,Missouri,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+04/07/2026,Missouri,Missouri State,5,2,0,0,W,Missouri,Missouri,Missouri-State,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+04/09/2026,Missouri,South Carolina,1,5,0,0,L,Missouri,Missouri,South-Carolina,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+04/10/2026,Missouri,South Carolina,0,1,0,0,L,Missouri,Missouri,South-Carolina,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+04/11/2026,Missouri,South Carolina,4,6,0,0,L,Missouri,Missouri,South-Carolina,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+04/17/2026,Oklahoma,Missouri,9,6,0,0,L,Missouri,Missouri,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+04/18/2026,Oklahoma,Missouri,4,0,0,0,L,Missouri,Missouri,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+04/19/2026,Oklahoma,Missouri,8,4,0,0,L,Missouri,Missouri,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+04/21/2026,Missouri,SIUE,5,11,0,0,L,Missouri,Missouri,SIUE,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+04/23/2026,Missouri,Arkansas,4,5,0,0,L,Missouri,Missouri,Arkansas,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+04/24/2026,Missouri,Arkansas,0,6,0,0,L,Missouri,Missouri,Arkansas,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+04/25/2026,Missouri,Arkansas,6,1,0,0,W,Missouri,Missouri,Arkansas,0,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+05/01/2026,Georgia,Missouri,4,0,0,0,L,Missouri,Missouri,Georgia,1,9,"Athens, GA / Foley Field",2026,WN2026
+05/02/2026,Georgia,Missouri,13,3,0,0,L,Missouri,Missouri,Georgia,1,8,"Athens, GA / Foley Field",2026,WN2026
+05/03/2026,Georgia,Missouri,14,4,0,0,L,Missouri,Missouri,Georgia,1,7,"Athens, GA / Foley Field",2026,WN2026
+05/09/2026,Missouri,Vanderbilt,8,7,0,0,W,Missouri,Missouri,Vanderbilt,0,10,"Columbia, MO / Taylor Stadium / Box Score",2026,WN2026
+05/09/2026,Missouri,Vanderbilt,8,11,0,0,L,Missouri,Missouri,Vanderbilt,0,11,"Columbia, MO / Taylor Stadium / Box Score",2026,WN2026
+05/10/2026,Missouri,Vanderbilt,4,1,0,0,W,Missouri,Missouri,Vanderbilt,0,9,"Columbia, MO / Taylor Stadium / Box Score",2026,WN2026
+05/14/2026,Texas,Missouri,6,3,0,0,L,Missouri,Missouri,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field / Box Score",2026,WN2026
+05/15/2026,Texas,Missouri,11,6,0,0,L,Missouri,Missouri,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field / Box Score",2026,WN2026
+05/16/2026,Texas,Missouri,12,7,0,0,L,Missouri,Missouri,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field / Box Score",2026,WN2026
+05/19/2026,Ole Miss,Missouri,8,10,0,1,W,Missouri,Missouri,Ole-Miss,0,9,"Hoover, AL / Hoover Metropolitan Stadium / Box Score / Recap",2026,WN2026
+05/20/2026,Mississippi State,Missouri,12,2,0,1,L,Missouri,Missouri,Mississippi-State,0,7,"Hoover, AL / Hoover Metropolitan Stadium / Recap",2026,WN2026

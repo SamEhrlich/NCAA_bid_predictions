@@ -1,0 +1,633 @@
+[19:01:48] Loaded 308 teams from wn_teams_2026.csv
+[19:01:48] [1/308] Abilene Christian (Abilene-Christian)
+[19:01:49]   ✓ 57 games
+[19:01:53] [2/308] Air Force (Air-Force)
+[19:01:54]   ✓ 55 games
+[19:01:58] [3/308] Akron (Akron)
+[19:01:58]   ✓ 54 games
+[19:02:03] [4/308] Alabama (Alabama)
+[19:02:04]   ✓ 56 games
+[19:02:09] [5/308] Alabama A&M (Alabama-AM)
+[19:02:09]   ✓ 51 games
+[19:02:14] [6/308] Alabama State (Alabama-State)
+[19:02:15]   ✓ 55 games
+[19:02:18] [7/308] Albany (Albany)
+[19:02:19]   ✓ 49 games
+[19:02:24] [8/308] Alcorn State (Alcorn-State)
+[19:02:24]   ✓ 46 games
+[19:02:27] [9/308] Appalachian State (Appalachian-State)
+[19:02:28]   ✓ 54 games
+[19:02:31] [10/308] Arizona (Arizona)
+[19:02:32]   ✓ 53 games
+[19:02:36] [11/308] Arizona State (Arizona-State)
+[19:02:36]   ✓ 56 games
+[19:02:40] [12/308] Arkansas (Arkansas)
+[19:02:40]   ✓ 59 games
+[19:02:44] [13/308] Arkansas State (Arkansas-State)
+[19:02:45]   ✓ 53 games
+[19:02:48] [14/308] Arkansas-Pine Bluff (Arkansas-Pine-Bluff)
+[19:02:49]   ✓ 58 games
+[19:02:53] [15/308] Army (Army)
+[19:02:54]   ✓ 48 games
+[19:02:59] [16/308] Auburn (Auburn)
+[19:03:00]   ✓ 57 games
+[19:03:04] [17/308] Austin Peay (Austin-Peay)
+[19:03:05]   ✓ 55 games
+[19:03:09] [18/308] Ball State (Ball-State)
+[19:03:10]   ✓ 53 games
+[19:03:14] [19/308] Baylor (Baylor)
+[19:03:15]   ✓ 56 games
+[19:03:19] [20/308] Bellarmine (Bellarmine)
+[19:03:19]   ✓ 53 games
+[19:03:24] [21/308] Belmont (Belmont)
+[19:03:25]   ✓ 55 games
+[19:03:28] [22/308] Bethune-Cookman (Bethune-Cookman)
+[19:03:29]   ✓ 58 games
+[19:03:33] [23/308] Binghamton (Binghamton)
+[19:03:34]   ✓ 51 games
+[19:03:38] [24/308] Boston College (Boston-College)
+[19:03:39]   ✓ 57 games
+[19:03:43] [25/308] Bowling Green (Bowling-Green)
+[19:03:44]   ✓ 51 games
+[19:03:49]   ... 25/308 (ok=25 skipped=0 games=1350) 2.0min elapsed
+[19:03:49] [26/308] Bradley (Bradley)
+[19:03:49]   ✓ 56 games
+[19:03:53] [27/308] Brown (Brown)
+[19:03:54]   ✓ 43 games
+[19:03:59] [28/308] Bryant (Bryant)
+[19:03:59]   ✓ 52 games
+[19:04:03] [29/308] Bucknell (Bucknell)
+[19:04:04]   ✓ 51 games
+[19:04:07] [30/308] Butler (Butler)
+[19:04:08]   ✓ 54 games
+[19:04:11] [31/308] BYU (BYU)
+[19:04:12]   ✓ 56 games
+[19:04:16] [32/308] Cal Poly (Cal-Poly)
+[19:04:18]   ✓ 58 games
+[19:04:22] [33/308] Cal State Bakersfield (Cal-State-Bakersfield)
+[19:04:23]   ✓ 53 games
+[19:04:26] [34/308] Cal State Fullerton (Cal-State-Fullerton)
+[19:04:27]   ✓ 56 games
+[19:04:31] [35/308] Cal State Northridge (Cal-State-Northridge)
+[19:04:32]   ✓ 53 games
+[19:04:35] [36/308] California (California)
+[19:04:36]   ✓ 55 games
+[19:04:41] [37/308] California Baptist (California-Baptist)
+[19:04:42]   ✓ 59 games
+[19:04:46] [38/308] Campbell (Campbell)
+[19:04:47]   ✓ 58 games
+[19:04:50] [39/308] Canisius (Canisius)
+[19:04:51]   ✓ 47 games
+[19:04:54] [40/308] Central Arkansas (Central-Arkansas)
+[19:04:55]   ✓ 57 games
+[19:04:59] [41/308] Central Connecticut (Central-Connecticut)
+[19:04:59]   ✓ 44 games
+[19:05:03] [42/308] Central Michigan (Central-Michigan)
+[19:05:04]   ✓ 51 games
+[19:05:08] [43/308] Charleston (Charleston)
+[19:05:09]   ✓ 56 games
+[19:05:13] [44/308] Charleston Southern (Charleston-Southern)
+[19:05:14]   ✓ 53 games
+[19:05:18] [45/308] Charlotte (Charlotte)
+[19:05:19]   ✓ 56 games
+[19:05:22] [46/308] Cincinnati (Cincinnati)
+[19:05:23]   ✓ 57 games
+[19:05:26] [47/308] Clemson (Clemson)
+[19:05:27]   ✓ 57 games
+[19:05:30] [48/308] Coastal Carolina (Coastal-Carolina)
+[19:05:31]   ✓ 58 games
+[19:05:36] [49/308] Columbia (Columbia)
+[19:05:37]   ✓ 41 games
+[19:05:40] [50/308] Connecticut (Connecticut)
+[19:05:41]   ✓ 58 games
+[19:05:44]   ... 50/308 (ok=50 skipped=0 games=2689) 3.9min elapsed
+[19:05:44] [51/308] Coppin State (Coppin-State)
+[19:05:45]   ✓ 48 games
+[19:05:49] [52/308] Cornell (Cornell)
+[19:05:50]   ✓ 37 games
+[19:05:53] [53/308] Creighton (Creighton)
+[19:05:54]   ✓ 57 games
+[19:05:59] [54/308] Dallas Baptist (Dallas-Baptist)
+[19:05:59]   ✓ 58 games
+[19:06:04] [55/308] Dartmouth (Dartmouth)
+[19:06:04]   ✓ 40 games
+[19:06:08] [56/308] Davidson (Davidson)
+[19:06:09]   ✓ 53 games
+[19:06:14] [57/308] Dayton (Dayton)
+[19:06:14]   ✓ 54 games
+[19:06:19] [58/308] Delaware (Delaware)
+[19:06:19]   ✓ 54 games
+[19:06:23] [59/308] Delaware State (Delaware-State)
+[19:06:24]   ✓ 50 games
+[19:06:27] [60/308] Duke (Duke)
+[19:06:28]   ✓ 57 games
+[19:06:32] [61/308] East Carolina (East-Carolina)
+[19:06:33]   ✓ 58 games
+[19:06:37] [62/308] East Tennessee State (East-Tennessee-State)
+[19:06:38]   ✓ 53 games
+[19:06:42] [63/308] Eastern Illinois (Eastern-Illinois)
+[19:06:43]   ✓ 54 games
+[19:06:47] [64/308] Eastern Kentucky (Eastern-Kentucky)
+[19:06:48]   ✓ 54 games
+[19:06:53] [65/308] Eastern Michigan (Eastern-Michigan)
+[19:06:53]   ✓ 53 games
+[19:06:57] [66/308] Elon (Elon)
+[19:06:58]   ✓ 53 games
+[19:07:02] [67/308] Evansville (Evansville)
+[19:07:03]   ✓ 54 games
+[19:07:07] [68/308] Fairfield (Fairfield)
+[19:07:08]   ✓ 54 games
+[19:07:11] [69/308] Fairleigh Dickinson (Fairleigh-Dickinson)
+[19:07:12]   ✓ 54 games
+[19:07:15] [70/308] FAU (FAU)
+[19:07:16]   ✓ 56 games
+[19:07:20] [71/308] FGCU (FGCU)
+[19:07:21]   ✓ 58 games
+[19:07:25] [72/308] FIU (FIU)
+[19:07:26]   ✓ 54 games
+[19:07:30] [73/308] Florida (Florida)
+[19:07:31]   ✓ 58 games
+[19:07:36] [74/308] Florida A&M (Florida-AM)
+[19:07:36]   ✓ 53 games
+[19:07:41] [75/308] Florida State (Florida-State)
+[19:07:42]   ✓ 55 games
+[19:07:46]   ... 75/308 (ok=75 skipped=0 games=4018) 6.0min elapsed
+[19:07:46] [76/308] Fordham (Fordham)
+[19:07:47]   ✓ 55 games
+[19:07:52] [77/308] Fresno State (Fresno-State)
+[19:07:53]   ✓ 52 games
+[19:07:57] [78/308] Gardner-Webb (Gardner-Webb)
+[19:07:57]   ✓ 55 games
+[19:08:01] [79/308] George Mason (George-Mason)
+[19:08:02]   ✓ 56 games
+[19:08:05] [80/308] George Washington (George-Washington)
+[19:08:06]   ✓ 53 games
+[19:08:10] [81/308] Georgetown (Georgetown)
+[19:08:11]   ✓ 56 games
+[19:08:15] [82/308] Georgia (Georgia)
+[19:08:16]   ✓ 58 games
+[19:08:20] [83/308] Georgia Southern (Georgia-Southern)
+[19:08:20]   ✓ 56 games
+[19:08:24] [84/308] Georgia State (Georgia-State)
+[19:08:25]   ✓ 57 games
+[19:08:29] [85/308] Georgia Tech (Georgia-Tech)
+[19:08:30]   ✓ 57 games
+[19:08:34] [86/308] Gonzaga (Gonzaga)
+[19:08:35]   ✓ 54 games
+[19:08:38] [87/308] Grambling State (Grambling-State)
+[19:08:39]   ✓ 52 games
+[19:08:43] [88/308] Grand Canyon (Grand-Canyon)
+[19:08:44]   ✓ 51 games
+[19:08:49] [89/308] Harvard (Harvard)
+[19:08:50]   ✓ 37 games
+[19:08:53] [90/308] Hawaii (Hawaii)
+[19:08:54]   ✓ 47 games
+[19:08:58] [91/308] High Point (High-Point)
+[19:08:59]   ✓ 57 games
+[19:09:03] [92/308] Hofstra (Hofstra)
+[19:09:04]   ✓ 51 games
+[19:09:08] [93/308] Holy Cross (Holy-Cross)
+[19:09:09]   ✓ 53 games
+[19:09:13] [94/308] Houston (Houston)
+[19:09:14]   ✓ 55 games
+[19:09:17] [95/308] Houston Christian (Houston-Christian)
+[19:09:18]   ✓ 53 games
+[19:09:23] [96/308] Illinois (Illinois)
+[19:09:23]   ✓ 54 games
+[19:09:27] [97/308] Illinois State (Illinois-State)
+[19:09:27]   ✓ 57 games
+[19:09:31] [98/308] Incarnate Word (Incarnate-Word)
+[19:09:31]   ✓ 48 games
+[19:09:36] [99/308] Indiana (Indiana)
+[19:09:36]   ✓ 54 games
+[19:09:40] [100/308] Indiana State (Indiana-State)
+[19:09:41]   ✓ 57 games
+[19:09:45]   ... 100/308 (ok=100 skipped=0 games=5353) 7.9min elapsed
+[19:09:45] [101/308] Iona (Iona)
+[19:09:45]   ✓ 47 games
+[19:09:50] [102/308] Iowa (Iowa)
+[19:09:51]   ✓ 53 games
+[19:09:54] [103/308] Jackson State (Jackson-State)
+[19:09:55]   ✓ 50 games
+[19:09:59] [104/308] Jacksonville (Jacksonville)
+[19:10:00]   ✓ 55 games
+[19:10:03] [105/308] Jacksonville State (Jacksonville-State)
+[19:10:04]   ✓ 59 games
+[19:10:09] [106/308] James Madison (James-Madison)
+[19:10:09]   ✓ 53 games
+[19:10:14] [107/308] Kansas (Kansas)
+[19:10:15]   ✓ 58 games
+[19:10:19] [108/308] Kansas State (Kansas-State)
+[19:10:20]   ✓ 57 games
+[19:10:23] [109/308] Kennesaw State (Kennesaw-State)
+[19:10:24]   ✓ 53 games
+[19:10:29] [110/308] Kent State (Kent-State)
+[19:10:29]   ✓ 56 games
+[19:10:34] [111/308] Kentucky (Kentucky)
+[19:10:35]   ✓ 52 games
+[19:10:39] [112/308] La Salle (La-Salle)
+[19:10:40]   ✓ 55 games
+[19:10:44] [113/308] Lafayette (Lafayette)
+[19:10:45]   ✓ 45 games
+[19:10:48] [114/308] Lamar (Lamar)
+[19:10:49]   ✓ 59 games
+[19:10:52] [115/308] Le Moyne (Le-Moyne)
+[19:10:53]   ✓ 48 games
+[19:10:58] [116/308] Lehigh (Lehigh)
+[19:10:58]   ✓ 45 games
+[19:11:03] [117/308] Liberty (Liberty)
+[19:11:04]   ✓ 60 games
+[19:11:08] [118/308] Lindenwood (Lindenwood)
+[19:11:09]   ✓ 57 games
+[19:11:13] [119/308] Lipscomb (Lipscomb)
+[19:11:14]   ✓ 53 games
+[19:11:17] [120/308] Little Rock (Little-Rock)
+[19:11:17]   ✓ 62 games
+[19:11:21] [121/308] Long Beach State (Long-Beach-State)
+[19:11:21]   ✓ 52 games
+[19:11:26] [122/308] Long Island (Long-Island)
+[19:11:27]   ✓ 50 games
+[19:11:31] [123/308] Longwood (Longwood)
+[19:11:32]   ✓ 61 games
+[19:11:35] [124/308] Louisiana (Louisiana)
+[19:11:36]   ✓ 62 games
+[19:11:40] [125/308] Louisiana Tech (Louisiana-Tech)
+[19:11:41]   ✓ 58 games
+[19:11:46]   ... 125/308 (ok=125 skipped=0 games=6713) 10.0min elapsed
+[19:11:46] [126/308] Louisville (Louisville)
+[19:11:46]   ✓ 57 games
+[19:11:51] [127/308] Loyola-Marymount (Loyola-Marymount)
+[19:11:51]   ✓ 56 games
+[19:11:55] [128/308] LSU (LSU)
+[19:11:56]   ✓ 58 games
+[19:11:59] [129/308] Maine (Maine)
+[19:12:00]   ✓ 55 games
+[19:12:04] [130/308] Manhattan (Manhattan)
+[19:12:05]   ✓ 51 games
+[19:12:08] [131/308] Marist (Marist)
+[19:12:09]   ✓ 55 games
+[19:12:13] [132/308] Marshall (Marshall)
+[19:12:14]   ✓ 55 games
+[19:12:17] [133/308] Maryland (Maryland)
+[19:12:18]   ✓ 56 games
+[19:12:22] [134/308] Maryland Eastern Shore (Maryland-Eastern-Shore)
+[19:12:23]   ✓ 48 games
+[19:12:27] [135/308] McNeese (McNeese)
+[19:12:28]   ✓ 55 games
+[19:12:32] [136/308] Memphis (Memphis)
+[19:12:32]   ✓ 58 games
+[19:12:36] [137/308] Mercer (Mercer)
+[19:12:37]   ✓ 59 games
+[19:12:42] [138/308] Mercyhurst (Mercyhurst)
+[19:12:43]   ✓ 47 games
+[19:12:48] [139/308] Merrimack (Merrimack)
+[19:12:48]   ✓ 56 games
+[19:12:53] [140/308] Miami (FL) (Miami-FL)
+[19:12:53]   ✓ 56 games
+[19:12:57] [141/308] Miami (OH) (Miami-OH)
+[19:12:58]   ✓ 55 games
+[19:13:02] [142/308] Michigan (Michigan)
+[19:13:03]   ✓ 58 games
+[19:13:08] [143/308] Michigan State (Michigan-State)
+[19:13:10]   ✓ 56 games
+[19:13:13] [144/308] Middle Tennessee (Middle-Tennessee)
+[19:13:14]   ✓ 57 games
+[19:13:18] [145/308] Milwaukee (Milwaukee)
+[19:13:20]   ✓ 56 games
+[19:13:23] [146/308] Minnesota (Minnesota)
+[19:13:25]   ✓ 53 games
+[19:13:28] [147/308] Mississippi State (Mississippi-State)
+[19:13:29]   ✓ 57 games
+[19:13:33] [148/308] Mississippi Valley State (Mississippi-Valley-State)
+[19:13:34]   ✓ 48 games
+[19:13:38] [149/308] Missouri (Missouri)
+[19:13:39]   ✓ 55 games
+[19:13:43] [150/308] Missouri State (Missouri-State)
+[19:13:44]   ✓ 53 games
+[19:13:49]   ... 150/308 (ok=150 skipped=0 games=8083) 12.0min elapsed
+[19:13:49] [151/308] Monmouth (Monmouth)
+[19:13:50]   ✓ 53 games
+[19:13:54] [152/308] Morehead State (Morehead-State)
+[19:13:55]   ✓ 55 games
+[19:13:59] [153/308] Mount Saint Mary's (Mount-Saint-Marys)
+[19:14:00]   ✓ 48 games
+[19:14:04] [154/308] Murray State (Murray-State)
+[19:14:05]   ✓ 59 games
+[19:14:09] [155/308] Navy (Navy)
+[19:14:10]   ✓ 49 games
+[19:14:14] [156/308] Nebraska (Nebraska)
+[19:14:14]   ✓ 57 games
+[19:14:18] [157/308] Nevada (Nevada)
+[19:14:19]   ✓ 49 games
+[19:14:22] [158/308] New Haven (New-Haven)
+[19:14:23]   ✓ 45 games
+[19:14:27] [159/308] New Mexico (New-Mexico)
+[19:14:28]   ✓ 52 games
+[19:14:33] [160/308] New Mexico State (New-Mexico-State)
+[19:14:34]   ✓ 52 games
+[19:14:38] [161/308] New Orleans (New-Orleans)
+[19:14:38]   ✓ 54 games
+[19:14:43] [162/308] Niagara (Niagara)
+[19:14:43]   ✓ 48 games
+[19:14:48] [163/308] Nicholls (Nicholls)
+[19:14:49]   ✓ 47 games
+[19:14:53] [164/308] NJIT (NJIT)
+[19:14:54]   ✓ 47 games
+[19:14:58] [165/308] Norfolk State (Norfolk-State)
+[19:14:58]   ✓ 50 games
+[19:15:03] [166/308] North Alabama (North-Alabama)
+[19:15:04]   ✓ 59 games
+[19:15:09] [167/308] North Carolina (North-Carolina)
+[19:15:10]   ✓ 56 games
+[19:15:13] [168/308] North Carolina A&T (North-Carolina-AT)
+[19:15:14]   ✓ 52 games
+[19:15:18] [169/308] North Carolina State (North-Carolina-State)
+[19:15:19]   ✓ 54 games
+[19:15:24] [170/308] North Dakota State (North-Dakota-State)
+[19:15:24]   ✓ 45 games
+[19:15:28] [171/308] North Florida (North-Florida)
+[19:15:28]   ✓ 55 games
+[19:15:32] [172/308] Northeastern (Northeastern)
+[19:15:33]   ✓ 58 games
+[19:15:37] [173/308] Northern Colorado (Northern-Colorado)
+[19:15:38]   ✓ 55 games
+[19:15:41] [174/308] Northern Illinois (Northern-Illinois)
+[19:15:42]   ✓ 52 games
+[19:15:45] [175/308] Northern Kentucky (Northern-Kentucky)
+[19:15:46]   ✓ 54 games
+[19:15:49]   ... 175/308 (ok=175 skipped=0 games=9388) 14.0min elapsed
+[19:15:49] [176/308] Northwestern (Northwestern)
+[19:15:50]   ✓ 51 games
+[19:15:53] [177/308] Northwestern State (Northwestern-State)
+[19:15:54]   ✓ 52 games
+[19:15:58] [178/308] Notre Dame (Notre-Dame)
+[19:15:59]   ✓ 53 games
+[19:16:03] [179/308] Oakland (Oakland)
+[19:16:04]   ✓ 54 games
+[19:16:07] [180/308] Ohio (Ohio)
+[19:16:08]   ✓ 54 games
+[19:16:13] [181/308] Ohio State (Ohio-State)
+[19:16:14]   ✓ 55 games
+[19:16:18] [182/308] Oklahoma (Oklahoma)
+[19:16:19]   ✓ 53 games
+[19:16:24] [183/308] Oklahoma State (Oklahoma-State)
+[19:16:25]   ✓ 57 games
+[19:16:29] [184/308] Old Dominion (Old-Dominion)
+[19:16:29]   ✓ 55 games
+[19:16:34] [185/308] Ole Miss (Ole-Miss)
+[19:16:35]   ✓ 57 games
+[19:16:38] [186/308] Omaha (Omaha)
+[19:16:39]   ✓ 47 games
+[19:16:44] [187/308] Oral Roberts (Oral-Roberts)
+[19:16:45]   ✓ 59 games
+[19:16:49] [188/308] Oregon (Oregon)
+[19:16:50]   ✓ 56 games
+[19:16:54] [189/308] Oregon State (Oregon-State)
+[19:16:54]   ✓ 55 games
+[19:16:58] [190/308] Pacific (Pacific)
+[19:16:59]   ✓ 54 games
+[19:17:03] [191/308] Penn (Penn)
+[19:17:04]   ✓ 42 games
+[19:17:07] [192/308] Penn State (Penn-State)
+[19:17:08]   ✓ 51 games
+[19:17:12] [193/308] Pepperdine (Pepperdine)
+[19:17:13]   ✓ 54 games
+[19:17:16] [194/308] Pittsburgh (Pittsburgh)
+[19:17:17]   ✓ 57 games
+[19:17:21] [195/308] Portland (Portland)
+[19:17:21]   ✓ 52 games
+[19:17:26] [196/308] Prairie View A&M (Prairie-View-AM)
+[19:17:26]   ✓ 47 games
+[19:17:30] [197/308] Presbyterian College (Presbyterian-College)
+[19:17:31]   ✓ 56 games
+[19:17:34] [198/308] Princeton (Princeton)
+[19:17:35]   ✓ 42 games
+[19:17:38] [199/308] Purdue (Purdue)
+[19:17:39]   ✓ 56 games
+[19:17:43] [200/308] Queens (Queens)
+[19:17:44]   ✓ 54 games
+[19:17:48]   ... 200/308 (ok=200 skipped=0 games=10711) 16.0min elapsed
+[19:17:48] [201/308] Quinnipiac (Quinnipiac)
+[19:17:48]   ✓ 51 games
+[19:17:52] [202/308] Radford (Radford)
+[19:17:53]   ✓ 51 games
+[19:17:56] [203/308] Rhode Island (Rhode-Island)
+[19:17:57]   ✓ 57 games
+[19:18:02] [204/308] Rice (Rice)
+[19:18:03]   ✓ 59 games
+[19:18:06] [205/308] Richmond (Richmond)
+[19:18:07]   ✓ 57 games
+[19:18:11] [206/308] Rider (Rider)
+[19:18:12]   ✓ 51 games
+[19:18:16] [207/308] Rutgers (Rutgers)
+[19:18:17]   ✓ 56 games
+[19:18:21] [208/308] Sacramento State (Sacramento-State)
+[19:18:22]   ✓ 61 games
+[19:18:26] [209/308] Sacred Heart (Sacred-Heart)
+[19:18:27]   ✓ 49 games
+[19:18:31] [210/308] Saint Bonaventure (Saint-Bonaventure)
+[19:18:32]   ✓ 49 games
+[19:18:36] [211/308] Saint John's (Saint-Johns)
+[19:18:37]   ✓ 57 games
+[19:18:41] [212/308] Saint Joseph's (Saint-Josephs)
+[19:18:41]   ✓ 55 games
+[19:18:45] [213/308] Saint Louis (Saint-Louis)
+[19:18:45]   ✓ 54 games
+[19:18:50] [214/308] Saint Mary's College (Saint-Marys-College)
+[19:18:50]   ✓ 59 games
+[19:18:55] [215/308] Saint Peter's (Saint-Peters)
+[19:18:56]   ✓ 52 games
+[19:19:01] [216/308] Saint Thomas (Saint-Thomas)
+[19:19:01]   ✓ 50 games
+[19:19:06] [217/308] Sam Houston State (Sam-Houston-State)
+[19:19:08]   ✓ 58 games
+[19:19:13] [218/308] Samford (Samford)
+[19:19:14]   ✓ 56 games
+[19:19:18] [219/308] San Diego (San-Diego)
+[19:19:19]   ✓ 50 games
+[19:19:23] [220/308] San Diego State (San-Diego-State)
+[19:19:24]   ✓ 60 games
+[19:19:29] [221/308] San Francisco (San-Francisco)
+[19:19:30]   ✓ 58 games
+[19:19:34] [222/308] San Jose State (San-Jose-State)
+[19:19:35]   ✓ 51 games
+[19:19:40] [223/308] Santa Clara (Santa-Clara)
+[19:19:41]   ✓ 54 games
+[19:19:45] [224/308] Seattle University (Seattle-University)
+[19:19:46]   ✓ 47 games
+[19:19:51] [225/308] Seton Hall (Seton-Hall)
+[19:19:52]   ✓ 46 games
+[19:19:56]   ... 225/308 (ok=225 skipped=0 games=12059) 18.1min elapsed
+[19:19:56] [226/308] Siena (Siena)
+[19:19:57]   ✓ 50 games
+[19:20:00] [227/308] SIUE (SIUE)
+[19:20:01]   ✓ 57 games
+[19:20:05] [228/308] South Alabama (South-Alabama)
+[19:20:06]   ✓ 57 games
+[19:20:10] [229/308] South Carolina (South-Carolina)
+[19:20:11]   ✓ 57 games
+[19:20:15] [230/308] South Carolina Upstate (South-Carolina-Upstate)
+[19:20:15]   ✓ 61 games
+[19:20:20] [231/308] South Dakota State (South-Dakota-State)
+[19:20:21]   ✓ 51 games
+[19:20:26] [232/308] South Florida (South-Florida)
+[19:20:27]   ✓ 53 games
+[19:20:30] [233/308] Southeast Missouri (Southeast-Missouri)
+[19:20:31]   ✓ 57 games
+[19:20:34] [234/308] Southeastern Louisiana (Southeastern-Louisiana)
+[19:20:35]   ✓ 54 games
+[19:20:40] [235/308] Southern (Southern)
+[19:20:40]   ✓ 49 games
+[19:20:45] [236/308] Southern Illinois (Southern-Illinois)
+[19:20:45]   ✓ 59 games
+[19:20:49] [237/308] Southern Indiana (Southern-Indiana)
+[19:20:50]   ✓ 58 games
+[19:20:55] [238/308] Southern Miss (Southern-Miss)
+[19:20:55]   ✓ 59 games
+[19:21:00] [239/308] Stanford (Stanford)
+[19:21:00]   ✓ 54 games
+[19:21:04] [240/308] Stephen F. Austin (Stephen-F-Austin)
+[19:21:05]   ✓ 55 games
+[19:21:10] [241/308] Stetson (Stetson)
+[19:21:10]   ✓ 55 games
+[19:21:14] [242/308] Stonehill (Stonehill)
+[19:21:15]   ✓ 49 games
+[19:21:20] [243/308] Stony Brook (Stony-Brook)
+[19:21:21]   ✓ 51 games
+[19:21:25] [244/308] Tarleton State (Tarleton-State)
+[19:21:26]   ✓ 56 games
+[19:21:30] [245/308] TCU (TCU)
+[19:21:31]   ✓ 54 games
+[19:21:35] [246/308] Tennessee (Tennessee)
+[19:21:36]   ✓ 58 games
+[19:21:39] [247/308] Tennessee Tech (Tennessee-Tech)
+[19:21:40]   ✓ 55 games
+[19:21:44] [248/308] Tennessee-Martin (Tennessee-Martin)
+[19:21:45]   ✓ 54 games
+[19:21:49] [249/308] Texas (Texas)
+[19:21:50]   ✓ 53 games
+[19:21:54] [250/308] Texas A&M (Texas-AM)
+[19:21:54]   ✓ 53 games
+[19:21:58]   ... 250/308 (ok=250 skipped=0 games=13428) 20.2min elapsed
+[19:21:58] [251/308] Texas A&M-Corpus Christi (Texas-AM-Corpus-Christi)
+[19:21:59]   ✓ 51 games
+[19:22:03] [252/308] Texas Southern (Texas-Southern)
+[19:22:04]   ✓ 43 games
+[19:22:08] [253/308] Texas State (Texas-State)
+[19:22:09]   ✓ 60 games
+[19:22:13] [254/308] Texas Tech (Texas-Tech)
+[19:22:13]   ✓ 55 games
+[19:22:16] [255/308] The Citadel (The-Citadel)
+[19:22:17]   ✓ 59 games
+[19:22:21] [256/308] Toledo (Toledo)
+[19:22:22]   ✓ 61 games
+[19:22:26] [257/308] Towson (Towson)
+[19:22:27]   ✓ 54 games
+[19:22:31] [258/308] Troy (Troy)
+[19:22:32]   ✓ 61 games
+[19:22:35] [259/308] Tulane (Tulane)
+[19:22:36]   ✓ 56 games
+[19:22:40] [260/308] UAB (UAB)
+[19:22:40]   ✓ 58 games
+[19:22:44] [261/308] UC Davis (UC-Davis)
+[19:22:44]   ✓ 54 games
+[19:22:49] [262/308] UC Irvine (UC-Irvine)
+[19:22:49]   ✓ 52 games
+[19:22:53] [263/308] UC Riverside (UC-Riverside)
+[19:22:53]   ✓ 52 games
+[19:22:57] [264/308] UC San Diego (UC-San-Diego)
+[19:22:57]   ✓ 55 games
+[19:23:02] [265/308] UC Santa Barbara (UC-Santa-Barbara)
+[19:23:03]   ✓ 56 games
+[19:23:06] [266/308] UCF (UCF)
+[19:23:06]   ✓ 52 games
+[19:23:10] [267/308] UCLA (UCLA)
+[19:23:11]   ✓ 57 games
+[19:23:15] [268/308] UIC (UIC)
+[19:23:15]   ✓ 54 games
+[19:23:20] [269/308] ULM (ULM)
+[19:23:21]   ✓ 55 games
+[19:23:25] [270/308] UMass (UMass)
+[19:23:26]   ✓ 47 games
+[19:23:29] [271/308] UMass-Lowell (UMass-Lowell)
+[19:23:30]   ✓ 52 games
+[19:23:34] [272/308] UMBC (UMBC)
+[19:23:35]   ✓ 53 games
+[19:23:38] [273/308] UNC Asheville (UNC-Asheville)
+[19:23:39]   ✓ 55 games
+[19:23:43] [274/308] UNCG (UNCG)
+[19:23:44]   ✓ 56 games
+[19:23:49] [275/308] UNCW (UNCW)
+[19:23:50]   ✓ 58 games
+[19:23:55]   ... 275/308 (ok=275 skipped=0 games=14794) 22.1min elapsed
+[19:23:55] [276/308] UNLV (UNLV)
+[19:23:55]   ✓ 55 games
+[19:23:59] [277/308] USC (USC)
+[19:24:00]   ✓ 58 games
+[19:24:05] [278/308] UTA (UTA)
+[19:24:05]   ✓ 51 games
+[19:24:09] [279/308] Utah (Utah)
+[19:24:10]   ✓ 51 games
+[19:24:14] [280/308] Utah Tech (Utah-Tech)
+[19:24:15]   ✓ 56 games
+[19:24:20] [281/308] Utah Valley (Utah-Valley)
+[19:24:21]   ✓ 50 games
+[19:24:25] [282/308] UTRGV (UTRGV)
+[19:24:26]   ✓ 55 games
+[19:24:29] [283/308] UTSA (UTSA)
+[19:24:30]   ✓ 58 games
+[19:24:34] [284/308] Valparaiso (Valparaiso)
+[19:24:35]   ✓ 50 games
+[19:24:40] [285/308] Vanderbilt (Vanderbilt)
+[19:24:41]   ✓ 58 games
+[19:24:45] [286/308] VCU (VCU)
+[19:24:45]   ✓ 60 games
+[19:24:49] [287/308] Villanova (Villanova)
+[19:24:49]   ✓ 49 games
+[19:24:53] [288/308] Virginia (Virginia)
+[19:24:54]   ✓ 57 games
+[19:24:58] [289/308] Virginia Tech (Virginia-Tech)
+[19:24:59]   ✓ 54 games
+[19:25:02] [290/308] VMI (VMI)
+[19:25:03]   ✓ 55 games
+[19:25:07] [291/308] Wagner (Wagner)
+[19:25:08]   ✓ 53 games
+[19:25:12] [292/308] Wake Forest (Wake-Forest)
+[19:25:13]   ✓ 57 games
+[19:25:18] [293/308] Washington (Washington)
+[19:25:20]   ✓ 56 games
+[19:25:24] [294/308] Washington State (Washington-State)
+[19:25:25]   ✓ 56 games
+[19:25:29] [295/308] West Georgia (West-Georgia)
+[19:25:29]   ✓ 54 games
+[19:25:32] [296/308] West Virginia (West-Virginia)
+[19:25:33]   ✓ 53 games
+[19:25:37] [297/308] Western Carolina (Western-Carolina)
+[19:25:37]   ✓ 59 games
+[19:25:41] [298/308] Western Illinois (Western-Illinois)
+[19:25:41]   ✓ 51 games
+[19:25:45] [299/308] Western Kentucky (Western-Kentucky)
+[19:25:46]   ✓ 57 games
+[19:25:50] [300/308] Western Michigan (Western-Michigan)
+[19:25:51]   ✓ 52 games
+[19:25:55]   ... 300/308 (ok=300 skipped=0 games=16159) 24.1min elapsed
+[19:25:55] [301/308] Wichita State (Wichita-State)
+[19:25:56]   ✓ 59 games
+[19:26:00] [302/308] William & Mary (William-Mary)
+[19:26:01]   ✓ 53 games
+[19:26:06] [303/308] Winthrop (Winthrop)
+[19:26:07]   ✓ 57 games
+[19:26:10] [304/308] Wofford (Wofford)
+[19:26:11]   ✓ 56 games
+[19:26:15] [305/308] Wright State (Wright-State)
+[19:26:16]   ✓ 55 games
+[19:26:19] [306/308] Xavier (Xavier)
+[19:26:20]   ✓ 58 games
+[19:26:23] [307/308] Yale (Yale)
+[19:26:24]   ✓ 43 games
+[19:26:28] [308/308] Youngstown State (Youngstown-State)
+[19:26:28]   ✓ 54 games
+[19:26:32] Scrape complete. ok=308 skipped=0 games=16594
+[19:26:32] Aggregating per-team CSVs...
+[19:26:32] Wrote d1_sched_2026_wn_raw.csv with 16,594 rows (raw — each game appears twice, once per team)
+[19:26:32] DONE

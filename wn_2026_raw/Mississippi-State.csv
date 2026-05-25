@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Mississippi State,Hofstra,6,5,0,0,W,Mississippi State,Mississippi-State,Hofstra,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+02/14/2026,Mississippi State,Hofstra,6,1,0,0,W,Mississippi State,Mississippi-State,Hofstra,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+02/14/2026,Mississippi State,Hofstra,7,5,0,0,W,Mississippi State,Mississippi-State,Hofstra,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+02/17/2026,Mississippi State,Troy,13,7,0,0,W,Mississippi State,Mississippi-State,Troy,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+02/18/2026,Mississippi State,Alcorn State,19,0,0,0,W,Mississippi State,Mississippi-State,Alcorn-State,0,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+02/20/2026,Mississippi State,Delaware,9,2,0,0,W,Mississippi State,Mississippi-State,Delaware,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+02/21/2026,Mississippi State,Delaware,10,0,0,0,W,Mississippi State,Mississippi-State,Delaware,0,8,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+02/22/2026,Mississippi State,Delaware,7,3,0,0,W,Mississippi State,Mississippi-State,Delaware,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+02/24/2026,Mississippi State,Austin Peay,16,3,0,0,W,Mississippi State,Mississippi-State,Austin-Peay,0,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+02/27/2026,Arizona State,Mississippi State,4,8,0,1,W,Mississippi State,Mississippi-State,Arizona-State,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/28/2026,Virginia Tech,Mississippi State,8,15,0,1,W,Mississippi State,Mississippi-State,Virginia-Tech,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+03/01/2026,UCLA,Mississippi State,8,7,0,1,L,Mississippi State,Mississippi-State,UCLA,0,10,"Arlington, TX / Globe Life Field",2026,WN2026
+03/03/2026,Southern Miss,Mississippi State,7,6,0,0,L,Mississippi State,Mississippi-State,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+03/05/2026,Mississippi State,Lipscomb,8,3,0,0,W,Mississippi State,Mississippi-State,Lipscomb,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+03/06/2026,Mississippi State,Lipscomb,9,4,0,0,W,Mississippi State,Mississippi-State,Lipscomb,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+03/07/2026,Mississippi State,Lipscomb,26,0,0,0,W,Mississippi State,Mississippi-State,Lipscomb,0,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+03/10/2026,Tulane,Mississippi State,7,11,0,1,W,Mississippi State,Mississippi-State,Tulane,0,9,"Biloxi, MS / Keesler Federal Park",2026,WN2026
+03/13/2026,Arkansas,Mississippi State,5,4,0,0,L,Mississippi State,Mississippi-State,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+03/14/2026,Arkansas,Mississippi State,2,7,0,0,W,Mississippi State,Mississippi-State,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+03/14/2026,Arkansas,Mississippi State,7,3,0,0,L,Mississippi State,Mississippi-State,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+03/17/2026,Mississippi State,Jackson State,17,1,0,0,W,Mississippi State,Mississippi-State,Jackson-State,0,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+03/20/2026,Mississippi State,Vanderbilt,4,2,0,0,W,Mississippi State,Mississippi-State,Vanderbilt,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+03/21/2026,Mississippi State,Vanderbilt,7,2,0,0,W,Mississippi State,Mississippi-State,Vanderbilt,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+03/22/2026,Mississippi State,Vanderbilt,17,7,0,0,W,Mississippi State,Mississippi-State,Vanderbilt,0,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+03/24/2026,Mississippi State,Southern Miss,12,0,0,0,W,Mississippi State,Mississippi-State,Southern-Miss,0,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+03/27/2026,Ole Miss,Mississippi State,4,5,0,0,W,Mississippi State,Mississippi-State,Ole-Miss,1,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/28/2026,Ole Miss,Mississippi State,1,6,0,0,W,Mississippi State,Mississippi-State,Ole-Miss,1,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/29/2026,Ole Miss,Mississippi State,1,7,0,0,W,Mississippi State,Mississippi-State,Ole-Miss,1,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/31/2026,Mississippi State,Grambling State,12,0,0,0,W,Mississippi State,Mississippi-State,Grambling-State,0,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/02/2026,Mississippi State,Georgia,9,10,0,0,L,Mississippi State,Mississippi-State,Georgia,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/03/2026,Mississippi State,Georgia,1,3,0,0,L,Mississippi State,Mississippi-State,Georgia,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/04/2026,Mississippi State,Georgia,5,8,0,0,L,Mississippi State,Mississippi-State,Georgia,0,10,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/07/2026,Mississippi State,UAB,5,3,0,0,W,Mississippi State,Mississippi-State,UAB,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/10/2026,Mississippi State,Tennessee,5,6,0,0,L,Mississippi State,Mississippi-State,Tennessee,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/11/2026,Mississippi State,Tennessee,2,6,0,0,L,Mississippi State,Mississippi-State,Tennessee,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/12/2026,Mississippi State,Tennessee,2,7,0,0,L,Mississippi State,Mississippi-State,Tennessee,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/14/2026,Samford,Mississippi State,1,11,0,0,W,Mississippi State,Mississippi-State,Samford,1,7,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/17/2026,South Carolina,Mississippi State,3,5,0,0,W,Mississippi State,Mississippi-State,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+04/18/2026,South Carolina,Mississippi State,0,9,0,0,W,Mississippi State,Mississippi-State,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+04/19/2026,South Carolina,Mississippi State,3,4,0,0,W,Mississippi State,Mississippi-State,South-Carolina,1,11,"Columbia, SC / Founders Park",2026,WN2026
+04/21/2026,Mississippi State,Memphis,6,2,0,0,W,Mississippi State,Mississippi-State,Memphis,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/24/2026,Mississippi State,LSU,10,8,0,0,W,Mississippi State,Mississippi-State,LSU,0,11,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/25/2026,Mississippi State,LSU,9,8,0,0,W,Mississippi State,Mississippi-State,LSU,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/26/2026,Mississippi State,LSU,13,8,0,0,W,Mississippi State,Mississippi-State,LSU,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/28/2026,Ole Miss,Mississippi State,3,7,0,1,W,Mississippi State,Mississippi-State,Ole-Miss,0,9,"Pearl, MS / Trustmark Park",2026,WN2026
+05/01/2026,Texas,Mississippi State,3,1,0,0,L,Mississippi State,Mississippi-State,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+05/02/2026,Texas,Mississippi State,4,7,0,0,W,Mississippi State,Mississippi-State,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+05/03/2026,Texas,Mississippi State,11,6,0,0,L,Mississippi State,Mississippi-State,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+05/05/2026,Mississippi State,Nicholls,21,6,0,0,W,Mississippi State,Mississippi-State,Nicholls,0,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+05/07/2026,Mississippi State,Auburn,10,3,0,0,W,Mississippi State,Mississippi-State,Auburn,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+05/08/2026,Mississippi State,Auburn,4,5,0,0,L,Mississippi State,Mississippi-State,Auburn,0,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium / Box Score",2026,WN2026
+05/09/2026,Mississippi State,Auburn,2,13,0,0,L,Mississippi State,Mississippi-State,Auburn,0,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium / Box Score",2026,WN2026
+05/14/2026,Texas A&M,Mississippi State,11,18,0,0,W,Mississippi State,Mississippi-State,Texas-AM,1,9,"College Station, TX / Blue Bell Park / Box Score",2026,WN2026
+05/15/2026,Texas A&M,Mississippi State,11,9,0,0,L,Mississippi State,Mississippi-State,Texas-AM,1,9,"College Station, TX / Blue Bell Park / Box Score",2026,WN2026
+05/16/2026,Texas A&M,Mississippi State,7,6,0,0,L,Mississippi State,Mississippi-State,Texas-AM,1,9,"College Station, TX / Blue Bell Park / Box Score",2026,WN2026
+05/20/2026,Missouri,Mississippi State,2,12,0,1,W,Mississippi State,Mississippi-State,Missouri,0,7,"Hoover, AL / Hoover Metropolitan Stadium / Recap",2026,WN2026
+05/21/2026,Georgia,Mississippi State,5,3,0,1,L,Mississippi State,Mississippi-State,Georgia,0,9,"Hoover, AL / Hoover Metropolitan Stadium / Recap",2026,WN2026

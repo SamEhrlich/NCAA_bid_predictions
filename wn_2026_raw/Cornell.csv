@@ -1,0 +1,38 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/20/2026,Boston College,Cornell,9,1,0,1,L,Cornell,Cornell,Boston-College,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/20/2026,Northwestern,Cornell,13,5,0,1,L,Cornell,Cornell,Northwestern,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/21/2026,Northwestern,Cornell,6,5,0,1,L,Cornell,Cornell,Northwestern,0,11,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/22/2026,Boston College,Cornell,7,6,0,1,L,Cornell,Cornell,Boston-College,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/27/2026,Richmond,Cornell,9,6,0,0,L,Cornell,Cornell,Richmond,1,9,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+02/28/2026,Richmond,Cornell,11,3,0,0,L,Cornell,Cornell,Richmond,1,9,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+03/01/2026,Richmond,Cornell,12,2,0,0,L,Cornell,Cornell,Richmond,1,8,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+03/07/2026,Fordham,Cornell,7,2,0,0,L,Cornell,Cornell,Fordham,1,9,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+03/07/2026,Fordham,Cornell,1,3,0,0,W,Cornell,Cornell,Fordham,1,9,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+03/08/2026,Fordham,Cornell,16,11,0,0,L,Cornell,Cornell,Fordham,1,9,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+03/14/2026,VMI,Cornell,4,7,0,0,W,Cornell,Cornell,VMI,1,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/14/2026,VMI,Cornell,8,0,0,0,L,Cornell,Cornell,VMI,1,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/15/2026,VMI,Cornell,7,4,0,0,L,Cornell,Cornell,VMI,1,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/21/2026,Princeton,Cornell,13,7,0,0,L,Cornell,Cornell,Princeton,1,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+03/21/2026,Princeton,Cornell,12,0,0,0,L,Cornell,Cornell,Princeton,1,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+03/22/2026,Princeton,Cornell,3,6,0,0,W,Cornell,Cornell,Princeton,1,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+03/29/2026,Cornell,Harvard,1,2,0,0,L,Cornell,Cornell,Harvard,0,9,"Ithaca, NY / Booth Field",2026,WN2026
+03/29/2026,Cornell,Harvard,9,4,0,0,W,Cornell,Cornell,Harvard,0,9,"Ithaca, NY / Booth Field",2026,WN2026
+03/30/2026,Cornell,Harvard,3,16,0,0,L,Cornell,Cornell,Harvard,0,9,"Ithaca, NY / Booth Field",2026,WN2026
+03/31/2026,Army,Cornell,12,6,0,0,L,Cornell,Cornell,Army,1,9,"West Point, NY / Doubleday Field",2026,WN2026
+04/04/2026,Cornell,Dartmouth,4,2,0,0,W,Cornell,Cornell,Dartmouth,0,9,"Ithaca, NY / Booth Field",2026,WN2026
+04/04/2026,Cornell,Dartmouth,0,15,0,0,L,Cornell,Cornell,Dartmouth,0,9,"Ithaca, NY / Booth Field",2026,WN2026
+04/04/2026,Cornell,Dartmouth,8,1,0,0,W,Cornell,Cornell,Dartmouth,0,9,"Ithaca, NY / Booth Field",2026,WN2026
+04/11/2026,Penn,Cornell,7,3,0,0,L,Cornell,Cornell,Penn,1,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+04/11/2026,Penn,Cornell,14,5,0,0,L,Cornell,Cornell,Penn,1,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+04/12/2026,Penn,Cornell,6,5,0,0,L,Cornell,Cornell,Penn,1,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+04/14/2026,Cornell,Binghamton,4,11,0,0,L,Cornell,Cornell,Binghamton,0,9,"Ithaca, NY / Booth Field",2026,WN2026
+04/17/2026,Cornell,Yale,5,3,0,0,W,Cornell,Cornell,Yale,0,9,"Ithaca, NY / Booth Field",2026,WN2026
+04/18/2026,Cornell,Yale,5,16,0,0,L,Cornell,Cornell,Yale,0,9,"Ithaca, NY / Booth Field",2026,WN2026
+04/18/2026,Cornell,Yale,3,6,0,0,L,Cornell,Cornell,Yale,0,9,"Ithaca, NY / Booth Field",2026,WN2026
+04/21/2026,Binghamton,Cornell,6,10,0,0,W,Cornell,Cornell,Binghamton,1,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/25/2026,Brown,Cornell,16,4,0,0,L,Cornell,Cornell,Brown,1,9,"Providence, RI / Murray Stadium",2026,WN2026
+04/26/2026,Brown,Cornell,1,2,0,0,W,Cornell,Cornell,Brown,1,13,"Providence, RI / Murray Stadium",2026,WN2026
+04/26/2026,Brown,Cornell,3,8,0,0,W,Cornell,Cornell,Brown,1,9,"Providence, RI / Murray Stadium",2026,WN2026
+05/02/2026,Cornell,Columbia,7,2,0,0,W,Cornell,Cornell,Columbia,0,9,"Ithaca, NY / Booth Field",2026,WN2026
+05/02/2026,Cornell,Columbia,0,2,0,0,L,Cornell,Cornell,Columbia,0,9,"Ithaca, NY / Booth Field",2026,WN2026
+05/03/2026,Cornell,Columbia,1,9,0,0,L,Cornell,Cornell,Columbia,0,9,"Ithaca, NY / Booth Field",2026,WN2026

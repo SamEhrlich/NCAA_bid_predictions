@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Arizona,Stanford,7,10,0,1,W,Stanford,Stanford,Arizona,0,9,"Surprise, AZ / Surprise Stadium",2026,WN2026
+02/14/2026,Michigan,Stanford,7,6,0,1,L,Stanford,Stanford,Michigan,0,9,"Surprise, AZ / Surprise Stadium",2026,WN2026
+02/15/2026,Oregon State,Stanford,3,2,0,1,L,Stanford,Stanford,Oregon-State,0,9,"Surprise, AZ / Surprise Stadium",2026,WN2026
+02/16/2026,Nebraska,Stanford,6,11,0,1,W,Stanford,Stanford,Nebraska,0,9,"Scottsdale, AZ",2026,WN2026
+02/20/2026,Stanford,Cal State Fullerton,2,4,0,0,L,Stanford,Stanford,Cal-State-Fullerton,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+02/21/2026,Stanford,Cal State Fullerton,4,3,0,0,W,Stanford,Stanford,Cal-State-Fullerton,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+02/21/2026,Stanford,Cal State Fullerton,3,4,0,0,L,Stanford,Stanford,Cal-State-Fullerton,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+02/22/2026,Stanford,Cal State Fullerton,3,2,0,0,W,Stanford,Stanford,Cal-State-Fullerton,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+02/27/2026,Stanford,Fresno State,6,5,0,0,W,Stanford,Stanford,Fresno-State,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+02/28/2026,Stanford,Fresno State,4,15,0,0,L,Stanford,Stanford,Fresno-State,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/01/2026,Stanford,Fresno State,8,11,0,0,L,Stanford,Stanford,Fresno-State,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/02/2026,Stanford,Nevada,6,9,0,0,L,Stanford,Stanford,Nevada,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/06/2026,Wake Forest,Stanford,7,4,0,0,L,Stanford,Stanford,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+03/07/2026,Wake Forest,Stanford,12,9,0,0,L,Stanford,Stanford,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+03/07/2026,Wake Forest,Stanford,14,10,0,0,L,Stanford,Stanford,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+03/11/2026,Stanford,Nevada,13,8,0,0,W,Stanford,Stanford,Nevada,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/13/2026,Stanford,Pittsburgh,9,7,0,0,W,Stanford,Stanford,Pittsburgh,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/14/2026,Stanford,Pittsburgh,10,11,0,0,L,Stanford,Stanford,Pittsburgh,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/15/2026,Stanford,Pittsburgh,5,10,0,0,L,Stanford,Stanford,Pittsburgh,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/21/2026,Stanford,Utah Valley,4,3,0,0,W,Stanford,Stanford,Utah-Valley,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/22/2026,Stanford,Utah Valley,17,10,0,0,W,Stanford,Stanford,Utah-Valley,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/22/2026,Stanford,Utah Valley,15,9,0,0,W,Stanford,Stanford,Utah-Valley,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/23/2026,Stanford,Utah Valley,15,6,0,0,W,Stanford,Stanford,Utah-Valley,0,8,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/27/2026,Virginia Tech,Stanford,7,9,0,0,W,Stanford,Stanford,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+03/28/2026,Virginia Tech,Stanford,10,2,0,0,L,Stanford,Stanford,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+03/29/2026,Virginia Tech,Stanford,3,6,0,0,W,Stanford,Stanford,Virginia-Tech,1,10,"Blacksburg, VA / English Field",2026,WN2026
+04/03/2026,Stanford,Clemson,3,9,0,0,L,Stanford,Stanford,Clemson,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/04/2026,Stanford,Clemson,5,4,0,0,W,Stanford,Stanford,Clemson,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/05/2026,Stanford,Clemson,5,12,0,0,L,Stanford,Stanford,Clemson,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/10/2026,Louisville,Stanford,2,12,0,0,W,Stanford,Stanford,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+04/11/2026,Louisville,Stanford,10,0,0,0,L,Stanford,Stanford,Louisville,1,7,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+04/12/2026,Louisville,Stanford,4,6,0,0,W,Stanford,Stanford,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+04/15/2026,Stanford,Santa Clara,1,2,0,0,L,Stanford,Stanford,Santa-Clara,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/17/2026,Stanford,Miami (FL),3,6,0,0,L,Stanford,Stanford,Miami-FL,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/18/2026,Stanford,Miami (FL),3,4,0,0,L,Stanford,Stanford,Miami-FL,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/19/2026,Stanford,Miami (FL),14,6,0,0,W,Stanford,Stanford,Miami-FL,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/22/2026,Santa Clara,Stanford,4,6,0,0,W,Stanford,Stanford,Santa-Clara,1,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+04/24/2026,Stanford,Florida State,4,3,0,0,W,Stanford,Stanford,Florida-State,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/25/2026,Stanford,Florida State,8,7,0,0,W,Stanford,Stanford,Florida-State,0,11,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/26/2026,Stanford,Florida State,7,4,0,0,W,Stanford,Stanford,Florida-State,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/27/2026,Stanford,UC Davis,6,5,0,0,W,Stanford,Stanford,UC-Davis,0,12,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+05/01/2026,Notre Dame,Stanford,6,2,0,0,L,Stanford,Stanford,Notre-Dame,1,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+05/02/2026,Notre Dame,Stanford,10,7,0,0,L,Stanford,Stanford,Notre-Dame,1,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+05/03/2026,Notre Dame,Stanford,18,13,0,0,L,Stanford,Stanford,Notre-Dame,1,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+05/06/2026,Stanford,San Francisco,12,5,0,0,W,Stanford,Stanford,San-Francisco,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+05/08/2026,Stanford,North Carolina State,6,5,0,0,W,Stanford,Stanford,North-Carolina-State,0,9,"Stanford, CA / Klein Field at Sunken Diamond / Box Score",2026,WN2026
+05/09/2026,Stanford,North Carolina State,7,12,0,0,L,Stanford,Stanford,North-Carolina-State,0,9,"Stanford, CA / Klein Field at Sunken Diamond / Box Score",2026,WN2026
+05/10/2026,Stanford,North Carolina State,9,5,0,0,W,Stanford,Stanford,North-Carolina-State,0,9,"Stanford, CA / Klein Field at Sunken Diamond / Box Score",2026,WN2026
+05/12/2026,Stanford,Saint Mary's College,7,6,0,0,W,Stanford,Stanford,Saint-Marys-College,0,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+05/14/2026,California,Stanford,6,7,0,0,W,Stanford,Stanford,California,1,9,"Berkeley, CA / Evans Diamond / Box Score",2026,WN2026
+05/15/2026,California,Stanford,4,3,0,0,L,Stanford,Stanford,California,1,9,"Berkeley, CA / Evans Diamond / Box Score",2026,WN2026
+05/16/2026,California,Stanford,2,1,0,0,L,Stanford,Stanford,California,1,9,"Berkeley, CA / Evans Diamond / Box Score",2026,WN2026
+05/19/2026,California,Stanford,4,11,0,1,W,Stanford,Stanford,California,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026
+05/20/2026,Miami (FL),Stanford,11,2,0,1,L,Stanford,Stanford,Miami-FL,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026

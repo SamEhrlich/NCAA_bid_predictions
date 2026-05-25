@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Vanderbilt,TCU,4,5,0,1,W,TCU,TCU,Vanderbilt,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/14/2026,Arkansas,TCU,4,5,0,1,W,TCU,TCU,Arkansas,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/15/2026,Oklahoma,TCU,12,2,0,1,L,TCU,TCU,Oklahoma,0,7,"Arlington, TX / Globe Life Field",2026,WN2026
+02/17/2026,UTA,TCU,11,8,0,1,L,TCU,TCU,UTA,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/20/2026,UCLA,TCU,10,2,0,0,L,TCU,TCU,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/21/2026,UCLA,TCU,5,1,0,0,L,TCU,TCU,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/22/2026,UCLA,TCU,15,5,0,0,L,TCU,TCU,UCLA,1,8,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/23/2026,Loyola-Marymount,TCU,7,17,0,0,W,TCU,TCU,Loyola-Marymount,1,7,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+02/27/2026,TCU,New Haven,14,3,0,0,W,TCU,TCU,New-Haven,0,7,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+02/28/2026,TCU,New Haven,12,4,0,0,W,TCU,TCU,New-Haven,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/01/2026,TCU,New Haven,20,1,0,0,W,TCU,TCU,New-Haven,0,7,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/03/2026,TCU,Abilene Christian,7,6,0,0,W,TCU,TCU,Abilene-Christian,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/06/2026,TCU,Tulane,10,2,0,0,W,TCU,TCU,Tulane,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/08/2026,TCU,Tulane,4,8,0,0,L,TCU,TCU,Tulane,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/08/2026,TCU,Tulane,4,3,0,0,W,TCU,TCU,Tulane,0,7,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/11/2026,TCU,Kansas,9,4,0,0,W,TCU,TCU,Kansas,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/13/2026,Arizona State,TCU,4,5,0,0,W,TCU,TCU,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/14/2026,Arizona State,TCU,15,8,0,0,L,TCU,TCU,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/15/2026,Arizona State,TCU,4,0,0,0,L,TCU,TCU,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/17/2026,TCU,New Mexico State,16,6,0,0,W,TCU,TCU,New-Mexico-State,0,7,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/20/2026,TCU,UCF,7,18,0,0,L,TCU,TCU,UCF,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/21/2026,TCU,UCF,6,0,0,0,W,TCU,TCU,UCF,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/22/2026,TCU,UCF,1,9,0,0,L,TCU,TCU,UCF,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/24/2026,Dallas Baptist,TCU,5,11,0,0,W,TCU,TCU,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/27/2026,TCU,Texas Tech,18,8,0,0,W,TCU,TCU,Texas-Tech,0,7,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/28/2026,TCU,Texas Tech,10,9,0,0,W,TCU,TCU,Texas-Tech,0,13,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/29/2026,TCU,Texas Tech,5,4,0,0,W,TCU,TCU,Texas-Tech,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/31/2026,TCU,Lamar,8,6,0,0,W,TCU,TCU,Lamar,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/03/2026,Kansas State,TCU,13,12,0,0,L,TCU,TCU,Kansas-State,1,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/04/2026,Kansas State,TCU,3,9,0,0,W,TCU,TCU,Kansas-State,1,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/05/2026,Kansas State,TCU,0,4,0,0,W,TCU,TCU,Kansas-State,1,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/07/2026,Abilene Christian,TCU,4,1,0,0,L,TCU,TCU,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/10/2026,TCU,Arizona,3,4,0,0,L,TCU,TCU,Arizona,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/11/2026,TCU,Arizona,5,0,0,0,W,TCU,TCU,Arizona,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/11/2026,TCU,Arizona,2,3,0,0,L,TCU,TCU,Arizona,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/14/2026,TCU,Tarleton State,12,5,0,0,W,TCU,TCU,Tarleton-State,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/17/2026,Baylor,TCU,11,4,0,0,L,TCU,TCU,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/19/2026,Baylor,TCU,4,5,0,0,W,TCU,TCU,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/19/2026,Baylor,TCU,2,10,0,0,W,TCU,TCU,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/21/2026,TCU,Dallas Baptist,6,5,0,0,W,TCU,TCU,Dallas-Baptist,0,10,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/24/2026,TCU,Houston,8,3,0,0,W,TCU,TCU,Houston,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/25/2026,TCU,Houston,4,2,0,0,W,TCU,TCU,Houston,0,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/26/2026,TCU,Houston,14,2,0,0,W,TCU,TCU,Houston,0,7,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/29/2026,TCU,UTA,12,1,0,0,W,TCU,TCU,UTA,0,7,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+05/01/2026,Oklahoma State,TCU,7,6,0,0,L,TCU,TCU,Oklahoma-State,1,9,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+05/02/2026,Oklahoma State,TCU,9,2,0,0,L,TCU,TCU,Oklahoma-State,1,9,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+05/03/2026,Oklahoma State,TCU,11,10,0,0,L,TCU,TCU,Oklahoma-State,1,9,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+05/08/2026,TCU,Utah,3,0,0,0,W,TCU,TCU,Utah,0,9,"Fort Worth, TX / Lupton Stadium / Box Score",2026,WN2026
+05/09/2026,TCU,Utah,3,1,0,0,W,TCU,TCU,Utah,0,9,"Fort Worth, TX / Lupton Stadium / Box Score",2026,WN2026
+05/10/2026,TCU,Utah,4,3,0,0,W,TCU,TCU,Utah,0,9,"Fort Worth, TX / Lupton Stadium / Box Score",2026,WN2026
+05/14/2026,West Virginia,TCU,2,0,0,0,L,TCU,TCU,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark / Box Score",2026,WN2026
+05/15/2026,West Virginia,TCU,0,4,0,0,W,TCU,TCU,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark / Box Score",2026,WN2026
+05/16/2026,West Virginia,TCU,6,4,0,0,L,TCU,TCU,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark / Box Score",2026,WN2026
+05/20/2026,Kansas State,TCU,9,4,0,1,L,TCU,TCU,Kansas-State,0,9,"Surprize, AZ / Surprise Stadium / Recap",2026,WN2026

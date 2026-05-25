@@ -1,0 +1,44 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/20/2026,Bethune-Cookman,Yale,7,5,0,0,L,Yale,Yale,Bethune-Cookman,1,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+02/21/2026,Jackson State,Yale,6,5,0,1,L,Yale,Yale,Jackson-State,0,9,"Vero Beach, FL / Jackie Robinson Training Complex",2026,WN2026
+02/22/2026,Bethune-Cookman,Yale,3,8,0,0,W,Yale,Yale,Bethune-Cookman,1,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+02/27/2026,Pepperdine,Yale,1,7,0,0,W,Yale,Yale,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+02/28/2026,Pepperdine,Yale,4,3,0,0,L,Yale,Yale,Pepperdine,1,10,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+03/01/2026,Pepperdine,Yale,8,10,0,0,W,Yale,Yale,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+03/06/2026,George Washington,Yale,3,18,0,0,W,Yale,Yale,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/07/2026,George Washington,Yale,6,5,0,0,L,Yale,Yale,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/08/2026,George Washington,Yale,11,15,0,0,W,Yale,Yale,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/10/2026,Yale,Sacred Heart,4,2,0,0,W,Yale,Yale,Sacred-Heart,0,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/13/2026,Yale,Albany,2,4,0,0,L,Yale,Yale,Albany,0,13,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/14/2026,Yale,Albany,6,5,0,0,W,Yale,Yale,Albany,0,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/15/2026,Yale,Albany,15,7,0,0,W,Yale,Yale,Albany,0,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/18/2026,Quinnipiac,Yale,15,9,0,0,L,Yale,Yale,Quinnipiac,1,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+03/21/2026,Yale,Brown,14,7,0,0,W,Yale,Yale,Brown,0,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/21/2026,Yale,Brown,1,2,0,0,L,Yale,Yale,Brown,0,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/22/2026,Yale,Brown,0,8,0,0,L,Yale,Yale,Brown,0,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/25/2026,Iona,Yale,6,7,0,0,W,Yale,Yale,Iona,1,10,"New Rochelle, NY / City Park",2026,WN2026
+03/28/2026,Yale,Penn,16,14,0,0,W,Yale,Yale,Penn,0,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/29/2026,Yale,Penn,4,0,0,0,W,Yale,Yale,Penn,0,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/29/2026,Yale,Penn,3,2,0,0,W,Yale,Yale,Penn,0,10,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/31/2026,Fairfield,Yale,9,6,0,0,L,Yale,Yale,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/03/2026,Princeton,Yale,6,7,0,0,W,Yale,Yale,Princeton,1,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/04/2026,Princeton,Yale,7,12,0,0,W,Yale,Yale,Princeton,1,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/04/2026,Princeton,Yale,4,5,0,0,W,Yale,Yale,Princeton,1,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/08/2026,Yale,New Haven,20,0,0,0,W,Yale,Yale,New-Haven,0,7,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+04/11/2026,Yale,Harvard,3,5,0,0,L,Yale,Yale,Harvard,0,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+04/11/2026,Yale,Harvard,9,6,0,0,W,Yale,Yale,Harvard,0,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+04/12/2026,Yale,Harvard,5,2,0,0,W,Yale,Yale,Harvard,0,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+04/15/2026,Yale,Quinnipiac,6,5,0,0,W,Yale,Yale,Quinnipiac,0,12,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+04/17/2026,Cornell,Yale,5,3,0,0,L,Yale,Yale,Cornell,1,9,"Ithaca, NY / Booth Field",2026,WN2026
+04/18/2026,Cornell,Yale,5,16,0,0,W,Yale,Yale,Cornell,1,9,"Ithaca, NY / Booth Field",2026,WN2026
+04/18/2026,Cornell,Yale,3,6,0,0,W,Yale,Yale,Cornell,1,9,"Ithaca, NY / Booth Field",2026,WN2026
+04/22/2026,Sacred Heart,Yale,5,14,0,0,W,Yale,Yale,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/24/2026,Columbia,Yale,6,4,0,0,L,Yale,Yale,Columbia,1,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/26/2026,Columbia,Yale,9,8,0,0,L,Yale,Yale,Columbia,1,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+05/06/2026,Yale,Iona,12,1,0,0,W,Yale,Yale,Iona,0,7,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+05/08/2026,Yale,Dartmouth,7,3,0,0,W,Yale,Yale,Dartmouth,0,9,"West Haven, CT / George H.W. Bush 48 Field / Box Score",2026,WN2026
+05/10/2026,Yale,Dartmouth,3,2,0,0,W,Yale,Yale,Dartmouth,0,9,"West Haven, CT / George H.W. Bush 48 Field / Box Score",2026,WN2026
+05/10/2026,Yale,Dartmouth,4,1,0,0,W,Yale,Yale,Dartmouth,0,9,"West Haven, CT / George H.W. Bush 48 Field / Box Score",2026,WN2026
+05/15/2026,Columbia,Yale,3,12,0,1,W,Yale,Yale,Columbia,0,9,"West Haven, CT / George H.W. Bush 48 Field / Box Score / Recap",2026,WN2026
+05/16/2026,Brown,Yale,2,5,0,1,W,Yale,Yale,Brown,0,9,"West Haven, CT / George H.W. Bush 48 Field / Box Score",2026,WN2026
+05/17/2026,Brown,Yale,5,7,0,1,W,Yale,Yale,Brown,0,9,"West Haven, CT / George H.W. Bush 48 Field / Box Score",2026,WN2026

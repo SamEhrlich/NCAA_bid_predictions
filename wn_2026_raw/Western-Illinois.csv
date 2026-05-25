@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,San Francisco,Western Illinois,2,0,0,0,L,Western Illinois,Western-Illinois,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+02/14/2026,San Francisco,Western Illinois,5,4,0,0,L,Western Illinois,Western-Illinois,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+02/14/2026,San Francisco,Western Illinois,10,6,0,0,L,Western Illinois,Western-Illinois,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+02/20/2026,Akron,Western Illinois,8,16,0,1,W,Western Illinois,Western-Illinois,Akron,0,9,"Millington, TN / Team USA Complex",2026,WN2026
+02/21/2026,Akron,Western Illinois,5,0,0,1,L,Western Illinois,Western-Illinois,Akron,0,9,"Millington, TN / Team USA Complex",2026,WN2026
+02/22/2026,Akron,Western Illinois,8,16,0,1,W,Western Illinois,Western-Illinois,Akron,0,9,"Millington, TN / Team USA Complex",2026,WN2026
+02/27/2026,ULM,Western Illinois,12,5,0,0,L,Western Illinois,Western-Illinois,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+02/28/2026,ULM,Western Illinois,11,4,0,0,L,Western Illinois,Western-Illinois,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/01/2026,ULM,Western Illinois,11,7,0,0,L,Western Illinois,Western-Illinois,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/03/2026,Saint Louis,Western Illinois,2,3,0,0,W,Western Illinois,Western-Illinois,Saint-Louis,1,10,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/06/2026,VMI,Western Illinois,8,7,0,0,L,Western Illinois,Western-Illinois,VMI,1,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/06/2026,VMI,Western Illinois,10,7,0,0,L,Western Illinois,Western-Illinois,VMI,1,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/07/2026,VMI,Western Illinois,16,6,0,0,L,Western Illinois,Western-Illinois,VMI,1,8,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/08/2026,VMI,Western Illinois,9,8,0,0,L,Western Illinois,Western-Illinois,VMI,1,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/10/2026,Illinois,Western Illinois,21,8,0,0,L,Western Illinois,Western-Illinois,Illinois,1,9,"Champaign, IL / Illinois Field",2026,WN2026
+03/12/2026,Illinois State,Western Illinois,7,6,0,0,L,Western Illinois,Western-Illinois,Illinois-State,1,11,"Normal, IL / Duffy Bass Field",2026,WN2026
+03/13/2026,Western Illinois,Illinois State,7,10,0,0,L,Western Illinois,Western-Illinois,Illinois-State,0,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+03/13/2026,Western Illinois,Illinois State,1,7,0,0,L,Western Illinois,Western-Illinois,Illinois-State,0,7,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+03/14/2026,Illinois State,Western Illinois,7,6,0,0,L,Western Illinois,Western-Illinois,Illinois-State,1,15,"Normal, IL / Duffy Bass Field",2026,WN2026
+03/20/2026,Southern Indiana,Western Illinois,3,2,0,0,L,Western Illinois,Western-Illinois,Southern-Indiana,1,10,"Evansville, IN / USI Baseball Field",2026,WN2026
+03/21/2026,Southern Indiana,Western Illinois,9,12,0,0,W,Western Illinois,Western-Illinois,Southern-Indiana,1,10,"Evansville, IN / USI Baseball Field",2026,WN2026
+03/22/2026,Southern Indiana,Western Illinois,12,0,0,0,L,Western Illinois,Western-Illinois,Southern-Indiana,1,7,"Evansville, IN / USI Baseball Field",2026,WN2026
+03/24/2026,Western Illinois,Bradley,12,7,0,0,W,Western Illinois,Western-Illinois,Bradley,0,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+03/27/2026,Western Illinois,Southeast Missouri,12,2,0,0,W,Western Illinois,Western-Illinois,Southeast-Missouri,0,8,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+03/28/2026,Western Illinois,Southeast Missouri,4,17,0,0,L,Western Illinois,Western-Illinois,Southeast-Missouri,0,7,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+03/29/2026,Western Illinois,Southeast Missouri,9,19,0,0,L,Western Illinois,Western-Illinois,Southeast-Missouri,0,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+04/04/2026,Western Illinois,Little Rock,5,6,0,0,L,Western Illinois,Western-Illinois,Little-Rock,0,10,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+04/04/2026,Western Illinois,Little Rock,5,8,0,0,L,Western Illinois,Western-Illinois,Little-Rock,0,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+04/05/2026,Western Illinois,Little Rock,8,5,0,0,W,Western Illinois,Western-Illinois,Little-Rock,0,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+04/10/2026,Lindenwood,Western Illinois,5,2,0,0,L,Western Illinois,Western-Illinois,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+04/11/2026,Lindenwood,Western Illinois,4,1,0,0,L,Western Illinois,Western-Illinois,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+04/12/2026,Lindenwood,Western Illinois,3,2,0,0,L,Western Illinois,Western-Illinois,Lindenwood,1,14,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+04/15/2026,Bradley,Western Illinois,4,10,0,0,W,Western Illinois,Western-Illinois,Bradley,1,9,"Peoria, IL / Dozer Park",2026,WN2026
+04/17/2026,Western Illinois,SIUE,2,4,0,0,L,Western Illinois,Western-Illinois,SIUE,0,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+04/18/2026,Western Illinois,SIUE,10,1,0,0,W,Western Illinois,Western-Illinois,SIUE,0,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+04/19/2026,Western Illinois,SIUE,10,6,0,0,W,Western Illinois,Western-Illinois,SIUE,0,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+04/21/2026,Iowa,Western Illinois,22,3,0,0,L,Western Illinois,Western-Illinois,Iowa,1,7,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/22/2026,Western Illinois,Saint Louis,8,6,0,0,W,Western Illinois,Western-Illinois,Saint-Louis,0,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+04/24/2026,Tennessee Tech,Western Illinois,6,8,0,0,W,Western Illinois,Western-Illinois,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/25/2026,Tennessee Tech,Western Illinois,10,2,0,0,L,Western Illinois,Western-Illinois,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/26/2026,Tennessee Tech,Western Illinois,3,4,0,0,W,Western Illinois,Western-Illinois,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+05/01/2026,Western Illinois,Tennessee-Martin,9,3,0,0,W,Western Illinois,Western-Illinois,Tennessee-Martin,0,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+05/02/2026,Western Illinois,Tennessee-Martin,2,14,0,0,L,Western Illinois,Western-Illinois,Tennessee-Martin,0,7,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+05/03/2026,Western Illinois,Tennessee-Martin,10,19,0,0,L,Western Illinois,Western-Illinois,Tennessee-Martin,0,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+05/06/2026,Indiana State,Western Illinois,3,13,0,0,W,Western Illinois,Western-Illinois,Indiana-State,1,8,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+05/08/2026,Morehead State,Western Illinois,10,8,0,0,L,Western Illinois,Western-Illinois,Morehead-State,1,9,"Morehead, KY / Allen Field / Box Score",2026,WN2026
+05/09/2026,Morehead State,Western Illinois,4,3,0,0,L,Western Illinois,Western-Illinois,Morehead-State,1,9,"Morehead, KY / Allen Field / Box Score",2026,WN2026
+05/10/2026,Morehead State,Western Illinois,8,7,0,0,L,Western Illinois,Western-Illinois,Morehead-State,1,9,"Morehead, KY / Allen Field / Box Score",2026,WN2026
+05/14/2026,Western Illinois,Eastern Illinois,1,7,0,0,L,Western Illinois,Western-Illinois,Eastern-Illinois,0,9,"Macomb, IL / Alfred D. Boyer Stadium / Box Score",2026,WN2026
+05/15/2026,Western Illinois,Eastern Illinois,8,9,0,0,L,Western Illinois,Western-Illinois,Eastern-Illinois,0,9,"Macomb, IL / Alfred D. Boyer Stadium / Box Score",2026,WN2026
+05/16/2026,Western Illinois,Eastern Illinois,9,13,0,0,L,Western Illinois,Western-Illinois,Eastern-Illinois,0,9,"Macomb, IL / Alfred D. Boyer Stadium / Box Score",2026,WN2026

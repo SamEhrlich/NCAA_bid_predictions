@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,High Point,Saint Joseph's,15,7,0,0,W,High Point,High-Point,Saint-Josephs,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/14/2026,High Point,Saint Joseph's,3,0,0,0,W,High Point,High-Point,Saint-Josephs,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/14/2026,High Point,Saint Joseph's,1,6,0,0,L,High Point,High-Point,Saint-Josephs,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/17/2026,Wake Forest,High Point,7,6,0,0,L,High Point,High-Point,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+02/20/2026,High Point,Maine,5,7,0,0,L,High Point,High-Point,Maine,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/21/2026,High Point,Maine,14,8,0,0,W,High Point,High-Point,Maine,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/21/2026,High Point,Maine,6,3,0,0,W,High Point,High-Point,Maine,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/22/2026,High Point,Maine,10,7,0,0,W,High Point,High-Point,Maine,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/25/2026,Liberty,High Point,9,3,0,0,L,High Point,High-Point,Liberty,1,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+02/27/2026,High Point,Binghamton,7,9,0,0,L,High Point,High-Point,Binghamton,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/28/2026,High Point,Binghamton,5,2,0,0,W,High Point,High-Point,Binghamton,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+03/01/2026,High Point,Binghamton,4,3,0,0,W,High Point,High-Point,Binghamton,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+03/03/2026,High Point,Liberty,0,8,0,0,L,High Point,High-Point,Liberty,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+03/06/2026,Florida,High Point,2,7,0,0,W,High Point,High-Point,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/07/2026,Florida,High Point,2,6,0,0,W,High Point,High-Point,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/08/2026,Florida,High Point,12,11,0,0,L,High Point,High-Point,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/10/2026,High Point,Duke,12,6,0,0,W,High Point,High-Point,Duke,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+03/13/2026,South Carolina Upstate,High Point,9,7,0,0,L,High Point,High-Point,South-Carolina-Upstate,1,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+03/14/2026,South Carolina Upstate,High Point,12,7,0,0,L,High Point,High-Point,South-Carolina-Upstate,1,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+03/15/2026,South Carolina Upstate,High Point,5,7,0,0,W,High Point,High-Point,South-Carolina-Upstate,1,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+03/20/2026,High Point,Presbyterian College,6,5,0,0,W,High Point,High-Point,Presbyterian-College,0,10,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+03/21/2026,High Point,Presbyterian College,8,5,0,0,W,High Point,High-Point,Presbyterian-College,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+03/22/2026,High Point,Presbyterian College,9,3,0,0,W,High Point,High-Point,Presbyterian-College,0,8,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+03/24/2026,Appalachian State,High Point,2,3,0,0,W,High Point,High-Point,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+03/27/2026,Gardner-Webb,High Point,3,10,0,0,W,High Point,High-Point,Gardner-Webb,1,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+03/28/2026,Gardner-Webb,High Point,8,12,0,0,W,High Point,High-Point,Gardner-Webb,1,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+03/29/2026,Gardner-Webb,High Point,4,15,0,0,W,High Point,High-Point,Gardner-Webb,1,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+03/31/2026,High Point,Wake Forest,1,0,0,0,W,High Point,High-Point,Wake-Forest,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+04/02/2026,Charleston,High Point,0,2,0,0,W,High Point,High-Point,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+04/03/2026,Charleston,High Point,0,14,0,0,W,High Point,High-Point,Charleston,1,7,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+04/04/2026,Charleston,High Point,6,5,0,0,L,High Point,High-Point,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+04/07/2026,North Carolina A&T,High Point,2,3,0,1,W,High Point,High-Point,North-Carolina-AT,0,9,"High Point, NC / Truist Point",2026,WN2026
+04/10/2026,High Point,Radford,6,7,0,0,L,High Point,High-Point,Radford,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+04/11/2026,High Point,Radford,6,2,0,0,W,High Point,High-Point,Radford,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+04/12/2026,High Point,Radford,4,1,0,0,W,High Point,High-Point,Radford,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+04/14/2026,North Carolina A&T,High Point,10,4,0,1,L,High Point,High-Point,North-Carolina-AT,0,9,"High Point, NC / Truist Point Stadium",2026,WN2026
+04/17/2026,Charleston Southern,High Point,11,14,0,0,W,High Point,High-Point,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+04/18/2026,Charleston Southern,High Point,3,14,0,0,W,High Point,High-Point,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+04/19/2026,Charleston Southern,High Point,4,3,0,0,L,High Point,High-Point,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+04/21/2026,North Carolina,High Point,9,2,0,0,L,High Point,High-Point,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/24/2026,High Point,VMI,7,5,0,0,W,High Point,High-Point,VMI,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+04/26/2026,High Point,VMI,12,6,0,0,W,High Point,High-Point,VMI,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+04/26/2026,High Point,VMI,5,2,0,0,W,High Point,High-Point,VMI,0,7,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+04/28/2026,Campbell,High Point,5,4,0,0,L,High Point,High-Point,Campbell,1,9,"Buies Creek, NC / Jim Perry Stadium",2026,WN2026
+05/01/2026,High Point,Longwood,5,6,0,0,L,High Point,High-Point,Longwood,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+05/02/2026,High Point,Longwood,10,0,0,0,W,High Point,High-Point,Longwood,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+05/03/2026,High Point,Longwood,2,7,0,0,L,High Point,High-Point,Longwood,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+05/05/2026,UNCW,High Point,1,2,0,0,W,High Point,High-Point,UNCW,1,9,"Wilmington, NC / Brooks Field",2026,WN2026
+05/08/2026,High Point,Winthrop,9,8,0,0,W,High Point,High-Point,Winthrop,0,10,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium / Box Score",2026,WN2026
+05/09/2026,High Point,Winthrop,7,3,0,0,W,High Point,High-Point,Winthrop,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium / Box Score",2026,WN2026
+05/10/2026,High Point,Winthrop,11,3,0,0,W,High Point,High-Point,Winthrop,0,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium / Box Score",2026,WN2026
+05/14/2026,UNC Asheville,High Point,10,11,0,0,W,High Point,High-Point,UNC-Asheville,1,10,"Asheville, NC / Greenwood Baseball Field / Box Score",2026,WN2026
+05/15/2026,UNC Asheville,High Point,11,0,0,0,L,High Point,High-Point,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field / Box Score",2026,WN2026
+05/16/2026,UNC Asheville,High Point,5,8,0,0,W,High Point,High-Point,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field / Box Score",2026,WN2026
+05/22/2026,Charleston Southern,High Point,6,9,0,1,W,High Point,High-Point,Charleston-Southern,0,9,"Asheville, NC / Hoemtrust Park / Recap",2026,WN2026
+05/23/2026,South Carolina Upstate,High Point,5,0,0,1,L,High Point,High-Point,South-Carolina-Upstate,0,9,"Asheville, NC / Hoemtrust Park",2026,WN2026
+05/23/2026,Longwood,High Point,7,4,0,1,L,High Point,High-Point,Longwood,0,9,"Asheville, NC / Hoemtrust Park",2026,WN2026

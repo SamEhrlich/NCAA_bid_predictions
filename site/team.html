@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Team — NCAA D1 Baseball Elo</title>
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-brand">NCAA D1 Baseball <span>Elo</span></div>
+  <div class="nav-links">
+    <a href="index.html"   data-nav="leaderboard">Leaderboard</a>
+    <a href="bracket.html" data-nav="bracket">2026 Bracket</a>
+    <a href="whatif.html"  data-nav="whatif">What-If</a>
+    <a href="compare.html" data-nav="compare">Compare</a>
+    <a href="conference.html" data-nav="conference">Conferences</a>
+    <a href="extras.html"  data-nav="extras">Upsets</a>
+  </div>
+  <div class="nav-meta" id="nav-meta"></div>
+</nav>
+
+<div class="container">
+  <div id="team-header" class="team-header" style="display:none;"></div>
+
+  <div class="year-pills" id="year-pills"></div>
+
+  <div class="grid-2col">
+    <div class="card">
+      <h2>Elo trajectory</h2>
+      <div id="elo-chart"><p class="loading">loading…</p></div>
+    </div>
+
+    <div class="card">
+      <h2 id="sched-title">Schedule</h2>
+      <div class="sched" id="sched"></div>
+    </div>
+  </div>
+</div>
+
+<footer class="footer">
+  Hover any dot on the chart or any schedule row for game detail.
+</footer>
+
+<script type="module">
+import { loadJSON, fmtElo, getQueryParam, setActiveNav, makeLogoEl, $ } from "./js/common.js";
+import { renderEloChart } from "./js/elo_chart.js";
+
+setActiveNav(""); // not in the main nav
+
+const slug = getQueryParam("slug");
+if (!slug) {
+  document.querySelector(".container").innerHTML =
+    `<p class="loading">No team specified. <a href="index.html">Back to leaderboard</a></p>`;
+  throw new Error("no slug");
+}
+
+const meta = await loadJSON("meta.json");
+$("#nav-meta").textContent =
+  `${meta.n_games_fit.toLocaleString()} games · fit ${meta.generated_at.slice(0,10)}`;
+
+let teamData;
+try {
+  teamData = await loadJSON(`elo_history/${slug}.json`);
+} catch (e) {
+  document.querySelector(".container").innerHTML =
+    `<p class="loading">Team "<code>${slug}</code>" not found. <a href="index.html">Back to leaderboard</a></p>`;
+  throw e;
+}
+
+// Find team metadata from teams.json
+const teams = await loadJSON("teams.json");
+const tMeta = teams.find(t => t.slug === slug) || {};
+
+// ---- Header ----
+const hdr = $("#team-header");
+hdr.style.borderLeftColor = teamData.color;
+hdr.innerHTML = "";
+const img = makeLogoEl(teamData);
+img.style.width = "64px"; img.style.height = "64px";
+hdr.appendChild(img);
+const info = document.createElement("div");
+info.style.flex = "1";
+info.innerHTML = `
+  <h1 style="color:${teamData.color};">${teamData.team}</h1>
+  <div class="meta">
+    <span>${tMeta.conf ? `Conference <b>${tMeta.conf}</b>` : ""}</span>
+    ${tMeta.rank ? `<span>D1 Rank <b>#${tMeta.rank}</b></span>` : ""}
+    <span>Current Elo <b>${fmtElo(teamData.final_elo)}</b></span>
+    ${tMeta.wins_2026 != null
+       ? `<span>2026 Record <b>${tMeta.wins_2026}–${tMeta.losses_2026}</b></span>` : ""}
+  </div>
+`;
+hdr.appendChild(info);
+hdr.style.display = "flex";
+
+document.title = `${teamData.team} — NCAA D1 Baseball Elo`;
+
+// ---- Year selector ----
+const years = [...new Set(teamData.events.map(e => +e.date.slice(0,4)))].sort();
+const pills = $("#year-pills");
+let activeYear = years[years.length - 1];
+for (const y of [...years, "All"]) {
+  const b = document.createElement("button");
+  b.className = "year-pill";
+  b.textContent = y;
+  if (y === activeYear) b.classList.add("active");
+  b.addEventListener("click", () => {
+    pills.querySelectorAll(".year-pill").forEach(p => p.classList.remove("active"));
+    b.classList.add("active");
+    activeYear = y;
+    redraw();
+  });
+  pills.appendChild(b);
+}
+
+function redraw() {
+  const y = activeYear === "All" ? null : activeYear;
+  renderEloChart($("#elo-chart"), $("#sched"), teamData, { year: y });
+  $("#sched-title").textContent = `Schedule${y ? " — " + y : " — all years"}`;
+}
+redraw();
+
+// Re-render on resize so the SVG re-sizes
+let resizeTimer;
+window.addEventListener("resize", () => {
+  clearTimeout(resizeTimer);
+  resizeTimer = setTimeout(redraw, 150);
+});
+</script>
+
+</body>
+</html>

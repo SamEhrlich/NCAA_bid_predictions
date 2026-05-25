@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,USC,Pepperdine,3,1,0,0,W,USC,USC,Pepperdine,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+02/14/2026,USC,Pepperdine,11,0,0,0,W,USC,USC,Pepperdine,0,7,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+02/15/2026,USC,Pepperdine,8,5,0,0,W,USC,USC,Pepperdine,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+02/18/2026,USC,Loyola-Marymount,14,4,0,0,W,USC,USC,Loyola-Marymount,0,7,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+02/20/2026,USC,Rice,5,0,0,0,W,USC,USC,Rice,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+02/21/2026,USC,Rice,4,1,0,0,W,USC,USC,Rice,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+02/22/2026,USC,Rice,4,2,0,0,W,USC,USC,Rice,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+02/26/2026,Cal Poly,USC,0,4,0,0,W,USC,USC,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+02/27/2026,Cal Poly,USC,0,6,0,0,W,USC,USC,Cal-Poly,1,11,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+02/28/2026,Cal Poly,USC,2,16,0,0,W,USC,USC,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+03/01/2026,Cal Poly,USC,6,8,0,0,W,USC,USC,Cal-Poly,1,11,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+03/03/2026,USC,UC Irvine,6,4,0,0,W,USC,USC,UC-Irvine,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/06/2026,USC,Illinois,4,0,0,0,W,USC,USC,Illinois,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/07/2026,USC,Illinois,4,0,0,0,W,USC,USC,Illinois,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/08/2026,USC,Illinois,5,3,0,0,W,USC,USC,Illinois,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/10/2026,USC,Long Beach State,6,1,0,0,W,USC,USC,Long-Beach-State,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/11/2026,USC,San Diego,7,6,0,0,W,USC,USC,San-Diego,0,10,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/13/2026,Northwestern,USC,1,15,0,0,W,USC,USC,Northwestern,1,7,"Evanston, IL / Rocky Miller Park",2026,WN2026
+03/14/2026,Northwestern,USC,0,2,0,0,W,USC,USC,Northwestern,1,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+03/14/2026,Northwestern,USC,2,1,0,0,L,USC,USC,Northwestern,1,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+03/17/2026,USC,San Diego State,7,4,0,0,W,USC,USC,San-Diego-State,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/18/2026,USC,Cal State Bakersfield,4,3,0,0,W,USC,USC,Cal-State-Bakersfield,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/20/2026,USC,Washington,5,0,0,0,W,USC,USC,Washington,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/21/2026,USC,Washington,7,2,0,0,W,USC,USC,Washington,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/22/2026,USC,Washington,14,4,0,0,W,USC,USC,Washington,0,7,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/24/2026,USC,Oregon State,4,12,0,0,L,USC,USC,Oregon-State,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/27/2026,Maryland,USC,10,11,0,0,W,USC,USC,Maryland,1,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+03/28/2026,Maryland,USC,6,4,0,0,L,USC,USC,Maryland,1,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+03/29/2026,Maryland,USC,4,14,0,0,W,USC,USC,Maryland,1,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+03/31/2026,USC,UC Santa Barbara,7,6,0,0,W,USC,USC,UC-Santa-Barbara,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+04/03/2026,UCLA,USC,12,4,0,0,L,USC,USC,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/04/2026,UCLA,USC,9,8,0,0,L,USC,USC,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/05/2026,UCLA,USC,10,4,0,0,L,USC,USC,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/07/2026,UC Santa Barbara,USC,5,1,0,0,L,USC,USC,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+04/10/2026,USC,Iowa,9,2,0,0,W,USC,USC,Iowa,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+04/11/2026,USC,Iowa,6,3,0,0,W,USC,USC,Iowa,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+04/12/2026,USC,Iowa,8,2,0,0,W,USC,USC,Iowa,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+04/14/2026,Long Beach State,USC,5,3,0,0,L,USC,USC,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/17/2026,Nebraska,USC,8,7,0,0,L,USC,USC,Nebraska,1,10,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/18/2026,Nebraska,USC,12,2,0,0,L,USC,USC,Nebraska,1,7,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/19/2026,Nebraska,USC,16,6,0,0,L,USC,USC,Nebraska,1,8,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/21/2026,Cal State Fullerton,USC,2,9,0,0,W,USC,USC,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+04/24/2026,USC,Purdue,4,3,0,0,W,USC,USC,Purdue,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+04/25/2026,USC,Purdue,6,1,0,0,W,USC,USC,Purdue,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+04/26/2026,USC,Purdue,11,4,0,0,W,USC,USC,Purdue,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+04/28/2026,UC Irvine,USC,4,1,0,0,L,USC,USC,UC-Irvine,1,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+05/01/2026,USC,Rutgers,5,1,0,0,W,USC,USC,Rutgers,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+05/02/2026,USC,Rutgers,11,1,0,0,W,USC,USC,Rutgers,0,7,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+05/03/2026,USC,Rutgers,12,2,0,0,W,USC,USC,Rutgers,0,8,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+05/05/2026,USC,Cal State Fullerton,13,4,0,0,W,USC,USC,Cal-State-Fullerton,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+05/07/2026,USC,Nevada,8,0,0,0,W,USC,USC,Nevada,0,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+05/08/2026,USC,Nevada,11,3,0,0,W,USC,USC,Nevada,0,9,"Los Angeles, CA / Dedeaux Field / Box Score",2026,WN2026
+05/09/2026,USC,Nevada,12,4,0,0,W,USC,USC,Nevada,0,9,"Los Angeles, CA / Dedeaux Field / Box Score",2026,WN2026
+05/14/2026,Oregon,USC,1,2,0,0,W,USC,USC,Oregon,1,11,"Eugene, OR / PK Park",2026,WN2026
+05/15/2026,Oregon,USC,4,3,0,0,L,USC,USC,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+05/16/2026,Oregon,USC,6,5,0,0,L,USC,USC,Oregon,1,14,"Eugene, OR / PK Park",2026,WN2026
+05/22/2026,Michigan State,USC,0,7,0,1,W,USC,USC,Michigan-State,0,9,"Omaha, NE / Charles Schwab Field Omaha / Recap",2026,WN2026
+05/23/2026,UCLA,USC,7,5,0,1,L,USC,USC,UCLA,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026

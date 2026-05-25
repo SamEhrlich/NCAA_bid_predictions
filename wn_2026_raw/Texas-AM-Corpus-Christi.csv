@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Texas A&M-Corpus Christi,Stonehill,11,1,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Stonehill,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+02/14/2026,Texas A&M-Corpus Christi,Stonehill,12,5,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Stonehill,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+02/15/2026,Texas A&M-Corpus Christi,Stonehill,11,8,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Stonehill,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+02/15/2026,Texas A&M-Corpus Christi,Stonehill,11,1,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Stonehill,0,7,"Corpus Christi, TX / Chapman Field",2026,WN2026
+02/17/2026,Texas A&M,Texas A&M-Corpus Christi,8,3,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+02/20/2026,Texas A&M-Corpus Christi,Cal State Bakersfield,4,7,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Cal-State-Bakersfield,0,9,"Corpus Christi, TX / Whataburger Field",2026,WN2026
+02/21/2026,Texas A&M-Corpus Christi,Long Beach State,5,10,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Long-Beach-State,0,9,"Corpus Christi, TX / Whataburger Field",2026,WN2026
+02/22/2026,Texas A&M-Corpus Christi,Pittsburgh,5,2,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Pittsburgh,0,9,"Corpus Christi, TX / Whataburger Field",2026,WN2026
+02/24/2026,Texas A&M-Corpus Christi,Prairie View A&M,9,2,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Prairie-View-AM,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+02/27/2026,Texas A&M-Corpus Christi,Texas Southern,5,4,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Texas-Southern,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+02/28/2026,Texas A&M-Corpus Christi,Texas Southern,4,3,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Texas-Southern,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+03/01/2026,Texas A&M-Corpus Christi,Texas Southern,4,16,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Texas-Southern,0,8,"Corpus Christi, TX / Chapman Field",2026,WN2026
+03/03/2026,Texas A&M-Corpus Christi,UTSA,5,7,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,UTSA,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+03/07/2026,Texas A&M-Corpus Christi,Nicholls,3,8,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Nicholls,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+03/07/2026,Texas A&M-Corpus Christi,Nicholls,5,14,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Nicholls,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+03/10/2026,Texas A&M-Corpus Christi,Texas Southern,2,1,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Texas-Southern,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+03/11/2026,Texas A&M-Corpus Christi,Texas Southern,5,4,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Texas-Southern,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+03/13/2026,Northwestern State,Texas A&M-Corpus Christi,5,1,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+03/14/2026,Northwestern State,Texas A&M-Corpus Christi,10,4,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+03/15/2026,Northwestern State,Texas A&M-Corpus Christi,4,3,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+03/20/2026,Texas A&M-Corpus Christi,Lamar,6,1,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Lamar,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+03/21/2026,Texas A&M-Corpus Christi,Lamar,3,7,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Lamar,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+03/22/2026,Texas A&M-Corpus Christi,Lamar,15,18,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Lamar,0,10,"Corpus Christi, TX / Chapman Field",2026,WN2026
+03/24/2026,UTSA,Texas A&M-Corpus Christi,3,1,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+03/27/2026,UTRGV,Texas A&M-Corpus Christi,6,9,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,UTRGV,1,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+03/28/2026,UTRGV,Texas A&M-Corpus Christi,5,1,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,UTRGV,1,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+03/29/2026,UTRGV,Texas A&M-Corpus Christi,2,5,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,UTRGV,1,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+04/02/2026,Texas A&M-Corpus Christi,Stephen F. Austin,3,8,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Stephen-F-Austin,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+04/03/2026,Texas A&M-Corpus Christi,Stephen F. Austin,9,13,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Stephen-F-Austin,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+04/04/2026,Texas A&M-Corpus Christi,Stephen F. Austin,8,3,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Stephen-F-Austin,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+04/07/2026,Rice,Texas A&M-Corpus Christi,18,4,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+04/08/2026,Prairie View A&M,Texas A&M-Corpus Christi,4,13,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Prairie-View-AM,1,6,"Prairie View, TX / Tankersley Field",2026,WN2026
+04/10/2026,Southeastern Louisiana,Texas A&M-Corpus Christi,5,7,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+04/11/2026,Southeastern Louisiana,Texas A&M-Corpus Christi,10,5,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+04/12/2026,Southeastern Louisiana,Texas A&M-Corpus Christi,5,4,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+04/14/2026,Texas,Texas A&M-Corpus Christi,14,7,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+04/17/2026,Texas A&M-Corpus Christi,McNeese,4,9,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,McNeese,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+04/18/2026,Texas A&M-Corpus Christi,McNeese,7,6,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,McNeese,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+04/19/2026,Texas A&M-Corpus Christi,McNeese,9,5,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,McNeese,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+04/22/2026,Texas A&M-Corpus Christi,Nicholls,1,6,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Nicholls,0,9,"Houston, TX / Husky Field",2026,WN2026
+04/24/2026,Incarnate Word,Texas A&M-Corpus Christi,3,14,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Incarnate-Word,1,8,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+04/25/2026,Incarnate Word,Texas A&M-Corpus Christi,4,6,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Incarnate-Word,1,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+04/26/2026,Incarnate Word,Texas A&M-Corpus Christi,4,11,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Incarnate-Word,1,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+04/28/2026,Texas State,Texas A&M-Corpus Christi,2,7,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+05/02/2026,Texas A&M-Corpus Christi,Houston Christian,4,5,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Houston-Christian,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+05/02/2026,Texas A&M-Corpus Christi,Houston Christian,4,15,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Houston-Christian,0,7,"Corpus Christi, TX / Chapman Field",2026,WN2026
+05/03/2026,Texas A&M-Corpus Christi,Houston Christian,3,2,0,0,W,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Houston-Christian,0,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+05/05/2026,Houston,Texas A&M-Corpus Christi,10,1,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,Houston,1,9,"Houston, TX / Schroeder Park",2026,WN2026
+05/07/2026,New Orleans,Texas A&M-Corpus Christi,9,2,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,New-Orleans,1,9,"New Orleans, LA / Maestri Field",2026,WN2026
+05/08/2026,New Orleans,Texas A&M-Corpus Christi,6,4,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,New-Orleans,1,9,"New Orleans, LA / Maestri Field / Box Score",2026,WN2026
+05/09/2026,New Orleans,Texas A&M-Corpus Christi,7,4,0,0,L,Texas A&M-Corpus Christi,Texas-AM-Corpus-Christi,New-Orleans,1,9,"New Orleans, LA / Maestri Field / Box Score",2026,WN2026

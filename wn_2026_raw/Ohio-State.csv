@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Saint Louis,Ohio State,1,7,0,1,W,Ohio State,Ohio-State,Saint-Louis,0,9,"Pensacola, FL",2026,WN2026
+02/14/2026,Saint Louis,Ohio State,2,3,0,1,W,Ohio State,Ohio-State,Saint-Louis,0,9,"Pensacola, FL",2026,WN2026
+02/14/2026,Saint Louis,Ohio State,3,7,0,1,W,Ohio State,Ohio-State,Saint-Louis,0,9,"Pensacola, FL",2026,WN2026
+02/20/2026,Louisiana Tech,Ohio State,6,0,0,1,L,Ohio State,Ohio-State,Louisiana-Tech,0,9,"Memphis, TN",2026,WN2026
+02/20/2026,Memphis,Ohio State,5,12,0,0,W,Ohio State,Ohio-State,Memphis,1,9,"Memphis, TN / FedExPark",2026,WN2026
+02/21/2026,Louisiana Tech,Ohio State,9,3,0,1,L,Ohio State,Ohio-State,Louisiana-Tech,0,9,"Memphis, TN",2026,WN2026
+02/22/2026,Memphis,Ohio State,2,8,0,0,W,Ohio State,Ohio-State,Memphis,1,9,"Memphis, TN / FedExPark",2026,WN2026
+02/27/2026,UTSA,Ohio State,6,5,0,1,L,Ohio State,Ohio-State,UTSA,0,9,"Houston, TX / Daikin Park",2026,WN2026
+02/28/2026,Ole Miss,Ohio State,8,0,0,1,L,Ohio State,Ohio-State,Ole-Miss,0,9,"Houston, TX / Daikin Park",2026,WN2026
+03/01/2026,Texas,Ohio State,10,3,0,1,L,Ohio State,Ohio-State,Texas,0,9,"Houston, TX / Daikin Park",2026,WN2026
+03/04/2026,Ohio State,Xavier,4,13,0,0,L,Ohio State,Ohio-State,Xavier,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/06/2026,Ohio State,UCLA,1,11,0,0,L,Ohio State,Ohio-State,UCLA,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/07/2026,Ohio State,UCLA,6,19,0,0,L,Ohio State,Ohio-State,UCLA,0,8,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/08/2026,Ohio State,UCLA,7,10,0,0,L,Ohio State,Ohio-State,UCLA,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/10/2026,Ohio State,Kent State,5,8,0,0,L,Ohio State,Ohio-State,Kent-State,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/13/2026,Washington,Ohio State,9,10,0,0,W,Ohio State,Ohio-State,Washington,1,10,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/14/2026,Washington,Ohio State,5,4,0,0,L,Ohio State,Ohio-State,Washington,1,11,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/15/2026,Washington,Ohio State,5,4,0,0,L,Ohio State,Ohio-State,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/18/2026,Xavier,Ohio State,4,8,0,0,W,Ohio State,Ohio-State,Xavier,1,10,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+03/20/2026,Ohio State,Butler,11,0,0,0,W,Ohio State,Ohio-State,Butler,0,7,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/21/2026,Ohio State,Butler,13,3,0,0,W,Ohio State,Ohio-State,Butler,0,8,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/22/2026,Ohio State,Butler,14,4,0,0,W,Ohio State,Ohio-State,Butler,0,7,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/24/2026,Wright State,Ohio State,10,8,0,0,L,Ohio State,Ohio-State,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+03/27/2026,Minnesota,Ohio State,3,4,0,0,W,Ohio State,Ohio-State,Minnesota,1,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+03/28/2026,Minnesota,Ohio State,3,9,0,0,W,Ohio State,Ohio-State,Minnesota,1,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+03/29/2026,Minnesota,Ohio State,9,12,0,0,W,Ohio State,Ohio-State,Minnesota,1,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+03/31/2026,Ohio State,Toledo,10,5,0,0,W,Ohio State,Ohio-State,Toledo,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/03/2026,Ohio State,Maryland,10,8,0,0,W,Ohio State,Ohio-State,Maryland,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/04/2026,Ohio State,Maryland,14,12,0,0,W,Ohio State,Ohio-State,Maryland,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/05/2026,Ohio State,Maryland,7,0,0,0,W,Ohio State,Ohio-State,Maryland,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/07/2026,Ohio State,Bowling Green,3,9,0,0,L,Ohio State,Ohio-State,Bowling-Green,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/10/2026,Ohio State,Penn State,6,10,0,0,L,Ohio State,Ohio-State,Penn-State,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/11/2026,Ohio State,Penn State,3,2,0,0,W,Ohio State,Ohio-State,Penn-State,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/12/2026,Ohio State,Penn State,15,10,0,0,W,Ohio State,Ohio-State,Penn-State,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/15/2026,Ohio State,Marshall,7,11,0,0,L,Ohio State,Ohio-State,Marshall,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/17/2026,Purdue,Ohio State,10,9,0,0,L,Ohio State,Ohio-State,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+04/18/2026,Purdue,Ohio State,12,7,0,0,L,Ohio State,Ohio-State,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+04/19/2026,Purdue,Ohio State,6,2,0,0,L,Ohio State,Ohio-State,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+04/21/2026,Ohio State,Akron,19,7,0,0,W,Ohio State,Ohio-State,Akron,0,7,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/24/2026,Rutgers,Ohio State,0,8,0,0,W,Ohio State,Ohio-State,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/24/2026,Rutgers,Ohio State,3,0,0,0,L,Ohio State,Ohio-State,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/26/2026,Rutgers,Ohio State,11,5,0,0,L,Ohio State,Ohio-State,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+05/01/2026,Ohio State,Nebraska,2,1,0,0,W,Ohio State,Ohio-State,Nebraska,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+05/02/2026,Ohio State,Nebraska,7,3,0,0,W,Ohio State,Ohio-State,Nebraska,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+05/03/2026,Ohio State,Nebraska,10,1,0,0,W,Ohio State,Ohio-State,Nebraska,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+05/08/2026,Michigan State,Ohio State,5,15,0,1,W,Ohio State,Ohio-State,Michigan-State,0,8,"Columbus, OH / Huntington Park / Box Score",2026,WN2026
+05/09/2026,Ohio State,Michigan State,4,7,0,0,L,Ohio State,Ohio-State,Michigan-State,0,9,"Columbus, OH / Bill Davis Stadium / Box Score",2026,WN2026
+05/10/2026,Ohio State,Michigan State,3,2,0,0,W,Ohio State,Ohio-State,Michigan-State,0,10,"Columbus, OH / Bill Davis Stadium / Box Score",2026,WN2026
+05/12/2026,Ohio State,Wright State,4,8,0,0,L,Ohio State,Ohio-State,Wright-State,0,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+05/14/2026,Michigan,Ohio State,2,13,0,0,W,Ohio State,Ohio-State,Michigan,1,7,"Ann Arbor, MI / Ray Fisher Stadium / Box Score",2026,WN2026
+05/15/2026,Michigan,Ohio State,3,7,0,0,W,Ohio State,Ohio-State,Michigan,1,9,"Ann Arbor, MI / Ray Fisher Stadium / Box Score",2026,WN2026
+05/16/2026,Michigan,Ohio State,1,8,0,0,W,Ohio State,Ohio-State,Michigan,1,9,"Ann Arbor, MI / Ray Fisher Stadium / Box Score",2026,WN2026
+05/19/2026,Washington,Ohio State,8,6,0,1,L,Ohio State,Ohio-State,Washington,0,9,"Omaha, NE / Charles Schwab Field Omaha / Recap",2026,WN2026
+05/20/2026,Rutgers,Ohio State,2,3,0,1,W,Ohio State,Ohio-State,Rutgers,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+05/21/2026,Michigan,Ohio State,3,0,0,1,L,Ohio State,Ohio-State,Michigan,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026

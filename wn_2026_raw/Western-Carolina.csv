@@ -1,0 +1,60 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Western Carolina,George Washington,7,5,0,0,W,Western Carolina,Western-Carolina,George-Washington,0,10,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+02/14/2026,Western Carolina,George Washington,13,4,0,0,W,Western Carolina,Western-Carolina,George-Washington,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+02/14/2026,Western Carolina,George Washington,5,4,0,0,W,Western Carolina,Western-Carolina,George-Washington,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+02/17/2026,South Carolina Upstate,Western Carolina,17,0,0,0,L,Western Carolina,Western-Carolina,South-Carolina-Upstate,1,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/20/2026,Western Carolina,Bowling Green,4,3,0,0,W,Western Carolina,Western-Carolina,Bowling-Green,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+02/21/2026,Western Carolina,Bowling Green,5,6,0,0,L,Western Carolina,Western-Carolina,Bowling-Green,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+02/21/2026,Western Carolina,Bowling Green,5,0,0,0,W,Western Carolina,Western-Carolina,Bowling-Green,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+02/24/2026,Western Carolina,Akron,12,2,0,0,W,Western Carolina,Western-Carolina,Akron,0,8,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+02/27/2026,Troy,Western Carolina,3,4,0,1,W,Western Carolina,Western-Carolina,Troy,0,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+02/28/2026,Rutgers,Western Carolina,9,3,0,1,L,Western Carolina,Western-Carolina,Rutgers,0,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+03/01/2026,East Carolina,Western Carolina,0,2,0,0,W,Western Carolina,Western-Carolina,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+03/04/2026,Georgia,Western Carolina,9,10,0,0,W,Western Carolina,Western-Carolina,Georgia,1,9,"Athens, GA / Foley Field",2026,WN2026
+03/06/2026,Radford,Western Carolina,7,1,0,1,L,Western Carolina,Western-Carolina,Radford,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/07/2026,Charlotte,Western Carolina,4,0,0,0,L,Western Carolina,Western-Carolina,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/07/2026,Radford,Western Carolina,0,10,0,1,W,Western Carolina,Western-Carolina,Radford,0,7,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/08/2026,Charlotte,Western Carolina,7,4,0,0,L,Western Carolina,Western-Carolina,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/10/2026,Appalachian State,Western Carolina,3,13,0,0,W,Western Carolina,Western-Carolina,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+03/12/2026,Western Carolina,Morehead State,5,8,0,0,L,Western Carolina,Western-Carolina,Morehead-State,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/13/2026,Western Carolina,Morehead State,11,0,0,0,W,Western Carolina,Western-Carolina,Morehead-State,0,7,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/14/2026,Western Carolina,Morehead State,13,4,0,0,W,Western Carolina,Western-Carolina,Morehead-State,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/15/2026,Western Carolina,Morehead State,8,7,0,0,W,Western Carolina,Western-Carolina,Morehead-State,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/18/2026,Western Carolina,Gardner-Webb,8,4,0,0,W,Western Carolina,Western-Carolina,Gardner-Webb,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/20/2026,Western Carolina,Samford,0,11,0,0,L,Western Carolina,Western-Carolina,Samford,0,7,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/21/2026,Western Carolina,Samford,11,9,0,0,W,Western Carolina,Western-Carolina,Samford,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/22/2026,Western Carolina,Samford,10,9,0,0,W,Western Carolina,Western-Carolina,Samford,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/24/2026,UNC Asheville,Western Carolina,8,4,0,0,L,Western Carolina,Western-Carolina,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+03/27/2026,The Citadel,Western Carolina,4,3,0,0,L,Western Carolina,Western-Carolina,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park",2026,WN2026
+03/28/2026,The Citadel,Western Carolina,13,9,0,0,L,Western Carolina,Western-Carolina,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park",2026,WN2026
+03/29/2026,The Citadel,Western Carolina,3,16,0,0,W,Western Carolina,Western-Carolina,The-Citadel,1,7,"Charleston, SC / Joseph P. Riley Jr. Park",2026,WN2026
+03/31/2026,Western Carolina,Presbyterian College,5,6,0,0,L,Western Carolina,Western-Carolina,Presbyterian-College,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/02/2026,Winthrop,Western Carolina,7,15,0,0,W,Western Carolina,Western-Carolina,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/03/2026,Winthrop,Western Carolina,6,4,0,0,L,Western Carolina,Western-Carolina,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/04/2026,Winthrop,Western Carolina,6,7,0,0,W,Western Carolina,Western-Carolina,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/07/2026,Western Carolina,South Carolina Upstate,11,18,0,0,L,Western Carolina,Western-Carolina,South-Carolina-Upstate,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/10/2026,Western Carolina,Mercer,10,6,0,0,W,Western Carolina,Western-Carolina,Mercer,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/11/2026,Western Carolina,Mercer,17,9,0,0,W,Western Carolina,Western-Carolina,Mercer,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/12/2026,Western Carolina,Mercer,5,4,0,0,W,Western Carolina,Western-Carolina,Mercer,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/14/2026,Western Carolina,Appalachian State,14,4,0,0,W,Western Carolina,Western-Carolina,Appalachian-State,0,7,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/17/2026,VMI,Western Carolina,10,8,0,0,L,Western Carolina,Western-Carolina,VMI,1,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+04/18/2026,VMI,Western Carolina,5,18,0,0,W,Western Carolina,Western-Carolina,VMI,1,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+04/19/2026,VMI,Western Carolina,3,4,0,0,W,Western Carolina,Western-Carolina,VMI,1,10,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+04/21/2026,Gardner-Webb,Western Carolina,1,11,0,0,W,Western Carolina,Western-Carolina,Gardner-Webb,1,8,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+04/24/2026,Western Carolina,East Tennessee State,14,10,0,0,W,Western Carolina,Western-Carolina,East-Tennessee-State,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/24/2026,Western Carolina,East Tennessee State,3,4,0,0,L,Western Carolina,Western-Carolina,East-Tennessee-State,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/26/2026,Western Carolina,East Tennessee State,13,2,0,0,W,Western Carolina,Western-Carolina,East-Tennessee-State,0,7,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+05/01/2026,Wofford,Western Carolina,6,1,0,0,L,Western Carolina,Western-Carolina,Wofford,1,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+05/02/2026,Wofford,Western Carolina,2,3,0,0,W,Western Carolina,Western-Carolina,Wofford,1,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+05/03/2026,Wofford,Western Carolina,5,7,0,0,W,Western Carolina,Western-Carolina,Wofford,1,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+05/05/2026,Western Carolina,UNC Asheville,4,1,0,0,W,Western Carolina,Western-Carolina,UNC-Asheville,0,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+05/08/2026,Wake Forest,Western Carolina,6,1,0,0,L,Western Carolina,Western-Carolina,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark / Box Score",2026,WN2026
+05/09/2026,Wake Forest,Western Carolina,14,2,0,0,L,Western Carolina,Western-Carolina,Wake-Forest,1,7,"Winston-Salem, NC / David F. Couch Ballpark / Box Score",2026,WN2026
+05/10/2026,Wake Forest,Western Carolina,9,5,0,0,L,Western Carolina,Western-Carolina,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark / Box Score",2026,WN2026
+05/12/2026,Presbyterian College,Western Carolina,3,14,0,0,W,Western Carolina,Western-Carolina,Presbyterian-College,1,7,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+05/14/2026,Western Carolina,UNCG,1,2,0,0,L,Western Carolina,Western-Carolina,UNCG,0,9,"Cullowhee, NC / Hennon Stadium / Box Score",2026,WN2026
+05/15/2026,Western Carolina,UNCG,4,1,0,0,W,Western Carolina,Western-Carolina,UNCG,0,9,"Cullowhee, NC / Hennon Stadium / Box Score",2026,WN2026
+05/16/2026,Western Carolina,UNCG,7,2,0,0,W,Western Carolina,Western-Carolina,UNCG,0,9,"Cullowhee, NC / Hennon Stadium / Box Score",2026,WN2026
+05/21/2026,Samford,Western Carolina,9,5,0,1,L,Western Carolina,Western-Carolina,Samford,0,9,"Greenville, SC / Fluor Field / Recap",2026,WN2026
+05/21/2026,UNCG,Western Carolina,3,4,0,1,W,Western Carolina,Western-Carolina,UNCG,0,9,"Greenville, SC / Fluor Field",2026,WN2026
+05/22/2026,Samford,Western Carolina,5,1,0,1,L,Western Carolina,Western-Carolina,Samford,0,13,"Greenville, SC / Fluor Field",2026,WN2026

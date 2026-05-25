@@ -1,0 +1,50 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Ole Miss,Nevada,11,3,0,0,L,Nevada,Nevada,Ole-Miss,1,9,"Oxford, MS / Swayze Field",2026,WN2026
+02/14/2026,Ole Miss,Nevada,5,1,0,0,L,Nevada,Nevada,Ole-Miss,1,9,"Oxford, MS / Swayze Field",2026,WN2026
+02/15/2026,Ole Miss,Nevada,13,2,0,0,L,Nevada,Nevada,Ole-Miss,1,7,"Oxford, MS / Swayze Field",2026,WN2026
+02/21/2026,Nevada,Utah Valley,7,4,0,0,W,Nevada,Nevada,Utah-Valley,0,9,"Reno, NV / William Peccole Park",2026,WN2026
+02/21/2026,Nevada,Utah Valley,9,5,0,0,W,Nevada,Nevada,Utah-Valley,0,9,"Reno, NV / William Peccole Park",2026,WN2026
+02/22/2026,Nevada,Utah Valley,5,3,0,0,W,Nevada,Nevada,Utah-Valley,0,10,"Reno, NV / William Peccole Park",2026,WN2026
+02/27/2026,UC Davis,Nevada,5,4,0,0,L,Nevada,Nevada,UC-Davis,1,10,"Davis, CA / Dobbins Stadium",2026,WN2026
+02/28/2026,UC Davis,Nevada,7,5,0,0,L,Nevada,Nevada,UC-Davis,1,9,"Davis, CA / Dobbins Stadium",2026,WN2026
+03/01/2026,UC Davis,Nevada,5,11,0,0,W,Nevada,Nevada,UC-Davis,1,9,"Davis, CA / Dobbins Stadium",2026,WN2026
+03/02/2026,Stanford,Nevada,6,9,0,0,W,Nevada,Nevada,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/06/2026,Nevada,Pacific,11,7,0,0,W,Nevada,Nevada,Pacific,0,9,"Reno, NV / William Peccole Park",2026,WN2026
+03/07/2026,Nevada,Pacific,10,5,0,0,W,Nevada,Nevada,Pacific,0,9,"Reno, NV / William Peccole Park",2026,WN2026
+03/08/2026,Nevada,Pacific,12,2,0,0,W,Nevada,Nevada,Pacific,0,8,"Reno, NV / William Peccole Park",2026,WN2026
+03/11/2026,Stanford,Nevada,13,8,0,0,L,Nevada,Nevada,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/13/2026,Fresno State,Nevada,4,9,0,0,W,Nevada,Nevada,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+03/14/2026,Fresno State,Nevada,12,15,0,0,W,Nevada,Nevada,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+03/15/2026,Fresno State,Nevada,4,9,0,0,W,Nevada,Nevada,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+03/20/2026,Nevada,Air Force,10,7,0,0,W,Nevada,Nevada,Air-Force,0,9,"Reno, NV / William Peccole Park",2026,WN2026
+03/21/2026,Nevada,Air Force,5,18,0,0,L,Nevada,Nevada,Air-Force,0,9,"Reno, NV / William Peccole Park",2026,WN2026
+03/22/2026,Nevada,Air Force,12,17,0,0,L,Nevada,Nevada,Air-Force,0,9,"Reno, NV / William Peccole Park",2026,WN2026
+03/24/2026,Nevada,San Francisco,14,9,0,0,W,Nevada,Nevada,San-Francisco,0,9,"Reno, NV / William Peccole Park",2026,WN2026
+03/27/2026,Washington State,Nevada,12,6,0,0,L,Nevada,Nevada,Washington-State,1,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+03/28/2026,Washington State,Nevada,4,5,0,0,W,Nevada,Nevada,Washington-State,1,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+03/29/2026,Washington State,Nevada,5,12,0,0,W,Nevada,Nevada,Washington-State,1,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+03/30/2026,Gonzaga,Nevada,7,2,0,0,L,Nevada,Nevada,Gonzaga,1,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+04/06/2026,Sacramento State,Nevada,11,2,0,0,L,Nevada,Nevada,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+04/07/2026,Nevada,UC Davis,9,11,0,0,L,Nevada,Nevada,UC-Davis,0,9,"Reno, NV / William Peccole Park",2026,WN2026
+04/10/2026,Nevada,San Jose State,11,1,0,0,W,Nevada,Nevada,San-Jose-State,0,8,"Reno, NV / William Peccole Park",2026,WN2026
+04/11/2026,Nevada,San Jose State,6,12,0,0,L,Nevada,Nevada,San-Jose-State,0,9,"Reno, NV / William Peccole Park",2026,WN2026
+04/12/2026,Nevada,San Jose State,5,4,0,0,W,Nevada,Nevada,San-Jose-State,0,9,"Reno, NV / William Peccole Park",2026,WN2026
+04/13/2026,Saint Mary's College,Nevada,16,10,0,0,L,Nevada,Nevada,Saint-Marys-College,1,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/17/2026,New Mexico,Nevada,2,3,0,0,W,Nevada,Nevada,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+04/18/2026,New Mexico,Nevada,2,15,0,0,W,Nevada,Nevada,New-Mexico,1,8,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+04/19/2026,New Mexico,Nevada,9,7,0,0,L,Nevada,Nevada,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+04/21/2026,Nevada,Saint Mary's College,5,11,0,0,L,Nevada,Nevada,Saint-Marys-College,0,9,"Reno, NV / William Peccole Park",2026,WN2026
+04/24/2026,Nevada,UNLV,13,3,0,0,W,Nevada,Nevada,UNLV,0,8,"Reno, NV / William Peccole Park",2026,WN2026
+04/25/2026,Nevada,UNLV,7,8,0,0,L,Nevada,Nevada,UNLV,0,9,"Reno, NV / William Peccole Park",2026,WN2026
+04/26/2026,Nevada,UNLV,9,1,0,0,W,Nevada,Nevada,UNLV,0,9,"Reno, NV / William Peccole Park",2026,WN2026
+04/28/2026,Nevada,Sacramento State,7,13,0,0,L,Nevada,Nevada,Sacramento-State,0,9,"Reno, NV / William Peccole Park",2026,WN2026
+05/01/2026,San Diego State,Nevada,7,3,0,0,L,Nevada,Nevada,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+05/02/2026,San Diego State,Nevada,8,5,0,0,L,Nevada,Nevada,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+05/03/2026,San Diego State,Nevada,8,2,0,0,L,Nevada,Nevada,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+05/07/2026,USC,Nevada,8,0,0,0,L,Nevada,Nevada,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+05/08/2026,USC,Nevada,11,3,0,0,L,Nevada,Nevada,USC,1,9,"Los Angeles, CA / Dedeaux Field / Box Score",2026,WN2026
+05/09/2026,USC,Nevada,12,4,0,0,L,Nevada,Nevada,USC,1,9,"Los Angeles, CA / Dedeaux Field / Box Score",2026,WN2026
+05/14/2026,Nevada,Grand Canyon,13,9,0,0,W,Nevada,Nevada,Grand-Canyon,0,9,"Reno, NV / William Peccole Park / Box Score",2026,WN2026
+05/15/2026,Nevada,Grand Canyon,7,12,0,0,L,Nevada,Nevada,Grand-Canyon,0,9,"Reno, NV / William Peccole Park / Box Score",2026,WN2026
+05/16/2026,Nevada,Grand Canyon,3,9,0,0,L,Nevada,Nevada,Grand-Canyon,0,9,"Reno, NV / William Peccole Park / Box Score",2026,WN2026
+05/21/2026,New Mexico,Nevada,13,4,0,1,L,Nevada,Nevada,New-Mexico,0,9,"Mesa, AZ / Sloan Park / Box Score / Recap",2026,WN2026

@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Miami (FL),Lehigh,13,2,0,0,W,Miami (FL),Miami-FL,Lehigh,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/14/2026,Miami (FL),Lehigh,17,11,0,0,W,Miami (FL),Miami-FL,Lehigh,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/15/2026,Miami (FL),Lehigh,27,3,0,0,W,Miami (FL),Miami-FL,Lehigh,0,7,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/17/2026,Miami (FL),UCF,8,7,0,0,W,Miami (FL),Miami-FL,UCF,0,13,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/18/2026,Miami (FL),Indiana State,6,2,0,0,W,Miami (FL),Miami-FL,Indiana-State,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/20/2026,Miami (FL),Lafayette,15,2,0,0,W,Miami (FL),Miami-FL,Lafayette,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/21/2026,Miami (FL),Lafayette,14,4,0,0,W,Miami (FL),Miami-FL,Lafayette,0,7,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/21/2026,Miami (FL),Lafayette,14,3,0,0,W,Miami (FL),Miami-FL,Lafayette,0,7,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/22/2026,Miami (FL),Lafayette,30,5,0,0,W,Miami (FL),Miami-FL,Lafayette,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/25/2026,FAU,Miami (FL),7,11,0,0,W,Miami (FL),Miami-FL,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/27/2026,Miami (FL),Florida,2,7,0,0,L,Miami (FL),Miami-FL,Florida,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/28/2026,Miami (FL),Florida,4,8,0,0,L,Miami (FL),Miami-FL,Florida,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/04/2026,Miami (FL),Bethune-Cookman,5,2,0,0,W,Miami (FL),Miami-FL,Bethune-Cookman,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/06/2026,Miami (FL),Boston College,7,8,0,0,L,Miami (FL),Miami-FL,Boston-College,0,11,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/07/2026,Miami (FL),Boston College,5,3,0,0,W,Miami (FL),Miami-FL,Boston-College,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/08/2026,Miami (FL),Boston College,5,9,0,0,L,Miami (FL),Miami-FL,Boston-College,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/11/2026,UCF,Miami (FL),5,9,0,0,W,Miami (FL),Miami-FL,UCF,1,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/13/2026,Duke,Miami (FL),4,0,0,0,L,Miami (FL),Miami-FL,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/14/2026,Duke,Miami (FL),0,9,0,0,W,Miami (FL),Miami-FL,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/15/2026,Duke,Miami (FL),20,10,0,0,L,Miami (FL),Miami-FL,Duke,1,7,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/18/2026,FIU,Miami (FL),3,10,0,0,W,Miami (FL),Miami-FL,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+03/20/2026,Miami (FL),Creighton,9,4,0,0,W,Miami (FL),Miami-FL,Creighton,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/21/2026,Miami (FL),Creighton,11,1,0,0,W,Miami (FL),Miami-FL,Creighton,0,8,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/22/2026,Miami (FL),Creighton,15,5,0,0,W,Miami (FL),Miami-FL,Creighton,0,8,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/24/2026,Miami (FL),FAU,10,6,0,0,W,Miami (FL),Miami-FL,FAU,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/26/2026,Clemson,Miami (FL),3,8,0,0,W,Miami (FL),Miami-FL,Clemson,1,10,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+03/27/2026,Clemson,Miami (FL),7,6,0,0,L,Miami (FL),Miami-FL,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+03/28/2026,Clemson,Miami (FL),6,8,0,0,W,Miami (FL),Miami-FL,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+03/31/2026,Miami (FL),FGCU,12,4,0,0,W,Miami (FL),Miami-FL,FGCU,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/03/2026,Miami (FL),Virginia Tech,19,1,0,0,W,Miami (FL),Miami-FL,Virginia-Tech,0,7,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/04/2026,Miami (FL),Virginia Tech,8,6,0,0,W,Miami (FL),Miami-FL,Virginia-Tech,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/05/2026,Miami (FL),Virginia Tech,3,6,0,0,L,Miami (FL),Miami-FL,Virginia-Tech,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/07/2026,Miami (FL),FIU,9,7,0,0,W,Miami (FL),Miami-FL,FIU,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/10/2026,Miami (FL),Wake Forest,3,1,0,0,W,Miami (FL),Miami-FL,Wake-Forest,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/11/2026,Miami (FL),Wake Forest,1,3,0,0,L,Miami (FL),Miami-FL,Wake-Forest,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/12/2026,Miami (FL),Wake Forest,8,0,0,0,W,Miami (FL),Miami-FL,Wake-Forest,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/15/2026,Miami (FL),South Florida,2,4,0,0,L,Miami (FL),Miami-FL,South-Florida,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/17/2026,Stanford,Miami (FL),3,6,0,0,W,Miami (FL),Miami-FL,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/18/2026,Stanford,Miami (FL),3,4,0,0,W,Miami (FL),Miami-FL,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/19/2026,Stanford,Miami (FL),14,6,0,0,L,Miami (FL),Miami-FL,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/22/2026,FAU,Miami (FL),4,5,0,0,W,Miami (FL),Miami-FL,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/24/2026,Miami (FL),California,2,9,0,0,L,Miami (FL),Miami-FL,California,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/25/2026,Miami (FL),California,4,3,0,0,W,Miami (FL),Miami-FL,California,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/26/2026,Miami (FL),California,4,1,0,0,W,Miami (FL),Miami-FL,California,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+05/01/2026,North Carolina State,Miami (FL),9,12,0,0,W,Miami (FL),Miami-FL,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+05/01/2026,North Carolina State,Miami (FL),13,6,0,0,L,Miami (FL),Miami-FL,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+05/02/2026,North Carolina State,Miami (FL),12,7,0,0,L,Miami (FL),Miami-FL,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+05/07/2026,Miami (FL),Louisville,13,8,0,0,W,Miami (FL),Miami-FL,Louisville,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+05/08/2026,Miami (FL),Louisville,9,16,0,0,L,Miami (FL),Miami-FL,Louisville,0,11,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field / Box Score",2026,WN2026
+05/09/2026,Miami (FL),Louisville,10,8,0,0,W,Miami (FL),Miami-FL,Louisville,0,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field / Box Score",2026,WN2026
+05/14/2026,Florida State,Miami (FL),7,6,0,0,L,Miami (FL),Miami-FL,Florida-State,1,11,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium / Box Score",2026,WN2026
+05/15/2026,Florida State,Miami (FL),11,1,0,0,L,Miami (FL),Miami-FL,Florida-State,1,8,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium / Box Score",2026,WN2026
+05/16/2026,Florida State,Miami (FL),4,7,0,0,W,Miami (FL),Miami-FL,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium / Box Score",2026,WN2026
+05/20/2026,Stanford,Miami (FL),2,11,0,1,W,Miami (FL),Miami-FL,Stanford,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026
+05/21/2026,Boston College,Miami (FL),2,8,0,1,W,Miami (FL),Miami-FL,Boston-College,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026
+05/23/2026,Georgia Tech,Miami (FL),9,3,0,1,L,Miami (FL),Miami-FL,Georgia-Tech,0,9,"Charlotte, NC / Truist Field",2026,WN2026

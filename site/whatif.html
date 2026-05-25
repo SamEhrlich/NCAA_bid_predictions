@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>What-If — NCAA D1 Baseball Elo</title>
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="stylesheet" href="css/style.css" />
+  <style>
+    .whatif-layout {
+      display: grid;
+      grid-template-columns: 1fr 380px;
+      gap: 24px;
+    }
+    @media (max-width:1024px) { .whatif-layout { grid-template-columns: 1fr; } }
+    .pin-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 14px;
+    }
+    @media (max-width:700px) { .pin-grid { grid-template-columns: 1fr; } }
+    .pin-card {
+      background: var(--bg-elevated);
+      border-radius: var(--radius);
+      padding: 12px 14px;
+      box-shadow: var(--shadow);
+    }
+    .pin-card h3 {
+      font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px;
+      color: var(--text-dim); margin: 0 0 8px;
+      display: flex; justify-content: space-between;
+    }
+    .pin-option {
+      display: grid;
+      grid-template-columns: 24px 1fr 60px;
+      gap: 8px; align-items: center;
+      padding: 6px 0;
+      cursor: pointer;
+      border-bottom: 1px solid var(--border-soft);
+      font-size: 13px;
+      transition: background 0.1s;
+    }
+    .pin-option:last-child { border-bottom: none; }
+    .pin-option:hover { background: var(--bg-hover); }
+    .pin-option img { width: 22px; height: 22px; border-radius: 3px; }
+    .pin-option.pinned {
+      background: rgba(255,163,0,0.08);
+      border-left: 3px solid var(--accent);
+      padding-left: 6px; margin-left: -9px;
+    }
+    .pin-option .elo { color: var(--text-dim); font-family: var(--mono); font-size: 11px; text-align: right; }
+    .summary-card {
+      position: sticky; top: 80px;
+      background: var(--bg-elevated);
+      border-radius: var(--radius);
+      padding: 18px 22px;
+      box-shadow: var(--shadow);
+    }
+    .summary-card h2 {
+      font-size: 13px; text-transform: uppercase; letter-spacing: 0.5px;
+      color: var(--text-dim); margin: 0 0 12px;
+    }
+    .summary-row {
+      display: grid;
+      grid-template-columns: 24px 1fr 50px;
+      gap: 8px; align-items: center;
+      padding: 5px 0;
+      font-size: 13px;
+      border-bottom: 1px solid var(--border-soft);
+    }
+    .summary-row img { width: 20px; height: 20px; border-radius: 3px; }
+    .summary-row .pct { font-family: var(--mono); text-align: right; }
+    .summary-row .delta {
+      font-size: 10px; color: var(--text-dim); font-family: var(--mono);
+      margin-left: 4px;
+    }
+    .summary-row .delta.up { color: var(--win); }
+    .summary-row .delta.down { color: var(--loss); }
+    .controls {
+      display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap;
+    }
+    .controls button {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      color: var(--text); padding: 7px 13px;
+      border-radius: var(--radius); cursor: pointer;
+      font-size: 12px;
+    }
+    .controls button:hover { background: var(--bg-hover); border-color: var(--accent-dim); }
+    .controls button.run {
+      background: var(--accent); color: var(--bg); border-color: var(--accent);
+      font-weight: 600;
+    }
+    .sim-status { font-size: 11px; color: var(--text-muted); font-family: var(--mono); align-self: center; }
+    .summary-card .stage-toggle {
+      display: flex; gap: 6px; margin-bottom: 10px;
+    }
+    .summary-card .stage-toggle button {
+      flex: 1; background: transparent; border: 1px solid var(--border);
+      color: var(--text-dim); padding: 5px 8px;
+      border-radius: 4px; font-size: 11px; cursor: pointer;
+      font-family: var(--mono);
+    }
+    .summary-card .stage-toggle button.active {
+      background: var(--accent); color: var(--bg); border-color: var(--accent); font-weight: 700;
+    }
+  </style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-brand">NCAA D1 Baseball <span>Elo</span></div>
+  <div class="nav-links">
+    <a href="index.html"   data-nav="leaderboard">Leaderboard</a>
+    <a href="bracket.html" data-nav="bracket">2026 Bracket</a>
+    <a href="whatif.html"  data-nav="whatif">What-If</a>
+    <a href="compare.html" data-nav="compare">Compare</a>
+    <a href="conference.html" data-nav="conference">Conferences</a>
+    <a href="extras.html"  data-nav="extras">Upsets</a>
+  </div>
+  <div class="nav-meta" id="nav-meta"></div>
+</nav>
+
+<div class="container">
+  <h1 class="section-title">
+    What-If Explorer
+    <span class="sub">pin regional winners and see how it shifts championship odds</span>
+  </h1>
+
+  <div class="controls">
+    <button id="run">Run 5,000 simulations</button>
+    <button id="reset">Clear pins</button>
+    <span class="sim-status" id="sim-status">click a team in any regional to pin it as the winner</span>
+  </div>
+
+  <div class="whatif-layout">
+    <div>
+      <div class="pin-grid" id="pin-grid"></div>
+    </div>
+
+    <aside class="summary-card">
+      <h2>Updated odds</h2>
+      <div class="stage-toggle">
+        <button data-stage="champ_pct"   class="active">Champion</button>
+        <button data-stage="finals_pct">Finals</button>
+        <button data-stage="cws_pct">CWS</button>
+      </div>
+      <div id="summary"></div>
+    </aside>
+  </div>
+</div>
+
+<footer class="footer">
+  Pinning forces a team through the regional. Super-regional and CWS games still simulate from Elo.
+</footer>
+
+<script type="module">
+import { loadJSON, fmtPct, fmtElo, setActiveNav, makeLogoEl, $ } from "./js/common.js";
+
+setActiveNav("whatif");
+const [bracket, odds, meta] = await Promise.all([
+  loadJSON("bracket.json"),
+  loadJSON("odds.json"),
+  loadJSON("meta.json"),
+]);
+$("#nav-meta").textContent =
+  `${meta.n_games_fit.toLocaleString()} games · fit ${meta.generated_at.slice(0,10)}`;
+
+// Build a flat team registry from bracket
+const TEAMS = {};   // team -> {team, elo, slug, color, logo}
+for (const r of bracket.regionals) for (const t of r.teams) TEAMS[t.team] = t;
+
+const baselineOdds = new Map(odds.teams.map(o => [o.team, o]));
+
+// Pin state: regional key -> team name
+const pins = {};
+
+// ---------- Pin UI ----------
+const grid = $("#pin-grid");
+for (const r of bracket.regionals) {
+  const card = document.createElement("div");
+  card.className = "pin-card";
+  card.innerHTML = `<h3>${r.name} <span style="color:var(--accent); font-family:var(--mono)">#${r.seed}</span></h3>`;
+  for (const t of r.teams) {
+    const opt = document.createElement("div");
+    opt.className = "pin-option";
+    opt.dataset.regional = r.key;
+    opt.dataset.team = t.team;
+    const img = makeLogoEl(t);
+    const nameSpan = document.createElement("span");
+    nameSpan.textContent = t.team;
+    const eloSpan = document.createElement("span");
+    eloSpan.className = "elo";
+    eloSpan.textContent = fmtElo(t.elo);
+    opt.appendChild(img); opt.appendChild(nameSpan); opt.appendChild(eloSpan);
+    opt.addEventListener("click", () => {
+      if (pins[r.key] === t.team) {
+        delete pins[r.key];
+      } else {
+        pins[r.key] = t.team;
+      }
+      refreshPinUI();
+    });
+    card.appendChild(opt);
+  }
+  grid.appendChild(card);
+}
+function refreshPinUI() {
+  for (const opt of document.querySelectorAll(".pin-option")) {
+    const r = opt.dataset.regional, t = opt.dataset.team;
+    opt.classList.toggle("pinned", pins[r] === t);
+  }
+  $("#sim-status").textContent =
+    Object.keys(pins).length === 0
+      ? "click a team in any regional to pin it as the winner"
+      : `${Object.keys(pins).length} regional(s) pinned — click 'Run' to update odds`;
+}
+
+// ---------- Client-side sim ----------
+const ratings = {};
+for (const t of Object.values(TEAMS)) ratings[t.team] = t.elo;
+const SEED2R = {};
+for (const r of bracket.regionals) SEED2R[r.seed] = r.key;
+const SUPER_PAIRS = bracket.super_pairs.map(p => [p.a, p.b]);
+const REG_TEAMS = {};
+for (const r of bracket.regionals) REG_TEAMS[r.key] = r.teams.map(t => t.team);
+
+function rand() { return Math.random(); }
+function simGame(t1, t2) {
+  const p = 1.0 / (1.0 + Math.pow(10, (ratings[t2] - ratings[t1]) / 400));
+  return rand() < p ? t1 : t2;
+}
+function simRegional(teams) {
+  const g1 = simGame(teams[0], teams[3]);
+  const g2 = simGame(teams[1], teams[2]);
+  const g1l = g1 === teams[0] ? teams[3] : teams[0];
+  const g2l = g2 === teams[1] ? teams[2] : teams[1];
+  const wbf = simGame(g1, g2);
+  const wbfl = wbf === g1 ? g2 : g1;
+  const lg1 = simGame(g1l, g2l);
+  const lbf = simGame(wbfl, lg1);
+  const f1 = simGame(wbf, lbf);
+  return f1 === lbf ? simGame(wbf, lbf) : f1;
+}
+
+function runSims(n = 5000) {
+  const regCt = {}, cwsCt = {}, finCt = {}, champCt = {};
+  for (let i = 0; i < n; i++) {
+    const regW = {};
+    for (const r of bracket.regionals) {
+      regW[r.key] = pins[r.key] || simRegional(REG_TEAMS[r.key]);
+    }
+    for (const t of Object.values(regW)) regCt[t] = (regCt[t]||0) + 1;
+    const cws = SUPER_PAIRS.map(([a,b]) => simGame(regW[a], regW[b]));
+    for (const t of cws) cwsCt[t] = (cwsCt[t]||0) + 1;
+    const b1 = simRegional(cws.slice(0,4));
+    const b2 = simRegional(cws.slice(4));
+    finCt[b1] = (finCt[b1]||0) + 1;
+    finCt[b2] = (finCt[b2]||0) + 1;
+    const champ = simGame(b1, b2);
+    champCt[champ] = (champCt[champ]||0) + 1;
+  }
+  const out = [];
+  for (const team of Object.keys(ratings)) {
+    out.push({
+      team,
+      regional_pct: (regCt[team]||0)/n*100,
+      cws_pct:      (cwsCt[team]||0)/n*100,
+      finals_pct:   (finCt[team]||0)/n*100,
+      champ_pct:    (champCt[team]||0)/n*100,
+    });
+  }
+  return out;
+}
+
+let currentOdds = odds.teams.map(o => ({ ...o }));
+let stageKey = "champ_pct";
+
+// Render summary using currentOdds
+function renderSummary() {
+  const div = $("#summary");
+  const sorted = [...currentOdds].sort((a,b) => b[stageKey] - a[stageKey]).slice(0, 12);
+  div.innerHTML = "";
+  for (const o of sorted) {
+    const t = TEAMS[o.team];
+    const baseline = baselineOdds.get(o.team) || {};
+    const delta = (o[stageKey] || 0) - (baseline[stageKey] || 0);
+    let dCls = "", dStr = "";
+    if (Math.abs(delta) >= 0.5) {
+      dCls = delta > 0 ? "up" : "down";
+      dStr = `${delta > 0 ? "+" : ""}${delta.toFixed(1)}`;
+    }
+    const row = document.createElement("div");
+    row.className = "summary-row";
+    const img = makeLogoEl(t);
+    row.appendChild(img);
+    const nm = document.createElement("span");
+    const a = document.createElement("a");
+    a.href = `team.html?slug=${encodeURIComponent(t.slug)}`;
+    a.textContent = o.team;
+    a.style.color = "var(--text)";
+    nm.appendChild(a);
+    row.appendChild(nm);
+    const pct = document.createElement("span");
+    pct.className = "pct";
+    pct.innerHTML = `${fmtPct(o[stageKey] || 0, 1)}${dStr ? `<span class="delta ${dCls}">${dStr}</span>` : ""}`;
+    row.appendChild(pct);
+    div.appendChild(row);
+  }
+}
+
+document.querySelectorAll(".stage-toggle button").forEach(b => {
+  b.addEventListener("click", () => {
+    document.querySelectorAll(".stage-toggle button").forEach(x => x.classList.remove("active"));
+    b.classList.add("active");
+    stageKey = b.dataset.stage;
+    renderSummary();
+  });
+});
+
+$("#run").addEventListener("click", () => {
+  $("#sim-status").textContent = "simulating 5,000 brackets...";
+  setTimeout(() => {
+    const t0 = performance.now();
+    currentOdds = runSims(5000);
+    const t1 = performance.now();
+    renderSummary();
+    $("#sim-status").textContent =
+      `${Object.keys(pins).length} pinned · ran 5,000 sims in ${Math.round(t1 - t0)}ms`;
+  }, 30);
+});
+
+$("#reset").addEventListener("click", () => {
+  for (const k of Object.keys(pins)) delete pins[k];
+  currentOdds = odds.teams.map(o => ({ ...o }));
+  refreshPinUI();
+  renderSummary();
+  $("#sim-status").textContent = "pins cleared — showing baseline 20k-sim odds";
+});
+
+renderSummary();
+</script>
+
+</body>
+</html>

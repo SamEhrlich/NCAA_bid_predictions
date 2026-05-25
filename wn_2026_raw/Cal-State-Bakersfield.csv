@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Cal State Bakersfield,Southern Indiana,8,7,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,Southern-Indiana,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+02/14/2026,Cal State Bakersfield,Southern Indiana,6,7,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Southern-Indiana,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+02/15/2026,Cal State Bakersfield,Southern Indiana,8,14,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Southern-Indiana,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+02/15/2026,Cal State Bakersfield,Southern Indiana,11,10,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,Southern-Indiana,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+02/18/2026,Cal State Bakersfield,Utah Tech,4,14,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Utah-Tech,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+02/20/2026,Texas A&M-Corpus Christi,Cal State Bakersfield,4,7,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,Texas-AM-Corpus-Christi,1,9,"Corpus Christi, TX / Whataburger Field",2026,WN2026
+02/21/2026,Pittsburgh,Cal State Bakersfield,14,0,0,1,L,Cal State Bakersfield,Cal-State-Bakersfield,Pittsburgh,0,9,"Corpus Christi, TX / Whataburger Field",2026,WN2026
+02/22/2026,Long Beach State,Cal State Bakersfield,2,15,0,1,W,Cal State Bakersfield,Cal-State-Bakersfield,Long-Beach-State,0,8,"Corpus Christi, TX / Whataburger Field",2026,WN2026
+02/24/2026,Cal State Bakersfield,Saint Mary's College,8,10,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Saint-Marys-College,0,12,"Bakersfield, CA / Hardt Field",2026,WN2026
+02/27/2026,Texas Tech,Cal State Bakersfield,17,4,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Texas-Tech,1,7,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+02/28/2026,Texas Tech,Cal State Bakersfield,14,3,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Texas-Tech,1,7,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/01/2026,Texas Tech,Cal State Bakersfield,8,15,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,Texas-Tech,1,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/04/2026,California,Cal State Bakersfield,15,6,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/06/2026,Cal State Bakersfield,Cal State Fullerton,3,5,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Cal-State-Fullerton,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+03/07/2026,Cal State Bakersfield,Cal State Fullerton,9,3,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,Cal-State-Fullerton,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+03/08/2026,Cal State Bakersfield,Cal State Fullerton,7,13,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Cal-State-Fullerton,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+03/13/2026,Cal Poly,Cal State Bakersfield,8,4,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+03/14/2026,Cal Poly,Cal State Bakersfield,6,2,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+03/15/2026,Cal Poly,Cal State Bakersfield,6,3,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+03/18/2026,USC,Cal State Bakersfield,4,3,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/20/2026,Cal State Bakersfield,Long Beach State,3,0,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,Long-Beach-State,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+03/21/2026,Cal State Bakersfield,Long Beach State,12,6,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,Long-Beach-State,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+03/22/2026,Cal State Bakersfield,Long Beach State,1,5,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Long-Beach-State,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+03/27/2026,Cal State Northridge,Cal State Bakersfield,3,11,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,Cal-State-Northridge,1,9,"Northridge, CA / Matador Field",2026,WN2026
+03/28/2026,Cal State Northridge,Cal State Bakersfield,6,8,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,Cal-State-Northridge,1,10,"Northridge, CA / Matador Field",2026,WN2026
+03/29/2026,Cal State Northridge,Cal State Bakersfield,9,5,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Cal-State-Northridge,1,9,"Northridge, CA / Matador Field",2026,WN2026
+03/30/2026,UNLV,Cal State Bakersfield,14,17,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+04/02/2026,Cal State Bakersfield,Utah Valley,4,14,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Utah-Valley,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+04/03/2026,Cal State Bakersfield,Utah Valley,4,5,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Utah-Valley,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+04/04/2026,Cal State Bakersfield,Utah Valley,8,2,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,Utah-Valley,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+04/06/2026,Cal State Bakersfield,Pacific,8,1,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,Pacific,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+04/08/2026,Saint Mary's College,Cal State Bakersfield,14,4,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Saint-Marys-College,1,7,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/09/2026,UC Davis,Cal State Bakersfield,5,0,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,UC-Davis,1,9,"Davis, CA / Dobbins Stadium",2026,WN2026
+04/10/2026,UC Davis,Cal State Bakersfield,5,3,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,UC-Davis,1,10,"Davis, CA / Dobbins Stadium",2026,WN2026
+04/10/2026,UC Davis,Cal State Bakersfield,2,8,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,UC-Davis,1,9,"Davis, CA / Dobbins Stadium",2026,WN2026
+04/14/2026,Fresno State,Cal State Bakersfield,10,6,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/17/2026,Cal State Bakersfield,Hawaii,2,0,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,Hawaii,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+04/18/2026,Cal State Bakersfield,Hawaii,3,5,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Hawaii,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+04/19/2026,Cal State Bakersfield,Hawaii,5,14,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,Hawaii,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+04/24/2026,UC Riverside,Cal State Bakersfield,11,5,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+04/25/2026,UC Riverside,Cal State Bakersfield,0,10,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+04/26/2026,UC Riverside,Cal State Bakersfield,1,14,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+04/28/2026,Pacific,Cal State Bakersfield,4,17,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,Pacific,1,8,"Stockton, CA / Klein Family Field",2026,WN2026
+05/01/2026,Cal State Bakersfield,UC Santa Barbara,1,18,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,UC-Santa-Barbara,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+05/02/2026,Cal State Bakersfield,UC Santa Barbara,3,4,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,UC-Santa-Barbara,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+05/03/2026,Cal State Bakersfield,UC Santa Barbara,9,19,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,UC-Santa-Barbara,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+05/05/2026,Cal State Bakersfield,Fresno State,6,2,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,Fresno-State,0,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+05/08/2026,Cal State Bakersfield,UC San Diego,2,4,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,UC-San-Diego,0,9,"Bakersfield, CA / Hardt Field / Box Score",2026,WN2026
+05/09/2026,Cal State Bakersfield,UC San Diego,10,8,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,UC-San-Diego,0,9,"Bakersfield, CA / Hardt Field / Box Score",2026,WN2026
+05/10/2026,Cal State Bakersfield,UC San Diego,2,15,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,UC-San-Diego,0,9,"Bakersfield, CA / Hardt Field / Box Score",2026,WN2026
+05/14/2026,UC Irvine,Cal State Bakersfield,6,3,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,UC-Irvine,1,9,"Irvine, CA / Cicerone Field at Anteater Ballpark / Box Score",2026,WN2026
+05/15/2026,UC Irvine,Cal State Bakersfield,0,4,0,0,W,Cal State Bakersfield,Cal-State-Bakersfield,UC-Irvine,1,9,"Irvine, CA / Cicerone Field at Anteater Ballpark / Box Score",2026,WN2026
+05/16/2026,UC Irvine,Cal State Bakersfield,10,7,0,0,L,Cal State Bakersfield,Cal-State-Bakersfield,UC-Irvine,1,9,"Irvine, CA / Cicerone Field at Anteater Ballpark / Box Score",2026,WN2026

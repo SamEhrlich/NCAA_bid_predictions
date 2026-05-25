@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,High Point,Saint Joseph's,15,7,0,0,L,Saint Joseph's,Saint-Josephs,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/14/2026,High Point,Saint Joseph's,3,0,0,0,L,Saint Joseph's,Saint-Josephs,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/14/2026,High Point,Saint Joseph's,1,6,0,0,W,Saint Joseph's,Saint-Josephs,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/19/2026,Sacramento State,Saint Joseph's,4,1,0,0,L,Saint Joseph's,Saint-Josephs,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+02/20/2026,Sacramento State,Saint Joseph's,4,5,0,0,W,Saint Joseph's,Saint-Josephs,Sacramento-State,1,12,"Sacramento, CA / John Smith Field",2026,WN2026
+02/21/2026,Sacramento State,Saint Joseph's,4,2,0,0,L,Saint Joseph's,Saint-Josephs,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+02/22/2026,Sacramento State,Saint Joseph's,21,2,0,0,L,Saint Joseph's,Saint-Josephs,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+02/27/2026,Wofford,Saint Joseph's,12,2,0,0,L,Saint Joseph's,Saint-Josephs,Wofford,1,8,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/28/2026,Wofford,Saint Joseph's,10,6,0,0,L,Saint Joseph's,Saint-Josephs,Wofford,1,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/01/2026,Wofford,Saint Joseph's,6,10,0,0,W,Saint Joseph's,Saint-Josephs,Wofford,1,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/06/2026,Bucknell,Saint Joseph's,0,2,0,0,W,Saint Joseph's,Saint-Josephs,Bucknell,1,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+03/07/2026,Bucknell,Saint Joseph's,15,13,0,0,L,Saint Joseph's,Saint-Josephs,Bucknell,1,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+03/08/2026,Saint Joseph's,Bucknell,13,3,0,0,W,Saint Joseph's,Saint-Josephs,Bucknell,0,9,"Merion Station, PA / Smithson Field",2026,WN2026
+03/13/2026,Richmond,Saint Joseph's,9,11,0,0,W,Saint Joseph's,Saint-Josephs,Richmond,1,9,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+03/14/2026,Richmond,Saint Joseph's,3,4,0,0,W,Saint Joseph's,Saint-Josephs,Richmond,1,9,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+03/15/2026,Richmond,Saint Joseph's,1,5,0,0,W,Saint Joseph's,Saint-Josephs,Richmond,1,9,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+03/18/2026,Delaware,Saint Joseph's,18,0,0,0,L,Saint Joseph's,Saint-Josephs,Delaware,1,7,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+03/20/2026,Saint Joseph's,George Washington,7,4,0,0,W,Saint Joseph's,Saint-Josephs,George-Washington,0,9,"Merion Station, PA / Smithson Field",2026,WN2026
+03/21/2026,Saint Joseph's,George Washington,6,5,0,0,W,Saint Joseph's,Saint-Josephs,George-Washington,0,9,"Merion Station, PA / Smithson Field",2026,WN2026
+03/22/2026,Saint Joseph's,George Washington,7,5,0,0,W,Saint Joseph's,Saint-Josephs,George-Washington,0,9,"Merion Station, PA / Smithson Field",2026,WN2026
+03/24/2026,Navy,Saint Joseph's,2,3,0,0,W,Saint Joseph's,Saint-Josephs,Navy,1,10,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/25/2026,Saint Joseph's,Rider,11,10,0,0,W,Saint Joseph's,Saint-Josephs,Rider,0,9,"Merion Station, PA / Smithson Field",2026,WN2026
+03/27/2026,Fordham,Saint Joseph's,0,20,0,0,W,Saint Joseph's,Saint-Josephs,Fordham,1,9,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+03/28/2026,Fordham,Saint Joseph's,0,3,0,0,W,Saint Joseph's,Saint-Josephs,Fordham,1,10,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+03/29/2026,Fordham,Saint Joseph's,7,6,0,0,L,Saint Joseph's,Saint-Josephs,Fordham,1,9,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+03/31/2026,Saint Joseph's,Lehigh,16,10,0,0,W,Saint Joseph's,Saint-Josephs,Lehigh,0,8,"Merion Station, PA / Smithson Field",2026,WN2026
+04/02/2026,Saint Joseph's,Saint Louis,18,4,0,0,W,Saint Joseph's,Saint-Josephs,Saint-Louis,0,9,"Merion Station, PA / Smithson Field",2026,WN2026
+04/03/2026,Saint Joseph's,Saint Louis,5,4,0,0,W,Saint Joseph's,Saint-Josephs,Saint-Louis,0,9,"Merion Station, PA / Smithson Field",2026,WN2026
+04/04/2026,Saint Joseph's,Saint Louis,7,3,0,0,W,Saint Joseph's,Saint-Josephs,Saint-Louis,0,9,"Merion Station, PA / Smithson Field",2026,WN2026
+04/08/2026,Saint Joseph's,Rider,11,10,0,0,W,Saint Joseph's,Saint-Josephs,Rider,0,9,"Merion Station, PA / Smithson Field",2026,WN2026
+04/10/2026,Dayton,Saint Joseph's,3,5,0,0,W,Saint Joseph's,Saint-Josephs,Dayton,1,10,"Dayton, OH / Woerner Field",2026,WN2026
+04/11/2026,Dayton,Saint Joseph's,4,5,0,0,W,Saint Joseph's,Saint-Josephs,Dayton,1,9,"Dayton, OH / Woerner Field",2026,WN2026
+04/12/2026,Dayton,Saint Joseph's,5,18,0,0,W,Saint Joseph's,Saint-Josephs,Dayton,1,9,"Dayton, OH / Woerner Field",2026,WN2026
+04/15/2026,Saint Joseph's,Rutgers,1,11,0,0,L,Saint Joseph's,Saint-Josephs,Rutgers,0,7,"Merion Station, PA / Smithson Field",2026,WN2026
+04/17/2026,Saint Joseph's,George Mason,6,9,0,0,L,Saint Joseph's,Saint-Josephs,George-Mason,0,10,"Merion Station, PA / Smithson Field",2026,WN2026
+04/18/2026,Saint Joseph's,George Mason,17,9,0,0,W,Saint Joseph's,Saint-Josephs,George-Mason,0,9,"Merion Station, PA / Smithson Field",2026,WN2026
+04/18/2026,Saint Joseph's,George Mason,15,6,0,0,W,Saint Joseph's,Saint-Josephs,George-Mason,0,9,"Merion Station, PA / Smithson Field",2026,WN2026
+04/21/2026,Penn,Saint Joseph's,2,8,0,1,W,Saint Joseph's,Saint-Josephs,Penn,0,9,"Philadelphia, PA / Citizens Bank Park",2026,WN2026
+04/22/2026,Saint Joseph's,Delaware,6,15,0,0,L,Saint Joseph's,Saint-Josephs,Delaware,0,9,"Merion Station, PA / Smithson Field",2026,WN2026
+04/24/2026,La Salle,Saint Joseph's,5,6,0,0,W,Saint Joseph's,Saint-Josephs,La-Salle,1,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/24/2026,La Salle,Saint Joseph's,6,15,0,0,W,Saint Joseph's,Saint-Josephs,La-Salle,1,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/26/2026,La Salle,Saint Joseph's,2,12,0,0,W,Saint Joseph's,Saint-Josephs,La-Salle,1,7,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/28/2026,Villanova,Saint Joseph's,8,7,0,0,L,Saint Joseph's,Saint-Josephs,Villanova,1,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+05/01/2026,Saint Joseph's,Saint Bonaventure,11,10,0,0,W,Saint Joseph's,Saint-Josephs,Saint-Bonaventure,0,9,"Merion Station, PA / Smithson Field",2026,WN2026
+05/02/2026,Saint Joseph's,Saint Bonaventure,3,0,0,0,W,Saint Joseph's,Saint-Josephs,Saint-Bonaventure,0,9,"Merion Station, PA / Smithson Field",2026,WN2026
+05/03/2026,Saint Joseph's,Saint Bonaventure,14,9,0,0,W,Saint Joseph's,Saint-Josephs,Saint-Bonaventure,0,9,"Merion Station, PA / Smithson Field",2026,WN2026
+05/08/2026,Saint Joseph's,VCU,6,9,0,0,L,Saint Joseph's,Saint-Josephs,VCU,0,9,"Merion Station, PA / Smithson Field / Box Score",2026,WN2026
+05/08/2026,Saint Joseph's,VCU,6,4,0,0,W,Saint Joseph's,Saint-Josephs,VCU,0,9,"Merion Station, PA / Smithson Field / Box Score",2026,WN2026
+05/10/2026,Saint Joseph's,VCU,5,19,0,0,L,Saint Joseph's,Saint-Josephs,VCU,0,7,"Merion Station, PA / Smithson Field / Box Score",2026,WN2026
+05/14/2026,Rhode Island,Saint Joseph's,9,10,0,0,W,Saint Joseph's,Saint-Josephs,Rhode-Island,1,11,"Kingston, RI / Bill Beck Field / Box Score",2026,WN2026
+05/15/2026,Rhode Island,Saint Joseph's,4,3,0,0,L,Saint Joseph's,Saint-Josephs,Rhode-Island,1,10,"Kingston, RI / Bill Beck Field / Box Score",2026,WN2026
+05/16/2026,Rhode Island,Saint Joseph's,12,14,0,0,W,Saint Joseph's,Saint-Josephs,Rhode-Island,1,9,"Kingston, RI / Bill Beck Field / Box Score",2026,WN2026
+05/21/2026,Rhode Island,Saint Joseph's,17,9,0,1,L,Saint Joseph's,Saint-Josephs,Rhode-Island,0,9,"Tysons, VA / Capital One Park / Recap",2026,WN2026
+05/22/2026,George Mason,Saint Joseph's,4,14,0,1,W,Saint Joseph's,Saint-Josephs,George-Mason,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+05/23/2026,VCU,Saint Joseph's,13,3,0,1,L,Saint Joseph's,Saint-Josephs,VCU,0,9,"Tysons, VA / Capital One Park",2026,WN2026

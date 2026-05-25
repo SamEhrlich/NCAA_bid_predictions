@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Georgia Tech,Bowling Green,11,5,0,0,L,Bowling Green,Bowling-Green,Georgia-Tech,1,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/14/2026,Georgia Tech,Bowling Green,27,4,0,0,L,Bowling Green,Bowling-Green,Georgia-Tech,1,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/14/2026,Georgia Tech,Bowling Green,12,2,0,0,L,Bowling Green,Bowling-Green,Georgia-Tech,1,7,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/20/2026,Western Carolina,Bowling Green,4,3,0,0,L,Bowling Green,Bowling-Green,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+02/21/2026,Western Carolina,Bowling Green,5,6,0,0,W,Bowling Green,Bowling-Green,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+02/21/2026,Western Carolina,Bowling Green,5,0,0,0,L,Bowling Green,Bowling-Green,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+02/25/2026,Cincinnati,Bowling Green,11,1,0,0,L,Bowling Green,Bowling-Green,Cincinnati,1,7,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+02/27/2026,Samford,Bowling Green,1,7,0,0,W,Bowling Green,Bowling-Green,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+02/28/2026,Samford,Bowling Green,7,4,0,0,L,Bowling Green,Bowling-Green,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+03/01/2026,Samford,Bowling Green,11,2,0,0,L,Bowling Green,Bowling-Green,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+03/06/2026,Kent State,Bowling Green,8,1,0,0,L,Bowling Green,Bowling-Green,Kent-State,1,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/07/2026,Kent State,Bowling Green,2,7,0,0,W,Bowling Green,Bowling-Green,Kent-State,1,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/08/2026,Kent State,Bowling Green,13,1,0,0,L,Bowling Green,Bowling-Green,Kent-State,1,7,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/10/2026,Dayton,Bowling Green,5,9,0,0,W,Bowling Green,Bowling-Green,Dayton,1,9,"Dayton, OH / Woerner Field",2026,WN2026
+03/13/2026,Miami (OH),Bowling Green,8,5,0,0,L,Bowling Green,Bowling-Green,Miami-OH,1,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+03/14/2026,Miami (OH),Bowling Green,0,10,0,0,W,Bowling Green,Bowling-Green,Miami-OH,1,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+03/15/2026,Miami (OH),Bowling Green,13,7,0,0,L,Bowling Green,Bowling-Green,Miami-OH,1,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+03/20/2026,Bowling Green,Ohio,7,0,0,0,W,Bowling Green,Bowling-Green,Ohio,0,9,"Bowling Green, OH / Steller Field",2026,WN2026
+03/21/2026,Bowling Green,Ohio,5,8,0,0,L,Bowling Green,Bowling-Green,Ohio,0,9,"Bowling Green, OH / Steller Field",2026,WN2026
+03/22/2026,Bowling Green,Ohio,3,7,0,0,L,Bowling Green,Bowling-Green,Ohio,0,9,"Bowling Green, OH / Steller Field",2026,WN2026
+03/27/2026,Northern Illinois,Bowling Green,4,5,0,0,W,Bowling Green,Bowling-Green,Northern-Illinois,1,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+03/28/2026,Northern Illinois,Bowling Green,5,0,0,0,L,Bowling Green,Bowling-Green,Northern-Illinois,1,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+03/29/2026,Northern Illinois,Bowling Green,12,8,0,0,L,Bowling Green,Bowling-Green,Northern-Illinois,1,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+04/02/2026,Bowling Green,Akron,6,2,0,0,W,Bowling Green,Bowling-Green,Akron,0,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/03/2026,Bowling Green,Akron,9,8,0,0,W,Bowling Green,Bowling-Green,Akron,0,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/03/2026,Bowling Green,Akron,9,6,0,0,W,Bowling Green,Bowling-Green,Akron,0,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/07/2026,Ohio State,Bowling Green,3,9,0,0,W,Bowling Green,Bowling-Green,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/10/2026,Bowling Green,Central Michigan,5,4,0,0,W,Bowling Green,Bowling-Green,Central-Michigan,0,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/11/2026,Bowling Green,Central Michigan,0,5,0,0,L,Bowling Green,Bowling-Green,Central-Michigan,0,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/12/2026,Bowling Green,Central Michigan,13,21,0,0,L,Bowling Green,Bowling-Green,Central-Michigan,0,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/14/2026,Bowling Green,Dayton,6,19,0,0,L,Bowling Green,Bowling-Green,Dayton,0,7,"Bowling Green, OH / Steller Field",2026,WN2026
+04/15/2026,Canisius,Bowling Green,3,9,0,0,W,Bowling Green,Bowling-Green,Canisius,1,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+04/17/2026,UMass,Bowling Green,5,4,0,0,L,Bowling Green,Bowling-Green,UMass,1,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/18/2026,UMass,Bowling Green,6,5,0,0,L,Bowling Green,Bowling-Green,UMass,1,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/18/2026,UMass,Bowling Green,2,1,0,0,L,Bowling Green,Bowling-Green,UMass,1,11,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/22/2026,Michigan,Bowling Green,9,6,0,0,L,Bowling Green,Bowling-Green,Michigan,1,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/24/2026,Bowling Green,Toledo,9,5,0,0,W,Bowling Green,Bowling-Green,Toledo,0,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/25/2026,Bowling Green,Toledo,1,3,0,0,L,Bowling Green,Bowling-Green,Toledo,0,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/26/2026,Bowling Green,Toledo,4,6,0,0,L,Bowling Green,Bowling-Green,Toledo,0,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/28/2026,Butler,Bowling Green,3,0,0,0,L,Bowling Green,Bowling-Green,Butler,1,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+05/01/2026,Eastern Michigan,Bowling Green,6,1,0,0,L,Bowling Green,Bowling-Green,Eastern-Michigan,1,9,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+05/02/2026,Eastern Michigan,Bowling Green,1,2,0,0,W,Bowling Green,Bowling-Green,Eastern-Michigan,1,9,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+05/03/2026,Eastern Michigan,Bowling Green,7,3,0,0,L,Bowling Green,Bowling-Green,Eastern-Michigan,1,9,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+05/05/2026,Michigan State,Bowling Green,12,4,0,0,L,Bowling Green,Bowling-Green,Michigan-State,1,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/08/2026,Bowling Green,Western Michigan,5,2,0,0,W,Bowling Green,Bowling-Green,Western-Michigan,0,9,"Bowling Green, OH / Steller Field / Box Score",2026,WN2026
+05/09/2026,Bowling Green,Western Michigan,1,7,0,0,L,Bowling Green,Bowling-Green,Western-Michigan,0,9,"Bowling Green, OH / Steller Field / Box Score",2026,WN2026
+05/10/2026,Bowling Green,Western Michigan,7,5,0,0,W,Bowling Green,Bowling-Green,Western-Michigan,0,9,"Bowling Green, OH / Steller Field / Box Score",2026,WN2026
+05/12/2026,Toledo,Bowling Green,15,5,0,1,L,Bowling Green,Bowling-Green,Toledo,0,9,"Toledo, OH / Fifth Third Field",2026,WN2026
+05/14/2026,Ball State,Bowling Green,6,3,0,0,L,Bowling Green,Bowling-Green,Ball-State,1,9,"Muncie, IN / Ball Diamond / Box Score",2026,WN2026
+05/15/2026,Ball State,Bowling Green,6,5,0,0,L,Bowling Green,Bowling-Green,Ball-State,1,9,"Muncie, IN / Ball Diamond / Box Score",2026,WN2026
+05/15/2026,Ball State,Bowling Green,10,2,0,0,L,Bowling Green,Bowling-Green,Ball-State,1,9,"Muncie, IN / Ball Diamond / Box Score",2026,WN2026

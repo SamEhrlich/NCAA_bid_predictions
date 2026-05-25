@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Georgia Southern,West Virginia,3,15,0,0,L,Georgia Southern,Georgia-Southern,West-Virginia,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+02/14/2026,Georgia Southern,West Virginia,10,11,0,0,L,Georgia Southern,Georgia-Southern,West-Virginia,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+02/14/2026,Georgia Southern,West Virginia,2,5,0,0,L,Georgia Southern,Georgia-Southern,West-Virginia,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+02/17/2026,Georgia Southern,Georgia Tech,1,25,0,0,L,Georgia Southern,Georgia-Southern,Georgia-Tech,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+02/20/2026,South Florida,Georgia Southern,9,7,0,0,L,Georgia Southern,Georgia-Southern,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/21/2026,South Florida,Georgia Southern,29,4,0,0,L,Georgia Southern,Georgia-Southern,South-Florida,1,7,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/22/2026,South Florida,Georgia Southern,4,3,0,0,L,Georgia Southern,Georgia-Southern,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/24/2026,Georgia Southern,Kennesaw State,5,7,0,0,L,Georgia Southern,Georgia-Southern,Kennesaw-State,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+02/28/2026,Georgia Southern,South Carolina Upstate,4,3,0,0,W,Georgia Southern,Georgia-Southern,South-Carolina-Upstate,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+02/28/2026,Georgia Southern,South Carolina Upstate,2,8,0,0,L,Georgia Southern,Georgia-Southern,South-Carolina-Upstate,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/01/2026,Georgia Southern,South Carolina Upstate,9,8,0,0,W,Georgia Southern,Georgia-Southern,South-Carolina-Upstate,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/04/2026,The Citadel,Georgia Southern,7,1,0,0,L,Georgia Southern,Georgia-Southern,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park",2026,WN2026
+03/06/2026,Georgia Southern,Tennessee Tech,2,5,0,0,L,Georgia Southern,Georgia-Southern,Tennessee-Tech,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/07/2026,Georgia Southern,Tennessee Tech,14,4,0,0,W,Georgia Southern,Georgia-Southern,Tennessee-Tech,0,7,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/08/2026,Georgia Southern,Tennessee Tech,11,6,0,0,W,Georgia Southern,Georgia-Southern,Tennessee-Tech,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/10/2026,Clemson,Georgia Southern,1,6,0,1,W,Georgia Southern,Georgia-Southern,Clemson,0,9,"North Augusta, SC / SRP Park",2026,WN2026
+03/13/2026,James Madison,Georgia Southern,14,6,0,0,L,Georgia Southern,Georgia-Southern,James-Madison,1,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/14/2026,James Madison,Georgia Southern,3,2,0,0,L,Georgia Southern,Georgia-Southern,James-Madison,1,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/15/2026,James Madison,Georgia Southern,12,6,0,0,L,Georgia Southern,Georgia-Southern,James-Madison,1,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/17/2026,Kennesaw State,Georgia Southern,16,6,0,0,L,Georgia Southern,Georgia-Southern,Kennesaw-State,1,7,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/20/2026,Georgia Southern,Marshall,16,17,0,0,L,Georgia Southern,Georgia-Southern,Marshall,0,14,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/21/2026,Georgia Southern,Marshall,5,13,0,0,L,Georgia Southern,Georgia-Southern,Marshall,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/22/2026,Georgia Southern,Marshall,18,12,0,0,W,Georgia Southern,Georgia-Southern,Marshall,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/24/2026,Charleston Southern,Georgia Southern,14,8,0,0,L,Georgia Southern,Georgia-Southern,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+03/25/2026,Charleston,Georgia Southern,2,5,0,0,W,Georgia Southern,Georgia-Southern,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+03/27/2026,Georgia Southern,Troy,4,3,0,0,W,Georgia Southern,Georgia-Southern,Troy,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/28/2026,Georgia Southern,Troy,10,0,0,0,W,Georgia Southern,Georgia-Southern,Troy,0,8,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/29/2026,Georgia Southern,Troy,5,11,0,0,L,Georgia Southern,Georgia-Southern,Troy,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/31/2026,North Florida,Georgia Southern,2,3,0,0,W,Georgia Southern,Georgia-Southern,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/02/2026,Texas State,Georgia Southern,8,5,0,0,L,Georgia Southern,Georgia-Southern,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/03/2026,Texas State,Georgia Southern,15,5,0,0,L,Georgia Southern,Georgia-Southern,Texas-State,1,8,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/03/2026,Texas State,Georgia Southern,8,9,0,0,W,Georgia Southern,Georgia-Southern,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/10/2026,Georgia Southern,South Alabama,5,3,0,0,W,Georgia Southern,Georgia-Southern,South-Alabama,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+04/11/2026,Georgia Southern,South Alabama,5,13,0,0,L,Georgia Southern,Georgia-Southern,South-Alabama,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+04/12/2026,Georgia Southern,South Alabama,12,13,0,0,L,Georgia Southern,Georgia-Southern,South-Alabama,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+04/14/2026,Georgia Tech,Georgia Southern,13,9,0,0,L,Georgia Southern,Georgia-Southern,Georgia-Tech,1,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+04/17/2026,Old Dominion,Georgia Southern,8,3,0,0,L,Georgia Southern,Georgia-Southern,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+04/18/2026,Old Dominion,Georgia Southern,7,6,0,0,L,Georgia Southern,Georgia-Southern,Old-Dominion,1,10,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+04/19/2026,Old Dominion,Georgia Southern,6,3,0,0,L,Georgia Southern,Georgia-Southern,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+04/22/2026,Georgia Southern,The Citadel,3,10,0,0,L,Georgia Southern,Georgia-Southern,The-Citadel,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+04/24/2026,Appalachian State,Georgia Southern,16,3,0,0,L,Georgia Southern,Georgia-Southern,Appalachian-State,1,7,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/25/2026,Appalachian State,Georgia Southern,11,5,0,0,L,Georgia Southern,Georgia-Southern,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/26/2026,Appalachian State,Georgia Southern,7,3,0,0,L,Georgia Southern,Georgia-Southern,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/28/2026,Georgia Southern,Charleston Southern,18,4,0,0,W,Georgia Southern,Georgia-Southern,Charleston-Southern,0,7,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+04/29/2026,Mercer,Georgia Southern,10,9,0,0,L,Georgia Southern,Georgia-Southern,Mercer,1,9,"Macon, GA / Claude Smith Field",2026,WN2026
+05/01/2026,Georgia Southern,Coastal Carolina,7,8,0,0,L,Georgia Southern,Georgia-Southern,Coastal-Carolina,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+05/03/2026,Georgia Southern,Coastal Carolina,4,14,0,0,L,Georgia Southern,Georgia-Southern,Coastal-Carolina,0,7,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+05/03/2026,Georgia Southern,Coastal Carolina,7,4,0,0,W,Georgia Southern,Georgia-Southern,Coastal-Carolina,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+05/06/2026,Georgia Southern,Mercer,7,10,0,0,L,Georgia Southern,Georgia-Southern,Mercer,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+05/08/2026,Georgia Southern,Georgia State,1,5,0,0,L,Georgia Southern,Georgia-Southern,Georgia-State,0,9,"Statesboro, GA / J. I. Clements Stadium / Box Score",2026,WN2026
+05/08/2026,Georgia Southern,Georgia State,5,10,0,0,L,Georgia Southern,Georgia-Southern,Georgia-State,0,9,"Statesboro, GA / J. I. Clements Stadium / Box Score",2026,WN2026
+05/09/2026,Georgia Southern,Georgia State,6,5,0,0,W,Georgia Southern,Georgia-Southern,Georgia-State,0,9,"Statesboro, GA / J. I. Clements Stadium / Box Score",2026,WN2026
+05/12/2026,Georgia Southern,Charleston,9,5,0,0,W,Georgia Southern,Georgia-Southern,Charleston,0,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+05/14/2026,Southern Miss,Georgia Southern,14,3,0,0,L,Georgia Southern,Georgia-Southern,Southern-Miss,1,7,"Hattiesburg, MS / Pete Taylor Park / Box Score",2026,WN2026
+05/15/2026,Southern Miss,Georgia Southern,10,1,0,0,L,Georgia Southern,Georgia-Southern,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park / Box Score",2026,WN2026
+05/16/2026,Southern Miss,Georgia Southern,11,0,0,0,L,Georgia Southern,Georgia-Southern,Southern-Miss,1,8,"Hattiesburg, MS / Pete Taylor Park / Box Score",2026,WN2026

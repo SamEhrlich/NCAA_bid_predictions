@@ -1,0 +1,62 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Mercer,Troy,4,3,0,0,L,Troy,Troy,Mercer,1,9,"Macon, GA / Claude Smith Field",2026,WN2026
+02/14/2026,Mercer,Troy,17,5,0,0,L,Troy,Troy,Mercer,1,7,"Macon, GA / Claude Smith Field",2026,WN2026
+02/14/2026,Mercer,Troy,3,19,0,0,W,Troy,Troy,Mercer,1,7,"Macon, GA / Claude Smith Field",2026,WN2026
+02/17/2026,Mississippi State,Troy,13,7,0,0,L,Troy,Troy,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+02/20/2026,Troy,Campbell,13,3,0,0,W,Troy,Troy,Campbell,0,8,"Troy, AL / Riddle-Pace Field",2026,WN2026
+02/22/2026,Troy,Campbell,1,13,0,0,L,Troy,Troy,Campbell,0,8,"Troy, AL / Riddle-Pace Field",2026,WN2026
+02/22/2026,Troy,Campbell,8,4,0,0,W,Troy,Troy,Campbell,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+02/25/2026,Georgia,Troy,5,6,0,0,W,Troy,Troy,Georgia,1,12,"Athens, GA / Foley Field",2026,WN2026
+02/27/2026,Western Carolina,Troy,4,3,0,1,L,Troy,Troy,Western-Carolina,0,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+02/28/2026,East Carolina,Troy,5,2,0,0,L,Troy,Troy,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+03/01/2026,Rutgers,Troy,1,2,0,1,W,Troy,Troy,Rutgers,0,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+03/04/2026,Vanderbilt,Troy,4,1,0,0,L,Troy,Troy,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/06/2026,Troy,Maryland,5,2,0,0,W,Troy,Troy,Maryland,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+03/07/2026,Troy,Maryland,3,9,0,0,L,Troy,Troy,Maryland,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+03/08/2026,Troy,Maryland,6,7,0,0,L,Troy,Troy,Maryland,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+03/10/2026,Alabama,Troy,7,3,0,0,L,Troy,Troy,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/13/2026,Troy,Old Dominion,8,10,0,0,L,Troy,Troy,Old-Dominion,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+03/14/2026,Troy,Old Dominion,13,4,0,0,W,Troy,Troy,Old-Dominion,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+03/15/2026,Troy,Old Dominion,9,4,0,0,W,Troy,Troy,Old-Dominion,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+03/17/2026,Alabama State,Troy,2,11,0,0,W,Troy,Troy,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/20/2026,Southern Miss,Troy,5,6,0,0,W,Troy,Troy,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+03/21/2026,Southern Miss,Troy,11,5,0,0,L,Troy,Troy,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+03/22/2026,Southern Miss,Troy,5,4,0,0,L,Troy,Troy,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+03/24/2026,Troy,Samford,2,7,0,0,L,Troy,Troy,Samford,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+03/25/2026,Florida A&M,Troy,4,7,0,0,W,Troy,Troy,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/27/2026,Georgia Southern,Troy,4,3,0,0,L,Troy,Troy,Georgia-Southern,1,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/28/2026,Georgia Southern,Troy,10,0,0,0,L,Troy,Troy,Georgia-Southern,1,8,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/29/2026,Georgia Southern,Troy,5,11,0,0,W,Troy,Troy,Georgia-Southern,1,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/31/2026,Troy,Alabama State,14,2,0,0,W,Troy,Troy,Alabama-State,0,7,"Troy, AL / Riddle-Pace Field",2026,WN2026
+04/02/2026,Troy,Arkansas State,6,4,0,0,W,Troy,Troy,Arkansas-State,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+04/03/2026,Troy,Arkansas State,4,6,0,0,L,Troy,Troy,Arkansas-State,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+04/04/2026,Troy,Arkansas State,6,4,0,0,W,Troy,Troy,Arkansas-State,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+04/08/2026,Troy,Florida A&M,12,2,0,0,W,Troy,Troy,Florida-AM,0,7,"Troy, AL / Riddle-Pace Field",2026,WN2026
+04/10/2026,Texas State,Troy,8,5,0,0,L,Troy,Troy,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/11/2026,Texas State,Troy,2,15,0,0,W,Troy,Troy,Texas-State,1,7,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/11/2026,Texas State,Troy,11,12,0,0,W,Troy,Troy,Texas-State,1,11,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/14/2026,New Orleans,Troy,11,10,0,0,L,Troy,Troy,New-Orleans,1,10,"New Orleans, LA / Maestri Field",2026,WN2026
+04/17/2026,Troy,Louisiana,7,6,0,0,W,Troy,Troy,Louisiana,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+04/18/2026,Troy,Louisiana,6,7,0,0,L,Troy,Troy,Louisiana,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+04/19/2026,Troy,Louisiana,15,11,0,0,W,Troy,Troy,Louisiana,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+04/21/2026,Troy,Jacksonville State,4,5,0,0,L,Troy,Troy,Jacksonville-State,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+04/24/2026,Marshall,Troy,7,4,0,0,L,Troy,Troy,Marshall,1,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+04/25/2026,Marshall,Troy,2,8,0,0,W,Troy,Troy,Marshall,1,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+04/26/2026,Marshall,Troy,0,1,0,0,W,Troy,Troy,Marshall,1,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+04/28/2026,Georgia,Troy,11,1,0,0,L,Troy,Troy,Georgia,1,7,"Athens, GA / Foley Field",2026,WN2026
+05/02/2026,Troy,Appalachian State,7,13,0,0,L,Troy,Troy,Appalachian-State,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+05/02/2026,Troy,Appalachian State,0,5,0,0,L,Troy,Troy,Appalachian-State,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+05/03/2026,Troy,Appalachian State,10,3,0,0,W,Troy,Troy,Appalachian-State,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+05/05/2026,Troy,Alabama,6,1,0,0,W,Troy,Troy,Alabama,0,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+05/08/2026,Troy,South Alabama,1,12,0,0,L,Troy,Troy,South-Alabama,0,7,"Troy, AL / Riddle-Pace Field / Box Score",2026,WN2026
+05/09/2026,Troy,South Alabama,10,5,0,0,W,Troy,Troy,South-Alabama,0,9,"Troy, AL / Riddle-Pace Field / Box Score",2026,WN2026
+05/10/2026,Troy,South Alabama,8,1,0,0,W,Troy,Troy,South-Alabama,0,9,"Troy, AL / Riddle-Pace Field / Box Score",2026,WN2026
+05/12/2026,UAB,Troy,5,14,0,0,W,Troy,Troy,UAB,1,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+05/14/2026,ULM,Troy,4,6,0,0,W,Troy,Troy,ULM,1,9,"Monroe, LA / Lou St. Amant Field / Box Score",2026,WN2026
+05/15/2026,ULM,Troy,12,2,0,0,L,Troy,Troy,ULM,1,7,"Monroe, LA / Lou St. Amant Field / Box Score",2026,WN2026
+05/16/2026,ULM,Troy,3,13,0,0,W,Troy,Troy,ULM,1,7,"Monroe, LA / Lou St. Amant Field / Box Score",2026,WN2026
+05/21/2026,South Alabama,Troy,3,11,0,1,W,Troy,Troy,South-Alabama,0,9,"Montgomery, AL / Dabos Park / Box Score / Recap",2026,WN2026
+05/22/2026,Southern Miss,Troy,7,6,0,1,L,Troy,Troy,Southern-Miss,0,9,"Montgomery, AL / Dabos Park",2026,WN2026
+05/23/2026,South Alabama,Troy,10,11,0,1,W,Troy,Troy,South-Alabama,0,9,"Montgomery, AL / Dabos Park",2026,WN2026
+05/23/2026,Southern Miss,Troy,6,9,0,1,W,Troy,Troy,Southern-Miss,0,9,"Montgomery, AL / Dabos Park",2026,WN2026
+05/24/2026,Southern Miss,Troy,6,2,0,1,L,Troy,Troy,Southern-Miss,0,9,"Montgomery, AL / Dabos Park",2026,WN2026

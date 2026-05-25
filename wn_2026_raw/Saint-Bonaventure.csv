@@ -1,0 +1,50 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UNC Asheville,Saint Bonaventure,8,0,0,0,L,Saint Bonaventure,Saint-Bonaventure,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+02/13/2026,UNC Asheville,Saint Bonaventure,7,11,0,0,W,Saint Bonaventure,Saint-Bonaventure,UNC-Asheville,1,7,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+02/14/2026,UNC Asheville,Saint Bonaventure,5,10,0,0,W,Saint Bonaventure,Saint-Bonaventure,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+02/14/2026,UNC Asheville,Saint Bonaventure,9,1,0,0,L,Saint Bonaventure,Saint-Bonaventure,UNC-Asheville,1,7,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+02/20/2026,Middle Tennessee,Saint Bonaventure,2,1,0,0,L,Saint Bonaventure,Saint-Bonaventure,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/21/2026,Middle Tennessee,Saint Bonaventure,5,6,0,0,W,Saint Bonaventure,Saint-Bonaventure,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/22/2026,Middle Tennessee,Saint Bonaventure,7,0,0,0,L,Saint Bonaventure,Saint-Bonaventure,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/27/2026,Navy,Saint Bonaventure,5,4,0,0,L,Saint Bonaventure,Saint-Bonaventure,Navy,1,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+02/28/2026,Navy,Saint Bonaventure,0,12,0,0,W,Saint Bonaventure,Saint-Bonaventure,Navy,1,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/01/2026,Navy,Saint Bonaventure,4,0,0,0,L,Saint Bonaventure,Saint-Bonaventure,Navy,1,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/04/2026,Kent State,Saint Bonaventure,14,9,0,0,L,Saint Bonaventure,Saint-Bonaventure,Kent-State,1,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/06/2026,Marshall,Saint Bonaventure,5,4,0,0,L,Saint Bonaventure,Saint-Bonaventure,Marshall,1,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/07/2026,Marshall,Saint Bonaventure,11,1,0,0,L,Saint Bonaventure,Saint-Bonaventure,Marshall,1,8,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/08/2026,Marshall,Saint Bonaventure,25,2,0,0,L,Saint Bonaventure,Saint-Bonaventure,Marshall,1,7,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/10/2026,Binghamton,Saint Bonaventure,15,9,0,0,L,Saint Bonaventure,Saint-Bonaventure,Binghamton,1,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+03/13/2026,George Mason,Saint Bonaventure,4,3,0,0,L,Saint Bonaventure,Saint-Bonaventure,George-Mason,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/14/2026,George Mason,Saint Bonaventure,15,11,0,0,L,Saint Bonaventure,Saint-Bonaventure,George-Mason,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/15/2026,George Mason,Saint Bonaventure,3,0,0,0,L,Saint Bonaventure,Saint-Bonaventure,George-Mason,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/20/2026,Saint Bonaventure,Saint Louis,5,7,0,0,L,Saint Bonaventure,Saint-Bonaventure,Saint-Louis,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/21/2026,Saint Bonaventure,Saint Louis,3,6,0,0,L,Saint Bonaventure,Saint-Bonaventure,Saint-Louis,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/22/2026,Saint Bonaventure,Saint Louis,14,3,0,0,W,Saint Bonaventure,Saint-Bonaventure,Saint-Louis,0,7,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/24/2026,Penn State,Saint Bonaventure,8,6,0,0,L,Saint Bonaventure,Saint-Bonaventure,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/27/2026,VCU,Saint Bonaventure,4,2,0,0,L,Saint Bonaventure,Saint-Bonaventure,VCU,1,9,"Richmond, VA / The Diamond",2026,WN2026
+03/28/2026,VCU,Saint Bonaventure,13,3,0,0,L,Saint Bonaventure,Saint-Bonaventure,VCU,1,9,"Richmond, VA / The Diamond",2026,WN2026
+03/29/2026,VCU,Saint Bonaventure,6,5,0,0,L,Saint Bonaventure,Saint-Bonaventure,VCU,1,9,"Richmond, VA / The Diamond",2026,WN2026
+03/31/2026,Saint Bonaventure,Binghamton,7,3,0,0,W,Saint Bonaventure,Saint-Bonaventure,Binghamton,0,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/02/2026,Saint Bonaventure,George Washington,11,0,0,0,W,Saint Bonaventure,Saint-Bonaventure,George-Washington,0,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/03/2026,Saint Bonaventure,George Washington,3,4,0,0,L,Saint Bonaventure,Saint-Bonaventure,George-Washington,0,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/04/2026,Saint Bonaventure,George Washington,5,3,0,0,W,Saint Bonaventure,Saint-Bonaventure,George-Washington,0,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/08/2026,Saint Bonaventure,Canisius,11,2,0,0,W,Saint Bonaventure,Saint-Bonaventure,Canisius,0,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/10/2026,Davidson,Saint Bonaventure,6,5,0,0,L,Saint Bonaventure,Saint-Bonaventure,Davidson,1,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+04/11/2026,Davidson,Saint Bonaventure,19,9,0,0,L,Saint Bonaventure,Saint-Bonaventure,Davidson,1,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+04/12/2026,Davidson,Saint Bonaventure,12,11,0,0,L,Saint Bonaventure,Saint-Bonaventure,Davidson,1,10,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+04/17/2026,Saint Bonaventure,Rhode Island,7,4,0,0,W,Saint Bonaventure,Saint-Bonaventure,Rhode-Island,0,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/17/2026,Saint Bonaventure,Rhode Island,15,13,0,0,W,Saint Bonaventure,Saint-Bonaventure,Rhode-Island,0,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/18/2026,Saint Bonaventure,Rhode Island,5,4,0,0,W,Saint Bonaventure,Saint-Bonaventure,Rhode-Island,0,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/24/2026,Saint Bonaventure,Dayton,3,6,0,0,L,Saint Bonaventure,Saint-Bonaventure,Dayton,0,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/26/2026,Saint Bonaventure,Dayton,0,8,0,0,L,Saint Bonaventure,Saint-Bonaventure,Dayton,0,7,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/26/2026,Saint Bonaventure,Dayton,6,7,0,0,L,Saint Bonaventure,Saint-Bonaventure,Dayton,0,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/28/2026,Saint Bonaventure,Niagara,6,7,0,0,L,Saint Bonaventure,Saint-Bonaventure,Niagara,0,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+05/01/2026,Saint Joseph's,Saint Bonaventure,11,10,0,0,L,Saint Bonaventure,Saint-Bonaventure,Saint-Josephs,1,9,"Merion Station, PA / Smithson Field",2026,WN2026
+05/02/2026,Saint Joseph's,Saint Bonaventure,3,0,0,0,L,Saint Bonaventure,Saint-Bonaventure,Saint-Josephs,1,9,"Merion Station, PA / Smithson Field",2026,WN2026
+05/03/2026,Saint Joseph's,Saint Bonaventure,14,9,0,0,L,Saint Bonaventure,Saint-Bonaventure,Saint-Josephs,1,9,"Merion Station, PA / Smithson Field",2026,WN2026
+05/08/2026,La Salle,Saint Bonaventure,11,8,0,0,L,Saint Bonaventure,Saint-Bonaventure,La-Salle,1,9,"Philadelphia, PA / DeVincent Field / Box Score",2026,WN2026
+05/08/2026,La Salle,Saint Bonaventure,18,9,0,0,L,Saint Bonaventure,Saint-Bonaventure,La-Salle,1,9,"Philadelphia, PA / DeVincent Field / Box Score",2026,WN2026
+05/10/2026,La Salle,Saint Bonaventure,10,8,0,0,L,Saint Bonaventure,Saint-Bonaventure,La-Salle,1,9,"Philadelphia, PA / DeVincent Field / Box Score",2026,WN2026
+05/14/2026,Saint Bonaventure,Fordham,8,5,0,0,W,Saint Bonaventure,Saint-Bonaventure,Fordham,0,9,"St. Bonaventure, NY / Fred Handler Park / Box Score",2026,WN2026
+05/15/2026,Saint Bonaventure,Fordham,2,21,0,0,L,Saint Bonaventure,Saint-Bonaventure,Fordham,0,9,"St. Bonaventure, NY / Fred Handler Park / Box Score",2026,WN2026
+05/16/2026,Saint Bonaventure,Fordham,10,12,0,0,L,Saint Bonaventure,Saint-Bonaventure,Fordham,0,9,"St. Bonaventure, NY / Fred Handler Park / Box Score",2026,WN2026

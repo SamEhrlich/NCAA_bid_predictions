@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,North Carolina,Indiana,9,4,0,0,W,North Carolina,North-Carolina,Indiana,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+02/14/2026,North Carolina,Indiana,12,2,0,0,W,North Carolina,North-Carolina,Indiana,0,7,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+02/14/2026,North Carolina,Indiana,4,3,0,0,W,North Carolina,North-Carolina,Indiana,0,11,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+02/17/2026,North Carolina,Richmond,10,0,0,0,W,North Carolina,North-Carolina,Richmond,0,7,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+02/18/2026,North Carolina,Longwood,5,3,0,0,W,North Carolina,North-Carolina,Longwood,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+02/20/2026,East Carolina,North Carolina,0,10,0,0,W,North Carolina,North-Carolina,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+02/21/2026,East Carolina,North Carolina,10,3,0,1,L,North Carolina,North-Carolina,East-Carolina,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/24/2026,North Carolina,North Carolina A&T,9,1,0,0,W,North Carolina,North-Carolina,North-Carolina-AT,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+02/25/2026,North Carolina,VCU,13,3,0,0,W,North Carolina,North-Carolina,VCU,0,7,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+02/27/2026,North Carolina,Le Moyne,16,3,0,0,W,North Carolina,North-Carolina,Le-Moyne,0,7,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+02/28/2026,North Carolina,Le Moyne,12,2,0,0,W,North Carolina,North-Carolina,Le-Moyne,0,7,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/01/2026,North Carolina,Le Moyne,21,1,0,0,W,North Carolina,North-Carolina,Le-Moyne,0,7,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/03/2026,North Carolina,Elon,5,1,0,0,W,North Carolina,North-Carolina,Elon,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/06/2026,North Carolina,Virginia,3,13,0,0,L,North Carolina,North-Carolina,Virginia,0,7,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/07/2026,North Carolina,Virginia,2,9,0,0,L,North Carolina,North-Carolina,Virginia,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/07/2026,North Carolina,Virginia,8,7,0,0,W,North Carolina,North-Carolina,Virginia,0,12,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/10/2026,North Carolina,Bucknell,13,3,0,0,W,North Carolina,North-Carolina,Bucknell,0,7,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/13/2026,California,North Carolina,1,8,0,0,W,North Carolina,North-Carolina,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/14/2026,California,North Carolina,2,6,0,0,W,North Carolina,North-Carolina,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/15/2026,California,North Carolina,2,10,0,0,W,North Carolina,North-Carolina,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/18/2026,North Carolina,UNCG,8,2,0,0,W,North Carolina,North-Carolina,UNCG,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/20/2026,North Carolina,Louisville,11,1,0,0,W,North Carolina,North-Carolina,Louisville,0,8,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/21/2026,North Carolina,Louisville,0,2,0,0,L,North Carolina,North-Carolina,Louisville,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/22/2026,North Carolina,Louisville,7,6,0,0,W,North Carolina,North-Carolina,Louisville,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/24/2026,South Carolina,North Carolina,1,9,0,1,W,North Carolina,North-Carolina,South-Carolina,0,9,"Charlotte, NC / Truist Field",2026,WN2026
+03/28/2026,Notre Dame,North Carolina,5,6,0,0,W,North Carolina,North-Carolina,Notre-Dame,1,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+03/28/2026,Notre Dame,North Carolina,7,13,0,0,W,North Carolina,North-Carolina,Notre-Dame,1,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+03/29/2026,Notre Dame,North Carolina,10,15,0,0,W,North Carolina,North-Carolina,Notre-Dame,1,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+03/31/2026,North Carolina,Campbell,5,4,0,0,W,North Carolina,North-Carolina,Campbell,0,14,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/02/2026,North Carolina,Boston College,1,6,0,0,L,North Carolina,North-Carolina,Boston-College,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/03/2026,North Carolina,Boston College,5,2,0,0,W,North Carolina,North-Carolina,Boston-College,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/04/2026,North Carolina,Boston College,8,7,0,0,W,North Carolina,North-Carolina,Boston-College,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/07/2026,North Carolina,Charlotte,8,4,0,0,W,North Carolina,North-Carolina,Charlotte,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/10/2026,Clemson,North Carolina,9,5,0,0,L,North Carolina,North-Carolina,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+04/11/2026,Clemson,North Carolina,4,6,0,0,W,North Carolina,North-Carolina,Clemson,1,14,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+04/12/2026,Clemson,North Carolina,5,12,0,0,W,North Carolina,North-Carolina,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+04/14/2026,North Carolina,UNCW,14,5,0,0,W,North Carolina,North-Carolina,UNCW,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/17/2026,North Carolina,Georgia Tech,5,2,0,0,W,North Carolina,North-Carolina,Georgia-Tech,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/18/2026,North Carolina,Georgia Tech,14,4,0,0,W,North Carolina,North-Carolina,Georgia-Tech,0,8,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/19/2026,North Carolina,Georgia Tech,2,5,0,0,L,North Carolina,North-Carolina,Georgia-Tech,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/21/2026,North Carolina,High Point,9,2,0,0,W,North Carolina,North-Carolina,High-Point,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/23/2026,Duke,North Carolina,1,3,0,0,W,North Carolina,North-Carolina,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+04/24/2026,Duke,North Carolina,3,1,0,0,L,North Carolina,North-Carolina,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+04/25/2026,Duke,North Carolina,5,22,0,0,W,North Carolina,North-Carolina,Duke,1,7,"Durham, NC / Jack Coombs Field",2026,WN2026
+04/28/2026,North Carolina,Coastal Carolina,2,12,0,0,L,North Carolina,North-Carolina,Coastal-Carolina,0,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+05/03/2026,North Carolina,Duke,13,0,0,0,W,North Carolina,North-Carolina,Duke,0,7,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+05/08/2026,North Carolina,Pittsburgh,4,1,0,0,W,North Carolina,North-Carolina,Pittsburgh,0,9,"Chapel Hill, NC / Boshamer Stadium / Box Score",2026,WN2026
+05/09/2026,North Carolina,Pittsburgh,12,2,0,0,W,North Carolina,North-Carolina,Pittsburgh,0,8,"Chapel Hill, NC / Boshamer Stadium / Box Score",2026,WN2026
+05/10/2026,North Carolina,Pittsburgh,7,3,0,0,W,North Carolina,North-Carolina,Pittsburgh,0,9,"Chapel Hill, NC / Boshamer Stadium / Box Score",2026,WN2026
+05/12/2026,UNCW,North Carolina,7,13,0,0,W,North Carolina,North-Carolina,UNCW,1,9,"Wilmington, NC / Brooks Field",2026,WN2026
+05/14/2026,North Carolina State,North Carolina,4,9,0,0,W,North Carolina,North-Carolina,North-Carolina-State,1,9,"Raleigh, NC / Doak Field / Box Score",2026,WN2026
+05/15/2026,North Carolina State,North Carolina,7,17,0,0,W,North Carolina,North-Carolina,North-Carolina-State,1,7,"Raleigh, NC / Doak Field / Box Score",2026,WN2026
+05/16/2026,North Carolina State,North Carolina,7,2,0,0,L,North Carolina,North-Carolina,North-Carolina-State,1,9,"Raleigh, NC / Doak Field / Box Score",2026,WN2026
+05/22/2026,Virginia Tech,North Carolina,4,10,0,1,W,North Carolina,North-Carolina,Virginia-Tech,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026
+05/23/2026,Pittsburgh,North Carolina,5,13,0,1,W,North Carolina,North-Carolina,Pittsburgh,0,9,"Charlotte, NC / Truist Field",2026,WN2026
+05/24/2026,Georgia Tech,North Carolina,13,6,0,1,L,North Carolina,North-Carolina,Georgia-Tech,0,9,"Durham, NC / Durham Bulls Athletic Park",2026,WN2026

@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Bethune-Cookman,Bradley,2,1,0,0,W,Bethune-Cookman,Bethune-Cookman,Bradley,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+02/14/2026,Bethune-Cookman,Bradley,17,6,0,0,W,Bethune-Cookman,Bethune-Cookman,Bradley,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+02/15/2026,Bethune-Cookman,Bradley,6,7,0,0,L,Bethune-Cookman,Bethune-Cookman,Bradley,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+02/17/2026,Bethune-Cookman,FIU,5,12,0,0,L,Bethune-Cookman,Bethune-Cookman,FIU,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+02/20/2026,Bethune-Cookman,Yale,7,5,0,0,W,Bethune-Cookman,Bethune-Cookman,Yale,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+02/21/2026,Florida A&M,Bethune-Cookman,2,6,0,1,W,Bethune-Cookman,Bethune-Cookman,Florida-AM,0,9,"Vero Beach, FL / Jackie Robinson Training Complex",2026,WN2026
+02/22/2026,Bethune-Cookman,Yale,3,8,0,0,L,Bethune-Cookman,Bethune-Cookman,Yale,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+02/24/2026,Bethune-Cookman,South Florida,4,3,0,0,W,Bethune-Cookman,Bethune-Cookman,South-Florida,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+02/28/2026,Bethune-Cookman,Delaware State,14,7,0,0,W,Bethune-Cookman,Bethune-Cookman,Delaware-State,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+02/28/2026,Bethune-Cookman,Delaware State,15,0,0,0,W,Bethune-Cookman,Bethune-Cookman,Delaware-State,0,7,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/01/2026,Bethune-Cookman,Delaware State,14,8,0,0,W,Bethune-Cookman,Bethune-Cookman,Delaware-State,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/01/2026,Bethune-Cookman,Delaware State,14,0,0,0,W,Bethune-Cookman,Bethune-Cookman,Delaware-State,0,7,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/04/2026,Miami (FL),Bethune-Cookman,5,2,0,0,L,Bethune-Cookman,Bethune-Cookman,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/06/2026,Bethune-Cookman,FGCU,5,11,0,0,L,Bethune-Cookman,Bethune-Cookman,FGCU,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/07/2026,Bethune-Cookman,FGCU,5,13,0,0,L,Bethune-Cookman,Bethune-Cookman,FGCU,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/08/2026,Bethune-Cookman,FGCU,9,8,0,0,W,Bethune-Cookman,Bethune-Cookman,FGCU,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/10/2026,North Florida,Bethune-Cookman,4,7,0,0,W,Bethune-Cookman,Bethune-Cookman,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+03/13/2026,Bethune-Cookman,Prairie View A&M,6,1,0,0,W,Bethune-Cookman,Bethune-Cookman,Prairie-View-AM,0,9,"Daytona, FL / Jackie Robinson Training Complex",2026,WN2026
+03/14/2026,Bethune-Cookman,Prairie View A&M,6,3,0,0,W,Bethune-Cookman,Bethune-Cookman,Prairie-View-AM,0,9,"Daytona, FL / Jackie Robinson Training Complex",2026,WN2026
+03/14/2026,Bethune-Cookman,Prairie View A&M,10,5,0,0,W,Bethune-Cookman,Bethune-Cookman,Prairie-View-AM,0,9,"Daytona, FL / Jackie Robinson Training Complex",2026,WN2026
+03/17/2026,Florida State,Bethune-Cookman,12,1,0,0,L,Bethune-Cookman,Bethune-Cookman,Florida-State,1,7,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/20/2026,Alcorn State,Bethune-Cookman,1,11,0,0,W,Bethune-Cookman,Bethune-Cookman,Alcorn-State,1,7,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+03/21/2026,Alcorn State,Bethune-Cookman,2,12,0,0,W,Bethune-Cookman,Bethune-Cookman,Alcorn-State,1,8,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+03/21/2026,Alcorn State,Bethune-Cookman,2,12,0,0,W,Bethune-Cookman,Bethune-Cookman,Alcorn-State,1,8,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+03/24/2026,Jacksonville,Bethune-Cookman,4,3,0,0,L,Bethune-Cookman,Bethune-Cookman,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/27/2026,Bethune-Cookman,Jackson State,7,8,0,0,L,Bethune-Cookman,Bethune-Cookman,Jackson-State,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/28/2026,Bethune-Cookman,Jackson State,13,2,0,0,W,Bethune-Cookman,Bethune-Cookman,Jackson-State,0,7,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/29/2026,Bethune-Cookman,Jackson State,5,4,0,0,W,Bethune-Cookman,Bethune-Cookman,Jackson-State,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/31/2026,South Florida,Bethune-Cookman,5,6,0,0,W,Bethune-Cookman,Bethune-Cookman,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+04/03/2026,Southern,Bethune-Cookman,7,3,0,0,L,Bethune-Cookman,Bethune-Cookman,Southern,1,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+04/04/2026,Southern,Bethune-Cookman,3,6,0,0,W,Bethune-Cookman,Bethune-Cookman,Southern,1,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+04/04/2026,Southern,Bethune-Cookman,7,12,0,0,W,Bethune-Cookman,Bethune-Cookman,Southern,1,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+04/07/2026,LSU,Bethune-Cookman,7,10,0,0,W,Bethune-Cookman,Bethune-Cookman,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+04/10/2026,Mississippi Valley State,Bethune-Cookman,8,6,0,0,L,Bethune-Cookman,Bethune-Cookman,Mississippi-Valley-State,1,9,"Itta Bena, MS / Magnolia Field",2026,WN2026
+04/11/2026,Mississippi Valley State,Bethune-Cookman,2,13,0,0,W,Bethune-Cookman,Bethune-Cookman,Mississippi-Valley-State,1,7,"Itta Bena, MS / Magnolia Field",2026,WN2026
+04/11/2026,Mississippi Valley State,Bethune-Cookman,0,15,0,0,W,Bethune-Cookman,Bethune-Cookman,Mississippi-Valley-State,1,7,"Itta Bena, MS / Magnolia Field",2026,WN2026
+04/14/2026,Florida,Bethune-Cookman,7,13,0,0,W,Bethune-Cookman,Bethune-Cookman,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/17/2026,Bethune-Cookman,Alabama A&M,15,4,0,0,W,Bethune-Cookman,Bethune-Cookman,Alabama-AM,0,7,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+04/18/2026,Bethune-Cookman,Alabama A&M,15,5,0,0,W,Bethune-Cookman,Bethune-Cookman,Alabama-AM,0,7,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+04/19/2026,Bethune-Cookman,Alabama A&M,13,3,0,0,W,Bethune-Cookman,Bethune-Cookman,Alabama-AM,0,7,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+04/21/2026,Bethune-Cookman,UCF,4,5,0,0,L,Bethune-Cookman,Bethune-Cookman,UCF,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+04/24/2026,Florida A&M,Bethune-Cookman,3,4,0,0,W,Bethune-Cookman,Bethune-Cookman,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+04/25/2026,Florida A&M,Bethune-Cookman,4,10,0,0,W,Bethune-Cookman,Bethune-Cookman,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+04/26/2026,Florida A&M,Bethune-Cookman,15,13,0,0,L,Bethune-Cookman,Bethune-Cookman,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+04/28/2026,FIU,Bethune-Cookman,8,6,0,0,L,Bethune-Cookman,Bethune-Cookman,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+05/01/2026,Bethune-Cookman,Arkansas-Pine Bluff,16,9,0,0,W,Bethune-Cookman,Bethune-Cookman,Arkansas-Pine-Bluff,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+05/01/2026,Bethune-Cookman,Arkansas-Pine Bluff,6,4,0,0,W,Bethune-Cookman,Bethune-Cookman,Arkansas-Pine-Bluff,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+05/03/2026,Bethune-Cookman,Arkansas-Pine Bluff,6,10,0,0,L,Bethune-Cookman,Bethune-Cookman,Arkansas-Pine-Bluff,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+05/05/2026,Stetson,Bethune-Cookman,15,2,0,0,L,Bethune-Cookman,Bethune-Cookman,Stetson,1,7,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+05/08/2026,Alabama State,Bethune-Cookman,1,6,0,0,W,Bethune-Cookman,Bethune-Cookman,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex / Box Score",2026,WN2026
+05/09/2026,Alabama State,Bethune-Cookman,3,7,0,0,W,Bethune-Cookman,Bethune-Cookman,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex / Box Score",2026,WN2026
+05/10/2026,Alabama State,Bethune-Cookman,14,11,0,0,L,Bethune-Cookman,Bethune-Cookman,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex / Box Score",2026,WN2026
+05/14/2026,Bethune-Cookman,Grambling State,23,1,0,0,W,Bethune-Cookman,Bethune-Cookman,Grambling-State,0,7,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark / Box Score",2026,WN2026
+05/15/2026,Bethune-Cookman,Grambling State,2,7,0,0,L,Bethune-Cookman,Bethune-Cookman,Grambling-State,0,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark / Box Score",2026,WN2026
+05/16/2026,Bethune-Cookman,Grambling State,12,1,0,0,W,Bethune-Cookman,Bethune-Cookman,Grambling-State,0,7,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark / Box Score",2026,WN2026
+05/20/2026,Arkansas-Pine Bluff,Bethune-Cookman,6,4,0,1,L,Bethune-Cookman,Bethune-Cookman,Arkansas-Pine-Bluff,0,9,"Birmingham, AL / Rickwood Field / Box Score / Recap",2026,WN2026
+05/21/2026,Grambling State,Bethune-Cookman,6,7,0,1,W,Bethune-Cookman,Bethune-Cookman,Grambling-State,0,9,"Birmingham, AL / Rickwood Field",2026,WN2026
+05/23/2026,Arkansas-Pine Bluff,Bethune-Cookman,13,8,0,1,L,Bethune-Cookman,Bethune-Cookman,Arkansas-Pine-Bluff,0,9,"Birmingham, AL / Rickwood Field",2026,WN2026

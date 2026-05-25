@@ -1,0 +1,51 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,VMI,Delaware State,10,0,0,0,L,Delaware State,Delaware-State,VMI,1,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/13/2026,VMI,Delaware State,24,4,0,0,L,Delaware State,Delaware-State,VMI,1,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/14/2026,VMI,Delaware State,24,4,0,0,L,Delaware State,Delaware-State,VMI,1,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/14/2026,VMI,Delaware State,9,4,0,0,L,Delaware State,Delaware-State,VMI,1,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/17/2026,Navy,Delaware State,12,0,0,0,L,Delaware State,Delaware-State,Navy,1,7,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+02/20/2026,La Salle,Delaware State,13,4,0,0,L,Delaware State,Delaware-State,La-Salle,1,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+02/20/2026,La Salle,Delaware State,9,8,0,0,L,Delaware State,Delaware-State,La-Salle,1,8,"Philadelphia, PA / DeVincent Field",2026,WN2026
+02/28/2026,Bethune-Cookman,Delaware State,14,7,0,0,L,Delaware State,Delaware-State,Bethune-Cookman,1,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+02/28/2026,Bethune-Cookman,Delaware State,15,0,0,0,L,Delaware State,Delaware-State,Bethune-Cookman,1,7,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/01/2026,Bethune-Cookman,Delaware State,14,8,0,0,L,Delaware State,Delaware-State,Bethune-Cookman,1,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/01/2026,Bethune-Cookman,Delaware State,14,0,0,0,L,Delaware State,Delaware-State,Bethune-Cookman,1,7,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/08/2026,Le Moyne,Delaware State,8,12,0,0,W,Delaware State,Delaware-State,Le-Moyne,1,9,"Cortland, NY / Gutchess Lumber Sports Complex",2026,WN2026
+03/08/2026,Le Moyne,Delaware State,21,5,0,0,L,Delaware State,Delaware-State,Le-Moyne,1,7,"Cortland, NY / Gutchess Lumber Sports Complex",2026,WN2026
+03/09/2026,Le Moyne,Delaware State,24,19,0,0,L,Delaware State,Delaware-State,Le-Moyne,1,9,"Cortland, NY / Gutchess Lumber Sports Complex",2026,WN2026
+03/11/2026,UMBC,Delaware State,14,6,0,0,L,Delaware State,Delaware-State,UMBC,1,9,"Catonsville, MD / Alumni Field",2026,WN2026
+03/13/2026,Mercyhurst,Delaware State,4,3,0,0,L,Delaware State,Delaware-State,Mercyhurst,1,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/14/2026,Mercyhurst,Delaware State,10,0,0,0,L,Delaware State,Delaware-State,Mercyhurst,1,7,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/15/2026,Mercyhurst,Delaware State,9,8,0,0,L,Delaware State,Delaware-State,Mercyhurst,1,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/20/2026,Norfolk State,Delaware State,16,6,0,0,L,Delaware State,Delaware-State,Norfolk-State,1,7,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+03/21/2026,Norfolk State,Delaware State,4,3,0,0,L,Delaware State,Delaware-State,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+03/22/2026,Norfolk State,Delaware State,11,5,0,0,L,Delaware State,Delaware-State,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+03/28/2026,Delaware State,Fairleigh Dickinson,4,2,0,0,W,Delaware State,Delaware-State,Fairleigh-Dickinson,0,9,"Dover, DE / Soldier Field",2026,WN2026
+03/29/2026,Delaware State,Fairleigh Dickinson,1,19,0,0,L,Delaware State,Delaware-State,Fairleigh-Dickinson,0,7,"Dover, DE / Soldier Field",2026,WN2026
+03/29/2026,Delaware State,Fairleigh Dickinson,0,9,0,0,L,Delaware State,Delaware-State,Fairleigh-Dickinson,0,9,"Dover, DE / Soldier Field",2026,WN2026
+03/31/2026,Delaware State,Penn,5,10,0,0,L,Delaware State,Delaware-State,Penn,0,9,"Dover, DE / Soldier Field",2026,WN2026
+04/02/2026,Delaware State,Stonehill,2,13,0,0,L,Delaware State,Delaware-State,Stonehill,0,7,"Dover, DE / Soldier Field",2026,WN2026
+04/03/2026,Delaware State,Stonehill,5,7,0,0,L,Delaware State,Delaware-State,Stonehill,0,11,"Dover, DE / Soldier Field",2026,WN2026
+04/04/2026,Delaware State,Stonehill,5,13,0,0,L,Delaware State,Delaware-State,Stonehill,0,9,"Dover, DE / Soldier Field",2026,WN2026
+04/08/2026,Delaware State,Villanova,10,20,0,0,L,Delaware State,Delaware-State,Villanova,0,9,"Dover, DE / Soldier Field",2026,WN2026
+04/10/2026,Delaware State,Maryland Eastern Shore,5,4,0,0,W,Delaware State,Delaware-State,Maryland-Eastern-Shore,0,9,"Dover, DE / Soldier Field",2026,WN2026
+04/11/2026,Delaware State,Maryland Eastern Shore,4,11,0,0,L,Delaware State,Delaware-State,Maryland-Eastern-Shore,0,9,"Dover, DE / Soldier Field",2026,WN2026
+04/12/2026,Delaware State,Maryland Eastern Shore,5,7,0,0,L,Delaware State,Delaware-State,Maryland-Eastern-Shore,0,9,"Dover, DE / Soldier Field",2026,WN2026
+04/14/2026,Delaware,Delaware State,15,8,0,0,L,Delaware State,Delaware-State,Delaware,1,9,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+04/17/2026,Central Connecticut,Delaware State,5,4,0,0,L,Delaware State,Delaware-State,Central-Connecticut,1,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/18/2026,Central Connecticut,Delaware State,14,2,0,0,L,Delaware State,Delaware-State,Central-Connecticut,1,7,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/18/2026,Central Connecticut,Delaware State,13,2,0,0,L,Delaware State,Delaware-State,Central-Connecticut,1,7,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/24/2026,Long Island,Delaware State,6,4,0,0,L,Delaware State,Delaware-State,Long-Island,1,9,"Brooklyn, NY / Long Island University Field",2026,WN2026
+04/24/2026,Long Island,Delaware State,11,1,0,0,L,Delaware State,Delaware-State,Long-Island,1,7,"Brooklyn, NY / Long Island University Field",2026,WN2026
+04/25/2026,Long Island,Delaware State,13,2,0,0,L,Delaware State,Delaware-State,Long-Island,1,7,"Brooklyn, NY / Long Island University Field",2026,WN2026
+04/28/2026,Delaware State,Delaware,5,7,0,0,L,Delaware State,Delaware-State,Delaware,0,9,"Dover, DE / Soldier Field",2026,WN2026
+05/01/2026,Delaware State,Wagner,1,15,0,0,L,Delaware State,Delaware-State,Wagner,0,7,"Dover, DE / Soldier Field",2026,WN2026
+05/02/2026,Delaware State,Wagner,5,1,0,0,W,Delaware State,Delaware-State,Wagner,0,9,"Dover, DE / Soldier Field",2026,WN2026
+05/03/2026,Delaware State,Wagner,5,15,0,0,L,Delaware State,Delaware-State,Wagner,0,8,"Dover, DE / Soldier Field",2026,WN2026
+05/05/2026,Georgetown,Delaware State,17,11,0,0,L,Delaware State,Delaware-State,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+05/08/2026,New Haven,Delaware State,4,6,0,0,W,Delaware State,Delaware-State,New-Haven,1,9,"West Haven, CT / Frank Vieira Field / Box Score",2026,WN2026
+05/08/2026,New Haven,Delaware State,5,3,0,0,L,Delaware State,Delaware-State,New-Haven,1,9,"West Haven, CT / Frank Vieira Field / Box Score",2026,WN2026
+05/10/2026,New Haven,Delaware State,7,8,0,0,W,Delaware State,Delaware-State,New-Haven,1,9,"West Haven, CT / Frank Vieira Field / Box Score",2026,WN2026
+05/14/2026,Coppin State,Delaware State,8,3,0,0,L,Delaware State,Delaware-State,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium / Box Score",2026,WN2026
+05/15/2026,Coppin State,Delaware State,3,16,0,0,W,Delaware State,Delaware-State,Coppin-State,1,7,"Hanover, MD / Joe Cannon Stadium / Box Score",2026,WN2026
+05/16/2026,Coppin State,Delaware State,6,11,0,0,W,Delaware State,Delaware-State,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium / Box Score",2026,WN2026

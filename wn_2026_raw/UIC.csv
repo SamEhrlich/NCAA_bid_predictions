@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Incarnate Word,UIC,8,3,0,0,L,UIC,UIC,Incarnate-Word,1,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+02/15/2026,Incarnate Word,UIC,13,4,0,0,L,UIC,UIC,Incarnate-Word,1,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+02/15/2026,Incarnate Word,UIC,2,9,0,0,W,UIC,UIC,Incarnate-Word,1,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+02/17/2026,UTSA,UIC,10,3,0,0,L,UIC,UIC,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+02/20/2026,Sam Houston State,UIC,0,2,0,0,W,UIC,UIC,Sam-Houston-State,1,9,"Huntsville, TX / Elliot T. Bowers Stadium",2026,WN2026
+02/21/2026,Sam Houston State,UIC,1,2,0,0,W,UIC,UIC,Sam-Houston-State,1,9,"Huntsville, TX / Elliot T. Bowers Stadium",2026,WN2026
+02/22/2026,Sam Houston State,UIC,6,4,0,0,L,UIC,UIC,Sam-Houston-State,1,9,"Huntsville, TX / Elliot T. Bowers Stadium",2026,WN2026
+02/27/2026,Tennessee Tech,UIC,0,8,0,0,W,UIC,UIC,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+02/28/2026,Notre Dame,UIC,14,3,0,1,L,UIC,UIC,Notre-Dame,0,8,"Cookeville, TN / Bush Stadium",2026,WN2026
+03/01/2026,Alabama A&M,UIC,5,4,0,1,L,UIC,UIC,Alabama-AM,0,9,"Cookeville, TN / Bush Stadium",2026,WN2026
+03/05/2026,Missouri,UIC,9,8,0,0,L,UIC,UIC,Missouri,1,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/07/2026,Missouri,UIC,13,12,0,0,L,UIC,UIC,Missouri,1,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/07/2026,Missouri,UIC,7,0,0,0,L,UIC,UIC,Missouri,1,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/08/2026,Missouri,UIC,10,0,0,0,L,UIC,UIC,Missouri,1,7,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/13/2026,UIC,UNCG,5,9,0,0,L,UIC,UIC,UNCG,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+03/14/2026,UIC,UNCG,5,6,0,0,L,UIC,UIC,UNCG,0,10,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+03/15/2026,UIC,UNCG,2,9,0,0,L,UIC,UIC,UNCG,0,7,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+03/20/2026,UIC,Southern Illinois,4,5,0,0,L,UIC,UIC,Southern-Illinois,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+03/21/2026,UIC,Southern Illinois,10,9,0,0,W,UIC,UIC,Southern-Illinois,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+03/21/2026,UIC,Southern Illinois,6,5,0,0,W,UIC,UIC,Southern-Illinois,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+03/25/2026,Purdue,UIC,18,13,0,0,L,UIC,UIC,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+03/27/2026,Belmont,UIC,4,3,0,0,L,UIC,UIC,Belmont,1,9,"Nashville, TN / E. S. Rose Park",2026,WN2026
+03/28/2026,Belmont,UIC,2,1,0,0,L,UIC,UIC,Belmont,1,10,"Nashville, TN / E. S. Rose Park",2026,WN2026
+03/29/2026,Belmont,UIC,7,9,0,0,W,UIC,UIC,Belmont,1,9,"Nashville, TN / E. S. Rose Park",2026,WN2026
+03/31/2026,UIC,Milwaukee,12,5,0,0,W,UIC,UIC,Milwaukee,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/02/2026,Indiana State,UIC,20,10,0,0,L,UIC,UIC,Indiana-State,1,8,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/03/2026,Indiana State,UIC,10,3,0,0,L,UIC,UIC,Indiana-State,1,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/04/2026,Indiana State,UIC,3,17,0,0,W,UIC,UIC,Indiana-State,1,7,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/08/2026,UIC,Northwestern,4,15,0,0,L,UIC,UIC,Northwestern,0,7,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/10/2026,UIC,Murray State,3,1,0,0,W,UIC,UIC,Murray-State,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/11/2026,UIC,Murray State,8,2,0,0,W,UIC,UIC,Murray-State,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/12/2026,UIC,Murray State,10,5,0,0,W,UIC,UIC,Murray-State,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/14/2026,Northwestern,UIC,12,11,0,0,L,UIC,UIC,Northwestern,1,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/17/2026,UIC,Valparaiso,4,3,0,0,W,UIC,UIC,Valparaiso,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/18/2026,UIC,Valparaiso,10,0,0,0,W,UIC,UIC,Valparaiso,0,7,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/19/2026,UIC,Valparaiso,5,4,0,0,W,UIC,UIC,Valparaiso,0,12,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/21/2026,UIC,Northern Illinois,8,9,0,0,L,UIC,UIC,Northern-Illinois,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/22/2026,Iowa,UIC,6,4,0,0,L,UIC,UIC,Iowa,1,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/24/2026,UIC,Youngstown State,10,7,0,0,W,UIC,UIC,Youngstown-State,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/25/2026,UIC,Youngstown State,6,3,0,0,W,UIC,UIC,Youngstown-State,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/26/2026,UIC,Youngstown State,5,0,0,0,W,UIC,UIC,Youngstown-State,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+05/01/2026,Evansville,UIC,2,1,0,0,L,UIC,UIC,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+05/02/2026,Evansville,UIC,1,2,0,0,W,UIC,UIC,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+05/03/2026,Evansville,UIC,5,11,0,0,W,UIC,UIC,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+05/06/2026,UIC,Milwaukee,6,12,0,0,L,UIC,UIC,Milwaukee,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+05/08/2026,UIC,Illinois State,10,2,0,0,W,UIC,UIC,Illinois-State,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium / Box Score",2026,WN2026
+05/09/2026,UIC,Illinois State,9,8,0,0,W,UIC,UIC,Illinois-State,0,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium / Box Score",2026,WN2026
+05/10/2026,UIC,Illinois State,6,7,0,0,L,UIC,UIC,Illinois-State,0,10,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium / Box Score",2026,WN2026
+05/14/2026,Bradley,UIC,3,8,0,0,W,UIC,UIC,Bradley,1,9,"Peoria, IL / Dozer Park / Box Score",2026,WN2026
+05/15/2026,Bradley,UIC,4,11,0,0,W,UIC,UIC,Bradley,1,9,"Peoria, IL / Dozer Park / Box Score",2026,WN2026
+05/16/2026,Bradley,UIC,6,2,0,0,L,UIC,UIC,Bradley,1,9,"Peoria, IL / Dozer Park / Box Score",2026,WN2026
+05/21/2026,Southern Illinois,UIC,1,11,0,1,W,UIC,UIC,Southern-Illinois,0,7,"Murray, KY / Reagan Field / Recap",2026,WN2026
+05/23/2026,Murray State,UIC,5,6,0,1,W,UIC,UIC,Murray-State,0,9,"Murray, KY / Reagan Field",2026,WN2026
+05/24/2026,Southern Illinois,UIC,2,7,0,1,W,UIC,UIC,Southern-Illinois,0,9,"Murray, KY / Reagan Field",2026,WN2026

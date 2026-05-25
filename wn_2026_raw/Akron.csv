@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Presbyterian College,Akron,8,6,0,0,L,Akron,Akron,Presbyterian-College,1,7,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+02/13/2026,Presbyterian College,Akron,8,6,0,0,L,Akron,Akron,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+02/14/2026,Presbyterian College,Akron,7,8,0,0,W,Akron,Akron,Presbyterian-College,1,7,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+02/14/2026,Presbyterian College,Akron,2,9,0,0,W,Akron,Akron,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+02/20/2026,Western Illinois,Akron,16,8,0,1,L,Akron,Akron,Western-Illinois,0,9,"Millington, TN / Team USA Complex",2026,WN2026
+02/21/2026,Western Illinois,Akron,0,5,0,1,W,Akron,Akron,Western-Illinois,0,9,"Millington, TN / Team USA Complex",2026,WN2026
+02/22/2026,Western Illinois,Akron,16,8,0,1,L,Akron,Akron,Western-Illinois,0,9,"Millington, TN / Team USA Complex",2026,WN2026
+02/24/2026,Western Carolina,Akron,12,2,0,0,L,Akron,Akron,Western-Carolina,1,8,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+02/25/2026,North Carolina State,Akron,18,3,0,0,L,Akron,Akron,North-Carolina-State,1,7,"Raleigh, NC / Doak Field",2026,WN2026
+02/28/2026,North Carolina A&T,Akron,12,14,0,0,W,Akron,Akron,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+02/28/2026,North Carolina A&T,Akron,4,6,0,0,W,Akron,Akron,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+03/01/2026,North Carolina A&T,Akron,4,5,0,0,W,Akron,Akron,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+03/04/2026,Akron,Dayton,11,14,0,0,L,Akron,Akron,Dayton,0,9,"Akron, OH / Skeeles Field",2026,WN2026
+03/06/2026,Akron,Western Michigan,3,4,0,0,L,Akron,Akron,Western-Michigan,0,9,"Akron, OH / Skeeles Field",2026,WN2026
+03/07/2026,Akron,Western Michigan,1,4,0,0,L,Akron,Akron,Western-Michigan,0,9,"Akron, OH / Skeeles Field",2026,WN2026
+03/08/2026,Akron,Western Michigan,3,2,0,0,W,Akron,Akron,Western-Michigan,0,9,"Akron, OH / Skeeles Field",2026,WN2026
+03/13/2026,Akron,UMass,12,2,0,0,W,Akron,Akron,UMass,0,7,"Akron, OH / Skeeles Field",2026,WN2026
+03/14/2026,Akron,UMass,4,5,0,0,L,Akron,Akron,UMass,0,9,"Akron, OH / Skeeles Field",2026,WN2026
+03/15/2026,Akron,UMass,18,17,0,0,W,Akron,Akron,UMass,0,9,"Akron, OH / Skeeles Field",2026,WN2026
+03/20/2026,Eastern Michigan,Akron,3,7,0,0,W,Akron,Akron,Eastern-Michigan,1,9,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+03/21/2026,Eastern Michigan,Akron,9,8,0,0,L,Akron,Akron,Eastern-Michigan,1,10,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+03/22/2026,Eastern Michigan,Akron,6,2,0,0,L,Akron,Akron,Eastern-Michigan,1,9,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+03/24/2026,Mercyhurst,Akron,7,8,0,0,W,Akron,Akron,Mercyhurst,1,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/27/2026,Akron,Toledo,1,13,0,0,L,Akron,Akron,Toledo,0,8,"Akron, OH / Skeeles Field",2026,WN2026
+03/28/2026,Akron,Toledo,3,7,0,0,L,Akron,Akron,Toledo,0,9,"Akron, OH / Skeeles Field",2026,WN2026
+03/29/2026,Akron,Toledo,7,4,0,0,W,Akron,Akron,Toledo,0,9,"Akron, OH / Skeeles Field",2026,WN2026
+03/31/2026,Akron,Youngstown State,11,10,0,0,W,Akron,Akron,Youngstown-State,0,9,"Akron, OH / Skeeles Field",2026,WN2026
+04/02/2026,Bowling Green,Akron,6,2,0,0,L,Akron,Akron,Bowling-Green,1,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/03/2026,Bowling Green,Akron,9,8,0,0,L,Akron,Akron,Bowling-Green,1,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/03/2026,Bowling Green,Akron,9,6,0,0,L,Akron,Akron,Bowling-Green,1,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/08/2026,Kent State,Akron,12,7,0,0,L,Akron,Akron,Kent-State,1,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+04/10/2026,Ball State,Akron,13,8,0,0,L,Akron,Akron,Ball-State,1,9,"Muncie, IN / Ball Diamond",2026,WN2026
+04/11/2026,Ball State,Akron,3,2,0,0,L,Akron,Akron,Ball-State,1,9,"Muncie, IN / Ball Diamond",2026,WN2026
+04/12/2026,Ball State,Akron,6,7,0,0,W,Akron,Akron,Ball-State,1,9,"Muncie, IN / Ball Diamond",2026,WN2026
+04/14/2026,Akron,Youngstown State,11,1,0,0,W,Akron,Akron,Youngstown-State,0,7,"Akron, OH / Skeeles Field",2026,WN2026
+04/15/2026,Pittsburgh,Akron,13,2,0,0,L,Akron,Akron,Pittsburgh,1,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/17/2026,Akron,Northern Illinois,8,10,0,0,L,Akron,Akron,Northern-Illinois,0,9,"Akron, OH / Skeeles Field",2026,WN2026
+04/18/2026,Akron,Northern Illinois,6,8,0,0,L,Akron,Akron,Northern-Illinois,0,9,"Akron, OH / Skeeles Field",2026,WN2026
+04/19/2026,Akron,Northern Illinois,4,3,0,0,W,Akron,Akron,Northern-Illinois,0,9,"Akron, OH / Skeeles Field",2026,WN2026
+04/21/2026,Ohio State,Akron,19,7,0,0,L,Akron,Akron,Ohio-State,1,7,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/24/2026,Ohio,Akron,7,21,0,0,W,Akron,Akron,Ohio,1,8,"Athens, OH / Bob Wren Stadium",2026,WN2026
+04/25/2026,Ohio,Akron,6,9,0,0,W,Akron,Akron,Ohio,1,9,"Athens, OH / Bob Wren Stadium",2026,WN2026
+04/26/2026,Ohio,Akron,8,9,0,0,W,Akron,Akron,Ohio,1,9,"Athens, OH / Bob Wren Stadium",2026,WN2026
+04/28/2026,Dayton,Akron,11,4,0,0,L,Akron,Akron,Dayton,1,9,"Dayton, OH / Woerner Field",2026,WN2026
+05/02/2026,Akron,Kent State,4,8,0,0,L,Akron,Akron,Kent-State,0,9,"Akron, OH / Skeeles Field",2026,WN2026
+05/03/2026,Akron,Kent State,1,12,0,0,L,Akron,Akron,Kent-State,0,8,"Akron, OH / Skeeles Field",2026,WN2026
+05/03/2026,Akron,Kent State,2,7,0,0,L,Akron,Akron,Kent-State,0,9,"Akron, OH / Skeeles Field",2026,WN2026
+05/08/2026,Central Michigan,Akron,3,0,0,0,L,Akron,Akron,Central-Michigan,1,9,"Mount Pleasant, MI / Bill Theunissen Stadium / Box Score",2026,WN2026
+05/09/2026,Central Michigan,Akron,10,12,0,0,W,Akron,Akron,Central-Michigan,1,9,"Mount Pleasant, MI / Bill Theunissen Stadium / Box Score",2026,WN2026
+05/10/2026,Central Michigan,Akron,12,11,0,0,L,Akron,Akron,Central-Michigan,1,9,"Mount Pleasant, MI / Bill Theunissen Stadium / Box Score",2026,WN2026
+05/12/2026,Oakland,Akron,13,10,0,0,L,Akron,Akron,Oakland,1,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+05/14/2026,Akron,Miami (OH),6,17,0,0,L,Akron,Akron,Miami-OH,0,8,"Akron, OH / Skeeles Field / Box Score",2026,WN2026
+05/15/2026,Akron,Miami (OH),3,13,0,0,L,Akron,Akron,Miami-OH,0,8,"Akron, OH / Skeeles Field / Box Score",2026,WN2026
+05/16/2026,Akron,Miami (OH),8,15,0,0,L,Akron,Akron,Miami-OH,0,9,"Akron, OH / Skeeles Field / Box Score",2026,WN2026

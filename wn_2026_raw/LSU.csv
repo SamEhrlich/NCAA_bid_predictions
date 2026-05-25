@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,LSU,Milwaukee,16,5,0,0,W,LSU,LSU,Milwaukee,0,8,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+02/14/2026,LSU,Milwaukee,5,3,0,0,W,LSU,LSU,Milwaukee,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+02/15/2026,LSU,Milwaukee,21,7,0,0,W,LSU,LSU,Milwaukee,0,7,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+02/16/2026,LSU,Kent State,10,7,0,0,W,LSU,LSU,Kent-State,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+02/18/2026,LSU,Nicholls,12,1,0,0,W,LSU,LSU,Nicholls,0,8,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+02/20/2026,Indiana,LSU,7,14,0,1,W,LSU,LSU,Indiana,0,9,"Jacksonville, FL / VyStar Ballpark",2026,WN2026
+02/21/2026,Notre Dame,LSU,4,9,0,1,W,LSU,LSU,Notre-Dame,0,9,"Jacksonville, FL / VyStar Ballpark",2026,WN2026
+02/22/2026,UCF,LSU,0,11,0,1,W,LSU,LSU,UCF,0,7,"Jacksonville, FL / VyStar Ballpark",2026,WN2026
+02/24/2026,LSU,McNeese,6,7,0,0,L,LSU,LSU,McNeese,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+02/27/2026,LSU,Dartmouth,5,2,0,0,W,LSU,LSU,Dartmouth,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+02/28/2026,LSU,Northeastern,3,1,0,0,W,LSU,LSU,Northeastern,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/01/2026,LSU,Dartmouth,3,0,0,0,W,LSU,LSU,Dartmouth,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/02/2026,LSU,Northeastern,10,13,0,0,L,LSU,LSU,Northeastern,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/04/2026,Louisiana,LSU,7,2,0,0,L,LSU,LSU,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+03/06/2026,LSU,Sacramento State,15,4,0,0,W,LSU,LSU,Sacramento-State,0,7,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/07/2026,LSU,Sacramento State,4,5,0,0,L,LSU,LSU,Sacramento-State,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/08/2026,LSU,Sacramento State,1,6,0,0,L,LSU,LSU,Sacramento-State,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/10/2026,LSU,Creighton,8,4,0,0,W,LSU,LSU,Creighton,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/13/2026,Vanderbilt,LSU,13,12,0,0,L,LSU,LSU,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/14/2026,Vanderbilt,LSU,11,3,0,0,L,LSU,LSU,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/15/2026,Vanderbilt,LSU,9,16,0,0,W,LSU,LSU,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/17/2026,LSU,Grambling State,7,1,0,0,W,LSU,LSU,Grambling-State,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/19/2026,LSU,Oklahoma,7,1,0,0,W,LSU,LSU,Oklahoma,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/20/2026,LSU,Oklahoma,2,4,0,0,L,LSU,LSU,Oklahoma,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/21/2026,LSU,Oklahoma,3,4,0,0,L,LSU,LSU,Oklahoma,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/24/2026,LSU,Louisiana Tech,15,5,0,0,W,LSU,LSU,Louisiana-Tech,0,8,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/27/2026,LSU,Kentucky,4,7,0,0,L,LSU,LSU,Kentucky,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/28/2026,LSU,Kentucky,7,0,0,0,W,LSU,LSU,Kentucky,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/29/2026,LSU,Kentucky,17,10,0,0,W,LSU,LSU,Kentucky,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/31/2026,LSU,Southern,16,6,0,0,W,LSU,LSU,Southern,0,7,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+04/03/2026,Tennessee,LSU,5,7,0,0,W,LSU,LSU,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/04/2026,Tennessee,LSU,4,1,0,0,L,LSU,LSU,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/05/2026,Tennessee,LSU,6,16,0,0,W,LSU,LSU,Tennessee,1,12,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/07/2026,LSU,Bethune-Cookman,7,10,0,0,L,LSU,LSU,Bethune-Cookman,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+04/10/2026,Ole Miss,LSU,6,3,0,0,L,LSU,LSU,Ole-Miss,1,9,"Oxford, MS / Swayze Field",2026,WN2026
+04/11/2026,Ole Miss,LSU,12,2,0,0,L,LSU,LSU,Ole-Miss,1,7,"Oxford, MS / Swayze Field",2026,WN2026
+04/12/2026,Ole Miss,LSU,8,7,0,0,L,LSU,LSU,Ole-Miss,1,9,"Oxford, MS / Swayze Field",2026,WN2026
+04/14/2026,LSU,Northwestern State,4,2,0,0,W,LSU,LSU,Northwestern-State,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+04/17/2026,LSU,Texas A&M,4,10,0,0,L,LSU,LSU,Texas-AM,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+04/18/2026,LSU,Texas A&M,2,7,0,0,L,LSU,LSU,Texas-AM,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+04/19/2026,LSU,Texas A&M,2,5,0,0,L,LSU,LSU,Texas-AM,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+04/21/2026,LSU,New Orleans,10,7,0,0,W,LSU,LSU,New-Orleans,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+04/24/2026,Mississippi State,LSU,10,8,0,0,L,LSU,LSU,Mississippi-State,1,11,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/25/2026,Mississippi State,LSU,9,8,0,0,L,LSU,LSU,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/26/2026,Mississippi State,LSU,13,8,0,0,L,LSU,LSU,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/28/2026,LSU,Southeastern Louisiana,12,4,0,0,W,LSU,LSU,Southeastern-Louisiana,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+05/02/2026,LSU,South Carolina,6,1,0,0,W,LSU,LSU,South-Carolina,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+05/02/2026,LSU,South Carolina,7,3,0,0,W,LSU,LSU,South-Carolina,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+05/03/2026,LSU,South Carolina,7,0,0,0,W,LSU,LSU,South-Carolina,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+05/05/2026,LSU,Tulane,13,6,0,0,W,LSU,LSU,Tulane,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+05/08/2026,Georgia,LSU,11,8,0,0,L,LSU,LSU,Georgia,1,9,"Athens, GA / Foley Field / Box Score",2026,WN2026
+05/09/2026,Georgia,LSU,13,8,0,0,L,LSU,LSU,Georgia,1,9,"Athens, GA / Foley Field / Box Score",2026,WN2026
+05/10/2026,Georgia,LSU,12,1,0,0,L,LSU,LSU,Georgia,1,7,"Athens, GA / Foley Field / Box Score",2026,WN2026
+05/14/2026,LSU,Florida,8,11,0,0,L,LSU,LSU,Florida,0,9,"Baton Rouge, LA / Alex Box Stadium / Box Score",2026,WN2026
+05/15/2026,LSU,Florida,1,11,0,0,L,LSU,LSU,Florida,0,7,"Baton Rouge, LA / Alex Box Stadium / Box Score",2026,WN2026
+05/16/2026,LSU,Florida,11,15,0,0,L,LSU,LSU,Florida,0,9,"Baton Rouge, LA / Alex Box Stadium / Box Score",2026,WN2026
+05/19/2026,Oklahoma,LSU,2,6,0,1,W,LSU,LSU,Oklahoma,0,9,"Hoover, AL / Hoover Metropolitan Stadium / Box Score / Recap",2026,WN2026
+05/20/2026,Auburn,LSU,3,1,0,1,L,LSU,LSU,Auburn,0,9,"Hoover, AL / Hoover Metropolitan Stadium / Recap",2026,WN2026

@@ -1,0 +1,46 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Miami (FL),Lehigh,13,2,0,0,L,Lehigh,Lehigh,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/14/2026,Miami (FL),Lehigh,17,11,0,0,L,Lehigh,Lehigh,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/15/2026,Miami (FL),Lehigh,27,3,0,0,L,Lehigh,Lehigh,Miami-FL,1,7,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/20/2026,George Washington,Lehigh,3,5,0,0,W,Lehigh,Lehigh,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+02/21/2026,George Washington,Lehigh,7,3,0,0,L,Lehigh,Lehigh,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+02/21/2026,George Washington,Lehigh,3,6,0,0,W,Lehigh,Lehigh,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+02/27/2026,Lehigh,George Mason,4,7,0,0,L,Lehigh,Lehigh,George-Mason,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/01/2026,George Mason,Lehigh,3,0,0,0,L,Lehigh,Lehigh,George-Mason,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/06/2026,Davidson,Lehigh,14,9,0,0,L,Lehigh,Lehigh,Davidson,1,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+03/07/2026,Davidson,Lehigh,13,7,0,0,L,Lehigh,Lehigh,Davidson,1,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+03/08/2026,Davidson,Lehigh,10,0,0,0,L,Lehigh,Lehigh,Davidson,1,7,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+03/11/2026,Lehigh,Saint Peter's,3,12,0,0,L,Lehigh,Lehigh,Saint-Peters,0,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+03/13/2026,Lehigh,Navy,3,1,0,0,W,Lehigh,Lehigh,Navy,0,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+03/14/2026,Lehigh,Navy,0,3,0,0,L,Lehigh,Lehigh,Navy,0,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+03/15/2026,Lehigh,Navy,3,1,0,0,W,Lehigh,Lehigh,Navy,0,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+03/18/2026,Penn,Lehigh,15,2,0,0,L,Lehigh,Lehigh,Penn,1,7,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+03/21/2026,Lehigh,Holy Cross,0,1,0,0,L,Lehigh,Lehigh,Holy-Cross,0,7,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+03/21/2026,Lehigh,Holy Cross,4,6,0,0,L,Lehigh,Lehigh,Holy-Cross,0,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+03/22/2026,Lehigh,Holy Cross,2,7,0,0,L,Lehigh,Lehigh,Holy-Cross,0,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+03/25/2026,Lehigh,Fairleigh Dickinson,9,2,0,0,W,Lehigh,Lehigh,Fairleigh-Dickinson,0,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+03/27/2026,Bucknell,Lehigh,3,2,0,0,L,Lehigh,Lehigh,Bucknell,1,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+03/28/2026,Bucknell,Lehigh,6,3,0,0,L,Lehigh,Lehigh,Bucknell,1,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+03/29/2026,Bucknell,Lehigh,12,11,0,0,L,Lehigh,Lehigh,Bucknell,1,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+03/31/2026,Saint Joseph's,Lehigh,16,10,0,0,L,Lehigh,Lehigh,Saint-Josephs,1,8,"Merion Station, PA / Smithson Field",2026,WN2026
+04/04/2026,Navy,Lehigh,8,0,0,0,L,Lehigh,Lehigh,Navy,1,7,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+04/04/2026,Navy,Lehigh,8,3,0,0,L,Lehigh,Lehigh,Navy,1,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+04/05/2026,Navy,Lehigh,6,11,0,0,W,Lehigh,Lehigh,Navy,1,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+04/07/2026,Lehigh,Delaware,8,3,0,0,W,Lehigh,Lehigh,Delaware,0,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+04/10/2026,Lehigh,Army,5,20,0,0,L,Lehigh,Lehigh,Army,0,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+04/11/2026,Lehigh,Army,2,4,0,0,L,Lehigh,Lehigh,Army,0,7,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+04/11/2026,Lehigh,Army,9,13,0,0,L,Lehigh,Lehigh,Army,0,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+04/12/2026,Lehigh,Army,9,7,0,0,W,Lehigh,Lehigh,Army,0,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+04/14/2026,Coppin State,Lehigh,6,38,0,0,W,Lehigh,Lehigh,Coppin-State,1,7,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+04/17/2026,Lafayette,Lehigh,4,2,0,0,L,Lehigh,Lehigh,Lafayette,1,9,"Forks Township, PA / Kamine Stadium",2026,WN2026
+04/18/2026,Lafayette,Lehigh,2,3,0,0,W,Lehigh,Lehigh,Lafayette,1,7,"Forks Township, PA / Kamine Stadium",2026,WN2026
+04/18/2026,Lafayette,Lehigh,7,8,0,0,W,Lehigh,Lehigh,Lafayette,1,9,"Forks Township, PA / Kamine Stadium",2026,WN2026
+04/19/2026,Lafayette,Lehigh,7,3,0,0,L,Lehigh,Lehigh,Lafayette,1,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+04/22/2026,Saint Peter's,Lehigh,5,11,0,0,W,Lehigh,Lehigh,Saint-Peters,1,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+04/25/2026,Holy Cross,Lehigh,9,0,0,0,L,Lehigh,Lehigh,Holy-Cross,1,7,"Worcester, MA / Hanover Insurance Park at Fitton Field",2026,WN2026
+04/25/2026,Holy Cross,Lehigh,3,2,0,0,L,Lehigh,Lehigh,Holy-Cross,1,9,"Worcester, MA / Hanover Insurance Park at Fitton Field",2026,WN2026
+04/26/2026,Holy Cross,Lehigh,2,14,0,0,W,Lehigh,Lehigh,Holy-Cross,1,8,"Worcester, MA / Hanover Insurance Park at Fitton Field",2026,WN2026
+04/29/2026,Seton Hall,Lehigh,10,5,0,0,L,Lehigh,Lehigh,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+05/02/2026,Lehigh,Bucknell,0,4,0,0,L,Lehigh,Lehigh,Bucknell,0,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+05/03/2026,Lehigh,Bucknell,1,2,0,0,L,Lehigh,Lehigh,Bucknell,0,7,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+05/03/2026,Lehigh,Bucknell,10,4,0,0,W,Lehigh,Lehigh,Bucknell,0,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026

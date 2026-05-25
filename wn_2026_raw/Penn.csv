@@ -1,0 +1,43 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/20/2026,Texas A&M,Penn,1,0,0,0,L,Penn,Penn,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+02/21/2026,Texas A&M,Penn,2,1,0,0,L,Penn,Penn,Texas-AM,1,11,"College Station, TX / Blue Bell Park",2026,WN2026
+02/22/2026,Texas A&M,Penn,7,1,0,0,L,Penn,Penn,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+02/27/2026,Mercer,Penn,5,4,0,0,L,Penn,Penn,Mercer,1,9,"Macon, GA / Claude Smith Field",2026,WN2026
+02/28/2026,Mercer,Penn,5,3,0,0,L,Penn,Penn,Mercer,1,9,"Macon, GA / Claude Smith Field",2026,WN2026
+03/01/2026,Mercer,Penn,10,5,0,0,L,Penn,Penn,Mercer,1,9,"Macon, GA / Claude Smith Field",2026,WN2026
+03/07/2026,Penn,UMBC,7,6,0,0,W,Penn,Penn,UMBC,0,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+03/08/2026,Penn,UMBC,1,4,0,0,L,Penn,Penn,UMBC,0,10,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+03/08/2026,Penn,UMBC,10,5,0,0,W,Penn,Penn,UMBC,0,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+03/10/2026,Penn,Delaware,3,5,0,0,L,Penn,Penn,Delaware,0,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+03/13/2026,East Carolina,Penn,17,3,0,0,L,Penn,Penn,East-Carolina,1,7,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+03/14/2026,East Carolina,Penn,0,1,0,0,W,Penn,Penn,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+03/15/2026,East Carolina,Penn,8,7,0,0,L,Penn,Penn,East-Carolina,1,10,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+03/18/2026,Penn,Lehigh,15,2,0,0,W,Penn,Penn,Lehigh,0,7,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+03/21/2026,Penn,Dartmouth,8,3,0,0,W,Penn,Penn,Dartmouth,0,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+03/21/2026,Penn,Dartmouth,4,1,0,0,W,Penn,Penn,Dartmouth,0,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+03/22/2026,Penn,Dartmouth,5,2,0,0,W,Penn,Penn,Dartmouth,0,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+03/24/2026,Penn,La Salle,0,8,0,0,L,Penn,Penn,La-Salle,0,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+03/28/2026,Yale,Penn,16,14,0,0,L,Penn,Penn,Yale,1,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/29/2026,Yale,Penn,4,0,0,0,L,Penn,Penn,Yale,1,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/29/2026,Yale,Penn,3,2,0,0,L,Penn,Penn,Yale,1,10,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/31/2026,Delaware State,Penn,5,10,0,0,W,Penn,Penn,Delaware-State,1,9,"Dover, DE / Soldier Field",2026,WN2026
+04/04/2026,Columbia,Penn,5,9,0,0,W,Penn,Penn,Columbia,1,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/04/2026,Columbia,Penn,8,9,0,0,W,Penn,Penn,Columbia,1,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/04/2026,Columbia,Penn,21,11,0,0,L,Penn,Penn,Columbia,1,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/08/2026,Penn,Lafayette,13,3,0,0,W,Penn,Penn,Lafayette,0,7,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+04/11/2026,Penn,Cornell,7,3,0,0,W,Penn,Penn,Cornell,0,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+04/11/2026,Penn,Cornell,14,5,0,0,W,Penn,Penn,Cornell,0,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+04/12/2026,Penn,Cornell,6,5,0,0,W,Penn,Penn,Cornell,0,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+04/15/2026,Monmouth,Penn,5,3,0,0,L,Penn,Penn,Monmouth,1,9,"West Long Branch, NJ / Monmouth Baseball Field",2026,WN2026
+04/17/2026,Princeton,Penn,8,6,0,0,L,Penn,Penn,Princeton,1,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/18/2026,Princeton,Penn,0,12,0,0,W,Penn,Penn,Princeton,1,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/18/2026,Princeton,Penn,7,4,0,0,L,Penn,Penn,Princeton,1,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/21/2026,Saint Joseph's,Penn,8,2,0,1,L,Penn,Penn,Saint-Josephs,0,9,"Philadelphia, PA / Citizens Bank Park",2026,WN2026
+04/25/2026,Harvard,Penn,7,13,0,0,W,Penn,Penn,Harvard,1,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/25/2026,Harvard,Penn,2,10,0,0,W,Penn,Penn,Harvard,1,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/26/2026,Harvard,Penn,6,7,0,0,W,Penn,Penn,Harvard,1,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+05/01/2026,Penn,Brown,9,13,0,0,L,Penn,Penn,Brown,0,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+05/02/2026,Penn,Brown,11,3,0,0,W,Penn,Penn,Brown,0,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+05/02/2026,Penn,Brown,7,3,0,0,W,Penn,Penn,Brown,0,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+05/15/2026,Brown,Penn,7,4,0,1,L,Penn,Penn,Brown,0,9,"West Haven, CT / George H.W. Bush 48 Field / Box Score / Recap",2026,WN2026
+05/16/2026,Columbia,Penn,6,3,0,1,L,Penn,Penn,Columbia,0,9,"West Haven, CT / George H.W. Bush 48 Field / Box Score",2026,WN2026

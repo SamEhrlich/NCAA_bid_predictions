@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,FAU,Notre Dame,7,1,0,0,L,Notre Dame,Notre-Dame,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/14/2026,FAU,Notre Dame,1,14,0,0,W,Notre Dame,Notre-Dame,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/15/2026,FAU,Notre Dame,1,7,0,0,W,Notre Dame,Notre-Dame,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/20/2026,UCF,Notre Dame,4,2,0,1,L,Notre Dame,Notre-Dame,UCF,0,10,"Jacksonville, FL / VyStar Ballpark",2026,WN2026
+02/21/2026,LSU,Notre Dame,9,4,0,1,L,Notre Dame,Notre-Dame,LSU,0,9,"Jacksonville, FL / VyStar Ballpark",2026,WN2026
+02/22/2026,Indiana,Notre Dame,8,9,0,1,W,Notre Dame,Notre-Dame,Indiana,0,11,"Jacksonville, FL / VyStar Ballpark",2026,WN2026
+02/27/2026,Alabama A&M,Notre Dame,2,19,0,1,W,Notre Dame,Notre-Dame,Alabama-AM,0,7,"Cookeville, TN / Bush Stadium",2026,WN2026
+02/28/2026,UIC,Notre Dame,3,14,0,1,W,Notre Dame,Notre-Dame,UIC,0,8,"Cookeville, TN / Bush Stadium",2026,WN2026
+03/01/2026,Tennessee Tech,Notre Dame,0,11,0,0,W,Notre Dame,Notre-Dame,Tennessee-Tech,1,8,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+03/03/2026,Notre Dame,Eastern Michigan,11,1,0,0,W,Notre Dame,Notre-Dame,Eastern-Michigan,0,8,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+03/06/2026,Duke,Notre Dame,4,10,0,0,W,Notre Dame,Notre-Dame,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/07/2026,Duke,Notre Dame,6,5,0,0,L,Notre Dame,Notre-Dame,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/08/2026,Duke,Notre Dame,0,2,0,0,W,Notre Dame,Notre-Dame,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/10/2026,Queens,Notre Dame,6,11,0,0,W,Notre Dame,Notre-Dame,Queens,1,9,"Charlotte, NC / Atrium Health Ballpark",2026,WN2026
+03/13/2026,Louisville,Notre Dame,11,14,0,0,W,Notre Dame,Notre-Dame,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/14/2026,Louisville,Notre Dame,8,7,0,0,L,Notre Dame,Notre-Dame,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/15/2026,Louisville,Notre Dame,21,12,0,0,L,Notre Dame,Notre-Dame,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/20/2026,Notre Dame,Clemson,6,0,0,0,W,Notre Dame,Notre-Dame,Clemson,0,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+03/21/2026,Notre Dame,Clemson,8,7,0,0,W,Notre Dame,Notre-Dame,Clemson,0,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+03/22/2026,Notre Dame,Clemson,7,4,0,0,W,Notre Dame,Notre-Dame,Clemson,0,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+03/24/2026,Notre Dame,Western Michigan,14,3,0,0,W,Notre Dame,Notre-Dame,Western-Michigan,0,7,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+03/28/2026,Notre Dame,North Carolina,5,6,0,0,L,Notre Dame,Notre-Dame,North-Carolina,0,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+03/28/2026,Notre Dame,North Carolina,7,13,0,0,L,Notre Dame,Notre-Dame,North-Carolina,0,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+03/29/2026,Notre Dame,North Carolina,10,15,0,0,L,Notre Dame,Notre-Dame,North-Carolina,0,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+04/02/2026,North Carolina State,Notre Dame,7,3,0,0,L,Notre Dame,Notre-Dame,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+04/03/2026,North Carolina State,Notre Dame,7,3,0,0,L,Notre Dame,Notre-Dame,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+04/04/2026,North Carolina State,Notre Dame,7,6,0,0,L,Notre Dame,Notre-Dame,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+04/08/2026,Notre Dame,Michigan State,4,7,0,0,L,Notre Dame,Notre-Dame,Michigan-State,0,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+04/10/2026,Notre Dame,Virginia,4,8,0,0,L,Notre Dame,Notre-Dame,Virginia,0,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+04/11/2026,Notre Dame,Virginia,5,3,0,0,W,Notre Dame,Notre-Dame,Virginia,0,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+04/12/2026,Notre Dame,Virginia,5,20,0,0,L,Notre Dame,Notre-Dame,Virginia,0,8,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+04/14/2026,Notre Dame,Valparaiso,6,1,0,0,W,Notre Dame,Notre-Dame,Valparaiso,0,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+04/17/2026,Florida State,Notre Dame,11,0,0,0,L,Notre Dame,Notre-Dame,Florida-State,1,7,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+04/18/2026,Florida State,Notre Dame,9,7,0,0,L,Notre Dame,Notre-Dame,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+04/19/2026,Florida State,Notre Dame,6,4,0,0,L,Notre Dame,Notre-Dame,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+04/22/2026,Michigan State,Notre Dame,2,3,0,0,W,Notre Dame,Notre-Dame,Michigan-State,1,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/24/2026,Notre Dame,Boston College,12,2,0,0,W,Notre Dame,Notre-Dame,Boston-College,0,7,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+04/25/2026,Notre Dame,Boston College,1,16,0,0,L,Notre Dame,Notre-Dame,Boston-College,0,8,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+04/26/2026,Notre Dame,Boston College,6,7,0,0,L,Notre Dame,Notre-Dame,Boston-College,0,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+04/28/2026,Notre Dame,Central Michigan,5,3,0,0,W,Notre Dame,Notre-Dame,Central-Michigan,0,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+04/29/2026,Notre Dame,Milwaukee,16,2,0,0,W,Notre Dame,Notre-Dame,Milwaukee,0,7,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+05/01/2026,Notre Dame,Stanford,6,2,0,0,W,Notre Dame,Notre-Dame,Stanford,0,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+05/02/2026,Notre Dame,Stanford,10,7,0,0,W,Notre Dame,Notre-Dame,Stanford,0,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+05/03/2026,Notre Dame,Stanford,18,13,0,0,W,Notre Dame,Notre-Dame,Stanford,0,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+05/08/2026,Notre Dame,Oakland,2,0,0,0,W,Notre Dame,Notre-Dame,Oakland,0,9,"Notre Dame, IN / Frank Eck Stadium / Box Score",2026,WN2026
+05/09/2026,Notre Dame,Oakland,15,5,0,0,W,Notre Dame,Notre-Dame,Oakland,0,8,"Notre Dame, IN / Frank Eck Stadium / Box Score",2026,WN2026
+05/10/2026,Notre Dame,Oakland,9,3,0,0,W,Notre Dame,Notre-Dame,Oakland,0,9,"Notre Dame, IN / Frank Eck Stadium / Box Score",2026,WN2026
+05/12/2026,Dayton,Notre Dame,6,16,0,1,W,Notre Dame,Notre-Dame,Dayton,0,8,"Mason, OH / Prasco Park",2026,WN2026
+05/14/2026,Pittsburgh,Notre Dame,6,3,0,0,L,Notre Dame,Notre-Dame,Pittsburgh,1,9,"Pittsburgh, PA / Charles L. Cost Field / Box Score",2026,WN2026
+05/15/2026,Pittsburgh,Notre Dame,4,6,0,0,W,Notre Dame,Notre-Dame,Pittsburgh,1,10,"Pittsburgh, PA / Charles L. Cost Field / Box Score",2026,WN2026
+05/16/2026,Pittsburgh,Notre Dame,10,21,0,0,W,Notre Dame,Notre-Dame,Pittsburgh,1,7,"Pittsburgh, PA / Charles L. Cost Field / Box Score",2026,WN2026
+05/19/2026,Clemson,Notre Dame,4,5,0,1,W,Notre Dame,Notre-Dame,Clemson,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026
+05/20/2026,Virginia Tech,Notre Dame,17,10,0,1,L,Notre Dame,Notre-Dame,Virginia-Tech,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026

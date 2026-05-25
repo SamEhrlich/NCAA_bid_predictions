@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UCLA,UC San Diego,8,4,0,0,L,UC San Diego,UC-San-Diego,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/14/2026,UCLA,UC San Diego,7,2,0,0,L,UC San Diego,UC-San-Diego,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/15/2026,UCLA,UC San Diego,7,8,0,0,W,UC San Diego,UC-San-Diego,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/20/2026,UC San Diego,Creighton,8,7,0,0,W,UC San Diego,UC-San-Diego,Creighton,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+02/21/2026,UC San Diego,BYU,7,9,0,0,L,UC San Diego,UC-San-Diego,BYU,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+02/22/2026,UC San Diego,Western Michigan,2,5,0,0,L,UC San Diego,UC-San-Diego,Western-Michigan,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+02/24/2026,UC San Diego,San Diego,8,7,0,0,W,UC San Diego,UC-San-Diego,San-Diego,0,10,"La Jolla, CA / Triton Park",2026,WN2026
+02/27/2026,Louisiana,UC San Diego,3,7,0,0,W,UC San Diego,UC-San-Diego,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+02/28/2026,Louisiana,UC San Diego,8,0,0,0,L,UC San Diego,UC-San-Diego,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+03/01/2026,Louisiana,UC San Diego,4,3,0,0,L,UC San Diego,UC-San-Diego,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+03/05/2026,Cincinnati,UC San Diego,9,5,0,0,L,UC San Diego,UC-San-Diego,Cincinnati,1,9,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+03/06/2026,Cincinnati,UC San Diego,16,1,0,0,L,UC San Diego,UC-San-Diego,Cincinnati,1,7,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+03/07/2026,Cincinnati,UC San Diego,13,3,0,0,L,UC San Diego,UC-San-Diego,Cincinnati,1,7,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+03/08/2026,Cincinnati,UC San Diego,9,8,0,0,L,UC San Diego,UC-San-Diego,Cincinnati,1,11,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+03/13/2026,Cal State Northridge,UC San Diego,16,17,0,0,W,UC San Diego,UC-San-Diego,Cal-State-Northridge,1,9,"Northridge, CA / Matador Field",2026,WN2026
+03/14/2026,Cal State Northridge,UC San Diego,4,6,0,0,W,UC San Diego,UC-San-Diego,Cal-State-Northridge,1,9,"Northridge, CA / Matador Field",2026,WN2026
+03/15/2026,Cal State Northridge,UC San Diego,4,12,0,0,W,UC San Diego,UC-San-Diego,Cal-State-Northridge,1,9,"Northridge, CA / Matador Field",2026,WN2026
+03/20/2026,UC San Diego,UC Riverside,12,6,0,0,W,UC San Diego,UC-San-Diego,UC-Riverside,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+03/21/2026,UC San Diego,UC Riverside,4,9,0,0,L,UC San Diego,UC-San-Diego,UC-Riverside,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+03/22/2026,UC San Diego,UC Riverside,14,10,0,0,W,UC San Diego,UC-San-Diego,UC-Riverside,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+03/24/2026,UC San Diego,Oregon,0,6,0,0,L,UC San Diego,UC-San-Diego,Oregon,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+03/25/2026,UC San Diego,Oregon,4,12,0,0,L,UC San Diego,UC-San-Diego,Oregon,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+03/27/2026,UC Davis,UC San Diego,4,9,0,0,W,UC San Diego,UC-San-Diego,UC-Davis,1,9,"Davis, CA / Dobbins Stadium",2026,WN2026
+03/28/2026,UC Davis,UC San Diego,2,3,0,0,W,UC San Diego,UC-San-Diego,UC-Davis,1,9,"Davis, CA / Dobbins Stadium",2026,WN2026
+03/29/2026,UC Davis,UC San Diego,5,9,0,0,W,UC San Diego,UC-San-Diego,UC-Davis,1,9,"Davis, CA / Dobbins Stadium",2026,WN2026
+04/02/2026,UC San Diego,Hawaii,10,9,0,0,W,UC San Diego,UC-San-Diego,Hawaii,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+04/03/2026,UC San Diego,Hawaii,3,6,0,0,L,UC San Diego,UC-San-Diego,Hawaii,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+04/04/2026,UC San Diego,Hawaii,8,0,0,0,W,UC San Diego,UC-San-Diego,Hawaii,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+04/10/2026,UC Santa Barbara,UC San Diego,3,4,0,0,W,UC San Diego,UC-San-Diego,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+04/11/2026,UC Santa Barbara,UC San Diego,11,10,0,0,L,UC San Diego,UC-San-Diego,UC-Santa-Barbara,1,11,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+04/12/2026,UC Santa Barbara,UC San Diego,3,1,0,0,L,UC San Diego,UC-San-Diego,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+04/14/2026,San Diego State,UC San Diego,9,1,0,0,L,UC San Diego,UC-San-Diego,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+04/17/2026,UC San Diego,Cal Poly,3,11,0,0,L,UC San Diego,UC-San-Diego,Cal-Poly,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+04/18/2026,UC San Diego,Cal Poly,3,5,0,0,L,UC San Diego,UC-San-Diego,Cal-Poly,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+04/19/2026,UC San Diego,Cal Poly,16,15,0,0,W,UC San Diego,UC-San-Diego,Cal-Poly,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+04/21/2026,San Diego,UC San Diego,6,5,0,0,L,UC San Diego,UC-San-Diego,San-Diego,1,10,"San Diego, CA / Fowler Park",2026,WN2026
+04/24/2026,UC San Diego,UC Irvine,11,9,0,0,W,UC San Diego,UC-San-Diego,UC-Irvine,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+04/25/2026,UC San Diego,UC Irvine,9,4,0,0,W,UC San Diego,UC-San-Diego,UC-Irvine,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+04/26/2026,UC San Diego,UC Irvine,7,9,0,0,L,UC San Diego,UC-San-Diego,UC-Irvine,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+04/28/2026,UC San Diego,Loyola-Marymount,10,0,0,0,W,UC San Diego,UC-San-Diego,Loyola-Marymount,0,7,"La Jolla, CA / Triton Park",2026,WN2026
+05/01/2026,Long Beach State,UC San Diego,3,1,0,0,L,UC San Diego,UC-San-Diego,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+05/02/2026,Long Beach State,UC San Diego,11,1,0,0,L,UC San Diego,UC-San-Diego,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+05/03/2026,Long Beach State,UC San Diego,6,4,0,0,L,UC San Diego,UC-San-Diego,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+05/05/2026,UC San Diego,San Diego State,8,4,0,0,W,UC San Diego,UC-San-Diego,San-Diego-State,0,9,"La Jolla, CA / Triton Park",2026,WN2026
+05/08/2026,Cal State Bakersfield,UC San Diego,2,4,0,0,W,UC San Diego,UC-San-Diego,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field / Box Score",2026,WN2026
+05/09/2026,Cal State Bakersfield,UC San Diego,10,8,0,0,L,UC San Diego,UC-San-Diego,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field / Box Score",2026,WN2026
+05/10/2026,Cal State Bakersfield,UC San Diego,2,15,0,0,W,UC San Diego,UC-San-Diego,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field / Box Score",2026,WN2026
+05/14/2026,UC San Diego,Cal State Fullerton,10,6,0,0,W,UC San Diego,UC-San-Diego,Cal-State-Fullerton,0,9,"La Jolla, CA / Triton Park / Box Score",2026,WN2026
+05/15/2026,UC San Diego,Cal State Fullerton,10,9,0,0,W,UC San Diego,UC-San-Diego,Cal-State-Fullerton,0,10,"La Jolla, CA / Triton Park / Box Score",2026,WN2026
+05/16/2026,UC San Diego,Cal State Fullerton,5,10,0,0,L,UC San Diego,UC-San-Diego,Cal-State-Fullerton,0,9,"La Jolla, CA / Triton Park / Box Score",2026,WN2026
+05/21/2026,Cal Poly,UC San Diego,1,0,0,1,L,UC San Diego,UC-San-Diego,Cal-Poly,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+05/22/2026,Cal State Fullerton,UC San Diego,1,5,0,1,W,UC San Diego,UC-San-Diego,Cal-State-Fullerton,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+05/23/2026,UC Santa Barbara,UC San Diego,0,7,0,1,W,UC San Diego,UC-San-Diego,UC-Santa-Barbara,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+05/23/2026,Cal Poly,UC San Diego,2,12,0,1,W,UC San Diego,UC-San-Diego,Cal-Poly,0,8,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+05/24/2026,Cal Poly,UC San Diego,4,3,0,1,L,UC San Diego,UC-San-Diego,Cal-Poly,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026

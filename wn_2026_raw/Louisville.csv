@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Louisville,Michigan State,3,4,0,0,L,Louisville,Louisville,Michigan-State,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+02/14/2026,Louisville,Michigan State,4,13,0,0,L,Louisville,Louisville,Michigan-State,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+02/15/2026,Louisville,Michigan State,9,1,0,0,W,Louisville,Louisville,Michigan-State,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+02/17/2026,Louisville,Xavier,23,11,0,0,W,Louisville,Louisville,Xavier,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+02/20/2026,Nebraska,Louisville,2,4,0,1,W,Louisville,Louisville,Nebraska,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/21/2026,Michigan,Louisville,8,5,0,1,L,Louisville,Louisville,Michigan,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/22/2026,Auburn,Louisville,10,6,0,1,L,Louisville,Louisville,Auburn,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/25/2026,Louisville,Eastern Kentucky,6,5,0,0,W,Louisville,Louisville,Eastern-Kentucky,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+02/27/2026,Louisville,Central Michigan,16,2,0,0,W,Louisville,Louisville,Central-Michigan,0,7,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+02/28/2026,Louisville,Central Michigan,9,8,0,0,W,Louisville,Louisville,Central-Michigan,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/01/2026,Louisville,Central Michigan,7,5,0,0,W,Louisville,Louisville,Central-Michigan,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/03/2026,Louisville,Morehead State,5,13,0,0,L,Louisville,Louisville,Morehead-State,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/06/2026,Louisville,Seton Hall,16,1,0,0,W,Louisville,Louisville,Seton-Hall,0,7,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/07/2026,Louisville,Seton Hall,13,3,0,0,W,Louisville,Louisville,Seton-Hall,0,8,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/08/2026,Louisville,Seton Hall,6,2,0,0,W,Louisville,Louisville,Seton-Hall,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/10/2026,Louisville,Marshall,16,5,0,0,W,Louisville,Louisville,Marshall,0,7,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/11/2026,Louisville,Marshall,18,8,0,0,W,Louisville,Louisville,Marshall,0,7,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/13/2026,Louisville,Notre Dame,11,14,0,0,L,Louisville,Louisville,Notre-Dame,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/14/2026,Louisville,Notre Dame,8,7,0,0,W,Louisville,Louisville,Notre-Dame,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/15/2026,Louisville,Notre Dame,21,12,0,0,W,Louisville,Louisville,Notre-Dame,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/18/2026,Louisville,Northern Kentucky,16,1,0,0,W,Louisville,Louisville,Northern-Kentucky,0,7,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/20/2026,North Carolina,Louisville,11,1,0,0,L,Louisville,Louisville,North-Carolina,1,8,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/21/2026,North Carolina,Louisville,0,2,0,0,W,Louisville,Louisville,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/22/2026,North Carolina,Louisville,7,6,0,0,L,Louisville,Louisville,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/24/2026,Western Kentucky,Louisville,10,5,0,0,L,Louisville,Louisville,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+03/27/2026,Louisville,Pittsburgh,3,4,0,0,L,Louisville,Louisville,Pittsburgh,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/28/2026,Louisville,Pittsburgh,8,5,0,0,W,Louisville,Louisville,Pittsburgh,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/29/2026,Louisville,Pittsburgh,7,13,0,0,L,Louisville,Louisville,Pittsburgh,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/31/2026,Eastern Kentucky,Louisville,7,17,0,1,W,Louisville,Louisville,Eastern-Kentucky,0,7,"Lexington, KY / Legends Field",2026,WN2026
+04/02/2026,Duke,Louisville,6,3,0,0,L,Louisville,Louisville,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+04/03/2026,Duke,Louisville,10,8,0,0,L,Louisville,Louisville,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+04/04/2026,Duke,Louisville,4,9,0,0,W,Louisville,Louisville,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+04/07/2026,Kentucky,Louisville,4,2,0,0,L,Louisville,Louisville,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+04/10/2026,Louisville,Stanford,2,12,0,0,L,Louisville,Louisville,Stanford,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+04/11/2026,Louisville,Stanford,10,0,0,0,W,Louisville,Louisville,Stanford,0,7,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+04/12/2026,Louisville,Stanford,4,6,0,0,L,Louisville,Louisville,Stanford,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+04/14/2026,Louisville,Western Kentucky,7,3,0,0,W,Louisville,Louisville,Western-Kentucky,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+04/17/2026,California,Louisville,8,5,0,0,L,Louisville,Louisville,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+04/18/2026,California,Louisville,6,5,0,0,L,Louisville,Louisville,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+04/19/2026,California,Louisville,5,8,0,0,W,Louisville,Louisville,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+04/21/2026,Louisville,Kentucky,14,10,0,0,W,Louisville,Louisville,Kentucky,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+04/24/2026,Louisville,Clemson,13,10,0,0,W,Louisville,Louisville,Clemson,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+04/25/2026,Louisville,Clemson,11,6,0,0,W,Louisville,Louisville,Clemson,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+04/26/2026,Louisville,Clemson,7,5,0,0,W,Louisville,Louisville,Clemson,0,10,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+04/28/2026,Louisville,Indiana,6,10,0,0,L,Louisville,Louisville,Indiana,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+04/30/2026,Wake Forest,Louisville,9,8,0,0,L,Louisville,Louisville,Wake-Forest,1,10,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+05/01/2026,Wake Forest,Louisville,6,5,0,0,L,Louisville,Louisville,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+05/02/2026,Wake Forest,Louisville,7,5,0,0,L,Louisville,Louisville,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+05/05/2026,Vanderbilt,Louisville,12,6,0,0,L,Louisville,Louisville,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+05/07/2026,Miami (FL),Louisville,13,8,0,0,L,Louisville,Louisville,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+05/08/2026,Miami (FL),Louisville,9,16,0,0,W,Louisville,Louisville,Miami-FL,1,11,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field / Box Score",2026,WN2026
+05/09/2026,Miami (FL),Louisville,10,8,0,0,L,Louisville,Louisville,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field / Box Score",2026,WN2026
+05/12/2026,Louisville,Bellarmine,14,7,0,0,W,Louisville,Louisville,Bellarmine,0,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+05/14/2026,Louisville,Virginia,3,8,0,0,L,Louisville,Louisville,Virginia,0,9,"Louisville, KY / Jim Patterson Stadium / Box Score",2026,WN2026
+05/15/2026,Louisville,Virginia,12,2,0,0,W,Louisville,Louisville,Virginia,0,8,"Louisville, KY / Jim Patterson Stadium / Box Score",2026,WN2026
+05/16/2026,Louisville,Virginia,10,5,0,0,W,Louisville,Louisville,Virginia,0,9,"Louisville, KY / Jim Patterson Stadium / Box Score",2026,WN2026
+05/19/2026,Pittsburgh,Louisville,16,8,0,1,L,Louisville,Louisville,Pittsburgh,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026

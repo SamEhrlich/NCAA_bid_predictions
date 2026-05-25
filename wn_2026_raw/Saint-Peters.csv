@@ -1,0 +1,53 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/20/2026,Georgetown,Saint Peter's,4,2,0,0,L,Saint Peter's,Saint-Peters,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+02/20/2026,Georgetown,Saint Peter's,13,3,0,0,L,Saint Peter's,Saint-Peters,Georgetown,1,7,"Tysons, VA / Capital One Park",2026,WN2026
+02/21/2026,Georgetown,Saint Peter's,18,2,0,0,L,Saint Peter's,Saint-Peters,Georgetown,1,7,"Tysons, VA / Capital One Park",2026,WN2026
+02/21/2026,Georgetown,Saint Peter's,13,0,0,0,L,Saint Peter's,Saint-Peters,Georgetown,1,7,"Tysons, VA / Capital One Park",2026,WN2026
+02/27/2026,George Washington,Saint Peter's,17,0,0,0,L,Saint Peter's,Saint-Peters,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+02/28/2026,George Washington,Saint Peter's,8,2,0,0,L,Saint Peter's,Saint-Peters,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/01/2026,George Washington,Saint Peter's,9,6,0,0,L,Saint Peter's,Saint-Peters,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/06/2026,NJIT,Saint Peter's,13,3,0,0,L,Saint Peter's,Saint-Peters,NJIT,1,7,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/07/2026,NJIT,Saint Peter's,2,4,0,0,W,Saint Peter's,Saint-Peters,NJIT,1,10,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/07/2026,NJIT,Saint Peter's,8,4,0,0,L,Saint Peter's,Saint-Peters,NJIT,1,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/08/2026,NJIT,Saint Peter's,8,4,0,0,L,Saint Peter's,Saint-Peters,NJIT,1,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/11/2026,Lehigh,Saint Peter's,3,12,0,0,W,Saint Peter's,Saint-Peters,Lehigh,1,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+03/13/2026,Marist,Saint Peter's,5,4,0,0,L,Saint Peter's,Saint-Peters,Marist,1,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/14/2026,Marist,Saint Peter's,4,3,0,0,L,Saint Peter's,Saint-Peters,Marist,1,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/15/2026,Marist,Saint Peter's,11,5,0,0,L,Saint Peter's,Saint-Peters,Marist,1,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/18/2026,Fairleigh Dickinson,Saint Peter's,13,3,0,0,L,Saint Peter's,Saint-Peters,Fairleigh-Dickinson,1,8,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+03/20/2026,Saint Peter's,Fairfield,3,6,0,0,L,Saint Peter's,Saint-Peters,Fairfield,0,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+03/21/2026,Saint Peter's,Fairfield,1,11,0,0,L,Saint Peter's,Saint-Peters,Fairfield,0,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+03/22/2026,Saint Peter's,Fairfield,7,18,0,0,L,Saint Peter's,Saint-Peters,Fairfield,0,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+03/24/2026,Army,Saint Peter's,9,4,0,0,L,Saint Peter's,Saint-Peters,Army,1,9,"West Point, NY / Doubleday Field",2026,WN2026
+03/25/2026,La Salle,Saint Peter's,16,15,0,0,L,Saint Peter's,Saint-Peters,La-Salle,1,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+03/27/2026,Saint Peter's,Quinnipiac,2,12,0,0,L,Saint Peter's,Saint-Peters,Quinnipiac,0,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+03/28/2026,Saint Peter's,Quinnipiac,6,8,0,0,L,Saint Peter's,Saint-Peters,Quinnipiac,0,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+03/29/2026,Saint Peter's,Quinnipiac,4,8,0,0,L,Saint Peter's,Saint-Peters,Quinnipiac,0,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+03/31/2026,Monmouth,Saint Peter's,12,19,0,0,W,Saint Peter's,Saint-Peters,Monmouth,1,9,"West Long Branch, NJ / Monmouth Baseball Field",2026,WN2026
+04/02/2026,Canisius,Saint Peter's,11,0,0,0,L,Saint Peter's,Saint-Peters,Canisius,1,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+04/03/2026,Canisius,Saint Peter's,7,3,0,0,L,Saint Peter's,Saint-Peters,Canisius,1,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+04/03/2026,Canisius,Saint Peter's,7,3,0,0,L,Saint Peter's,Saint-Peters,Canisius,1,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+04/08/2026,Saint Peter's,La Salle,3,19,0,0,L,Saint Peter's,Saint-Peters,La-Salle,0,7,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+04/10/2026,Mount Saint Mary's,Saint Peter's,15,3,0,0,L,Saint Peter's,Saint-Peters,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+04/11/2026,Mount Saint Mary's,Saint Peter's,8,5,0,0,L,Saint Peter's,Saint-Peters,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+04/12/2026,Mount Saint Mary's,Saint Peter's,13,3,0,0,L,Saint Peter's,Saint-Peters,Mount-Saint-Marys,1,7,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+04/15/2026,Saint Peter's,Lafayette,15,5,0,0,W,Saint Peter's,Saint-Peters,Lafayette,0,7,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+04/18/2026,Saint Peter's,Iona,7,16,0,0,L,Saint Peter's,Saint-Peters,Iona,0,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+04/18/2026,Saint Peter's,Iona,6,9,0,0,L,Saint Peter's,Saint-Peters,Iona,0,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+04/19/2026,Iona,Saint Peter's,8,5,0,0,L,Saint Peter's,Saint-Peters,Iona,1,9,"New Rochelle, NY",2026,WN2026
+04/22/2026,Saint Peter's,Lehigh,5,11,0,0,L,Saint Peter's,Saint-Peters,Lehigh,0,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+04/24/2026,Saint Peter's,Niagara,9,11,0,0,L,Saint Peter's,Saint-Peters,Niagara,0,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+04/24/2026,Saint Peter's,Niagara,8,12,0,0,L,Saint Peter's,Saint-Peters,Niagara,0,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+04/26/2026,Saint Peter's,Niagara,5,18,0,0,L,Saint Peter's,Saint-Peters,Niagara,0,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+04/28/2026,Wagner,Saint Peter's,12,9,0,0,L,Saint Peter's,Saint-Peters,Wagner,1,9,"Staten Island, NY / SIUH Community Park",2026,WN2026
+04/29/2026,Lafayette,Saint Peter's,14,4,0,0,L,Saint Peter's,Saint-Peters,Lafayette,1,7,"Forks Township, PA / Kamine Stadium",2026,WN2026
+05/01/2026,Siena,Saint Peter's,10,14,0,0,W,Saint Peter's,Saint-Peters,Siena,1,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+05/02/2026,Siena,Saint Peter's,6,3,0,0,L,Saint Peter's,Saint-Peters,Siena,1,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+05/03/2026,Siena,Saint Peter's,5,2,0,0,L,Saint Peter's,Saint-Peters,Siena,1,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+05/05/2026,Seton Hall,Saint Peter's,4,2,0,0,L,Saint Peter's,Saint-Peters,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+05/08/2026,Saint Peter's,Merrimack,5,16,0,0,L,Saint Peter's,Saint-Peters,Merrimack,0,9,"Jersey City, NJ / Joseph J. Jaroschak Field / Box Score",2026,WN2026
+05/10/2026,Saint Peter's,Merrimack,3,11,0,0,L,Saint Peter's,Saint-Peters,Merrimack,0,9,"Jersey City, NJ / Joseph J. Jaroschak Field / Box Score",2026,WN2026
+05/10/2026,Saint Peter's,Merrimack,6,11,0,0,L,Saint Peter's,Saint-Peters,Merrimack,0,9,"Jersey City, NJ / Joseph J. Jaroschak Field / Box Score",2026,WN2026
+05/14/2026,Rider,Saint Peter's,11,2,0,0,L,Saint Peter's,Saint-Peters,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field / Box Score",2026,WN2026
+05/15/2026,Rider,Saint Peter's,4,3,0,0,L,Saint Peter's,Saint-Peters,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field / Box Score",2026,WN2026
+05/16/2026,Rider,Saint Peter's,12,5,0,0,L,Saint Peter's,Saint-Peters,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field / Box Score",2026,WN2026

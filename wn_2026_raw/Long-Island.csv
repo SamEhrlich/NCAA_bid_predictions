@@ -1,0 +1,51 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,San Diego State,Long Island,12,11,0,0,L,Long Island,Long-Island,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+02/14/2026,San Diego State,Long Island,12,5,0,0,L,Long Island,Long-Island,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+02/15/2026,San Diego State,Long Island,6,5,0,0,L,Long Island,Long-Island,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+02/20/2026,Jacksonville,Long Island,12,0,0,0,L,Long Island,Long-Island,Jacksonville,1,7,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+02/21/2026,Jacksonville,Long Island,12,7,0,0,L,Long Island,Long-Island,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+02/22/2026,Jacksonville,Long Island,5,4,0,0,L,Long Island,Long-Island,Jacksonville,1,7,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+02/22/2026,Jacksonville,Long Island,11,3,0,0,L,Long Island,Long-Island,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/07/2026,Long Island,Norfolk State,15,4,0,0,W,Long Island,Long-Island,Norfolk-State,0,7,"Brooklyn, NY / Long Island University Field",2026,WN2026
+03/07/2026,Long Island,Norfolk State,7,5,0,0,W,Long Island,Long-Island,Norfolk-State,0,9,"Brooklyn, NY / Long Island University Field",2026,WN2026
+03/08/2026,Long Island,Norfolk State,7,4,0,0,W,Long Island,Long-Island,Norfolk-State,0,9,"Brooklyn, NY / Long Island University Field",2026,WN2026
+03/10/2026,Long Island,Rider,6,7,0,0,L,Long Island,Long-Island,Rider,0,9,"Brooklyn, NY / Long Island University Field",2026,WN2026
+03/14/2026,Long Island,Wagner,15,4,0,0,W,Long Island,Long-Island,Wagner,0,7,"Brooklyn, NY / Long Island University Field",2026,WN2026
+03/15/2026,Long Island,Wagner,1,11,0,0,L,Long Island,Long-Island,Wagner,0,8,"Brooklyn, NY / Long Island University Field",2026,WN2026
+03/15/2026,Long Island,Wagner,5,9,0,0,L,Long Island,Long-Island,Wagner,0,9,"Brooklyn, NY / Long Island University Field",2026,WN2026
+03/17/2026,Iona,Long Island,5,3,0,0,L,Long Island,Long-Island,Iona,1,9,"New Rochelle, NY / City Park",2026,WN2026
+03/20/2026,Central Connecticut,Long Island,8,18,0,0,W,Long Island,Long-Island,Central-Connecticut,1,8,"New Britain, CT / Balf-Savin Field",2026,WN2026
+03/21/2026,Central Connecticut,Long Island,3,15,0,0,W,Long Island,Long-Island,Central-Connecticut,1,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+03/22/2026,Central Connecticut,Long Island,3,12,0,0,W,Long Island,Long-Island,Central-Connecticut,1,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+03/27/2026,Maryland Eastern Shore,Long Island,2,13,0,0,W,Long Island,Long-Island,Maryland-Eastern-Shore,1,8,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/28/2026,Maryland Eastern Shore,Long Island,0,12,0,0,W,Long Island,Long-Island,Maryland-Eastern-Shore,1,7,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/29/2026,Maryland Eastern Shore,Long Island,15,11,0,0,L,Long Island,Long-Island,Maryland-Eastern-Shore,1,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+04/03/2026,Long Island,Le Moyne,4,5,0,0,L,Long Island,Long-Island,Le-Moyne,0,14,"Brooklyn, NY / Long Island University Field",2026,WN2026
+04/03/2026,Long Island,Le Moyne,5,12,0,0,L,Long Island,Long-Island,Le-Moyne,0,9,"Brooklyn, NY / Long Island University Field",2026,WN2026
+04/04/2026,Long Island,Le Moyne,12,9,0,0,W,Long Island,Long-Island,Le-Moyne,0,9,"Brooklyn, NY / Long Island University Field",2026,WN2026
+04/08/2026,Albany,Long Island,6,5,0,0,L,Long Island,Long-Island,Albany,1,9,"Albany, NY / Varsity Field",2026,WN2026
+04/10/2026,New Haven,Long Island,1,2,0,0,W,Long Island,Long-Island,New-Haven,1,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+04/11/2026,New Haven,Long Island,16,23,0,0,W,Long Island,Long-Island,New-Haven,1,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+04/12/2026,New Haven,Long Island,12,11,0,0,L,Long Island,Long-Island,New-Haven,1,10,"West Haven, CT / Frank Vieira Field",2026,WN2026
+04/14/2026,Long Island,Iona,10,4,0,0,W,Long Island,Long-Island,Iona,0,9,"Brooklyn, NY / Long Island University Field",2026,WN2026
+04/17/2026,Coppin State,Long Island,7,16,0,0,W,Long Island,Long-Island,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+04/18/2026,Coppin State,Long Island,8,12,0,0,W,Long Island,Long-Island,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+04/19/2026,Coppin State,Long Island,1,13,0,0,W,Long Island,Long-Island,Coppin-State,1,8,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+04/21/2026,Long Island,Monmouth,6,10,0,0,L,Long Island,Long-Island,Monmouth,0,9,"Brooklyn, NY / Long Island University Field",2026,WN2026
+04/24/2026,Long Island,Delaware State,6,4,0,0,W,Long Island,Long-Island,Delaware-State,0,9,"Brooklyn, NY / Long Island University Field",2026,WN2026
+04/24/2026,Long Island,Delaware State,11,1,0,0,W,Long Island,Long-Island,Delaware-State,0,7,"Brooklyn, NY / Long Island University Field",2026,WN2026
+04/25/2026,Long Island,Delaware State,13,2,0,0,W,Long Island,Long-Island,Delaware-State,0,7,"Brooklyn, NY / Long Island University Field",2026,WN2026
+04/28/2026,Army,Long Island,7,0,0,0,L,Long Island,Long-Island,Army,1,9,"West Point, NY / Doubleday Field",2026,WN2026
+05/01/2026,Mercyhurst,Long Island,3,13,0,0,W,Long Island,Long-Island,Mercyhurst,1,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+05/02/2026,Mercyhurst,Long Island,5,6,0,0,W,Long Island,Long-Island,Mercyhurst,1,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+05/03/2026,Mercyhurst,Long Island,2,4,0,0,W,Long Island,Long-Island,Mercyhurst,1,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+05/08/2026,Long Island,Stonehill,6,5,0,0,W,Long Island,Long-Island,Stonehill,0,9,"Brooklyn, NY / Long Island University Field / Box Score",2026,WN2026
+05/08/2026,Long Island,Stonehill,5,2,0,0,W,Long Island,Long-Island,Stonehill,0,9,"Brooklyn, NY / Long Island University Field / Box Score",2026,WN2026
+05/10/2026,Long Island,Stonehill,7,3,0,0,W,Long Island,Long-Island,Stonehill,0,9,"Brooklyn, NY / Long Island University Field / Box Score",2026,WN2026
+05/12/2026,Long Island,Manhattan,1,11,0,0,L,Long Island,Long-Island,Manhattan,0,7,"Brooklyn, NY / Long Island University Field",2026,WN2026
+05/14/2026,Fairleigh Dickinson,Long Island,9,20,0,0,W,Long Island,Long-Island,Fairleigh-Dickinson,1,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+05/15/2026,Fairleigh Dickinson,Long Island,10,12,0,0,W,Long Island,Long-Island,Fairleigh-Dickinson,1,11,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+05/16/2026,Fairleigh Dickinson,Long Island,22,12,0,0,L,Long Island,Long-Island,Fairleigh-Dickinson,1,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+05/21/2026,Le Moyne,Long Island,5,11,0,1,W,Long Island,Long-Island,Le-Moyne,0,9,"Augusta, NJ / Skylands Stadium / Box Score / Recap",2026,WN2026
+05/22/2026,Fairleigh Dickinson,Long Island,3,10,0,1,W,Long Island,Long-Island,Fairleigh-Dickinson,0,9,"Augusta, NJ / Skylands Stadium",2026,WN2026
+05/24/2026,Fairleigh Dickinson,Long Island,8,22,0,1,W,Long Island,Long-Island,Fairleigh-Dickinson,0,7,"Augusta, NJ / Skylands Stadium",2026,WN2026

@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,California,Santa Clara,2,13,0,0,W,Santa Clara,Santa-Clara,California,1,8,"Berkeley, CA / Evans Diamond",2026,WN2026
+02/14/2026,California,Santa Clara,5,4,0,0,L,Santa Clara,Santa-Clara,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+02/14/2026,California,Santa Clara,4,3,0,0,L,Santa Clara,Santa-Clara,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+02/16/2026,Santa Clara,California,10,4,0,0,W,Santa Clara,Santa-Clara,California,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+02/18/2026,Santa Clara,San Jose State,8,6,0,0,W,Santa Clara,Santa-Clara,San-Jose-State,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+02/20/2026,Santa Clara,UC Davis,5,2,0,0,W,Santa Clara,Santa-Clara,UC-Davis,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+02/21/2026,Santa Clara,UC Davis,4,6,0,0,L,Santa Clara,Santa-Clara,UC-Davis,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+02/22/2026,Santa Clara,UC Davis,8,13,0,0,L,Santa Clara,Santa-Clara,UC-Davis,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+02/27/2026,Santa Clara,UNLV,4,5,0,0,L,Santa Clara,Santa-Clara,UNLV,0,10,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+02/28/2026,Santa Clara,UNLV,5,8,0,0,L,Santa Clara,Santa-Clara,UNLV,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/01/2026,Santa Clara,UNLV,5,3,0,0,W,Santa Clara,Santa-Clara,UNLV,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/05/2026,Oklahoma,Santa Clara,2,1,0,0,L,Santa Clara,Santa-Clara,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/07/2026,Oklahoma,Santa Clara,8,0,0,0,L,Santa Clara,Santa-Clara,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/08/2026,Oklahoma,Santa Clara,8,6,0,0,L,Santa Clara,Santa-Clara,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/10/2026,Santa Clara,Pittsburgh,4,3,0,0,W,Santa Clara,Santa-Clara,Pittsburgh,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/13/2026,Santa Clara,Utah Tech,8,1,0,0,W,Santa Clara,Santa-Clara,Utah-Tech,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/14/2026,Santa Clara,Utah Tech,4,1,0,0,W,Santa Clara,Santa-Clara,Utah-Tech,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/15/2026,Santa Clara,Utah Tech,5,4,0,0,W,Santa Clara,Santa-Clara,Utah-Tech,0,10,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/18/2026,Santa Clara,Connecticut,5,12,0,0,L,Santa Clara,Santa-Clara,Connecticut,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/20/2026,San Francisco,Santa Clara,2,1,0,0,L,Santa Clara,Santa-Clara,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+03/21/2026,San Francisco,Santa Clara,2,1,0,0,L,Santa Clara,Santa-Clara,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+03/22/2026,San Francisco,Santa Clara,6,5,0,0,L,Santa Clara,Santa-Clara,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+03/24/2026,Santa Clara,San Jose State,6,18,0,0,L,Santa Clara,Santa-Clara,San-Jose-State,0,7,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/27/2026,Santa Clara,Loyola-Marymount,17,2,0,0,W,Santa Clara,Santa-Clara,Loyola-Marymount,0,7,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/28/2026,Santa Clara,Loyola-Marymount,4,2,0,0,W,Santa Clara,Santa-Clara,Loyola-Marymount,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/29/2026,Santa Clara,Loyola-Marymount,10,5,0,0,W,Santa Clara,Santa-Clara,Loyola-Marymount,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/30/2026,Santa Clara,San Jose State,5,3,0,0,W,Santa Clara,Santa-Clara,San-Jose-State,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+04/02/2026,San Diego,Santa Clara,5,1,0,0,L,Santa Clara,Santa-Clara,San-Diego,1,9,"San Diego, CA / Fowler Park",2026,WN2026
+04/03/2026,San Diego,Santa Clara,6,1,0,0,L,Santa Clara,Santa-Clara,San-Diego,1,9,"San Diego, CA / Fowler Park",2026,WN2026
+04/04/2026,San Diego,Santa Clara,13,7,0,0,L,Santa Clara,Santa-Clara,San-Diego,1,9,"San Diego, CA / Fowler Park",2026,WN2026
+04/06/2026,Santa Clara,Clemson,4,6,0,0,L,Santa Clara,Santa-Clara,Clemson,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+04/10/2026,Santa Clara,Saint Mary's College,1,8,0,0,L,Santa Clara,Santa-Clara,Saint-Marys-College,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+04/11/2026,Santa Clara,Saint Mary's College,4,8,0,0,L,Santa Clara,Santa-Clara,Saint-Marys-College,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+04/12/2026,Santa Clara,Saint Mary's College,11,15,0,0,L,Santa Clara,Santa-Clara,Saint-Marys-College,0,13,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+04/15/2026,Stanford,Santa Clara,1,2,0,0,W,Santa Clara,Santa-Clara,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/17/2026,Pacific,Santa Clara,3,1,0,0,L,Santa Clara,Santa-Clara,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+04/18/2026,Pacific,Santa Clara,6,3,0,0,L,Santa Clara,Santa-Clara,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+04/19/2026,Pacific,Santa Clara,7,1,0,0,L,Santa Clara,Santa-Clara,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+04/22/2026,Santa Clara,Stanford,4,6,0,0,L,Santa Clara,Santa-Clara,Stanford,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+04/24/2026,Santa Clara,Portland,6,3,0,0,W,Santa Clara,Santa-Clara,Portland,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+04/25/2026,Santa Clara,Portland,3,1,0,0,W,Santa Clara,Santa-Clara,Portland,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+04/26/2026,Santa Clara,Portland,1,3,0,0,L,Santa Clara,Santa-Clara,Portland,0,10,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+04/28/2026,Cal Poly,Santa Clara,7,0,0,0,L,Santa Clara,Santa-Clara,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+05/01/2026,Gonzaga,Santa Clara,3,5,0,0,W,Santa Clara,Santa-Clara,Gonzaga,1,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+05/02/2026,Gonzaga,Santa Clara,7,6,0,0,L,Santa Clara,Santa-Clara,Gonzaga,1,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+05/03/2026,Gonzaga,Santa Clara,4,12,0,0,W,Santa Clara,Santa-Clara,Gonzaga,1,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+05/05/2026,Santa Clara,Cal Poly,11,4,0,0,W,Santa Clara,Santa-Clara,Cal-Poly,0,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+05/08/2026,Seattle University,Santa Clara,1,7,0,0,W,Santa Clara,Santa-Clara,Seattle-University,1,9,"Bellevue, WA / Bannerwood Park / Box Score",2026,WN2026
+05/09/2026,Seattle University,Santa Clara,4,11,0,0,W,Santa Clara,Santa-Clara,Seattle-University,1,9,"Bellevue, WA / Bannerwood Park / Box Score",2026,WN2026
+05/10/2026,Seattle University,Santa Clara,2,4,0,0,W,Santa Clara,Santa-Clara,Seattle-University,1,9,"Bellevue, WA / Bannerwood Park / Box Score",2026,WN2026
+05/14/2026,Santa Clara,Pepperdine,10,0,0,0,W,Santa Clara,Santa-Clara,Pepperdine,0,7,"Santa Clara, CA / Stephen Schott Stadium / Box Score",2026,WN2026
+05/15/2026,Santa Clara,Pepperdine,9,2,0,0,W,Santa Clara,Santa-Clara,Pepperdine,0,9,"Santa Clara, CA / Stephen Schott Stadium / Box Score",2026,WN2026
+05/16/2026,Santa Clara,Pepperdine,3,2,0,0,W,Santa Clara,Santa-Clara,Pepperdine,0,9,"Santa Clara, CA / Stephen Schott Stadium / Box Score",2026,WN2026
+05/20/2026,San Francisco,Santa Clara,10,4,0,1,L,Santa Clara,Santa-Clara,San-Francisco,0,9,"Scottsdale, AZ / Scottsdale Stadium / Box Score / Recap",2026,WN2026

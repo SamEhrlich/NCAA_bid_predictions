@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>2026 NCAA D1 Baseball — Elo Leaderboard</title>
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-brand">NCAA D1 Baseball <span>Elo</span></div>
+  <div class="nav-links">
+    <a href="index.html"   data-nav="leaderboard">Leaderboard</a>
+    <a href="bracket.html" data-nav="bracket">2026 Bracket</a>
+    <a href="whatif.html"  data-nav="whatif">What-If</a>
+    <a href="compare.html" data-nav="compare">Compare</a>
+    <a href="conference.html" data-nav="conference">Conferences</a>
+    <a href="extras.html"  data-nav="extras">Upsets</a>
+  </div>
+  <div class="nav-meta" id="nav-meta">loading...</div>
+</nav>
+
+<div class="container">
+  <h1 class="section-title">
+    Leaderboard
+    <span class="sub" id="lb-sub">click any team for trajectory + schedule</span>
+  </h1>
+
+  <div class="search-wrap">
+    <input id="search" class="search-input" type="text"
+           placeholder="Search team or conference..." autocomplete="off" />
+  </div>
+
+  <table class="lb-table" id="lb">
+    <thead>
+      <tr>
+        <th data-sort="rank"        class="sort-asc">Rank</th>
+        <th data-sort="team">Team</th>
+        <th data-sort="conf">Conference</th>
+        <th data-sort="record">2026 Record</th>
+        <th data-sort="elo"         class="numeric">Elo</th>
+        <th data-sort="champ_pct"   class="numeric">Champ %</th>
+        <th data-sort="cws_pct"     class="numeric">CWS %</th>
+      </tr>
+    </thead>
+    <tbody id="lb-body"></tbody>
+  </table>
+
+  <p id="lb-empty" class="loading" style="display:none;">No teams match.</p>
+</div>
+
+<footer class="footer">
+  Elo model fit on D1 baseball games 2021–2026
+  &middot; data: <a href="https://www.warrennolan.com/baseball/2026" target="_blank">Warren Nolan</a>, NCAA.com
+  &middot; <a href="https://github.com/SamEhrlich/NCAA_bid_predictions">source</a>
+</footer>
+
+<script type="module">
+import { loadJSON, fmtElo, fmtPct, makeLogoEl, setActiveNav, $ } from "./js/common.js";
+
+setActiveNav("leaderboard");
+
+const [teams, odds, meta] = await Promise.all([
+  loadJSON("teams.json"),
+  loadJSON("odds.json"),
+  loadJSON("meta.json"),
+]);
+$("#nav-meta").textContent =
+  `${meta.n_games_fit.toLocaleString()} games · ${meta.n_sims.toLocaleString()} sims · fit ${meta.generated_at.slice(0,10)}`;
+
+// Merge odds onto teams (bracket teams only)
+const oddsMap = new Map(odds.teams.map(o => [o.team, o]));
+const merged = teams.map(t => ({
+  ...t,
+  champ_pct: oddsMap.get(t.team)?.champ_pct ?? null,
+  cws_pct:   oddsMap.get(t.team)?.cws_pct   ?? null,
+}));
+
+// ---- sort state
+const state = { col: "rank", dir: 1 };  // dir 1 = asc, -1 = desc
+
+function cmp(a, b) {
+  const ka = sortKey(a), kb = sortKey(b);
+  if (ka == null && kb == null) return 0;
+  if (ka == null) return 1;        // nulls last
+  if (kb == null) return -1;
+  if (ka < kb) return -1 * state.dir;
+  if (ka > kb) return  1 * state.dir;
+  return 0;
+}
+function sortKey(t) {
+  switch (state.col) {
+    case "rank":   return t.rank;
+    case "team":   return t.team.toLowerCase();
+    case "conf":   return (t.conf || "zzz").toLowerCase();
+    case "record": return -(t.wins_2026 - t.losses_2026);  // best record first
+    case "elo":    return -t.elo;
+    case "champ_pct": return t.champ_pct == null ? null : -t.champ_pct;
+    case "cws_pct":   return t.cws_pct   == null ? null : -t.cws_pct;
+  }
+}
+
+function render(filter = "") {
+  const body = $("#lb-body");
+  body.innerHTML = "";
+  const f = filter.trim().toLowerCase();
+  const filtered = f
+    ? merged.filter(t => t.team.toLowerCase().includes(f) ||
+                          (t.conf || "").toLowerCase().includes(f))
+    : merged;
+  const sorted = [...filtered].sort(cmp);
+
+  for (const t of sorted) {
+    const tr = document.createElement("tr");
+    tr.addEventListener("click", () => {
+      window.location.href = `team.html?slug=${encodeURIComponent(t.slug)}`;
+    });
+
+    const teamCell = document.createElement("td");
+    teamCell.className = "team";
+    const accentBar = document.createElement("span");
+    accentBar.style.cssText =
+      `display:inline-block;width:3px;height:18px;background:${t.color};border-radius:2px;`;
+    teamCell.appendChild(accentBar);
+    teamCell.appendChild(makeLogoEl(t));
+    const nameSpan = document.createElement("span");
+    nameSpan.textContent = t.team;
+    teamCell.appendChild(nameSpan);
+
+    tr.innerHTML = `<td class="rank">#${t.rank}</td>`;
+    tr.appendChild(teamCell);
+    tr.innerHTML += `
+      <td>${t.conf || "—"}</td>
+      <td>${t.wins_2026}-${t.losses_2026}</td>
+      <td class="numeric">${fmtElo(t.elo)}</td>
+      <td class="numeric">${t.champ_pct != null ? fmtPct(t.champ_pct, 1) : "—"}</td>
+      <td class="numeric">${t.cws_pct   != null ? fmtPct(t.cws_pct,   1) : "—"}</td>
+    `;
+    body.appendChild(tr);
+  }
+  $("#lb-empty").style.display = sorted.length === 0 ? "block" : "none";
+  document.querySelectorAll("#lb thead th").forEach(th => {
+    th.classList.remove("sort-asc", "sort-desc");
+    if (th.dataset.sort === state.col) {
+      th.classList.add(state.dir === 1 ? "sort-asc" : "sort-desc");
+    }
+  });
+}
+
+// Header click → sort
+document.querySelectorAll("#lb thead th").forEach(th => {
+  th.addEventListener("click", () => {
+    const col = th.dataset.sort;
+    if (state.col === col) state.dir *= -1;
+    else { state.col = col; state.dir = 1; }
+    render($("#search").value);
+  });
+});
+
+// Search input
+$("#search").addEventListener("input", e => render(e.target.value));
+
+render();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,42 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/20/2026,Mercer,Columbia,14,8,0,0,L,Columbia,Columbia,Mercer,1,9,"Macon, GA / Claude Smith Field",2026,WN2026
+02/21/2026,Mercer,Columbia,20,6,0,0,L,Columbia,Columbia,Mercer,1,9,"Macon, GA / Claude Smith Field",2026,WN2026
+02/22/2026,Mercer,Columbia,5,4,0,0,L,Columbia,Columbia,Mercer,1,9,"Macon, GA / Claude Smith Field",2026,WN2026
+02/27/2026,Kansas State,Columbia,8,9,0,0,W,Columbia,Columbia,Kansas-State,1,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+02/27/2026,Kansas State,Columbia,2,1,0,0,L,Columbia,Columbia,Kansas-State,1,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+02/28/2026,Kansas State,Columbia,5,2,0,0,L,Columbia,Columbia,Kansas-State,1,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/06/2026,West Virginia,Columbia,4,7,0,0,W,Columbia,Columbia,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+03/07/2026,West Virginia,Columbia,9,5,0,0,L,Columbia,Columbia,West-Virginia,1,10,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+03/08/2026,West Virginia,Columbia,16,1,0,0,L,Columbia,Columbia,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+03/13/2026,South Florida,Columbia,6,3,0,0,L,Columbia,Columbia,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/14/2026,South Florida,Columbia,2,0,0,0,L,Columbia,Columbia,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/14/2026,South Florida,Columbia,10,6,0,0,L,Columbia,Columbia,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/17/2026,UCF,Columbia,8,5,0,0,L,Columbia,Columbia,UCF,1,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/21/2026,Columbia,Harvard,1,4,0,0,L,Columbia,Columbia,Harvard,0,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+03/21/2026,Columbia,Harvard,5,3,0,0,W,Columbia,Columbia,Harvard,0,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+03/22/2026,Columbia,Harvard,8,3,0,0,W,Columbia,Columbia,Harvard,0,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+03/25/2026,Columbia,Manhattan,9,17,0,0,L,Columbia,Columbia,Manhattan,0,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+03/29/2026,Dartmouth,Columbia,3,2,0,0,L,Columbia,Columbia,Dartmouth,1,10,"Hanover, NH / Red Rolfe Field at Biondi Park",2026,WN2026
+03/29/2026,Dartmouth,Columbia,1,3,0,0,W,Columbia,Columbia,Dartmouth,1,9,"Hanover, NH / Red Rolfe Field at Biondi Park",2026,WN2026
+03/30/2026,Dartmouth,Columbia,5,0,0,0,L,Columbia,Columbia,Dartmouth,1,9,"Hanover, NH / Red Rolfe Field at Biondi Park",2026,WN2026
+03/31/2026,Fordham,Columbia,9,8,0,0,L,Columbia,Columbia,Fordham,1,9,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+04/04/2026,Columbia,Penn,5,9,0,0,L,Columbia,Columbia,Penn,0,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/04/2026,Columbia,Penn,8,9,0,0,L,Columbia,Columbia,Penn,0,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/04/2026,Columbia,Penn,21,11,0,0,W,Columbia,Columbia,Penn,0,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/08/2026,Columbia,Fordham,11,5,0,0,W,Columbia,Columbia,Fordham,0,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/11/2026,Columbia,Princeton,7,11,0,0,L,Columbia,Columbia,Princeton,0,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/11/2026,Columbia,Princeton,8,6,0,0,W,Columbia,Columbia,Princeton,0,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/12/2026,Columbia,Princeton,2,4,0,0,L,Columbia,Columbia,Princeton,0,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/14/2026,Fairfield,Columbia,6,13,0,0,W,Columbia,Columbia,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/18/2026,Brown,Columbia,6,1,0,0,L,Columbia,Columbia,Brown,1,9,"Providence, RI / Murray Stadium",2026,WN2026
+04/18/2026,Brown,Columbia,2,11,0,0,W,Columbia,Columbia,Brown,1,9,"Providence, RI / Murray Stadium",2026,WN2026
+04/22/2026,Columbia,Stony Brook,8,4,0,0,W,Columbia,Columbia,Stony-Brook,0,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/24/2026,Columbia,Yale,6,4,0,0,W,Columbia,Columbia,Yale,0,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/26/2026,Columbia,Yale,9,8,0,0,W,Columbia,Columbia,Yale,0,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/29/2026,Brown,Columbia,16,8,0,0,L,Columbia,Columbia,Brown,1,9,"Providence, RI / Murray Stadium",2026,WN2026
+05/02/2026,Cornell,Columbia,7,2,0,0,L,Columbia,Columbia,Cornell,1,9,"Ithaca, NY / Booth Field",2026,WN2026
+05/02/2026,Cornell,Columbia,0,2,0,0,W,Columbia,Columbia,Cornell,1,9,"Ithaca, NY / Booth Field",2026,WN2026
+05/03/2026,Cornell,Columbia,1,9,0,0,W,Columbia,Columbia,Cornell,1,9,"Ithaca, NY / Booth Field",2026,WN2026
+05/15/2026,Yale,Columbia,12,3,0,1,L,Columbia,Columbia,Yale,0,9,"West Haven, CT / George H.W. Bush 48 Field / Box Score / Recap",2026,WN2026
+05/16/2026,Penn,Columbia,3,6,0,1,W,Columbia,Columbia,Penn,0,9,"West Haven, CT / George H.W. Bush 48 Field / Box Score",2026,WN2026
+05/17/2026,Brown,Columbia,4,2,0,1,L,Columbia,Columbia,Brown,0,9,"West Haven, CT / George H.W. Bush 48 Field / Box Score",2026,WN2026

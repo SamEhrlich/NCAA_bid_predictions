@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UNLV,Austin Peay,7,3,0,0,W,UNLV,UNLV,Austin-Peay,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/14/2026,UNLV,Austin Peay,9,8,0,0,W,UNLV,UNLV,Austin-Peay,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/14/2026,UNLV,Austin Peay,3,5,0,0,L,UNLV,UNLV,Austin-Peay,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/15/2026,UNLV,Austin Peay,12,13,0,0,L,UNLV,UNLV,Austin-Peay,0,10,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/20/2026,UNLV,Bradley,12,9,0,0,W,UNLV,UNLV,Bradley,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/21/2026,UNLV,Bradley,13,5,0,0,W,UNLV,UNLV,Bradley,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/22/2026,UNLV,Bradley,20,9,0,0,W,UNLV,UNLV,Bradley,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/24/2026,UNLV,Western Michigan,9,5,0,0,W,UNLV,UNLV,Western-Michigan,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/25/2026,UNLV,Western Michigan,16,1,0,0,W,UNLV,UNLV,Western-Michigan,0,7,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/27/2026,Santa Clara,UNLV,4,5,0,0,W,UNLV,UNLV,Santa-Clara,1,10,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+02/28/2026,Santa Clara,UNLV,5,8,0,0,W,UNLV,UNLV,Santa-Clara,1,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/01/2026,Santa Clara,UNLV,5,3,0,0,L,UNLV,UNLV,Santa-Clara,1,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/03/2026,UNLV,Northern Colorado,11,1,0,0,W,UNLV,UNLV,Northern-Colorado,0,7,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/04/2026,UNLV,Northern Colorado,7,9,0,0,L,UNLV,UNLV,Northern-Colorado,0,10,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/06/2026,Minnesota,UNLV,10,0,0,0,L,UNLV,UNLV,Minnesota,1,7,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/07/2026,Southern Illinois,UNLV,8,16,0,1,W,UNLV,UNLV,Southern-Illinois,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/08/2026,Northwestern,UNLV,5,10,0,1,W,UNLV,UNLV,Northwestern,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/10/2026,UNLV,UC Riverside,11,10,0,0,W,UNLV,UNLV,UC-Riverside,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/13/2026,Air Force,UNLV,16,5,0,0,L,UNLV,UNLV,Air-Force,1,7,"Colorado Springs, CO / Erdle Field",2026,WN2026
+03/14/2026,Air Force,UNLV,18,16,0,0,L,UNLV,UNLV,Air-Force,1,9,"Colorado Springs, CO / Erdle Field",2026,WN2026
+03/14/2026,Air Force,UNLV,15,11,0,0,L,UNLV,UNLV,Air-Force,1,9,"Colorado Springs, CO / Erdle Field",2026,WN2026
+03/17/2026,UNLV,Cal State Fullerton,4,3,0,0,W,UNLV,UNLV,Cal-State-Fullerton,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/21/2026,UNLV,Utah Tech,11,1,0,0,W,UNLV,UNLV,Utah-Tech,0,7,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/22/2026,UNLV,Utah Tech,1,11,0,0,L,UNLV,UNLV,Utah-Tech,0,8,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/23/2026,UNLV,Arizona State,11,12,0,0,L,UNLV,UNLV,Arizona-State,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/27/2026,UNLV,San Jose State,18,7,0,0,W,UNLV,UNLV,San-Jose-State,0,7,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/28/2026,UNLV,San Jose State,15,8,0,0,W,UNLV,UNLV,San-Jose-State,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/29/2026,UNLV,San Jose State,8,18,0,0,L,UNLV,UNLV,San-Jose-State,0,7,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/30/2026,UNLV,Cal State Bakersfield,14,17,0,0,L,UNLV,UNLV,Cal-State-Bakersfield,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+04/02/2026,UNLV,New Mexico,15,10,0,0,W,UNLV,UNLV,New-Mexico,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+04/03/2026,UNLV,New Mexico,6,7,0,0,L,UNLV,UNLV,New-Mexico,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+04/04/2026,UNLV,New Mexico,2,12,0,0,L,UNLV,UNLV,New-Mexico,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+04/08/2026,Arizona State,UNLV,5,7,0,0,W,UNLV,UNLV,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/10/2026,Grand Canyon,UNLV,8,13,0,0,W,UNLV,UNLV,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/11/2026,Grand Canyon,UNLV,6,1,0,0,L,UNLV,UNLV,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/12/2026,Grand Canyon,UNLV,8,14,0,0,W,UNLV,UNLV,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/14/2026,Utah Tech,UNLV,6,8,0,0,W,UNLV,UNLV,Utah-Tech,1,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+04/17/2026,UNLV,Washington State,2,13,0,0,L,UNLV,UNLV,Washington-State,0,8,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+04/18/2026,UNLV,Washington State,12,3,0,0,W,UNLV,UNLV,Washington-State,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+04/19/2026,UNLV,Washington State,8,9,0,0,L,UNLV,UNLV,Washington-State,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+04/24/2026,Nevada,UNLV,13,3,0,0,L,UNLV,UNLV,Nevada,1,8,"Reno, NV / William Peccole Park",2026,WN2026
+04/25/2026,Nevada,UNLV,7,8,0,0,W,UNLV,UNLV,Nevada,1,9,"Reno, NV / William Peccole Park",2026,WN2026
+04/26/2026,Nevada,UNLV,9,1,0,0,L,UNLV,UNLV,Nevada,1,9,"Reno, NV / William Peccole Park",2026,WN2026
+04/28/2026,Utah Tech,UNLV,8,3,0,0,L,UNLV,UNLV,Utah-Tech,1,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+05/01/2026,UNLV,Milwaukee,14,4,0,0,W,UNLV,UNLV,Milwaukee,0,8,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+05/02/2026,UNLV,Milwaukee,1,4,0,0,L,UNLV,UNLV,Milwaukee,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+05/03/2026,UNLV,Milwaukee,8,7,0,0,W,UNLV,UNLV,Milwaukee,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+05/05/2026,UNLV,BYU,2,5,0,0,L,UNLV,UNLV,BYU,0,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+05/08/2026,Fresno State,UNLV,6,11,0,0,W,UNLV,UNLV,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium / Box Score",2026,WN2026
+05/09/2026,Fresno State,UNLV,1,17,0,0,W,UNLV,UNLV,Fresno-State,1,7,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium / Box Score",2026,WN2026
+05/10/2026,Fresno State,UNLV,14,13,0,0,L,UNLV,UNLV,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium / Box Score",2026,WN2026
+05/14/2026,UNLV,San Diego State,1,15,0,0,L,UNLV,UNLV,San-Diego-State,0,7,"Paradise, NV / Earl Wilson Stadium / Box Score",2026,WN2026
+05/15/2026,UNLV,San Diego State,3,1,0,0,W,UNLV,UNLV,San-Diego-State,0,9,"Paradise, NV / Earl Wilson Stadium / Box Score",2026,WN2026
+05/16/2026,UNLV,San Diego State,9,7,0,0,W,UNLV,UNLV,San-Diego-State,0,10,"Paradise, NV / Earl Wilson Stadium / Box Score",2026,WN2026
+05/21/2026,Air Force,UNLV,17,2,0,1,L,UNLV,UNLV,Air-Force,0,7,"Mesa, AZ / Sloan Park / Box Score / Recap",2026,WN2026

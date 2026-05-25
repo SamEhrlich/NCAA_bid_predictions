@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Air Force,Penn State,15,3,0,1,L,Penn State,Penn-State,Air-Force,0,8,"Goodyear, AZ / Goodyear Ballpark",2026,WN2026
+02/14/2026,Grand Canyon,Penn State,3,9,0,1,W,Penn State,Penn-State,Grand-Canyon,0,9,"Scottsdale, AZ / Salt River Fields",2026,WN2026
+02/15/2026,Kansas State,Penn State,24,5,0,1,L,Penn State,Penn-State,Kansas-State,0,7,"Scottsdale, AZ / Sloan Park",2026,WN2026
+02/20/2026,Richmond,Penn State,0,5,0,0,W,Penn State,Penn-State,Richmond,1,9,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+02/21/2026,Richmond,Penn State,3,0,0,0,L,Penn State,Penn-State,Richmond,1,9,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+02/21/2026,Richmond,Penn State,4,3,0,0,L,Penn State,Penn-State,Richmond,1,9,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+02/27/2026,Indiana State,Penn State,8,5,0,1,L,Penn State,Penn-State,Indiana-State,0,9,"Nassau, Bahamas",2026,WN2026
+02/28/2026,Indiana State,Penn State,2,1,0,1,L,Penn State,Penn-State,Indiana-State,0,9,"Nassau, Bahamas",2026,WN2026
+03/01/2026,Indiana State,Penn State,8,9,0,1,W,Penn State,Penn-State,Indiana-State,0,11,"Nassau, Bahamas",2026,WN2026
+03/04/2026,Penn State,Saint John's,12,2,0,0,W,Penn State,Penn-State,Saint-Johns,0,7,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/06/2026,Texas Tech,Penn State,15,7,0,0,L,Penn State,Penn-State,Texas-Tech,1,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/07/2026,Texas Tech,Penn State,21,6,0,0,L,Penn State,Penn-State,Texas-Tech,1,7,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/08/2026,Texas Tech,Penn State,14,4,0,0,L,Penn State,Penn-State,Texas-Tech,1,7,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/10/2026,Georgetown,Penn State,8,2,0,0,L,Penn State,Penn-State,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/11/2026,Georgetown,Penn State,5,4,0,0,L,Penn State,Penn-State,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/13/2026,Penn State,Iowa,11,6,0,0,W,Penn State,Penn-State,Iowa,0,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/14/2026,Penn State,Iowa,4,13,0,0,L,Penn State,Penn-State,Iowa,0,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/15/2026,Penn State,Iowa,4,12,0,0,L,Penn State,Penn-State,Iowa,0,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/20/2026,Purdue,Penn State,12,7,0,0,L,Penn State,Penn-State,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+03/21/2026,Purdue,Penn State,2,1,0,0,L,Penn State,Penn-State,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+03/22/2026,Purdue,Penn State,9,14,0,0,W,Penn State,Penn-State,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+03/24/2026,Penn State,Saint Bonaventure,8,6,0,0,W,Penn State,Penn-State,Saint-Bonaventure,0,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/25/2026,Penn State,Bucknell,0,9,0,0,L,Penn State,Penn-State,Bucknell,0,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/27/2026,Penn State,Illinois,9,8,0,0,W,Penn State,Penn-State,Illinois,0,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/28/2026,Penn State,Illinois,5,16,0,0,L,Penn State,Penn-State,Illinois,0,7,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/29/2026,Penn State,Illinois,0,6,0,0,L,Penn State,Penn-State,Illinois,0,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+04/04/2026,Nebraska,Penn State,8,7,0,0,L,Penn State,Penn-State,Nebraska,1,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/04/2026,Nebraska,Penn State,13,1,0,0,L,Penn State,Penn-State,Nebraska,1,7,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/05/2026,Nebraska,Penn State,8,6,0,0,L,Penn State,Penn-State,Nebraska,1,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/07/2026,Penn State,Fairleigh Dickinson,11,5,0,0,W,Penn State,Penn-State,Fairleigh-Dickinson,0,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+04/10/2026,Ohio State,Penn State,6,10,0,0,W,Penn State,Penn-State,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/11/2026,Ohio State,Penn State,3,2,0,0,L,Penn State,Penn-State,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/12/2026,Ohio State,Penn State,15,10,0,0,L,Penn State,Penn-State,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/15/2026,West Virginia,Penn State,3,1,0,1,L,Penn State,Penn-State,West-Virginia,0,9,"Hagerstown, MD / Meritus Park",2026,WN2026
+04/17/2026,Penn State,Rutgers,11,13,0,0,L,Penn State,Penn-State,Rutgers,0,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+04/18/2026,Penn State,Rutgers,1,4,0,0,L,Penn State,Penn-State,Rutgers,0,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+04/19/2026,Penn State,Rutgers,14,13,0,0,W,Penn State,Penn-State,Rutgers,0,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+04/21/2026,Penn State,Bucknell,9,7,0,0,W,Penn State,Penn-State,Bucknell,0,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+04/24/2026,Oregon,Penn State,5,4,0,0,L,Penn State,Penn-State,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+04/25/2026,Oregon,Penn State,5,4,0,0,L,Penn State,Penn-State,Oregon,1,10,"Eugene, OR / PK Park",2026,WN2026
+04/26/2026,Oregon,Penn State,5,0,0,0,L,Penn State,Penn-State,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+05/02/2026,Penn State,Minnesota,4,5,0,0,L,Penn State,Penn-State,Minnesota,0,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+05/02/2026,Penn State,Minnesota,3,5,0,0,L,Penn State,Penn-State,Minnesota,0,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+05/03/2026,Penn State,Minnesota,4,3,0,0,W,Penn State,Penn-State,Minnesota,0,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+05/08/2026,Penn State,Washington,4,5,0,0,L,Penn State,Penn-State,Washington,0,9,"University Park, PA / Medlar Field at Lubrano Park / Box Score",2026,WN2026
+05/08/2026,Penn State,Washington,6,4,0,0,W,Penn State,Penn-State,Washington,0,9,"University Park, PA / Medlar Field at Lubrano Park / Box Score",2026,WN2026
+05/09/2026,Penn State,Washington,4,0,0,0,W,Penn State,Penn-State,Washington,0,9,"University Park, PA / Medlar Field at Lubrano Park / Box Score",2026,WN2026
+05/12/2026,Pittsburgh,Penn State,11,7,0,0,L,Penn State,Penn-State,Pittsburgh,1,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+05/14/2026,Maryland,Penn State,3,13,0,0,W,Penn State,Penn-State,Maryland,1,7,"College Park, MD / Bob 'Turtle' Smith Stadium / Box Score",2026,WN2026
+05/15/2026,Maryland,Penn State,12,2,0,0,L,Penn State,Penn-State,Maryland,1,7,"College Park, MD / Bob 'Turtle' Smith Stadium / Box Score",2026,WN2026
+05/16/2026,Maryland,Penn State,6,4,0,0,L,Penn State,Penn-State,Maryland,1,9,"College Park, MD / Bob 'Turtle' Smith Stadium / Box Score",2026,WN2026

@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Tennessee-Martin,Butler,7,10,0,0,W,Butler,Butler,Tennessee-Martin,1,10,"Martin, TN / Skyhawk Park",2026,WN2026
+02/13/2026,Tennessee-Martin,Butler,9,8,0,0,L,Butler,Butler,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+02/14/2026,Tennessee-Martin,Butler,13,11,0,0,L,Butler,Butler,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+02/17/2026,Illinois,Butler,8,10,0,0,W,Butler,Butler,Illinois,1,9,"Champaign, IL / Illinois Field",2026,WN2026
+02/18/2026,Butler,Morehead State,20,5,0,0,W,Butler,Butler,Morehead-State,0,7,"Westfield, IN / Grand Park",2026,WN2026
+02/20/2026,Murray State,Butler,6,0,0,1,L,Butler,Butler,Murray-State,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/21/2026,Murray State,Butler,6,4,0,1,L,Butler,Butler,Murray-State,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/21/2026,Murray State,Butler,3,2,0,1,L,Butler,Butler,Murray-State,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/27/2026,Marshall,Butler,4,3,0,0,L,Butler,Butler,Marshall,1,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+02/28/2026,Marshall,Butler,2,7,0,0,W,Butler,Butler,Marshall,1,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/01/2026,Marshall,Butler,3,1,0,0,L,Butler,Butler,Marshall,1,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+03/06/2026,Butler,Eastern Illinois,12,15,0,0,L,Butler,Butler,Eastern-Illinois,0,9,"Westfield, IN / Grand Park",2026,WN2026
+03/06/2026,Butler,Morehead State,6,16,0,0,L,Butler,Butler,Morehead-State,0,9,"Westfield, IN / Grand Park",2026,WN2026
+03/07/2026,Butler,Morehead State,8,11,0,0,L,Butler,Butler,Morehead-State,0,9,"Westfield, IN / Grand Park",2026,WN2026
+03/08/2026,Butler,Morehead State,4,9,0,0,L,Butler,Butler,Morehead-State,0,9,"Westfield, IN / Grand Park",2026,WN2026
+03/10/2026,Bellarmine,Butler,17,10,0,0,L,Butler,Butler,Bellarmine,1,9,"Louisville, KY / Knights Field",2026,WN2026
+03/12/2026,Wichita State,Butler,27,3,0,0,L,Butler,Butler,Wichita-State,1,7,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/13/2026,Wichita State,Butler,14,8,0,0,L,Butler,Butler,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/14/2026,Wichita State,Butler,30,1,0,0,L,Butler,Butler,Wichita-State,1,7,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/14/2026,Wichita State,Butler,6,4,0,0,L,Butler,Butler,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/18/2026,Ball State,Butler,10,14,0,0,W,Butler,Butler,Ball-State,1,9,"Muncie, IN / Ball Diamond",2026,WN2026
+03/20/2026,Ohio State,Butler,11,0,0,0,L,Butler,Butler,Ohio-State,1,7,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/21/2026,Ohio State,Butler,13,3,0,0,L,Butler,Butler,Ohio-State,1,8,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/22/2026,Ohio State,Butler,14,4,0,0,L,Butler,Butler,Ohio-State,1,7,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/24/2026,Butler,Toledo,11,1,0,0,W,Butler,Butler,Toledo,0,8,"Indianapolis, IN / Bulldog Park",2026,WN2026
+03/28/2026,Milwaukee,Butler,2,6,0,0,W,Butler,Butler,Milwaukee,1,7,"Franklin, WI / Franklin Field",2026,WN2026
+03/28/2026,Milwaukee,Butler,10,3,0,0,L,Butler,Butler,Milwaukee,1,7,"Franklin, WI / Franklin Field",2026,WN2026
+03/29/2026,Milwaukee,Butler,7,8,0,0,W,Butler,Butler,Milwaukee,1,9,"Franklin, WI / Franklin Field",2026,WN2026
+04/02/2026,Villanova,Butler,6,8,0,0,W,Butler,Butler,Villanova,1,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+04/03/2026,Villanova,Butler,5,7,0,0,W,Butler,Butler,Villanova,1,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+04/04/2026,Villanova,Butler,1,10,0,0,W,Butler,Butler,Villanova,1,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+04/07/2026,Butler,Southern Indiana,14,12,0,0,W,Butler,Butler,Southern-Indiana,0,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+04/10/2026,Butler,Connecticut,5,4,0,0,W,Butler,Butler,Connecticut,0,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+04/11/2026,Butler,Connecticut,1,3,0,0,L,Butler,Butler,Connecticut,0,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+04/12/2026,Butler,Connecticut,0,13,0,0,L,Butler,Butler,Connecticut,0,8,"Indianapolis, IN / Bulldog Park",2026,WN2026
+04/14/2026,Butler,Ball State,8,5,0,0,W,Butler,Butler,Ball-State,0,5,"Indianapolis, IN / Bulldog Park",2026,WN2026
+04/17/2026,Butler,Georgetown,11,12,0,0,L,Butler,Butler,Georgetown,0,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+04/18/2026,Butler,Georgetown,6,0,0,0,W,Butler,Butler,Georgetown,0,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+04/19/2026,Butler,Georgetown,5,14,0,0,L,Butler,Butler,Georgetown,0,13,"Indianapolis, IN / Bulldog Park",2026,WN2026
+04/21/2026,Eastern Illinois,Butler,11,6,0,0,L,Butler,Butler,Eastern-Illinois,1,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+04/24/2026,Creighton,Butler,6,0,0,0,L,Butler,Butler,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/25/2026,Creighton,Butler,6,5,0,0,L,Butler,Butler,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/26/2026,Creighton,Butler,12,2,0,0,L,Butler,Butler,Creighton,1,8,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/28/2026,Butler,Bowling Green,3,0,0,0,W,Butler,Butler,Bowling-Green,0,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+05/01/2026,Butler,Seton Hall,8,3,0,0,W,Butler,Butler,Seton-Hall,0,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+05/02/2026,Butler,Seton Hall,15,6,0,0,W,Butler,Butler,Seton-Hall,0,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+05/03/2026,Butler,Seton Hall,9,2,0,0,W,Butler,Butler,Seton-Hall,0,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+05/06/2026,Toledo,Butler,12,1,0,0,L,Butler,Butler,Toledo,1,7,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+05/08/2026,Butler,Xavier,2,5,0,0,L,Butler,Butler,Xavier,0,9,"Indianapolis, IN / Bulldog Park / Box Score",2026,WN2026
+05/09/2026,Butler,Xavier,10,12,0,0,L,Butler,Butler,Xavier,0,9,"Indianapolis, IN / Bulldog Park / Box Score",2026,WN2026
+05/10/2026,Butler,Xavier,2,9,0,0,L,Butler,Butler,Xavier,0,9,"Indianapolis, IN / Bulldog Park / Box Score",2026,WN2026
+05/14/2026,Saint John's,Butler,3,7,0,0,W,Butler,Butler,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium / Box Score",2026,WN2026
+05/15/2026,Saint John's,Butler,7,2,0,0,L,Butler,Butler,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium / Box Score",2026,WN2026
+05/16/2026,Saint John's,Butler,4,1,0,0,L,Butler,Butler,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium / Box Score",2026,WN2026

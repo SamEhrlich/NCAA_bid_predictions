@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Grand Canyon,Northeastern,10,0,0,0,L,Northeastern,Northeastern,Grand-Canyon,1,7,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+02/14/2026,Nebraska,Northeastern,7,4,0,1,L,Northeastern,Northeastern,Nebraska,0,9,"Phoenix, AZ",2026,WN2026
+02/15/2026,Iowa,Northeastern,21,13,0,1,L,Northeastern,Northeastern,Iowa,0,9,"Scottsdale, AZ",2026,WN2026
+02/21/2026,Minnesota,Northeastern,12,2,0,1,L,Northeastern,Northeastern,Minnesota,0,7,"Fort Myers, FL / Terry Park",2026,WN2026
+02/22/2026,Minnesota,Northeastern,15,5,0,1,L,Northeastern,Northeastern,Minnesota,0,7,"Fort Myers, FL / Terry Park",2026,WN2026
+02/27/2026,Grambling State,Northeastern,1,4,0,1,W,Northeastern,Northeastern,Grambling-State,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+02/28/2026,LSU,Northeastern,3,1,0,0,L,Northeastern,Northeastern,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/01/2026,Grambling State,Northeastern,0,10,0,1,W,Northeastern,Northeastern,Grambling-State,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/02/2026,LSU,Northeastern,10,13,0,0,W,Northeastern,Northeastern,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/06/2026,Stony Brook,Northeastern,0,4,0,0,W,Northeastern,Northeastern,Stony-Brook,1,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+03/08/2026,Stony Brook,Northeastern,3,4,0,0,W,Northeastern,Northeastern,Stony-Brook,1,13,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+03/08/2026,Stony Brook,Northeastern,7,6,0,0,L,Northeastern,Northeastern,Stony-Brook,1,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+03/11/2026,Central Connecticut,Northeastern,10,18,0,0,W,Northeastern,Northeastern,Central-Connecticut,1,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+03/13/2026,Northeastern,Towson,6,3,0,0,W,Northeastern,Northeastern,Towson,0,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+03/14/2026,Northeastern,Towson,3,1,0,0,W,Northeastern,Northeastern,Towson,0,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+03/15/2026,Northeastern,Towson,3,2,0,0,W,Northeastern,Northeastern,Towson,0,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+03/17/2026,Northeastern,Merrimack,3,4,0,0,L,Northeastern,Northeastern,Merrimack,0,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+03/18/2026,Brown,Northeastern,3,7,0,0,W,Northeastern,Northeastern,Brown,1,9,"Providence, RI / Murray Stadium",2026,WN2026
+03/20/2026,Northeastern,Elon,17,5,0,0,W,Northeastern,Northeastern,Elon,0,7,"Brookline, MA / Friedman Diamond",2026,WN2026
+03/21/2026,Northeastern,Elon,2,3,0,0,L,Northeastern,Northeastern,Elon,0,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+03/22/2026,Northeastern,Elon,17,7,0,0,W,Northeastern,Northeastern,Elon,0,8,"Brookline, MA / Friedman Diamond",2026,WN2026
+03/24/2026,Northeastern,Boston College,2,3,0,0,L,Northeastern,Northeastern,Boston-College,0,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+03/25/2026,UMass-Lowell,Northeastern,0,6,0,0,W,Northeastern,Northeastern,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+03/27/2026,Hofstra,Northeastern,5,4,0,0,L,Northeastern,Northeastern,Hofstra,1,11,"Hempstead, NY / University Field",2026,WN2026
+03/28/2026,Hofstra,Northeastern,11,12,0,0,W,Northeastern,Northeastern,Hofstra,1,9,"Hempstead, NY / University Field",2026,WN2026
+03/29/2026,Hofstra,Northeastern,11,10,0,0,L,Northeastern,Northeastern,Hofstra,1,9,"Hempstead, NY / University Field",2026,WN2026
+03/31/2026,Northeastern,Connecticut,5,21,0,0,L,Northeastern,Northeastern,Connecticut,0,7,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/02/2026,Northeastern,Monmouth,7,1,0,0,W,Northeastern,Northeastern,Monmouth,0,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/03/2026,Northeastern,Monmouth,6,8,0,0,L,Northeastern,Northeastern,Monmouth,0,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/04/2026,Northeastern,Monmouth,13,1,0,0,W,Northeastern,Northeastern,Monmouth,0,8,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/08/2026,Harvard,Northeastern,1,4,0,0,W,Northeastern,Northeastern,Harvard,1,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/10/2026,Northeastern,Merrimack,11,10,0,0,W,Northeastern,Northeastern,Merrimack,0,12,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/11/2026,Northeastern,Maine,0,5,0,0,L,Northeastern,Northeastern,Maine,0,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/11/2026,Northeastern,Merrimack,9,2,0,0,W,Northeastern,Northeastern,Merrimack,0,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/12/2026,Northeastern,Maine,13,5,0,0,W,Northeastern,Northeastern,Maine,0,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/14/2026,Boston College,Northeastern,3,1,0,0,L,Northeastern,Northeastern,Boston-College,1,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/17/2026,North Carolina A&T,Northeastern,0,15,0,0,W,Northeastern,Northeastern,North-Carolina-AT,1,7,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+04/18/2026,North Carolina A&T,Northeastern,5,12,0,0,W,Northeastern,Northeastern,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+04/19/2026,North Carolina A&T,Northeastern,4,15,0,0,W,Northeastern,Northeastern,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+04/24/2026,Northeastern,Hofstra,8,0,0,0,W,Northeastern,Northeastern,Hofstra,0,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/25/2026,Northeastern,Hofstra,8,6,0,0,W,Northeastern,Northeastern,Hofstra,0,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/26/2026,Northeastern,Hofstra,2,13,0,0,L,Northeastern,Northeastern,Hofstra,0,7,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/29/2026,Maine,Northeastern,1,5,0,0,W,Northeastern,Northeastern,Maine,1,9,"Portland, ME / Hadlock Field",2026,WN2026
+05/01/2026,Monmouth,Northeastern,10,13,0,0,W,Northeastern,Northeastern,Monmouth,1,9,"West Long Branch, NJ / Monmouth Baseball Field",2026,WN2026
+05/02/2026,Monmouth,Northeastern,1,10,0,0,W,Northeastern,Northeastern,Monmouth,1,9,"West Long Branch, NJ / Monmouth Baseball Field",2026,WN2026
+05/03/2026,Monmouth,Northeastern,5,4,0,0,L,Northeastern,Northeastern,Monmouth,1,9,"West Long Branch, NJ / Monmouth Baseball Field",2026,WN2026
+05/08/2026,Northeastern,Stony Brook,12,3,0,0,W,Northeastern,Northeastern,Stony-Brook,0,9,"Brookline, MA / Friedman Diamond / Box Score",2026,WN2026
+05/09/2026,Northeastern,Stony Brook,15,0,0,0,W,Northeastern,Northeastern,Stony-Brook,0,7,"Brookline, MA / Friedman Diamond / Box Score",2026,WN2026
+05/10/2026,Northeastern,Stony Brook,7,4,0,0,W,Northeastern,Northeastern,Stony-Brook,0,9,"Brookline, MA / Friedman Diamond / Box Score",2026,WN2026
+05/12/2026,Connecticut,Northeastern,6,10,0,0,W,Northeastern,Northeastern,Connecticut,1,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+05/14/2026,Towson,Northeastern,0,7,0,0,W,Northeastern,Northeastern,Towson,1,9,"Towson, MD / John B. Schuerholz Park / Box Score",2026,WN2026
+05/15/2026,Towson,Northeastern,7,8,0,0,W,Northeastern,Northeastern,Towson,1,9,"Towson, MD / John B. Schuerholz Park / Box Score",2026,WN2026
+05/16/2026,Towson,Northeastern,14,10,0,0,L,Northeastern,Northeastern,Towson,1,9,"Towson, MD / John B. Schuerholz Park / Box Score",2026,WN2026
+05/21/2026,Hofstra,Northeastern,6,0,0,1,L,Northeastern,Northeastern,Hofstra,0,9,"Wilmington, NC / Brooks Field / Recap",2026,WN2026
+05/22/2026,UNCW,Northeastern,3,7,0,1,W,Northeastern,Northeastern,UNCW,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+05/23/2026,Hofstra,Northeastern,4,5,0,1,W,Northeastern,Northeastern,Hofstra,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+05/23/2026,Campbell,Northeastern,4,7,0,1,W,Northeastern,Northeastern,Campbell,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+05/24/2026,Campbell,Northeastern,2,3,0,1,W,Northeastern,Northeastern,Campbell,0,9,"Wilmington, NC / Brooks Field",2026,WN2026

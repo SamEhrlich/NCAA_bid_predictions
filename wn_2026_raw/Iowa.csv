@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Kansas State,Iowa,15,6,0,1,L,Iowa,Iowa,Kansas-State,0,9,"Scottsdale, AZ / Goodyear Ballpark",2026,WN2026
+02/14/2026,Air Force,Iowa,3,4,0,1,W,Iowa,Iowa,Air-Force,0,9,"Scottsdale, AZ / Salt River Fields",2026,WN2026
+02/15/2026,Northeastern,Iowa,13,21,0,1,W,Iowa,Iowa,Northeastern,0,9,"Scottsdale, AZ",2026,WN2026
+02/20/2026,FAU,Iowa,2,7,0,0,W,Iowa,Iowa,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/21/2026,FAU,Iowa,1,6,0,0,W,Iowa,Iowa,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/22/2026,FAU,Iowa,3,2,0,0,L,Iowa,Iowa,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/27/2026,Alabama,Iowa,12,2,0,1,L,Iowa,Iowa,Alabama,0,9,"Frisco, TX / Riders Field",2026,WN2026
+02/28/2026,Houston,Iowa,4,6,0,1,W,Iowa,Iowa,Houston,0,9,"Frisco, TX / Riders Field",2026,WN2026
+03/01/2026,Oregon State,Iowa,4,3,0,1,L,Iowa,Iowa,Oregon-State,0,9,"Frisco, TX / Riders Field",2026,WN2026
+03/06/2026,Iowa,Lindenwood,11,6,0,0,W,Iowa,Iowa,Lindenwood,0,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+03/07/2026,Iowa,Lindenwood,3,4,0,0,L,Iowa,Iowa,Lindenwood,0,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+03/08/2026,Iowa,Lindenwood,10,9,0,0,W,Iowa,Iowa,Lindenwood,0,10,"Iowa City, IA / Duane Banks Field",2026,WN2026
+03/10/2026,Iowa,Saint Thomas,7,2,0,0,W,Iowa,Iowa,Saint-Thomas,0,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+03/13/2026,Penn State,Iowa,11,6,0,0,L,Iowa,Iowa,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/14/2026,Penn State,Iowa,4,13,0,0,W,Iowa,Iowa,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/15/2026,Penn State,Iowa,4,12,0,0,W,Iowa,Iowa,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/20/2026,Michigan State,Iowa,2,0,0,0,L,Iowa,Iowa,Michigan-State,1,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+03/21/2026,Michigan State,Iowa,15,5,0,0,L,Iowa,Iowa,Michigan-State,1,8,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+03/21/2026,Michigan State,Iowa,3,8,0,0,W,Iowa,Iowa,Michigan-State,1,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+03/24/2026,Illinois State,Iowa,0,11,0,0,W,Iowa,Iowa,Illinois-State,1,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+03/27/2026,Iowa,UCLA,2,5,0,0,L,Iowa,Iowa,UCLA,0,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+03/28/2026,Iowa,UCLA,0,19,0,0,L,Iowa,Iowa,UCLA,0,7,"Iowa City, IA / Duane Banks Field",2026,WN2026
+03/29/2026,Iowa,UCLA,6,14,0,0,L,Iowa,Iowa,UCLA,0,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+03/31/2026,Bradley,Iowa,8,21,0,0,W,Iowa,Iowa,Bradley,1,7,"Peoria, IL / Dozer Park",2026,WN2026
+04/03/2026,Iowa,Minnesota,4,9,0,0,L,Iowa,Iowa,Minnesota,0,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/04/2026,Iowa,Minnesota,3,2,0,0,W,Iowa,Iowa,Minnesota,0,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/05/2026,Iowa,Minnesota,5,4,0,0,W,Iowa,Iowa,Minnesota,0,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/10/2026,USC,Iowa,9,2,0,0,L,Iowa,Iowa,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+04/11/2026,USC,Iowa,6,3,0,0,L,Iowa,Iowa,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+04/12/2026,USC,Iowa,8,2,0,0,L,Iowa,Iowa,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+04/14/2026,Iowa,Bradley,20,1,0,0,W,Iowa,Iowa,Bradley,0,7,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/18/2026,Iowa,Maryland,13,4,0,0,W,Iowa,Iowa,Maryland,0,8,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/18/2026,Iowa,Maryland,5,2,0,0,W,Iowa,Iowa,Maryland,0,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/19/2026,Iowa,Maryland,5,16,0,0,L,Iowa,Iowa,Maryland,0,8,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/21/2026,Iowa,Western Illinois,22,3,0,0,W,Iowa,Iowa,Western-Illinois,0,7,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/22/2026,Iowa,UIC,6,4,0,0,W,Iowa,Iowa,UIC,0,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/24/2026,Indiana,Iowa,2,12,0,0,W,Iowa,Iowa,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/25/2026,Indiana,Iowa,2,9,0,0,W,Iowa,Iowa,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/26/2026,Indiana,Iowa,4,7,0,0,W,Iowa,Iowa,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/28/2026,Iowa,Illinois State,6,13,0,0,L,Iowa,Iowa,Illinois-State,0,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+05/01/2026,Iowa,Illinois,9,3,0,0,W,Iowa,Iowa,Illinois,0,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+05/02/2026,Iowa,Illinois,6,5,0,0,W,Iowa,Iowa,Illinois,0,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+05/03/2026,Iowa,Illinois,2,6,0,0,L,Iowa,Iowa,Illinois,0,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+05/05/2026,Iowa,Saint Thomas,14,4,0,0,W,Iowa,Iowa,Saint-Thomas,0,8,"Iowa City, IA / Duane Banks Field",2026,WN2026
+05/08/2026,Nebraska,Iowa,10,0,0,0,L,Iowa,Iowa,Nebraska,1,8,"Lincoln, NE / Haymarket Park",2026,WN2026
+05/09/2026,Nebraska,Iowa,15,11,0,0,L,Iowa,Iowa,Nebraska,1,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+05/10/2026,Nebraska,Iowa,8,6,0,0,L,Iowa,Iowa,Nebraska,1,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+05/14/2026,Purdue,Iowa,7,10,0,1,W,Iowa,Iowa,Purdue,0,9,"Des Moines, IA / Principal Park / Box Score",2026,WN2026
+05/15/2026,Purdue,Iowa,5,14,0,1,W,Iowa,Iowa,Purdue,0,9,"Des Moines, IA / Principal Park / Box Score",2026,WN2026
+05/16/2026,Purdue,Iowa,9,15,0,1,W,Iowa,Iowa,Purdue,0,9,"Des Moines, IA / Principal Park / Box Score",2026,WN2026
+05/19/2026,Illinois,Iowa,6,10,0,1,W,Iowa,Iowa,Illinois,0,9,"Omaha, NE / Charles Schwab Field Omaha / Recap",2026,WN2026
+05/20/2026,Michigan State,Iowa,4,3,0,1,L,Iowa,Iowa,Michigan-State,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+05/21/2026,Purdue,Iowa,8,1,0,1,L,Iowa,Iowa,Purdue,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026

@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Virginia,Wagner,13,7,0,0,L,Wagner,Wagner,Virginia,1,9,"Charlottesville, VA / Davenport Field",2026,WN2026
+02/14/2026,Virginia,Wagner,25,10,0,0,L,Wagner,Wagner,Virginia,1,9,"Charlottesville, VA / Davenport Field",2026,WN2026
+02/14/2026,Virginia,Wagner,31,9,0,0,L,Wagner,Wagner,Virginia,1,9,"Charlottesville, VA / Davenport Field",2026,WN2026
+02/20/2026,UC Riverside,Wagner,8,5,0,0,L,Wagner,Wagner,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/21/2026,UC Riverside,Wagner,7,2,0,0,L,Wagner,Wagner,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/22/2026,UC Riverside,Wagner,4,6,0,0,W,Wagner,Wagner,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/27/2026,Maryland,Wagner,10,9,0,0,L,Wagner,Wagner,Maryland,1,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+02/28/2026,Maryland,Wagner,21,4,0,0,L,Wagner,Wagner,Maryland,1,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+03/01/2026,Maryland,Wagner,15,10,0,0,L,Wagner,Wagner,Maryland,1,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+03/06/2026,Wagner,Fairleigh Dickinson,2,14,0,0,L,Wagner,Wagner,Fairleigh-Dickinson,0,7,"Staten Island, NY / SIUH Community Park",2026,WN2026
+03/07/2026,Wagner,Fairleigh Dickinson,13,6,0,0,W,Wagner,Wagner,Fairleigh-Dickinson,0,9,"Staten Island, NY / SIUH Community Park",2026,WN2026
+03/08/2026,Wagner,Fairleigh Dickinson,6,8,0,0,L,Wagner,Wagner,Fairleigh-Dickinson,0,10,"Staten Island, NY / SIUH Community Park",2026,WN2026
+03/10/2026,Rutgers,Wagner,8,5,0,0,L,Wagner,Wagner,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/14/2026,Long Island,Wagner,15,4,0,0,L,Wagner,Wagner,Long-Island,1,7,"Brooklyn, NY / Long Island University Field",2026,WN2026
+03/15/2026,Long Island,Wagner,1,11,0,0,W,Wagner,Wagner,Long-Island,1,8,"Brooklyn, NY / Long Island University Field",2026,WN2026
+03/15/2026,Long Island,Wagner,5,9,0,0,W,Wagner,Wagner,Long-Island,1,9,"Brooklyn, NY / Long Island University Field",2026,WN2026
+03/17/2026,Seton Hall,Wagner,14,1,0,0,L,Wagner,Wagner,Seton-Hall,1,7,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+03/20/2026,Wagner,Le Moyne,6,0,0,0,W,Wagner,Wagner,Le-Moyne,0,9,"Staten Island, NY / SIUH Community Park",2026,WN2026
+03/21/2026,Wagner,Le Moyne,5,1,0,0,W,Wagner,Wagner,Le-Moyne,0,9,"Staten Island, NY / SIUH Community Park",2026,WN2026
+03/22/2026,Wagner,Le Moyne,9,7,0,0,W,Wagner,Wagner,Le-Moyne,0,9,"Staten Island, NY / SIUH Community Park",2026,WN2026
+03/25/2026,Fordham,Wagner,0,3,0,0,W,Wagner,Wagner,Fordham,1,9,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+03/27/2026,New Haven,Wagner,9,8,0,0,L,Wagner,Wagner,New-Haven,1,10,"West Haven, CT / Frank Vieira Field",2026,WN2026
+03/28/2026,New Haven,Wagner,9,8,0,0,L,Wagner,Wagner,New-Haven,1,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+03/29/2026,New Haven,Wagner,5,14,0,0,W,Wagner,Wagner,New-Haven,1,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+03/31/2026,Saint John's,Wagner,11,2,0,0,L,Wagner,Wagner,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+04/02/2026,Central Connecticut,Wagner,10,9,0,0,L,Wagner,Wagner,Central-Connecticut,1,10,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/03/2026,Central Connecticut,Wagner,2,8,0,0,W,Wagner,Wagner,Central-Connecticut,1,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/04/2026,Central Connecticut,Wagner,13,16,0,0,W,Wagner,Wagner,Central-Connecticut,1,10,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/10/2026,Wagner,Norfolk State,15,2,0,0,W,Wagner,Wagner,Norfolk-State,0,7,"Staten Island, NY / SIUH Community Park",2026,WN2026
+04/11/2026,Wagner,Norfolk State,3,2,0,0,W,Wagner,Wagner,Norfolk-State,0,9,"Staten Island, NY / SIUH Community Park",2026,WN2026
+04/12/2026,Wagner,Norfolk State,12,1,0,0,W,Wagner,Wagner,Norfolk-State,0,7,"Staten Island, NY / SIUH Community Park",2026,WN2026
+04/14/2026,Army,Wagner,18,8,0,0,L,Wagner,Wagner,Army,1,7,"West Point, NY / Doubleday Field",2026,WN2026
+04/18/2026,Stonehill,Wagner,5,3,0,0,L,Wagner,Wagner,Stonehill,1,9,"Easton, MA / Lou Gorman Field",2026,WN2026
+04/18/2026,Stonehill,Wagner,5,12,0,0,W,Wagner,Wagner,Stonehill,1,9,"Easton, MA / Lou Gorman Field",2026,WN2026
+04/19/2026,Stonehill,Wagner,4,8,0,0,W,Wagner,Wagner,Stonehill,1,9,"Easton, MA / Lou Gorman Field",2026,WN2026
+04/21/2026,Lafayette,Wagner,11,15,0,0,W,Wagner,Wagner,Lafayette,1,9,"Forks Township, PA / Kamine Stadium",2026,WN2026
+04/22/2026,Princeton,Wagner,11,16,0,0,W,Wagner,Wagner,Princeton,1,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/24/2026,Maryland Eastern Shore,Wagner,6,11,0,0,W,Wagner,Wagner,Maryland-Eastern-Shore,1,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+04/25/2026,Maryland Eastern Shore,Wagner,3,9,0,0,W,Wagner,Wagner,Maryland-Eastern-Shore,1,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+04/26/2026,Maryland Eastern Shore,Wagner,3,15,0,0,W,Wagner,Wagner,Maryland-Eastern-Shore,1,7,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+04/28/2026,Wagner,Saint Peter's,12,9,0,0,W,Wagner,Wagner,Saint-Peters,0,9,"Staten Island, NY / SIUH Community Park",2026,WN2026
+05/01/2026,Delaware State,Wagner,1,15,0,0,W,Wagner,Wagner,Delaware-State,1,7,"Dover, DE / Soldier Field",2026,WN2026
+05/02/2026,Delaware State,Wagner,5,1,0,0,L,Wagner,Wagner,Delaware-State,1,9,"Dover, DE / Soldier Field",2026,WN2026
+05/03/2026,Delaware State,Wagner,5,15,0,0,W,Wagner,Wagner,Delaware-State,1,8,"Dover, DE / Soldier Field",2026,WN2026
+05/08/2026,Wagner,Coppin State,7,6,0,0,W,Wagner,Wagner,Coppin-State,0,9,"Staten Island, NY / SIUH Community Park / Box Score",2026,WN2026
+05/09/2026,Wagner,Coppin State,10,9,0,0,W,Wagner,Wagner,Coppin-State,0,9,"Staten Island, NY / SIUH Community Park / Box Score",2026,WN2026
+05/10/2026,Wagner,Coppin State,11,12,0,0,L,Wagner,Wagner,Coppin-State,0,9,"Staten Island, NY / SIUH Community Park / Box Score",2026,WN2026
+05/14/2026,Wagner,Mercyhurst,4,6,0,0,L,Wagner,Wagner,Mercyhurst,0,9,"Staten Island, NY / SIUH Community Park / Box Score",2026,WN2026
+05/15/2026,Wagner,Mercyhurst,5,4,0,0,W,Wagner,Wagner,Mercyhurst,0,9,"Staten Island, NY / SIUH Community Park / Box Score",2026,WN2026
+05/15/2026,Wagner,Mercyhurst,8,3,0,0,W,Wagner,Wagner,Mercyhurst,0,9,"Staten Island, NY / SIUH Community Park / Box Score",2026,WN2026
+05/21/2026,Fairleigh Dickinson,Wagner,7,5,0,1,L,Wagner,Wagner,Fairleigh-Dickinson,0,9,"Augusta, NJ / Skylands Stadium / Box Score / Recap",2026,WN2026
+05/22/2026,Le Moyne,Wagner,1,10,0,1,W,Wagner,Wagner,Le-Moyne,0,7,"Augusta, NJ / Skylands Stadium",2026,WN2026
+05/22/2026,Fairleigh Dickinson,Wagner,11,10,0,1,L,Wagner,Wagner,Fairleigh-Dickinson,0,9,"Augusta, NJ / Skylands Stadium",2026,WN2026

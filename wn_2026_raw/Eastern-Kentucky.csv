@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Alabama State,Eastern Kentucky,6,3,0,0,L,Eastern Kentucky,Eastern-Kentucky,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+02/14/2026,Alabama State,Eastern Kentucky,13,0,0,0,L,Eastern Kentucky,Eastern-Kentucky,Alabama-State,1,7,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+02/14/2026,Alabama State,Eastern Kentucky,7,14,0,0,W,Eastern Kentucky,Eastern-Kentucky,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+02/17/2026,Eastern Kentucky,Northern Kentucky,16,11,0,0,W,Eastern Kentucky,Eastern-Kentucky,Northern-Kentucky,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+02/20/2026,Dayton,Eastern Kentucky,17,7,0,0,L,Eastern Kentucky,Eastern-Kentucky,Dayton,1,8,"Dayton, OH / Woerner Field",2026,WN2026
+02/21/2026,Dayton,Eastern Kentucky,12,9,0,0,L,Eastern Kentucky,Eastern-Kentucky,Dayton,1,9,"Dayton, OH / Woerner Field",2026,WN2026
+02/21/2026,Dayton,Eastern Kentucky,3,1,0,0,L,Eastern Kentucky,Eastern-Kentucky,Dayton,1,9,"Dayton, OH / Woerner Field",2026,WN2026
+02/25/2026,Louisville,Eastern Kentucky,6,5,0,0,L,Eastern Kentucky,Eastern-Kentucky,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+02/27/2026,Tulane,Eastern Kentucky,5,4,0,0,L,Eastern Kentucky,Eastern-Kentucky,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+02/28/2026,Tulane,Eastern Kentucky,3,6,0,0,W,Eastern Kentucky,Eastern-Kentucky,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/01/2026,Tulane,Eastern Kentucky,11,3,0,0,L,Eastern Kentucky,Eastern-Kentucky,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/03/2026,Eastern Kentucky,Kentucky,0,10,0,0,L,Eastern Kentucky,Eastern-Kentucky,Kentucky,0,7,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+03/04/2026,Kentucky,Eastern Kentucky,8,4,0,0,L,Eastern Kentucky,Eastern-Kentucky,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+03/06/2026,Eastern Kentucky,Illinois State,2,7,0,0,L,Eastern Kentucky,Eastern-Kentucky,Illinois-State,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+03/07/2026,Eastern Kentucky,Illinois State,8,4,0,0,W,Eastern Kentucky,Eastern-Kentucky,Illinois-State,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+03/08/2026,Eastern Kentucky,Illinois State,10,5,0,0,W,Eastern Kentucky,Eastern-Kentucky,Illinois-State,0,8,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+03/10/2026,Middle Tennessee,Eastern Kentucky,17,0,0,0,L,Eastern Kentucky,Eastern-Kentucky,Middle-Tennessee,1,7,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/13/2026,Eastern Kentucky,Central Arkansas,12,16,0,0,L,Eastern Kentucky,Eastern-Kentucky,Central-Arkansas,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+03/14/2026,Eastern Kentucky,Central Arkansas,16,3,0,0,W,Eastern Kentucky,Eastern-Kentucky,Central-Arkansas,0,7,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+03/15/2026,Eastern Kentucky,Central Arkansas,6,5,0,0,W,Eastern Kentucky,Eastern-Kentucky,Central-Arkansas,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+03/17/2026,Tennessee,Eastern Kentucky,10,3,0,0,L,Eastern Kentucky,Eastern-Kentucky,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/20/2026,North Alabama,Eastern Kentucky,7,5,0,0,L,Eastern Kentucky,Eastern-Kentucky,North-Alabama,1,10,"Florence, AL / Mike D. Lane Field",2026,WN2026
+03/21/2026,North Alabama,Eastern Kentucky,8,5,0,0,L,Eastern Kentucky,Eastern-Kentucky,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+03/22/2026,North Alabama,Eastern Kentucky,7,5,0,0,L,Eastern Kentucky,Eastern-Kentucky,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+03/24/2026,Eastern Kentucky,Morehead State,6,12,0,0,L,Eastern Kentucky,Eastern-Kentucky,Morehead-State,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+03/27/2026,Lipscomb,Eastern Kentucky,3,2,0,0,L,Eastern Kentucky,Eastern-Kentucky,Lipscomb,1,12,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/28/2026,Lipscomb,Eastern Kentucky,3,15,0,0,W,Eastern Kentucky,Eastern-Kentucky,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/29/2026,Lipscomb,Eastern Kentucky,9,2,0,0,L,Eastern Kentucky,Eastern-Kentucky,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/31/2026,Louisville,Eastern Kentucky,17,7,0,1,L,Eastern Kentucky,Eastern-Kentucky,Louisville,0,7,"Lexington, KY / Legends Field",2026,WN2026
+04/02/2026,Eastern Kentucky,Austin Peay,2,5,0,0,L,Eastern Kentucky,Eastern-Kentucky,Austin-Peay,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/03/2026,Eastern Kentucky,Austin Peay,7,6,0,0,W,Eastern Kentucky,Eastern-Kentucky,Austin-Peay,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/04/2026,Eastern Kentucky,Austin Peay,9,12,0,0,L,Eastern Kentucky,Eastern-Kentucky,Austin-Peay,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/07/2026,Vanderbilt,Eastern Kentucky,3,0,0,0,L,Eastern Kentucky,Eastern-Kentucky,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+04/10/2026,Eastern Kentucky,Bellarmine,5,10,0,0,L,Eastern Kentucky,Eastern-Kentucky,Bellarmine,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/11/2026,Eastern Kentucky,Bellarmine,10,14,0,0,L,Eastern Kentucky,Eastern-Kentucky,Bellarmine,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/12/2026,Eastern Kentucky,Bellarmine,9,11,0,0,L,Eastern Kentucky,Eastern-Kentucky,Bellarmine,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/17/2026,Central Arkansas,Eastern Kentucky,12,2,0,0,L,Eastern Kentucky,Eastern-Kentucky,Central-Arkansas,1,7,"Conway, AR / Bear Stadium",2026,WN2026
+04/18/2026,Central Arkansas,Eastern Kentucky,8,3,0,0,L,Eastern Kentucky,Eastern-Kentucky,Central-Arkansas,1,9,"Conway, AR / Bear Stadium",2026,WN2026
+04/19/2026,Central Arkansas,Eastern Kentucky,9,6,0,0,L,Eastern Kentucky,Eastern-Kentucky,Central-Arkansas,1,9,"Conway, AR / Bear Stadium",2026,WN2026
+04/21/2026,Eastern Kentucky,Western Kentucky,0,13,0,0,L,Eastern Kentucky,Eastern-Kentucky,Western-Kentucky,0,7,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/24/2026,Eastern Kentucky,North Alabama,6,10,0,0,L,Eastern Kentucky,Eastern-Kentucky,North-Alabama,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/25/2026,Eastern Kentucky,North Alabama,8,11,0,0,L,Eastern Kentucky,Eastern-Kentucky,North-Alabama,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/26/2026,Eastern Kentucky,North Alabama,3,15,0,0,L,Eastern Kentucky,Eastern-Kentucky,North-Alabama,0,7,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/28/2026,Northern Kentucky,Eastern Kentucky,6,16,0,0,W,Eastern Kentucky,Eastern-Kentucky,Northern-Kentucky,1,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+05/01/2026,Eastern Kentucky,Lipscomb,3,9,0,0,L,Eastern Kentucky,Eastern-Kentucky,Lipscomb,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+05/02/2026,Eastern Kentucky,Lipscomb,2,0,0,0,W,Eastern Kentucky,Eastern-Kentucky,Lipscomb,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+05/03/2026,Eastern Kentucky,Lipscomb,5,10,0,0,L,Eastern Kentucky,Eastern-Kentucky,Lipscomb,0,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+05/06/2026,Western Kentucky,Eastern Kentucky,3,5,0,0,W,Eastern Kentucky,Eastern-Kentucky,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+05/08/2026,Austin Peay,Eastern Kentucky,2,5,0,0,W,Eastern Kentucky,Eastern-Kentucky,Austin-Peay,1,9,"Clarksville, TN / Raymond C. Hand Park / Box Score",2026,WN2026
+05/09/2026,Austin Peay,Eastern Kentucky,2,4,0,0,W,Eastern Kentucky,Eastern-Kentucky,Austin-Peay,1,9,"Clarksville, TN / Raymond C. Hand Park / Box Score",2026,WN2026
+05/10/2026,Austin Peay,Eastern Kentucky,15,2,0,0,L,Eastern Kentucky,Eastern-Kentucky,Austin-Peay,1,9,"Clarksville, TN / Raymond C. Hand Park / Box Score",2026,WN2026
+05/14/2026,Bellarmine,Eastern Kentucky,11,16,0,0,W,Eastern Kentucky,Eastern-Kentucky,Bellarmine,1,9,"Louisville, KY / Knights Field / Box Score",2026,WN2026
+05/15/2026,Bellarmine,Eastern Kentucky,3,11,0,0,W,Eastern Kentucky,Eastern-Kentucky,Bellarmine,1,9,"Louisville, KY / Knights Field / Box Score",2026,WN2026
+05/17/2026,Bellarmine,Eastern Kentucky,4,9,0,0,W,Eastern Kentucky,Eastern-Kentucky,Bellarmine,1,9,"Louisville, KY / Knights Field / Box Score",2026,WN2026

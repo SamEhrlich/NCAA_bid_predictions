@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Tennessee,Nicholls,10,0,0,0,W,Tennessee,Tennessee,Nicholls,0,8,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/14/2026,Tennessee,Nicholls,5,1,0,0,W,Tennessee,Tennessee,Nicholls,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/14/2026,Tennessee,Nicholls,12,2,0,0,W,Tennessee,Tennessee,Nicholls,0,7,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/17/2026,Tennessee,UNC Asheville,10,3,0,0,W,Tennessee,Tennessee,UNC-Asheville,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/20/2026,Tennessee,Kent State,4,3,0,0,W,Tennessee,Tennessee,Kent-State,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/21/2026,Tennessee,Kent State,1,2,0,0,L,Tennessee,Tennessee,Kent-State,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/22/2026,Tennessee,Kent State,5,9,0,0,L,Tennessee,Tennessee,Kent-State,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/24/2026,Tennessee,Bellarmine,8,3,0,0,W,Tennessee,Tennessee,Bellarmine,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/27/2026,UCLA,Tennessee,12,5,0,1,L,Tennessee,Tennessee,UCLA,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/28/2026,Arizona State,Tennessee,3,5,0,1,W,Tennessee,Tennessee,Arizona-State,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+03/01/2026,Virginia Tech,Tennessee,1,3,0,1,W,Tennessee,Tennessee,Virginia-Tech,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+03/03/2026,Tennessee,East Tennessee State,7,1,0,0,W,Tennessee,Tennessee,East-Tennessee-State,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/04/2026,Tennessee,Oakland,11,2,0,0,W,Tennessee,Tennessee,Oakland,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/06/2026,Tennessee,Wright State,4,3,0,0,W,Tennessee,Tennessee,Wright-State,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/07/2026,Tennessee,Wright State,5,4,0,0,W,Tennessee,Tennessee,Wright-State,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/08/2026,Tennessee,Wright State,0,6,0,0,L,Tennessee,Tennessee,Wright-State,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/10/2026,Tennessee,Tennessee Tech,20,2,0,0,W,Tennessee,Tennessee,Tennessee-Tech,0,7,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/13/2026,Georgia,Tennessee,4,7,0,0,W,Tennessee,Tennessee,Georgia,1,9,"Athens, GA / Foley Field",2026,WN2026
+03/14/2026,Georgia,Tennessee,4,2,0,0,L,Tennessee,Tennessee,Georgia,1,9,"Athens, GA / Foley Field",2026,WN2026
+03/15/2026,Georgia,Tennessee,8,7,0,0,L,Tennessee,Tennessee,Georgia,1,9,"Athens, GA / Foley Field",2026,WN2026
+03/17/2026,Tennessee,Eastern Kentucky,10,3,0,0,W,Tennessee,Tennessee,Eastern-Kentucky,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/20/2026,Tennessee,Missouri,4,8,0,0,L,Tennessee,Tennessee,Missouri,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/21/2026,Tennessee,Missouri,4,2,0,0,W,Tennessee,Tennessee,Missouri,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/22/2026,Tennessee,Missouri,7,1,0,0,W,Tennessee,Tennessee,Missouri,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/24/2026,Tennessee,South Carolina Upstate,4,2,0,0,W,Tennessee,Tennessee,South-Carolina-Upstate,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/27/2026,Vanderbilt,Tennessee,3,2,0,0,L,Tennessee,Tennessee,Vanderbilt,1,10,"Nashville, TN / Hawkins Field",2026,WN2026
+03/28/2026,Vanderbilt,Tennessee,6,5,0,0,L,Tennessee,Tennessee,Vanderbilt,1,16,"Nashville, TN / Hawkins Field",2026,WN2026
+03/29/2026,Vanderbilt,Tennessee,16,15,0,0,L,Tennessee,Tennessee,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/31/2026,Tennessee,Austin Peay,13,4,0,0,W,Tennessee,Tennessee,Austin-Peay,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/03/2026,Tennessee,LSU,5,7,0,0,L,Tennessee,Tennessee,LSU,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/04/2026,Tennessee,LSU,4,1,0,0,W,Tennessee,Tennessee,LSU,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/05/2026,Tennessee,LSU,6,16,0,0,L,Tennessee,Tennessee,LSU,0,12,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/07/2026,Tennessee,Northern Kentucky,12,6,0,0,W,Tennessee,Tennessee,Northern-Kentucky,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/10/2026,Mississippi State,Tennessee,5,6,0,0,W,Tennessee,Tennessee,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/11/2026,Mississippi State,Tennessee,2,6,0,0,W,Tennessee,Tennessee,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/12/2026,Mississippi State,Tennessee,2,7,0,0,W,Tennessee,Tennessee,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/14/2026,Tennessee,UNC Asheville,11,1,0,0,W,Tennessee,Tennessee,UNC-Asheville,0,8,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/17/2026,Tennessee,Ole Miss,4,7,0,0,L,Tennessee,Tennessee,Ole-Miss,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/18/2026,Tennessee,Ole Miss,1,8,0,0,L,Tennessee,Tennessee,Ole-Miss,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/19/2026,Tennessee,Ole Miss,13,5,0,0,W,Tennessee,Tennessee,Ole-Miss,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/21/2026,Tennessee,Lipscomb,14,4,0,0,W,Tennessee,Tennessee,Lipscomb,0,7,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/23/2026,Tennessee,Alabama,8,12,0,0,L,Tennessee,Tennessee,Alabama,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/24/2026,Tennessee,Alabama,10,0,0,0,W,Tennessee,Tennessee,Alabama,0,8,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/24/2026,Tennessee,Alabama,11,4,0,0,W,Tennessee,Tennessee,Alabama,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/28/2026,Tennessee,West Georgia,13,0,0,0,W,Tennessee,Tennessee,West-Georgia,0,7,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+05/01/2026,Kentucky,Tennessee,9,2,0,0,L,Tennessee,Tennessee,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+05/02/2026,Kentucky,Tennessee,12,2,0,0,L,Tennessee,Tennessee,Kentucky,1,8,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+05/03/2026,Kentucky,Tennessee,9,10,0,0,W,Tennessee,Tennessee,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+05/05/2026,Tennessee,Presbyterian College,8,1,0,0,W,Tennessee,Tennessee,Presbyterian-College,0,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+05/08/2026,Tennessee,Texas,5,1,0,0,W,Tennessee,Tennessee,Texas,0,9,"Knoxville, TN / Lindsey Nelson Stadium / Box Score",2026,WN2026
+05/09/2026,Tennessee,Texas,14,9,0,0,W,Tennessee,Tennessee,Texas,0,9,"Knoxville, TN / Lindsey Nelson Stadium / Box Score",2026,WN2026
+05/10/2026,Tennessee,Texas,6,13,0,0,L,Tennessee,Tennessee,Texas,0,9,"Knoxville, TN / Lindsey Nelson Stadium / Box Score",2026,WN2026
+05/12/2026,Tennessee,Belmont,11,1,0,0,W,Tennessee,Tennessee,Belmont,0,8,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+05/14/2026,Oklahoma,Tennessee,7,9,0,0,W,Tennessee,Tennessee,Oklahoma,1,9,"Oklahoma City, OK / Chickasaw Bricktown Ballpark / Box Score",2026,WN2026
+05/15/2026,Oklahoma,Tennessee,4,9,0,0,W,Tennessee,Tennessee,Oklahoma,1,9,"Oklahoma City, OK / Chickasaw Bricktown Ballpark / Box Score",2026,WN2026
+05/16/2026,Oklahoma,Tennessee,12,9,0,0,L,Tennessee,Tennessee,Oklahoma,1,9,"Oklahoma City, OK / Chickasaw Bricktown Ballpark / Box Score",2026,WN2026
+05/19/2026,South Carolina,Tennessee,6,11,0,1,W,Tennessee,Tennessee,South-Carolina,0,9,"Hoover, AL / Hoover Metropolitan Stadium / Box Score / Recap",2026,WN2026
+05/20/2026,Arkansas,Tennessee,8,4,0,1,L,Tennessee,Tennessee,Arkansas,0,9,"Hoover, AL / Hoover Metropolitan Stadium / Recap",2026,WN2026

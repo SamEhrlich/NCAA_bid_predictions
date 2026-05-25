@@ -1,0 +1,47 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Grambling State,Alcorn State,11,1,0,1,L,Alcorn State,Alcorn-State,Grambling-State,0,8,"Jackson, MS / Braddy Field",2026,WN2026
+02/14/2026,Prairie View A&M,Alcorn State,15,10,0,1,L,Alcorn State,Alcorn-State,Prairie-View-AM,0,9,"Pearl, MS / Trustmark Park",2026,WN2026
+02/15/2026,Jackson State,Alcorn State,7,8,0,1,W,Alcorn State,Alcorn-State,Jackson-State,0,10,"Jackson, MS / Braddy Field",2026,WN2026
+02/18/2026,Mississippi State,Alcorn State,19,0,0,0,L,Alcorn State,Alcorn-State,Mississippi-State,1,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+02/20/2026,Houston Christian,Alcorn State,12,0,0,0,L,Alcorn State,Alcorn-State,Houston-Christian,1,7,"Houston, TX / Husky Field",2026,WN2026
+02/21/2026,Houston Christian,Alcorn State,9,2,0,0,L,Alcorn State,Alcorn-State,Houston-Christian,1,9,"Houston, TX / Husky Field",2026,WN2026
+02/22/2026,Houston Christian,Alcorn State,10,4,0,0,L,Alcorn State,Alcorn-State,Houston-Christian,1,9,"Houston, TX / Husky Field",2026,WN2026
+02/25/2026,ULM,Alcorn State,12,0,0,0,L,Alcorn State,Alcorn-State,ULM,1,7,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+02/27/2026,Jackson State,Alcorn State,13,8,0,0,L,Alcorn State,Alcorn-State,Jackson-State,1,9,"Jackson, MS / Braddy Field",2026,WN2026
+02/28/2026,UNC Asheville,Alcorn State,8,2,0,1,L,Alcorn State,Alcorn-State,UNC-Asheville,0,9,"Jackson, MS / Braddy Field",2026,WN2026
+03/01/2026,Mississippi Valley State,Alcorn State,15,7,0,1,L,Alcorn State,Alcorn-State,Mississippi-Valley-State,0,9,"Jackson, MS / Braddy Field",2026,WN2026
+03/06/2026,Mercer,Alcorn State,16,4,0,0,L,Alcorn State,Alcorn-State,Mercer,1,7,"Macon, GA / Claude Smith Field",2026,WN2026
+03/07/2026,Mercer,Alcorn State,10,5,0,0,L,Alcorn State,Alcorn-State,Mercer,1,9,"Macon, GA / Claude Smith Field",2026,WN2026
+03/08/2026,Mercer,Alcorn State,25,2,0,0,L,Alcorn State,Alcorn-State,Mercer,1,7,"Macon, GA / Claude Smith Field",2026,WN2026
+03/10/2026,Northwestern State,Alcorn State,13,2,0,0,L,Alcorn State,Alcorn-State,Northwestern-State,1,7,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+03/13/2026,Alabama A&M,Alcorn State,10,3,0,0,L,Alcorn State,Alcorn-State,Alabama-AM,1,9,"Huntsville, AL / Bulldog Field",2026,WN2026
+03/14/2026,Alabama A&M,Alcorn State,6,8,0,0,W,Alcorn State,Alcorn-State,Alabama-AM,1,9,"Huntsville, AL / Bulldog Field",2026,WN2026
+03/15/2026,Alabama A&M,Alcorn State,10,6,0,0,L,Alcorn State,Alcorn-State,Alabama-AM,1,9,"Huntsville, AL / Bulldog Field",2026,WN2026
+03/20/2026,Alcorn State,Bethune-Cookman,1,11,0,0,L,Alcorn State,Alcorn-State,Bethune-Cookman,0,7,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+03/21/2026,Alcorn State,Bethune-Cookman,2,12,0,0,L,Alcorn State,Alcorn-State,Bethune-Cookman,0,8,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+03/21/2026,Alcorn State,Bethune-Cookman,2,12,0,0,L,Alcorn State,Alcorn-State,Bethune-Cookman,0,8,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+03/27/2026,Arkansas-Pine Bluff,Alcorn State,8,7,0,0,L,Alcorn State,Alcorn-State,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+03/28/2026,Arkansas-Pine Bluff,Alcorn State,18,2,0,0,L,Alcorn State,Alcorn-State,Arkansas-Pine-Bluff,1,7,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+03/29/2026,Arkansas-Pine Bluff,Alcorn State,14,2,0,0,L,Alcorn State,Alcorn-State,Arkansas-Pine-Bluff,1,7,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+04/01/2026,Alcorn State,Mississippi Valley State,5,6,0,0,L,Alcorn State,Alcorn-State,Mississippi-Valley-State,0,10,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/01/2026,Alcorn State,Mississippi Valley State,8,15,0,0,L,Alcorn State,Alcorn-State,Mississippi-Valley-State,0,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/02/2026,Alcorn State,Mississippi Valley State,10,13,0,0,L,Alcorn State,Alcorn-State,Mississippi-Valley-State,0,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/07/2026,Ole Miss,Alcorn State,11,1,0,0,L,Alcorn State,Alcorn-State,Ole-Miss,1,7,"Oxford, MS / Swayze Field",2026,WN2026
+04/11/2026,Texas Southern,Alcorn State,6,10,0,0,W,Alcorn State,Alcorn-State,Texas-Southern,1,9,"Houston, TX / MacGregor Park",2026,WN2026
+04/11/2026,Texas Southern,Alcorn State,12,5,0,0,L,Alcorn State,Alcorn-State,Texas-Southern,1,9,"Houston, TX / MacGregor Park",2026,WN2026
+04/12/2026,Texas Southern,Alcorn State,18,5,0,0,L,Alcorn State,Alcorn-State,Texas-Southern,1,7,"Houston, TX / MacGregor Park",2026,WN2026
+04/15/2026,Stephen F. Austin,Alcorn State,16,8,0,0,L,Alcorn State,Alcorn-State,Stephen-F-Austin,1,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/17/2026,Alcorn State,Southern,4,8,0,0,L,Alcorn State,Alcorn-State,Southern,0,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/18/2026,Alcorn State,Southern,5,17,0,0,L,Alcorn State,Alcorn-State,Southern,0,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/19/2026,Alcorn State,Southern,5,14,0,0,L,Alcorn State,Alcorn-State,Southern,0,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/22/2026,Southeastern Louisiana,Alcorn State,11,1,0,0,L,Alcorn State,Alcorn-State,Southeastern-Louisiana,1,7,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+04/24/2026,Alcorn State,Grambling State,4,11,0,0,L,Alcorn State,Alcorn-State,Grambling-State,0,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/25/2026,Alcorn State,Grambling State,8,20,0,0,L,Alcorn State,Alcorn-State,Grambling-State,0,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/27/2026,Alcorn State,Grambling State,12,11,0,0,W,Alcorn State,Alcorn-State,Grambling-State,0,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+05/02/2026,Jackson State,Alcorn State,9,1,0,0,L,Alcorn State,Alcorn-State,Jackson-State,1,9,"Jackson, MS / Braddy Field",2026,WN2026
+05/03/2026,Jackson State,Alcorn State,14,1,0,0,L,Alcorn State,Alcorn-State,Jackson-State,1,7,"Jackson, MS / Braddy Field",2026,WN2026
+05/04/2026,Jackson State,Alcorn State,6,2,0,0,L,Alcorn State,Alcorn-State,Jackson-State,1,9,"Jackson, MS / Braddy Field",2026,WN2026
+05/08/2026,Alcorn State,Prairie View A&M,1,11,0,0,L,Alcorn State,Alcorn-State,Prairie-View-AM,0,7,"Lorman, MS / Foster Baseball Field at McGowan Stadium / Box Score",2026,WN2026
+05/14/2026,Alcorn State,Alabama State,11,15,0,0,L,Alcorn State,Alcorn-State,Alabama-State,0,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+05/15/2026,Alcorn State,Alabama State,2,6,0,0,L,Alcorn State,Alcorn-State,Alabama-State,0,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+05/16/2026,Alcorn State,Alabama State,10,14,0,0,L,Alcorn State,Alcorn-State,Alabama-State,0,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026

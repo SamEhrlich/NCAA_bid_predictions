@@ -1,0 +1,60 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Mercer,Troy,4,3,0,0,W,Mercer,Mercer,Troy,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+02/14/2026,Mercer,Troy,17,5,0,0,W,Mercer,Mercer,Troy,0,7,"Macon, GA / Claude Smith Field",2026,WN2026
+02/14/2026,Mercer,Troy,3,19,0,0,L,Mercer,Mercer,Troy,0,7,"Macon, GA / Claude Smith Field",2026,WN2026
+02/18/2026,Mercer,Georgia State,8,0,0,0,W,Mercer,Mercer,Georgia-State,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+02/20/2026,Mercer,Columbia,14,8,0,0,W,Mercer,Mercer,Columbia,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+02/21/2026,Mercer,Columbia,20,6,0,0,W,Mercer,Mercer,Columbia,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+02/22/2026,Mercer,Columbia,5,4,0,0,W,Mercer,Mercer,Columbia,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+02/24/2026,Mercer,Florida A&M,7,0,0,0,W,Mercer,Mercer,Florida-AM,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+02/25/2026,Mercer,Florida A&M,5,1,0,0,W,Mercer,Mercer,Florida-AM,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+02/27/2026,Mercer,Penn,5,4,0,0,W,Mercer,Mercer,Penn,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+02/28/2026,Mercer,Penn,5,3,0,0,W,Mercer,Mercer,Penn,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+03/01/2026,Mercer,Penn,10,5,0,0,W,Mercer,Mercer,Penn,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+03/04/2026,Florida State,Mercer,22,4,0,0,L,Mercer,Mercer,Florida-State,1,7,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/06/2026,Mercer,Alcorn State,16,4,0,0,W,Mercer,Mercer,Alcorn-State,0,7,"Macon, GA / Claude Smith Field",2026,WN2026
+03/07/2026,Mercer,Alcorn State,10,5,0,0,W,Mercer,Mercer,Alcorn-State,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+03/08/2026,Mercer,Alcorn State,25,2,0,0,W,Mercer,Mercer,Alcorn-State,0,7,"Macon, GA / Claude Smith Field",2026,WN2026
+03/10/2026,Georgia State,Mercer,6,16,0,0,W,Mercer,Mercer,Georgia-State,1,7,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+03/13/2026,Tennessee Tech,Mercer,11,14,0,0,W,Mercer,Mercer,Tennessee-Tech,1,11,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+03/14/2026,Tennessee Tech,Mercer,2,10,0,0,W,Mercer,Mercer,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+03/15/2026,Tennessee Tech,Mercer,16,10,0,0,L,Mercer,Mercer,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+03/17/2026,Florida A&M,Mercer,2,9,0,0,W,Mercer,Mercer,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/20/2026,Mercer,The Citadel,11,0,0,0,W,Mercer,Mercer,The-Citadel,0,7,"Macon, GA / Claude Smith Field",2026,WN2026
+03/21/2026,Mercer,The Citadel,8,4,0,0,W,Mercer,Mercer,The-Citadel,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+03/22/2026,Mercer,The Citadel,2,3,0,0,L,Mercer,Mercer,The-Citadel,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+03/24/2026,West Georgia,Mercer,9,13,0,0,W,Mercer,Mercer,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+03/27/2026,Oregon State,Mercer,7,5,0,0,L,Mercer,Mercer,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+03/28/2026,Oregon State,Mercer,19,2,0,0,L,Mercer,Mercer,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+03/29/2026,Oregon State,Mercer,3,1,0,0,L,Mercer,Mercer,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+03/31/2026,Mercer,Kennesaw State,14,4,0,0,W,Mercer,Mercer,Kennesaw-State,0,7,"Macon, GA / Claude Smith Field",2026,WN2026
+04/02/2026,UNCG,Mercer,5,4,0,0,L,Mercer,Mercer,UNCG,1,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+04/03/2026,UNCG,Mercer,7,9,0,0,W,Mercer,Mercer,UNCG,1,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+04/04/2026,UNCG,Mercer,4,15,0,0,W,Mercer,Mercer,UNCG,1,7,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+04/07/2026,Mercer,West Georgia,12,1,0,0,W,Mercer,Mercer,West-Georgia,0,7,"Macon, GA / Claude Smith Field",2026,WN2026
+04/10/2026,Western Carolina,Mercer,10,6,0,0,L,Mercer,Mercer,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/11/2026,Western Carolina,Mercer,17,9,0,0,L,Mercer,Mercer,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/12/2026,Western Carolina,Mercer,5,4,0,0,L,Mercer,Mercer,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/14/2026,Kennesaw State,Mercer,12,9,0,0,L,Mercer,Mercer,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+04/17/2026,Mercer,Towson,9,1,0,0,W,Mercer,Mercer,Towson,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+04/18/2026,Mercer,Towson,6,4,0,0,W,Mercer,Mercer,Towson,0,10,"Macon, GA / Claude Smith Field",2026,WN2026
+04/19/2026,Mercer,Towson,8,6,0,0,W,Mercer,Mercer,Towson,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+04/21/2026,Mercer,Alabama State,14,4,0,0,W,Mercer,Mercer,Alabama-State,0,7,"Macon, GA / Claude Smith Field",2026,WN2026
+04/24/2026,Mercer,Wofford,9,8,0,0,W,Mercer,Mercer,Wofford,0,11,"Macon, GA / Claude Smith Field",2026,WN2026
+04/25/2026,Mercer,Wofford,5,1,0,0,W,Mercer,Mercer,Wofford,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+04/26/2026,Mercer,Wofford,13,8,0,0,W,Mercer,Mercer,Wofford,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+04/29/2026,Mercer,Georgia Southern,10,9,0,0,W,Mercer,Mercer,Georgia-Southern,0,9,"Macon, GA / Claude Smith Field",2026,WN2026
+05/01/2026,Samford,Mercer,3,6,0,0,W,Mercer,Mercer,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+05/02/2026,Samford,Mercer,8,16,0,0,W,Mercer,Mercer,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+05/03/2026,Samford,Mercer,5,0,0,0,L,Mercer,Mercer,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+05/06/2026,Georgia Southern,Mercer,7,10,0,0,W,Mercer,Mercer,Georgia-Southern,1,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+05/08/2026,Mercer,VMI,13,2,0,0,W,Mercer,Mercer,VMI,0,7,"Macon, GA / Claude Smith Field / Box Score",2026,WN2026
+05/09/2026,Mercer,VMI,5,2,0,0,W,Mercer,Mercer,VMI,0,9,"Macon, GA / Claude Smith Field / Box Score",2026,WN2026
+05/10/2026,Mercer,VMI,11,1,0,0,W,Mercer,Mercer,VMI,0,8,"Macon, GA / Claude Smith Field / Box Score",2026,WN2026
+05/12/2026,Georgia Tech,Mercer,9,12,0,0,W,Mercer,Mercer,Georgia-Tech,1,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+05/14/2026,East Tennessee State,Mercer,7,9,0,0,W,Mercer,Mercer,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium / Box Score",2026,WN2026
+05/15/2026,East Tennessee State,Mercer,7,9,0,0,W,Mercer,Mercer,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium / Box Score",2026,WN2026
+05/16/2026,East Tennessee State,Mercer,6,11,0,0,W,Mercer,Mercer,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium / Box Score",2026,WN2026
+05/21/2026,The Citadel,Mercer,9,2,0,1,L,Mercer,Mercer,The-Citadel,0,9,"Greenville, SC / Fluor Field / Recap",2026,WN2026
+05/21/2026,Wofford,Mercer,8,9,0,1,W,Mercer,Mercer,Wofford,0,9,"Greenville, SC / Fluor Field",2026,WN2026
+05/22/2026,The Citadel,Mercer,14,4,0,1,L,Mercer,Mercer,The-Citadel,0,7,"Greenville, SC / Fluor Field",2026,WN2026

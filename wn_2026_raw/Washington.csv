@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,North Carolina State,Washington,13,0,0,1,L,Washington,Washington,North-Carolina-State,0,7,"Ponce, PR",2026,WN2026
+02/14/2026,Wake Forest,Washington,5,0,0,1,L,Washington,Washington,Wake-Forest,0,9,"Caguas, PR",2026,WN2026
+02/15/2026,Boston College,Washington,10,0,0,1,L,Washington,Washington,Boston-College,0,7,"Caguas, PR",2026,WN2026
+02/16/2026,Houston,Washington,8,7,0,1,L,Washington,Washington,Houston,0,9,"Ponce, PR",2026,WN2026
+02/20/2026,Loyola-Marymount,Washington,3,8,0,0,W,Washington,Washington,Loyola-Marymount,1,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+02/21/2026,Loyola-Marymount,Washington,7,1,0,0,L,Washington,Washington,Loyola-Marymount,1,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+02/22/2026,Loyola-Marymount,Washington,7,6,0,0,L,Washington,Washington,Loyola-Marymount,1,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+02/24/2026,Washington,Seattle University,11,14,0,0,L,Washington,Washington,Seattle-University,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+02/27/2026,Washington,San Diego State,4,9,0,0,L,Washington,Washington,San-Diego-State,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+02/28/2026,Washington,San Diego State,2,3,0,0,L,Washington,Washington,San-Diego-State,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/01/2026,Washington,San Diego State,11,2,0,0,W,Washington,Washington,San-Diego-State,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/02/2026,Washington,San Diego State,4,1,0,0,W,Washington,Washington,San-Diego-State,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/06/2026,Indiana,Washington,4,2,0,0,L,Washington,Washington,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+03/07/2026,Indiana,Washington,2,9,0,0,W,Washington,Washington,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+03/08/2026,Indiana,Washington,4,13,0,0,W,Washington,Washington,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+03/10/2026,Washington,Seattle University,7,4,0,0,W,Washington,Washington,Seattle-University,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/13/2026,Washington,Ohio State,9,10,0,0,L,Washington,Washington,Ohio-State,0,10,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/14/2026,Washington,Ohio State,5,4,0,0,W,Washington,Washington,Ohio-State,0,11,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/15/2026,Washington,Ohio State,5,4,0,0,W,Washington,Washington,Ohio-State,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/20/2026,USC,Washington,5,0,0,0,L,Washington,Washington,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/21/2026,USC,Washington,7,2,0,0,L,Washington,Washington,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/22/2026,USC,Washington,14,4,0,0,L,Washington,Washington,USC,1,7,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/24/2026,Pepperdine,Washington,2,11,0,0,W,Washington,Washington,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+03/27/2026,Washington,Northwestern,7,2,0,0,W,Washington,Washington,Northwestern,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/28/2026,Washington,Northwestern,9,10,0,0,L,Washington,Washington,Northwestern,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/29/2026,Washington,Northwestern,7,2,0,0,W,Washington,Washington,Northwestern,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/31/2026,Oregon State,Washington,2,18,0,0,W,Washington,Washington,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+04/02/2026,Washington,Valparaiso,6,3,0,0,W,Washington,Washington,Valparaiso,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/03/2026,Washington,Valparaiso,6,0,0,0,W,Washington,Washington,Valparaiso,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/04/2026,Washington,Valparaiso,2,4,0,0,L,Washington,Washington,Valparaiso,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/06/2026,Washington,Gonzaga,2,9,0,0,L,Washington,Washington,Gonzaga,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/07/2026,Washington,Gonzaga,5,8,0,0,L,Washington,Washington,Gonzaga,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/10/2026,Minnesota,Washington,7,11,0,0,W,Washington,Washington,Minnesota,1,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/10/2026,Minnesota,Washington,12,6,0,0,L,Washington,Washington,Minnesota,1,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/11/2026,Minnesota,Washington,5,4,0,0,L,Washington,Washington,Minnesota,1,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/17/2026,Washington,Michigan State,4,6,0,0,L,Washington,Washington,Michigan-State,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/18/2026,Washington,Michigan State,8,13,0,0,L,Washington,Washington,Michigan-State,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/19/2026,Washington,Michigan State,8,5,0,0,W,Washington,Washington,Michigan-State,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/21/2026,Portland,Washington,1,8,0,1,W,Washington,Washington,Portland,0,9,"Ridgefield, WA",2026,WN2026
+04/24/2026,Michigan,Washington,8,7,0,0,L,Washington,Washington,Michigan,1,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/25/2026,Michigan,Washington,4,3,0,0,L,Washington,Washington,Michigan,1,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/26/2026,Michigan,Washington,5,7,0,0,W,Washington,Washington,Michigan,1,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/28/2026,Eastern Michigan,Washington,4,6,0,0,W,Washington,Washington,Eastern-Michigan,1,9,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+05/01/2026,Washington,Oregon,4,6,0,0,L,Washington,Washington,Oregon,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+05/02/2026,Washington,Oregon,4,10,0,0,L,Washington,Washington,Oregon,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+05/03/2026,Washington,Oregon,9,5,0,0,W,Washington,Washington,Oregon,0,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+05/05/2026,Seattle University,Washington,4,3,0,0,L,Washington,Washington,Seattle-University,1,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+05/08/2026,Penn State,Washington,4,5,0,0,W,Washington,Washington,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park / Box Score",2026,WN2026
+05/08/2026,Penn State,Washington,6,4,0,0,L,Washington,Washington,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park / Box Score",2026,WN2026
+05/09/2026,Penn State,Washington,4,0,0,0,L,Washington,Washington,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park / Box Score",2026,WN2026
+05/14/2026,Washington,UCLA,8,0,0,0,W,Washington,Washington,UCLA,0,9,"Seattle, WA / Husky Ballpark / Box Score",2026,WN2026
+05/15/2026,Washington,UCLA,5,6,0,0,L,Washington,Washington,UCLA,0,9,"Seattle, WA / Husky Ballpark / Box Score",2026,WN2026
+05/16/2026,Washington,UCLA,1,6,0,0,L,Washington,Washington,UCLA,0,9,"Seattle, WA / Husky Ballpark / Box Score",2026,WN2026
+05/19/2026,Ohio State,Washington,6,8,0,1,W,Washington,Washington,Ohio-State,0,9,"Omaha, NE / Charles Schwab Field Omaha / Recap",2026,WN2026
+05/20/2026,Michigan,Washington,1,7,0,1,W,Washington,Washington,Michigan,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+05/23/2026,Oregon,Washington,9,4,0,1,L,Washington,Washington,Oregon,0,9,"Omaha, NE / Charles Schwab Field Omaha / Recap",2026,WN2026

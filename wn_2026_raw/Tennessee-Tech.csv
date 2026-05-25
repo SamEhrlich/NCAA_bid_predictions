@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Texas A&M,Tennessee Tech,15,6,0,0,L,Tennessee Tech,Tennessee-Tech,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+02/14/2026,Texas A&M,Tennessee Tech,23,7,0,0,L,Tennessee Tech,Tennessee-Tech,Texas-AM,1,7,"College Station, TX / Blue Bell Park",2026,WN2026
+02/15/2026,Texas A&M,Tennessee Tech,7,1,0,0,L,Tennessee Tech,Tennessee-Tech,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+02/17/2026,Tennessee Tech,Lipscomb,7,5,0,0,W,Tennessee Tech,Tennessee-Tech,Lipscomb,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+02/20/2026,Tennessee Tech,Ohio,8,3,0,0,W,Tennessee Tech,Tennessee-Tech,Ohio,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+02/21/2026,Tennessee Tech,Ohio,6,4,0,0,W,Tennessee Tech,Tennessee-Tech,Ohio,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+02/21/2026,Tennessee Tech,Ohio,6,1,0,0,W,Tennessee Tech,Tennessee-Tech,Ohio,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+02/22/2026,Tennessee Tech,Ohio,6,3,0,0,W,Tennessee Tech,Tennessee-Tech,Ohio,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+02/24/2026,Middle Tennessee,Tennessee Tech,11,1,0,0,L,Tennessee Tech,Tennessee-Tech,Middle-Tennessee,1,8,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/27/2026,Tennessee Tech,UIC,0,8,0,0,L,Tennessee Tech,Tennessee-Tech,UIC,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+02/28/2026,Tennessee Tech,Alabama A&M,7,4,0,0,W,Tennessee Tech,Tennessee-Tech,Alabama-AM,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+03/01/2026,Tennessee Tech,Notre Dame,0,11,0,0,L,Tennessee Tech,Tennessee-Tech,Notre-Dame,0,8,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+03/06/2026,Georgia Southern,Tennessee Tech,2,5,0,0,W,Tennessee Tech,Tennessee-Tech,Georgia-Southern,1,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/07/2026,Georgia Southern,Tennessee Tech,14,4,0,0,L,Tennessee Tech,Tennessee-Tech,Georgia-Southern,1,7,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/08/2026,Georgia Southern,Tennessee Tech,11,6,0,0,L,Tennessee Tech,Tennessee-Tech,Georgia-Southern,1,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/10/2026,Tennessee,Tennessee Tech,20,2,0,0,L,Tennessee Tech,Tennessee-Tech,Tennessee,1,7,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/11/2026,Tennessee Tech,Belmont,7,11,0,0,L,Tennessee Tech,Tennessee-Tech,Belmont,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+03/13/2026,Tennessee Tech,Mercer,11,14,0,0,L,Tennessee Tech,Tennessee-Tech,Mercer,0,11,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+03/14/2026,Tennessee Tech,Mercer,2,10,0,0,L,Tennessee Tech,Tennessee-Tech,Mercer,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+03/15/2026,Tennessee Tech,Mercer,16,10,0,0,W,Tennessee Tech,Tennessee-Tech,Mercer,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+03/17/2026,North Alabama,Tennessee Tech,9,10,0,0,W,Tennessee Tech,Tennessee-Tech,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+03/20/2026,Tennessee Tech,Little Rock,4,12,0,0,L,Tennessee Tech,Tennessee-Tech,Little-Rock,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+03/21/2026,Tennessee Tech,Little Rock,3,4,0,0,L,Tennessee Tech,Tennessee-Tech,Little-Rock,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+03/22/2026,Tennessee Tech,Little Rock,10,11,0,0,L,Tennessee Tech,Tennessee-Tech,Little-Rock,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+03/24/2026,Vanderbilt,Tennessee Tech,15,5,0,0,L,Tennessee Tech,Tennessee-Tech,Vanderbilt,1,8,"Nashville, TN / Hawkins Field",2026,WN2026
+03/27/2026,SIUE,Tennessee Tech,6,1,0,0,L,Tennessee Tech,Tennessee-Tech,SIUE,1,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/28/2026,SIUE,Tennessee Tech,8,1,0,0,L,Tennessee Tech,Tennessee-Tech,SIUE,1,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/29/2026,SIUE,Tennessee Tech,6,2,0,0,L,Tennessee Tech,Tennessee-Tech,SIUE,1,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/31/2026,Western Kentucky,Tennessee Tech,12,0,0,0,L,Tennessee Tech,Tennessee-Tech,Western-Kentucky,1,7,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+04/02/2026,Tennessee Tech,Eastern Illinois,21,6,0,0,W,Tennessee Tech,Tennessee-Tech,Eastern-Illinois,0,7,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/03/2026,Tennessee Tech,Eastern Illinois,1,13,0,0,L,Tennessee Tech,Tennessee-Tech,Eastern-Illinois,0,8,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/04/2026,Tennessee Tech,Eastern Illinois,6,9,0,0,L,Tennessee Tech,Tennessee-Tech,Eastern-Illinois,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/07/2026,Tennessee Tech,Austin Peay,7,5,0,0,W,Tennessee Tech,Tennessee-Tech,Austin-Peay,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/10/2026,Tennessee-Martin,Tennessee Tech,11,6,0,0,L,Tennessee Tech,Tennessee-Tech,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+04/11/2026,Tennessee-Martin,Tennessee Tech,8,4,0,0,L,Tennessee Tech,Tennessee-Tech,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+04/12/2026,Tennessee-Martin,Tennessee Tech,16,18,0,0,W,Tennessee Tech,Tennessee-Tech,Tennessee-Martin,1,10,"Martin, TN / Skyhawk Park",2026,WN2026
+04/14/2026,Austin Peay,Tennessee Tech,17,7,0,0,L,Tennessee Tech,Tennessee-Tech,Austin-Peay,1,7,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+04/17/2026,Tennessee Tech,Southeast Missouri,11,13,0,0,L,Tennessee Tech,Tennessee-Tech,Southeast-Missouri,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/18/2026,Tennessee Tech,Southeast Missouri,10,4,0,0,W,Tennessee Tech,Tennessee-Tech,Southeast-Missouri,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/19/2026,Tennessee Tech,Southeast Missouri,7,9,0,0,L,Tennessee Tech,Tennessee-Tech,Southeast-Missouri,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/21/2026,Tennessee Tech,Middle Tennessee,12,6,0,0,W,Tennessee Tech,Tennessee-Tech,Middle-Tennessee,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/22/2026,Tennessee Tech,North Alabama,7,10,0,0,L,Tennessee Tech,Tennessee-Tech,North-Alabama,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/24/2026,Tennessee Tech,Western Illinois,6,8,0,0,L,Tennessee Tech,Tennessee-Tech,Western-Illinois,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/25/2026,Tennessee Tech,Western Illinois,10,2,0,0,W,Tennessee Tech,Tennessee-Tech,Western-Illinois,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/26/2026,Tennessee Tech,Western Illinois,3,4,0,0,L,Tennessee Tech,Tennessee-Tech,Western-Illinois,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/28/2026,Lipscomb,Tennessee Tech,5,15,0,0,W,Tennessee Tech,Tennessee-Tech,Lipscomb,1,7,"Nashville, TN / Ken Dugan Field",2026,WN2026
+05/01/2026,Southern Indiana,Tennessee Tech,3,13,0,0,W,Tennessee Tech,Tennessee-Tech,Southern-Indiana,1,8,"Evansville, IN / USI Baseball Field",2026,WN2026
+05/02/2026,Southern Indiana,Tennessee Tech,8,6,0,0,L,Tennessee Tech,Tennessee-Tech,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+05/03/2026,Southern Indiana,Tennessee Tech,10,5,0,0,L,Tennessee Tech,Tennessee-Tech,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+05/08/2026,Lindenwood,Tennessee Tech,6,5,0,0,L,Tennessee Tech,Tennessee-Tech,Lindenwood,1,10,"St. Charles, MO / Lou Brock Sports Complex / Box Score",2026,WN2026
+05/09/2026,Lindenwood,Tennessee Tech,4,3,0,0,L,Tennessee Tech,Tennessee-Tech,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex / Box Score",2026,WN2026
+05/10/2026,Lindenwood,Tennessee Tech,3,4,0,0,W,Tennessee Tech,Tennessee-Tech,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex / Box Score",2026,WN2026
+05/14/2026,Tennessee Tech,Morehead State,4,7,0,0,L,Tennessee Tech,Tennessee-Tech,Morehead-State,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex / Box Score",2026,WN2026
+05/15/2026,Tennessee Tech,Morehead State,3,4,0,0,L,Tennessee Tech,Tennessee-Tech,Morehead-State,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex / Box Score",2026,WN2026
+05/16/2026,Tennessee Tech,Morehead State,6,7,0,0,L,Tennessee Tech,Tennessee-Tech,Morehead-State,0,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex / Box Score",2026,WN2026

@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Upsets — NCAA D1 Baseball Elo</title>
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <style>
+    .upset-table {
+      width: 100%; border-collapse: collapse;
+      background: var(--bg-elevated);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+    .upset-table th, .upset-table td {
+      padding: 9px 12px; text-align: left;
+      border-bottom: 1px solid var(--border-soft);
+      font-size: 13px;
+    }
+    .upset-table th {
+      background: var(--bg-hover);
+      font-size: 11px; color: var(--text-dim);
+      text-transform: uppercase; letter-spacing: 0.5px;
+    }
+    .upset-table tr:last-child td { border-bottom: none; }
+    .upset-table .gap { font-family: var(--mono); color: var(--accent); }
+    .upset-table .pct { font-family: var(--mono); }
+
+    /* --- Season change leaderboards (gainers / falloffs) --- */
+    .change-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+    @media (max-width: 800px) { .change-grid { grid-template-columns: 1fr; } }
+    .change-card h2 {
+      display: flex; align-items: center; gap: 8px;
+      font-size: 13px; text-transform: uppercase; letter-spacing: 0.5px;
+      margin: 0 0 12px;
+    }
+    .change-card.gainers h2 { color: var(--win); }
+    .change-card.falloffs h2 { color: var(--loss); }
+    .change-row {
+      display: grid;
+      grid-template-columns: 22px 26px 1fr auto;
+      gap: 10px; align-items: center;
+      padding: 8px 0;
+      border-bottom: 1px solid var(--border-soft);
+      font-size: 13px;
+      transition: background 0.1s;
+    }
+    .change-row:last-child { border-bottom: none; }
+    .change-row:hover { background: var(--accent-fade); }
+    .change-row .rank {
+      font-family: var(--mono); font-size: 11px; color: var(--text-muted);
+      text-align: right;
+    }
+    .change-row img { width: 24px; height: 24px; border-radius: 3px; }
+    .change-row .info { display: flex; flex-direction: column; gap: 1px; }
+    .change-row .info .name {
+      color: var(--text);
+      font-weight: 500;
+    }
+    .change-row:hover .info .name { color: var(--accent); }
+    .change-row .info .conf {
+      font-size: 10.5px; color: var(--text-muted);
+      font-family: var(--mono);
+    }
+    .change-row .nums {
+      font-family: var(--mono); font-size: 11.5px;
+      text-align: right;
+      display: flex; flex-direction: column; align-items: flex-end; gap: 1px;
+    }
+    .change-row .nums .elos {
+      color: var(--text-muted); font-size: 10.5px;
+    }
+    .change-row .nums .delta {
+      font-size: 13px; font-weight: 700;
+    }
+    .change-row .nums .delta.up   { color: var(--win); }
+    .change-row .nums .delta.down { color: var(--loss); }
+  </style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-brand">NCAA D1 Baseball <span>Elo</span></div>
+  <div class="nav-links">
+    <a href="index.html"   data-nav="leaderboard">Leaderboard</a>
+    <a href="bracket.html" data-nav="bracket">2026 Bracket</a>
+    <a href="whatif.html"  data-nav="whatif">What-If</a>
+    <a href="compare.html" data-nav="compare">Compare</a>
+    <a href="conference.html" data-nav="conference">Conferences</a>
+    <a href="extras.html"  data-nav="extras">Upsets</a>
+  </div>
+  <div class="nav-meta" id="nav-meta"></div>
+</nav>
+
+<div class="container">
+
+  <h1 class="section-title">
+    Upset Radar — 2026 Bracket
+    <span class="sub">first-round matchups where Elo and seeding disagree</span>
+  </h1>
+  <div class="card" style="margin-bottom:36px;">
+    <table class="upset-table" id="upsets"></table>
+  </div>
+
+  <h1 class="section-title">
+    Biggest Movers — 2025 → 2026
+    <span class="sub" id="movers-sub">top 15 gainers and falloffs by year-over-year Elo change</span>
+  </h1>
+  <div class="change-grid" style="margin-bottom:36px;">
+    <div class="card change-card gainers">
+      <h2>▲ Biggest Gainers</h2>
+      <div id="gainers-list"></div>
+    </div>
+    <div class="card change-card falloffs">
+      <h2>▼ Biggest Falloffs</h2>
+      <div id="falloffs-list"></div>
+    </div>
+  </div>
+
+  <h1 class="section-title">
+    Model Calibration
+    <span class="sub">predicted vs actual win-rate by probability bucket</span>
+  </h1>
+  <div class="card">
+    <h2>Calibration plot</h2>
+    <p style="font-size:12.5px; color:var(--text-dim); margin-top:0;">
+      A well-calibrated Elo lands every point near the dashed diagonal — if the model predicts
+      a 70% win prob, the home team actually wins ~70% of those games. Bin size shown below
+      each point. Built from all 52,000+ fitted games (2021–2026).
+    </p>
+    <div id="calib-chart" style="min-height:460px; position:relative;"></div>
+  </div>
+</div>
+
+<footer class="footer">
+  Upsets driven by Elo gap between higher-seeded and lower-seeded first-round teams.
+</footer>
+
+<script type="module">
+import { loadJSON, setActiveNav, fmtElo, $ } from "./js/common.js";
+
+setActiveNav("extras");
+const meta = await loadJSON("meta.json");
+$("#nav-meta").textContent =
+  `${meta.n_games_fit.toLocaleString()} games · fit ${meta.generated_at.slice(0,10)}`;
+
+// ===== Biggest gainers / falloffs (2025 -> 2026) =====
+const seasonChange = await loadJSON("season_change.json");
+$("#movers-sub").textContent =
+  `top 15 of ${seasonChange.n_teams_compared} D1 teams w/ both 2025 + 2026 data`;
+
+function renderChangeList(containerEl, rows, direction /* "up" | "down" */) {
+  containerEl.innerHTML = "";
+  for (let i = 0; i < Math.min(15, rows.length); i++) {
+    const r = rows[i];
+    const row = document.createElement("a");
+    row.href = `team.html?slug=${encodeURIComponent(r.slug)}`;
+    row.className = "change-row";
+    row.style.textDecoration = "none";
+    row.style.color = "inherit";
+    const sign = r.delta > 0 ? "+" : "";
+    row.innerHTML = `
+      <span class="rank">${i + 1}.</span>
+      <img src="${r.logo || ''}" alt="" onerror="this.style.visibility='hidden'" loading="lazy">
+      <span class="info">
+        <span class="name">${r.team}</span>
+        <span class="conf">${r.conf || ""}</span>
+      </span>
+      <span class="nums">
+        <span class="elos">${fmtElo(r.end_2025)} → ${fmtElo(r.end_2026)}</span>
+        <span class="delta ${direction}">${sign}${r.delta.toFixed(1)}</span>
+      </span>
+    `;
+    containerEl.appendChild(row);
+  }
+}
+renderChangeList($("#gainers-list"),  seasonChange.gainers,  "up");
+renderChangeList($("#falloffs-list"), seasonChange.falloffs, "down");
+
+// ===== Calibration =====
+const calib = await loadJSON("calibration.json");
+{
+  const cont = $("#calib-chart");
+  const M = { top: 16, right: 22, bottom: 40, left: 50 };
+  const w = cont.clientWidth, h = 460;
+  const iw = w - M.left - M.right, ih = h - M.top - M.bottom;
+
+  const svg = d3.select(cont).append("svg")
+    .attr("viewBox",`0 0 ${w} ${h}`)
+    .attr("preserveAspectRatio","xMidYMid meet");
+  const g = svg.append("g").attr("transform",`translate(${M.left},${M.top})`);
+
+  const x = d3.scaleLinear().domain([0, 1]).range([0, iw]);
+  const y = d3.scaleLinear().domain([0, 1]).range([ih, 0]);
+
+  g.append("g").attr("class","elo-grid").call(d3.axisLeft(y).tickSize(-iw).tickFormat(""));
+
+  g.append("g").attr("class","elo-axis").attr("transform",`translate(0,${ih})`)
+    .call(d3.axisBottom(x).tickFormat(d3.format(".0%")));
+  g.append("g").attr("class","elo-axis").call(d3.axisLeft(y).tickFormat(d3.format(".0%")));
+
+  // Perfect-calibration diagonal
+  g.append("line")
+    .attr("x1", x(0)).attr("y1", y(0))
+    .attr("x2", x(1)).attr("y2", y(1))
+    .attr("stroke","var(--text-muted)")
+    .attr("stroke-dasharray","4 3");
+
+  // Axis titles
+  svg.append("text").attr("x", M.left + iw/2).attr("y", h - 6)
+    .attr("text-anchor","middle").attr("fill","var(--text-dim)")
+    .style("font-size","12px").text("Predicted home win probability");
+  svg.append("text")
+    .attr("transform", `translate(14,${M.top + ih/2}) rotate(-90)`)
+    .attr("text-anchor","middle").attr("fill","var(--text-dim)")
+    .style("font-size","12px").text("Actual home win rate");
+
+  // Points
+  const valid = calib.filter(b => b.predicted != null && b.n > 0);
+  const maxN = d3.max(valid, b => b.n);
+  const rScale = d3.scaleSqrt().domain([0, maxN]).range([2, 14]);
+
+  // Connect with a line
+  g.append("path").datum(valid)
+    .attr("fill","none").attr("stroke","var(--accent)").attr("stroke-width", 2)
+    .attr("d", d3.line().x(d=>x(d.predicted)).y(d=>y(d.actual)));
+
+  g.selectAll(".calib-pt").data(valid).join("circle")
+    .attr("class","calib-pt")
+    .attr("cx", d => x(d.predicted))
+    .attr("cy", d => y(d.actual))
+    .attr("r", d => rScale(d.n))
+    .attr("fill","var(--accent)")
+    .attr("opacity", 0.85)
+    .attr("stroke","var(--bg-elevated)")
+    .attr("stroke-width", 1.5);
+
+  // n labels
+  g.selectAll(".calib-n").data(valid).join("text")
+    .attr("class","calib-n")
+    .attr("x", d => x(d.predicted))
+    .attr("y", d => y(d.actual) - rScale(d.n) - 4)
+    .attr("text-anchor","middle")
+    .attr("fill","var(--text-dim)")
+    .style("font-size","10px").style("font-family","var(--mono)")
+    .text(d => `n=${d.n.toLocaleString()}`);
+}
+
+// ===== Upsets =====
+const upsets = await loadJSON("upsets.json");
+const table = $("#upsets");
+if (upsets.length === 0) {
+  table.outerHTML = `<p class="loading">No first-round upset risks identified — every seeded team out-Elos its lower-seeded opponent.</p>`;
+} else {
+  table.innerHTML = `
+    <thead><tr>
+      <th>Regional</th>
+      <th>Matchup</th>
+      <th>Higher seed</th>
+      <th>Higher Elo</th>
+      <th>Elo gap</th>
+      <th>Lower seed win prob</th>
+    </tr></thead>
+    <tbody>
+      ${upsets.map(u => `
+        <tr>
+          <td>${u.regional}</td>
+          <td>${u.matchup}</td>
+          <td>${u.higher_seed}</td>
+          <td>${u.higher_elo}</td>
+          <td class="gap">${u.elo_gap}</td>
+          <td class="pct">${(u.win_prob_lower_seed * 100).toFixed(1)}%</td>
+        </tr>
+      `).join("")}
+    </tbody>
+  `;
+}
+</script>
+
+</body>
+</html>

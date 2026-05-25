@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Middle Tennessee,Bellarmine,8,2,0,0,W,Middle Tennessee,Middle-Tennessee,Bellarmine,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/14/2026,Middle Tennessee,Bellarmine,3,6,0,0,L,Middle Tennessee,Middle-Tennessee,Bellarmine,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/14/2026,Middle Tennessee,Bellarmine,15,5,0,0,W,Middle Tennessee,Middle-Tennessee,Bellarmine,0,8,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/17/2026,Middle Tennessee,Alabama A&M,19,2,0,0,W,Middle Tennessee,Middle-Tennessee,Alabama-AM,0,7,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/20/2026,Middle Tennessee,Saint Bonaventure,2,1,0,0,W,Middle Tennessee,Middle-Tennessee,Saint-Bonaventure,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/21/2026,Middle Tennessee,Saint Bonaventure,5,6,0,0,L,Middle Tennessee,Middle-Tennessee,Saint-Bonaventure,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/22/2026,Middle Tennessee,Saint Bonaventure,7,0,0,0,W,Middle Tennessee,Middle-Tennessee,Saint-Bonaventure,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/24/2026,Middle Tennessee,Tennessee Tech,11,1,0,0,W,Middle Tennessee,Middle-Tennessee,Tennessee-Tech,0,8,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/27/2026,Middle Tennessee,Illinois State,13,3,0,0,W,Middle Tennessee,Middle-Tennessee,Illinois-State,0,7,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/28/2026,Middle Tennessee,Illinois State,8,2,0,0,W,Middle Tennessee,Middle-Tennessee,Illinois-State,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/01/2026,Middle Tennessee,Illinois State,7,14,0,0,L,Middle Tennessee,Middle-Tennessee,Illinois-State,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/03/2026,Middle Tennessee,Murray State,5,2,0,0,W,Middle Tennessee,Middle-Tennessee,Murray-State,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/04/2026,Middle Tennessee,Belmont,7,8,0,0,L,Middle Tennessee,Middle-Tennessee,Belmont,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/06/2026,UAB,Middle Tennessee,12,2,0,0,L,Middle Tennessee,Middle-Tennessee,UAB,1,8,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/07/2026,UAB,Middle Tennessee,9,8,0,0,L,Middle Tennessee,Middle-Tennessee,UAB,1,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/07/2026,UAB,Middle Tennessee,16,14,0,0,L,Middle Tennessee,Middle-Tennessee,UAB,1,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/10/2026,Middle Tennessee,Eastern Kentucky,17,0,0,0,W,Middle Tennessee,Middle-Tennessee,Eastern-Kentucky,0,7,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/13/2026,Middle Tennessee,Kennesaw State,1,6,0,0,L,Middle Tennessee,Middle-Tennessee,Kennesaw-State,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/14/2026,Middle Tennessee,Kennesaw State,13,2,0,0,W,Middle Tennessee,Middle-Tennessee,Kennesaw-State,0,7,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/15/2026,Middle Tennessee,Kennesaw State,4,3,0,0,W,Middle Tennessee,Middle-Tennessee,Kennesaw-State,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/17/2026,Middle Tennessee,Murray State,3,5,0,0,L,Middle Tennessee,Middle-Tennessee,Murray-State,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/20/2026,Missouri State,Middle Tennessee,6,4,0,0,L,Middle Tennessee,Middle-Tennessee,Missouri-State,1,9,"Springfield, MO / Hammons Field",2026,WN2026
+03/21/2026,Missouri State,Middle Tennessee,14,4,0,0,L,Middle Tennessee,Middle-Tennessee,Missouri-State,1,7,"Springfield, MO / Hammons Field",2026,WN2026
+03/22/2026,Missouri State,Middle Tennessee,10,9,0,0,L,Middle Tennessee,Middle-Tennessee,Missouri-State,1,9,"Springfield, MO / Hammons Field",2026,WN2026
+03/24/2026,Alabama A&M,Middle Tennessee,2,10,0,0,W,Middle Tennessee,Middle-Tennessee,Alabama-AM,1,9,"Huntsville, AL / Bulldog Field",2026,WN2026
+03/27/2026,Middle Tennessee,New Mexico State,7,5,0,0,W,Middle Tennessee,Middle-Tennessee,New-Mexico-State,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/28/2026,Middle Tennessee,New Mexico State,8,7,0,0,W,Middle Tennessee,Middle-Tennessee,New-Mexico-State,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/29/2026,Middle Tennessee,New Mexico State,9,6,0,0,W,Middle Tennessee,Middle-Tennessee,New-Mexico-State,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/31/2026,Middle Tennessee,Southern Indiana,2,7,0,0,L,Middle Tennessee,Middle-Tennessee,Southern-Indiana,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+04/02/2026,Jacksonville State,Middle Tennessee,6,5,0,0,L,Middle Tennessee,Middle-Tennessee,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+04/03/2026,Jacksonville State,Middle Tennessee,7,6,0,0,L,Middle Tennessee,Middle-Tennessee,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+04/04/2026,Jacksonville State,Middle Tennessee,3,1,0,0,L,Middle Tennessee,Middle-Tennessee,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+04/07/2026,Middle Tennessee,Lipscomb,5,3,0,0,W,Middle Tennessee,Middle-Tennessee,Lipscomb,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+04/10/2026,Louisiana Tech,Middle Tennessee,8,1,0,0,L,Middle Tennessee,Middle-Tennessee,Louisiana-Tech,1,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+04/11/2026,Louisiana Tech,Middle Tennessee,8,2,0,0,L,Middle Tennessee,Middle-Tennessee,Louisiana-Tech,1,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+04/12/2026,Louisiana Tech,Middle Tennessee,5,3,0,0,L,Middle Tennessee,Middle-Tennessee,Louisiana-Tech,1,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+04/14/2026,Belmont,Middle Tennessee,8,10,0,0,W,Middle Tennessee,Middle-Tennessee,Belmont,1,13,"Nashville, TN / E. S. Rose Park",2026,WN2026
+04/17/2026,Middle Tennessee,Delaware,8,7,0,0,W,Middle Tennessee,Middle-Tennessee,Delaware,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+04/18/2026,Middle Tennessee,Delaware,4,3,0,0,W,Middle Tennessee,Middle-Tennessee,Delaware,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+04/19/2026,Middle Tennessee,Delaware,4,0,0,0,W,Middle Tennessee,Middle-Tennessee,Delaware,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+04/21/2026,Tennessee Tech,Middle Tennessee,12,6,0,0,L,Middle Tennessee,Middle-Tennessee,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/24/2026,Sam Houston State,Middle Tennessee,6,3,0,0,L,Middle Tennessee,Middle-Tennessee,Sam-Houston-State,1,9,"Huntsville, TX / Don Sanders Stadium",2026,WN2026
+04/25/2026,Sam Houston State,Middle Tennessee,8,12,0,0,W,Middle Tennessee,Middle-Tennessee,Sam-Houston-State,1,9,"Huntsville, TX / Don Sanders Stadium",2026,WN2026
+04/26/2026,Sam Houston State,Middle Tennessee,9,4,0,0,L,Middle Tennessee,Middle-Tennessee,Sam-Houston-State,1,9,"Huntsville, TX / Don Sanders Stadium",2026,WN2026
+04/28/2026,Vanderbilt,Middle Tennessee,9,1,0,0,L,Middle Tennessee,Middle-Tennessee,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+05/01/2026,Middle Tennessee,Western Kentucky,7,1,0,0,W,Middle Tennessee,Middle-Tennessee,Western-Kentucky,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+05/02/2026,Middle Tennessee,Western Kentucky,0,11,0,0,L,Middle Tennessee,Middle-Tennessee,Western-Kentucky,0,8,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+05/03/2026,Middle Tennessee,Western Kentucky,8,9,0,0,L,Middle Tennessee,Middle-Tennessee,Western-Kentucky,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+05/08/2026,FIU,Middle Tennessee,9,11,0,0,W,Middle Tennessee,Middle-Tennessee,FIU,1,9,"Miami, FL / FIU Baseball Stadium / Box Score",2026,WN2026
+05/09/2026,FIU,Middle Tennessee,7,5,0,0,L,Middle Tennessee,Middle-Tennessee,FIU,1,9,"Miami, FL / FIU Baseball Stadium / Box Score",2026,WN2026
+05/10/2026,FIU,Middle Tennessee,10,2,0,0,L,Middle Tennessee,Middle-Tennessee,FIU,1,9,"Miami, FL / FIU Baseball Stadium / Box Score",2026,WN2026
+05/12/2026,Middle Tennessee,Memphis,10,9,0,0,W,Middle Tennessee,Middle-Tennessee,Memphis,0,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+05/14/2026,Middle Tennessee,Liberty,8,1,0,0,W,Middle Tennessee,Middle-Tennessee,Liberty,0,9,"Murfreesboro, TN / Reese Smith Jr. Field / Box Score",2026,WN2026
+05/15/2026,Middle Tennessee,Liberty,2,10,0,0,L,Middle Tennessee,Middle-Tennessee,Liberty,0,9,"Murfreesboro, TN / Reese Smith Jr. Field / Box Score",2026,WN2026
+05/16/2026,Middle Tennessee,Liberty,7,8,0,0,L,Middle Tennessee,Middle-Tennessee,Liberty,0,9,"Murfreesboro, TN / Reese Smith Jr. Field / Box Score",2026,WN2026
+05/20/2026,Western Kentucky,Middle Tennessee,8,2,0,1,L,Middle Tennessee,Middle-Tennessee,Western-Kentucky,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+05/21/2026,Jacksonville State,Middle Tennessee,9,3,0,1,L,Middle Tennessee,Middle-Tennessee,Jacksonville-State,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026

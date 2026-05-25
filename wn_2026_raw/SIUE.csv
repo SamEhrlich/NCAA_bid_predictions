@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,North Alabama,SIUE,3,1,0,0,L,SIUE,SIUE,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/13/2026,North Alabama,SIUE,8,1,0,0,L,SIUE,SIUE,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/14/2026,North Alabama,SIUE,1,2,0,0,W,SIUE,SIUE,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/17/2026,SIUE,Illinois State,5,9,0,0,L,SIUE,SIUE,Illinois-State,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+02/20/2026,Southeastern Louisiana,SIUE,2,4,0,0,W,SIUE,SIUE,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+02/21/2026,Southeastern Louisiana,SIUE,7,2,0,0,L,SIUE,SIUE,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+02/22/2026,Southeastern Louisiana,SIUE,6,5,0,0,L,SIUE,SIUE,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+02/24/2026,SIUE,Saint Louis,17,7,0,0,W,SIUE,SIUE,Saint-Louis,0,7,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+02/27/2026,SIUE,Eastern Michigan,12,7,0,0,W,SIUE,SIUE,Eastern-Michigan,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+02/28/2026,SIUE,Eastern Michigan,1,9,0,0,L,SIUE,SIUE,Eastern-Michigan,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+02/28/2026,SIUE,Eastern Michigan,7,8,0,0,L,SIUE,SIUE,Eastern-Michigan,0,7,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/01/2026,SIUE,Eastern Michigan,4,3,0,0,W,SIUE,SIUE,Eastern-Michigan,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/03/2026,SIUE,Bradley,7,8,0,0,L,SIUE,SIUE,Bradley,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/06/2026,Kansas State,SIUE,14,5,0,0,L,SIUE,SIUE,Kansas-State,1,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/07/2026,Kansas State,SIUE,8,4,0,0,L,SIUE,SIUE,Kansas-State,1,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/08/2026,Kansas State,SIUE,20,7,0,0,L,SIUE,SIUE,Kansas-State,1,7,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/10/2026,SIUE,Southern Illinois,16,6,0,0,W,SIUE,SIUE,Southern-Illinois,0,8,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/13/2026,SIUE,Valparaiso,13,3,0,0,W,SIUE,SIUE,Valparaiso,0,7,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/14/2026,SIUE,Valparaiso,3,2,0,0,W,SIUE,SIUE,Valparaiso,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/15/2026,SIUE,Valparaiso,9,13,0,0,L,SIUE,SIUE,Valparaiso,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/18/2026,Illinois State,SIUE,6,5,0,0,L,SIUE,SIUE,Illinois-State,1,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+03/20/2026,Morehead State,SIUE,8,23,0,0,W,SIUE,SIUE,Morehead-State,1,7,"Morehead, KY / Allen Field",2026,WN2026
+03/21/2026,Morehead State,SIUE,2,7,0,0,W,SIUE,SIUE,Morehead-State,1,9,"Morehead, KY / Allen Field",2026,WN2026
+03/22/2026,Morehead State,SIUE,23,28,0,0,W,SIUE,SIUE,Morehead-State,1,9,"Morehead, KY / Allen Field",2026,WN2026
+03/24/2026,Saint Louis,SIUE,8,2,0,0,L,SIUE,SIUE,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/27/2026,SIUE,Tennessee Tech,6,1,0,0,W,SIUE,SIUE,Tennessee-Tech,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/28/2026,SIUE,Tennessee Tech,8,1,0,0,W,SIUE,SIUE,Tennessee-Tech,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/29/2026,SIUE,Tennessee Tech,6,2,0,0,W,SIUE,SIUE,Tennessee-Tech,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+04/02/2026,Southern Indiana,SIUE,2,4,0,0,W,SIUE,SIUE,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/03/2026,Southern Indiana,SIUE,7,9,0,0,W,SIUE,SIUE,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/03/2026,Southern Indiana,SIUE,7,6,0,0,L,SIUE,SIUE,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/08/2026,Indiana State,SIUE,9,17,0,0,W,SIUE,SIUE,Indiana-State,1,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/10/2026,SIUE,Little Rock,0,3,0,0,L,SIUE,SIUE,Little-Rock,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+04/11/2026,SIUE,Little Rock,6,2,0,0,W,SIUE,SIUE,Little-Rock,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+04/12/2026,SIUE,Little Rock,3,2,0,0,W,SIUE,SIUE,Little-Rock,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+04/14/2026,Illinois,SIUE,16,4,0,0,L,SIUE,SIUE,Illinois,1,7,"Champaign, IL / Illinois Field",2026,WN2026
+04/15/2026,SIUE,Saint Louis,15,5,0,0,W,SIUE,SIUE,Saint-Louis,0,7,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+04/17/2026,Western Illinois,SIUE,2,4,0,0,W,SIUE,SIUE,Western-Illinois,1,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+04/18/2026,Western Illinois,SIUE,10,1,0,0,L,SIUE,SIUE,Western-Illinois,1,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+04/19/2026,Western Illinois,SIUE,10,6,0,0,L,SIUE,SIUE,Western-Illinois,1,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+04/21/2026,Missouri,SIUE,5,11,0,0,W,SIUE,SIUE,Missouri,1,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+04/24/2026,Southeast Missouri,SIUE,10,3,0,0,L,SIUE,SIUE,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+04/25/2026,Southeast Missouri,SIUE,5,1,0,0,L,SIUE,SIUE,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+04/26/2026,Southeast Missouri,SIUE,2,9,0,0,W,SIUE,SIUE,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+04/28/2026,Evansville,SIUE,4,6,0,0,W,SIUE,SIUE,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+05/01/2026,SIUE,Lindenwood,4,0,0,0,W,SIUE,SIUE,Lindenwood,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+05/02/2026,SIUE,Lindenwood,2,1,0,0,W,SIUE,SIUE,Lindenwood,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+05/03/2026,SIUE,Lindenwood,11,8,0,0,W,SIUE,SIUE,Lindenwood,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+05/08/2026,Eastern Illinois,SIUE,2,3,0,0,W,SIUE,SIUE,Eastern-Illinois,1,9,"Charleston, IL / Coaches Stadium at Monier Field / Box Score",2026,WN2026
+05/09/2026,Eastern Illinois,SIUE,4,16,0,0,W,SIUE,SIUE,Eastern-Illinois,1,9,"Charleston, IL / Coaches Stadium at Monier Field / Box Score",2026,WN2026
+05/10/2026,Eastern Illinois,SIUE,9,20,0,0,W,SIUE,SIUE,Eastern-Illinois,1,9,"Charleston, IL / Coaches Stadium at Monier Field / Box Score",2026,WN2026
+05/12/2026,Southern Illinois,SIUE,7,9,0,0,W,SIUE,SIUE,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+05/14/2026,SIUE,Tennessee-Martin,8,2,0,0,W,SIUE,SIUE,Tennessee-Martin,0,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex / Box Score",2026,WN2026
+05/15/2026,SIUE,Tennessee-Martin,7,8,0,0,L,SIUE,SIUE,Tennessee-Martin,0,11,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex / Box Score",2026,WN2026
+05/21/2026,Little Rock,SIUE,3,4,0,1,W,SIUE,SIUE,Little-Rock,0,9,"Marion, IL / Mtn Dew Park / Recap",2026,WN2026
+05/22/2026,Eastern Illinois,SIUE,3,2,0,1,L,SIUE,SIUE,Eastern-Illinois,0,10,"Marion, IL / Mtn Dew Park",2026,WN2026
+05/23/2026,Little Rock,SIUE,7,5,0,1,L,SIUE,SIUE,Little-Rock,0,9,"Marion, IL / Mtn Dew Park",2026,WN2026

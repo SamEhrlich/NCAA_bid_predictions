@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Long Beach State,San Jose State,0,8,0,0,W,San Jose State,San-Jose-State,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+02/14/2026,Long Beach State,San Jose State,12,3,0,0,L,San Jose State,San-Jose-State,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+02/15/2026,Long Beach State,San Jose State,2,3,0,0,W,San Jose State,San-Jose-State,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+02/18/2026,Santa Clara,San Jose State,8,6,0,0,L,San Jose State,San-Jose-State,Santa-Clara,1,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+02/20/2026,San Jose State,San Francisco,6,7,0,0,L,San Jose State,San-Jose-State,San-Francisco,0,13,"San Jose, CA / Excite Ballpark",2026,WN2026
+02/21/2026,San Jose State,San Francisco,7,3,0,0,W,San Jose State,San-Jose-State,San-Francisco,0,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+02/22/2026,San Francisco,San Jose State,9,3,0,0,L,San Jose State,San-Jose-State,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+02/27/2026,Saint Mary's College,San Jose State,5,4,0,0,L,San Jose State,San-Jose-State,Saint-Marys-College,1,13,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/27/2026,Saint Mary's College,San Jose State,15,5,0,0,L,San Jose State,San-Jose-State,Saint-Marys-College,1,7,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/28/2026,San Jose State,Saint Mary's College,8,0,0,0,W,San Jose State,San-Jose-State,Saint-Marys-College,0,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/01/2026,San Jose State,Saint Mary's College,4,13,0,0,L,San Jose State,San-Jose-State,Saint-Marys-College,0,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/03/2026,San Jose State,Pacific,5,11,0,0,L,San Jose State,San-Jose-State,Pacific,0,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/06/2026,San Jose State,Pittsburgh,1,20,0,0,L,San Jose State,San-Jose-State,Pittsburgh,0,7,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/07/2026,San Jose State,Pittsburgh,8,13,0,0,L,San Jose State,San-Jose-State,Pittsburgh,0,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/08/2026,San Jose State,Pittsburgh,2,3,0,0,L,San Jose State,San-Jose-State,Pittsburgh,0,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/10/2026,San Jose State,California,3,2,0,0,W,San Jose State,San-Jose-State,California,0,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/13/2026,San Jose State,New Mexico,1,0,0,0,W,San Jose State,San-Jose-State,New-Mexico,0,10,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/14/2026,San Jose State,New Mexico,7,8,0,0,L,San Jose State,San-Jose-State,New-Mexico,0,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/15/2026,San Jose State,New Mexico,3,0,0,0,W,San Jose State,San-Jose-State,New-Mexico,0,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/20/2026,San Jose State,Connecticut,16,6,0,0,W,San Jose State,San-Jose-State,Connecticut,0,7,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/20/2026,San Jose State,San Diego State,3,2,0,0,W,San Jose State,San-Jose-State,San-Diego-State,0,11,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/21/2026,San Jose State,San Diego State,9,8,0,0,W,San Jose State,San-Jose-State,San-Diego-State,0,10,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/22/2026,San Jose State,Connecticut,0,8,0,0,L,San Jose State,San-Jose-State,Connecticut,0,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/24/2026,Santa Clara,San Jose State,6,18,0,0,W,San Jose State,San-Jose-State,Santa-Clara,1,7,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/27/2026,UNLV,San Jose State,18,7,0,0,L,San Jose State,San-Jose-State,UNLV,1,7,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/28/2026,UNLV,San Jose State,15,8,0,0,L,San Jose State,San-Jose-State,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/29/2026,UNLV,San Jose State,8,18,0,0,W,San Jose State,San-Jose-State,UNLV,1,7,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/30/2026,Santa Clara,San Jose State,5,3,0,0,L,San Jose State,San-Jose-State,Santa-Clara,1,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+04/02/2026,San Jose State,Washington State,8,5,0,0,W,San Jose State,San-Jose-State,Washington-State,0,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+04/03/2026,San Jose State,Washington State,3,5,0,0,L,San Jose State,San-Jose-State,Washington-State,0,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+04/04/2026,San Jose State,Washington State,3,6,0,0,L,San Jose State,San-Jose-State,Washington-State,0,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+04/07/2026,Cal Poly,San Jose State,11,4,0,0,L,San Jose State,San-Jose-State,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+04/10/2026,Nevada,San Jose State,11,1,0,0,L,San Jose State,San-Jose-State,Nevada,1,8,"Reno, NV / William Peccole Park",2026,WN2026
+04/11/2026,Nevada,San Jose State,6,12,0,0,W,San Jose State,San-Jose-State,Nevada,1,9,"Reno, NV / William Peccole Park",2026,WN2026
+04/12/2026,Nevada,San Jose State,5,4,0,0,L,San Jose State,San-Jose-State,Nevada,1,9,"Reno, NV / William Peccole Park",2026,WN2026
+04/15/2026,California,San Jose State,7,10,0,0,W,San Jose State,San-Jose-State,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+04/17/2026,Fresno State,San Jose State,3,6,0,0,W,San Jose State,San-Jose-State,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/18/2026,Fresno State,San Jose State,2,10,0,0,W,San Jose State,San-Jose-State,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/24/2026,Air Force,San Jose State,20,10,0,0,L,San Jose State,San-Jose-State,Air-Force,1,8,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/25/2026,Air Force,San Jose State,16,6,0,0,L,San Jose State,San-Jose-State,Air-Force,1,8,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/26/2026,Air Force,San Jose State,11,5,0,0,L,San Jose State,San-Jose-State,Air-Force,1,9,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/28/2026,San Francisco,San Jose State,0,12,0,0,W,San Jose State,San-Jose-State,San-Francisco,1,7,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+05/01/2026,San Jose State,Grand Canyon,8,3,0,0,W,San Jose State,San-Jose-State,Grand-Canyon,0,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+05/02/2026,San Jose State,Grand Canyon,4,5,0,0,L,San Jose State,San-Jose-State,Grand-Canyon,0,14,"San Jose, CA / Excite Ballpark",2026,WN2026
+05/03/2026,San Jose State,Grand Canyon,6,1,0,0,W,San Jose State,San-Jose-State,Grand-Canyon,0,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+05/08/2026,San Diego State,San Jose State,11,1,0,0,L,San Jose State,San-Jose-State,San-Diego-State,1,7,"San Diego, CA / Tony Gwynn Stadium / Box Score",2026,WN2026
+05/09/2026,San Diego State,San Jose State,4,9,0,0,W,San Jose State,San-Jose-State,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium / Box Score",2026,WN2026
+05/10/2026,San Diego State,San Jose State,4,1,0,0,L,San Jose State,San-Jose-State,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium / Box Score",2026,WN2026
+05/14/2026,San Jose State,Fresno State,12,5,0,0,W,San Jose State,San-Jose-State,Fresno-State,0,9,"San Jose, CA / Excite Ballpark / Box Score",2026,WN2026
+05/15/2026,San Jose State,Fresno State,9,8,0,0,W,San Jose State,San-Jose-State,Fresno-State,0,9,"San Jose, CA / Excite Ballpark / Box Score",2026,WN2026
+05/16/2026,San Jose State,Fresno State,8,7,0,0,W,San Jose State,San-Jose-State,Fresno-State,0,9,"San Jose, CA / Excite Ballpark / Box Score",2026,WN2026

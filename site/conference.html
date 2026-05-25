@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Conferences — NCAA D1 Baseball Elo</title>
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <style>
+    .conf-toggles {
+      display: flex; flex-wrap: wrap; gap: 6px;
+      margin-bottom: 16px;
+    }
+    .conf-pill {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--text-dim);
+      padding: 5px 11px; border-radius: 14px;
+      font-size: 11px; font-family: var(--mono);
+      cursor: pointer;
+    }
+    .conf-pill.active { color: var(--bg); font-weight: 700; }
+  </style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-brand">NCAA D1 Baseball <span>Elo</span></div>
+  <div class="nav-links">
+    <a href="index.html"   data-nav="leaderboard">Leaderboard</a>
+    <a href="bracket.html" data-nav="bracket">2026 Bracket</a>
+    <a href="whatif.html"  data-nav="whatif">What-If</a>
+    <a href="compare.html" data-nav="compare">Compare</a>
+    <a href="conference.html" data-nav="conference">Conferences</a>
+    <a href="extras.html"  data-nav="extras">Upsets</a>
+  </div>
+  <div class="nav-meta" id="nav-meta"></div>
+</nav>
+
+<div class="container">
+  <h1 class="section-title">
+    Conference Strength Over Time
+    <span class="sub">average end-of-season Elo per conference, 2021–2026</span>
+  </h1>
+
+  <div class="conf-toggles" id="toggles"></div>
+
+  <div class="card">
+    <h2>Average Elo by year</h2>
+    <div id="conf-chart" style="min-height:520px; position:relative;"></div>
+  </div>
+</div>
+
+<footer class="footer">
+  Click a conference pill to toggle its line on/off.
+</footer>
+
+<script type="module">
+import { loadJSON, setActiveNav, $ } from "./js/common.js";
+
+setActiveNav("conference");
+const meta = await loadJSON("meta.json");
+$("#nav-meta").textContent =
+  `${meta.n_games_fit.toLocaleString()} games · fit ${meta.generated_at.slice(0,10)}`;
+
+const data = await loadJSON("conference_elo.json");
+
+// Identify the "big" conferences (visible by default) — top by recent avg
+const sorted = [...data].sort((a,b) => (b.avg[b.avg.length-1] || 0) - (a.avg[a.avg.length-1] || 0));
+const DEFAULT_VISIBLE = new Set(sorted.slice(0, 8).map(c => c.conf));
+
+// Color palette (D3 categorical with a few overrides for the big confs)
+const overrides = {
+  "SEC":      "#FFA300",
+  "ACC":      "#003366",
+  "Big 12":   "#A4001F",
+  "Pac-12":   "#FFCC00",
+  "Big Ten":  "#0021A5",
+  "Big West": "#00997C",
+};
+const palette = d3.schemeTableau10;
+const confColor = {};
+let palIdx = 0;
+for (const c of sorted) {
+  confColor[c.conf] = overrides[c.conf] || palette[palIdx++ % palette.length];
+}
+
+// Visibility state
+const visible = new Set(DEFAULT_VISIBLE);
+
+const togglesEl = $("#toggles");
+for (const c of sorted) {
+  const b = document.createElement("button");
+  b.className = "conf-pill";
+  b.textContent = c.conf;
+  b.style.borderColor = confColor[c.conf];
+  if (visible.has(c.conf)) {
+    b.style.background = confColor[c.conf];
+    b.classList.add("active");
+  }
+  b.addEventListener("click", () => {
+    if (visible.has(c.conf)) {
+      visible.delete(c.conf);
+      b.style.background = "transparent";
+      b.classList.remove("active");
+    } else {
+      visible.add(c.conf);
+      b.style.background = confColor[c.conf];
+      b.classList.add("active");
+    }
+    render();
+  });
+  togglesEl.appendChild(b);
+}
+
+function render() {
+  const cont = $("#conf-chart");
+  cont.innerHTML = "";
+  const M = { top: 16, right: 90, bottom: 32, left: 50 };
+  const w = cont.clientWidth, h = 520;
+  const iw = w - M.left - M.right, ih = h - M.top - M.bottom;
+
+  const svg = d3.select(cont).append("svg")
+    .attr("viewBox", `0 0 ${w} ${h}`)
+    .attr("preserveAspectRatio","xMidYMid meet");
+  const g = svg.append("g").attr("transform",`translate(${M.left},${M.top})`);
+
+  const showing = data.filter(c => visible.has(c.conf));
+  const years = [...new Set(showing.flatMap(c => c.years))].sort();
+  const allAvg = showing.flatMap(c => c.avg);
+  if (allAvg.length === 0) {
+    cont.innerHTML = `<p class="loading">No conferences selected.</p>`;
+    return;
+  }
+
+  const x = d3.scaleLinear().domain(d3.extent(years)).range([0, iw]);
+  const y = d3.scaleLinear()
+    .domain(d3.extent(allAvg)).nice()
+    .range([ih, 0]);
+
+  g.append("g").attr("class","elo-grid").call(d3.axisLeft(y).tickSize(-iw).tickFormat(""));
+  g.append("g").attr("class","elo-axis").attr("transform",`translate(0,${ih})`)
+    .call(d3.axisBottom(x).ticks(years.length).tickFormat(d3.format("d")));
+  g.append("g").attr("class","elo-axis").call(d3.axisLeft(y));
+
+  const line = d3.line().x(d => x(d.year)).y(d => y(d.avg));
+
+  for (const c of showing) {
+    const series = c.years.map((y, i) => ({ year: y, avg: c.avg[i] }));
+    const color = confColor[c.conf];
+    g.append("path").datum(series)
+      .attr("fill","none").attr("stroke", color).attr("stroke-width", 2)
+      .attr("d", line);
+    g.selectAll(null).data(series).join("circle")
+      .attr("cx", d=>x(d.year)).attr("cy", d=>y(d.avg))
+      .attr("r", 3).attr("fill", color);
+    // Right-side label
+    const last = series[series.length-1];
+    g.append("text")
+      .attr("x", x(last.year) + 6).attr("y", y(last.avg) + 4)
+      .attr("fill", color)
+      .style("font-size","11px").style("font-family","var(--mono)")
+      .text(c.conf);
+  }
+}
+
+window.addEventListener("resize", () => { clearTimeout(window._rt); window._rt = setTimeout(render, 150); });
+render();
+</script>
+
+</body>
+</html>

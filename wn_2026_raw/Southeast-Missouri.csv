@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Southeast Missouri,Illinois State,1,12,0,0,L,Southeast Missouri,Southeast-Missouri,Illinois-State,0,7,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/13/2026,Southeast Missouri,Illinois State,6,7,0,0,L,Southeast Missouri,Southeast-Missouri,Illinois-State,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/15/2026,Southeast Missouri,Illinois State,10,1,0,0,W,Southeast Missouri,Southeast-Missouri,Illinois-State,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/17/2026,Southeast Missouri,Saint Louis,11,3,0,0,W,Southeast Missouri,Southeast-Missouri,Saint-Louis,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/20/2026,Western Kentucky,Southeast Missouri,4,2,0,0,L,Southeast Missouri,Southeast-Missouri,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+02/20/2026,Western Kentucky,Southeast Missouri,4,2,0,0,L,Southeast Missouri,Southeast-Missouri,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+02/21/2026,Western Kentucky,Southeast Missouri,7,8,0,0,W,Southeast Missouri,Southeast-Missouri,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+02/21/2026,Western Kentucky,Southeast Missouri,12,4,0,0,L,Southeast Missouri,Southeast-Missouri,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+02/24/2026,Ole Miss,Southeast Missouri,13,3,0,0,L,Southeast Missouri,Southeast-Missouri,Ole-Miss,1,7,"Oxford, MS / Swayze Field",2026,WN2026
+02/27/2026,Southeast Missouri,Miami (OH),14,10,0,0,W,Southeast Missouri,Southeast-Missouri,Miami-OH,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/28/2026,Southeast Missouri,Miami (OH),10,2,0,0,W,Southeast Missouri,Southeast-Missouri,Miami-OH,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/28/2026,Southeast Missouri,Miami (OH),6,14,0,0,L,Southeast Missouri,Southeast-Missouri,Miami-OH,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/01/2026,Southeast Missouri,Miami (OH),4,2,0,0,W,Southeast Missouri,Southeast-Missouri,Miami-OH,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/03/2026,Southeast Missouri,Evansville,13,4,0,0,W,Southeast Missouri,Southeast-Missouri,Evansville,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/06/2026,Southeast Missouri,Milwaukee,8,2,0,0,W,Southeast Missouri,Southeast-Missouri,Milwaukee,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/07/2026,Southeast Missouri,Milwaukee,9,2,0,0,W,Southeast Missouri,Southeast-Missouri,Milwaukee,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/08/2026,Southeast Missouri,Milwaukee,12,2,0,0,W,Southeast Missouri,Southeast-Missouri,Milwaukee,0,7,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/10/2026,Southeast Missouri,Missouri State,13,6,0,0,W,Southeast Missouri,Southeast-Missouri,Missouri-State,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/14/2026,Wright State,Southeast Missouri,2,4,0,0,W,Southeast Missouri,Southeast-Missouri,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+03/14/2026,Wright State,Southeast Missouri,0,6,0,0,W,Southeast Missouri,Southeast-Missouri,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+03/15/2026,Wright State,Southeast Missouri,2,3,0,0,W,Southeast Missouri,Southeast-Missouri,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+03/18/2026,Evansville,Southeast Missouri,1,9,0,0,W,Southeast Missouri,Southeast-Missouri,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/20/2026,Southeast Missouri,Tennessee-Martin,8,6,0,0,W,Southeast Missouri,Southeast-Missouri,Tennessee-Martin,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/21/2026,Southeast Missouri,Tennessee-Martin,11,4,0,0,W,Southeast Missouri,Southeast-Missouri,Tennessee-Martin,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/22/2026,Southeast Missouri,Tennessee-Martin,7,5,0,0,W,Southeast Missouri,Southeast-Missouri,Tennessee-Martin,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/27/2026,Western Illinois,Southeast Missouri,12,2,0,0,L,Southeast Missouri,Southeast-Missouri,Western-Illinois,1,8,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+03/28/2026,Western Illinois,Southeast Missouri,4,17,0,0,W,Southeast Missouri,Southeast-Missouri,Western-Illinois,1,7,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+03/29/2026,Western Illinois,Southeast Missouri,9,19,0,0,W,Southeast Missouri,Southeast-Missouri,Western-Illinois,1,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+03/31/2026,Southeast Missouri,Murray State,8,1,0,0,W,Southeast Missouri,Southeast-Missouri,Murray-State,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+04/02/2026,Lindenwood,Southeast Missouri,3,2,0,0,L,Southeast Missouri,Southeast-Missouri,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+04/03/2026,Lindenwood,Southeast Missouri,0,8,0,0,W,Southeast Missouri,Southeast-Missouri,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+04/04/2026,Lindenwood,Southeast Missouri,7,1,0,0,L,Southeast Missouri,Southeast-Missouri,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+04/07/2026,Southern Illinois,Southeast Missouri,5,6,0,0,W,Southeast Missouri,Southeast-Missouri,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/10/2026,Southeast Missouri,Morehead State,3,2,0,0,W,Southeast Missouri,Southeast-Missouri,Morehead-State,0,12,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+04/11/2026,Southeast Missouri,Morehead State,10,8,0,0,W,Southeast Missouri,Southeast-Missouri,Morehead-State,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+04/12/2026,Southeast Missouri,Morehead State,5,6,0,0,L,Southeast Missouri,Southeast-Missouri,Morehead-State,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+04/14/2026,Murray State,Southeast Missouri,1,12,0,0,W,Southeast Missouri,Southeast-Missouri,Murray-State,1,8,"Murray, KY / Reagan Field",2026,WN2026
+04/17/2026,Tennessee Tech,Southeast Missouri,11,13,0,0,W,Southeast Missouri,Southeast-Missouri,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/18/2026,Tennessee Tech,Southeast Missouri,10,4,0,0,L,Southeast Missouri,Southeast-Missouri,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/19/2026,Tennessee Tech,Southeast Missouri,7,9,0,0,W,Southeast Missouri,Southeast-Missouri,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/21/2026,Southeast Missouri,Southern Illinois,5,1,0,0,W,Southeast Missouri,Southeast-Missouri,Southern-Illinois,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+04/24/2026,Southeast Missouri,SIUE,10,3,0,0,W,Southeast Missouri,Southeast-Missouri,SIUE,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+04/25/2026,Southeast Missouri,SIUE,5,1,0,0,W,Southeast Missouri,Southeast-Missouri,SIUE,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+04/26/2026,Southeast Missouri,SIUE,2,9,0,0,L,Southeast Missouri,Southeast-Missouri,SIUE,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+05/01/2026,Eastern Illinois,Southeast Missouri,5,3,0,0,L,Southeast Missouri,Southeast-Missouri,Eastern-Illinois,1,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+05/02/2026,Eastern Illinois,Southeast Missouri,11,1,0,0,L,Southeast Missouri,Southeast-Missouri,Eastern-Illinois,1,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+05/03/2026,Eastern Illinois,Southeast Missouri,8,3,0,0,L,Southeast Missouri,Southeast-Missouri,Eastern-Illinois,1,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+05/06/2026,Southeast Missouri,Austin Peay,7,5,0,0,W,Southeast Missouri,Southeast-Missouri,Austin-Peay,0,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+05/08/2026,Southeast Missouri,Southern Indiana,7,5,0,0,W,Southeast Missouri,Southeast-Missouri,Southern-Indiana,0,9,"Cape Girardeau, MO / Capaha Field / Box Score",2026,WN2026
+05/09/2026,Southeast Missouri,Southern Indiana,11,1,0,0,W,Southeast Missouri,Southeast-Missouri,Southern-Indiana,0,7,"Cape Girardeau, MO / Capaha Field / Box Score",2026,WN2026
+05/10/2026,Southeast Missouri,Southern Indiana,9,6,0,0,W,Southeast Missouri,Southeast-Missouri,Southern-Indiana,0,9,"Cape Girardeau, MO / Capaha Field / Box Score",2026,WN2026
+05/14/2026,Little Rock,Southeast Missouri,2,4,0,0,W,Southeast Missouri,Southeast-Missouri,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field / Box Score",2026,WN2026
+05/15/2026,Little Rock,Southeast Missouri,10,12,0,0,W,Southeast Missouri,Southeast-Missouri,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field / Box Score",2026,WN2026
+05/16/2026,Little Rock,Southeast Missouri,5,10,0,0,W,Southeast Missouri,Southeast-Missouri,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field / Box Score",2026,WN2026
+05/20/2026,Lindenwood,Southeast Missouri,1,2,0,1,W,Southeast Missouri,Southeast-Missouri,Lindenwood,0,9,"Marion, IL / Mtn Dew Park / Recap",2026,WN2026
+05/21/2026,Eastern Illinois,Southeast Missouri,3,2,0,1,L,Southeast Missouri,Southeast-Missouri,Eastern-Illinois,0,9,"Marion, IL / Mtn Dew Park / Recap",2026,WN2026
+05/21/2026,Southern Indiana,Southeast Missouri,5,3,0,1,L,Southeast Missouri,Southeast-Missouri,Southern-Indiana,0,9,"Marion, IL / Mtn Dew Park",2026,WN2026

@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Connecticut,Nebraska,2,12,0,1,W,Nebraska,Nebraska,Connecticut,0,7,"Scottsdale, AZ / Salt River Fields",2026,WN2026
+02/14/2026,Northeastern,Nebraska,4,7,0,1,W,Nebraska,Nebraska,Northeastern,0,9,"Phoenix, AZ",2026,WN2026
+02/15/2026,Grand Canyon,Nebraska,1,9,0,1,W,Nebraska,Nebraska,Grand-Canyon,0,9,"Mesa, AZ / Sloan Park",2026,WN2026
+02/16/2026,Stanford,Nebraska,11,6,0,1,L,Nebraska,Nebraska,Stanford,0,9,"Scottsdale, AZ",2026,WN2026
+02/20/2026,Louisville,Nebraska,4,2,0,1,L,Nebraska,Nebraska,Louisville,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/21/2026,Kansas State,Nebraska,5,3,0,1,L,Nebraska,Nebraska,Kansas-State,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/22/2026,Florida State,Nebraska,1,10,0,1,W,Nebraska,Nebraska,Florida-State,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/27/2026,Auburn,Nebraska,8,9,0,0,W,Nebraska,Nebraska,Auburn,1,10,"Auburn, AL / Plainsman Park",2026,WN2026
+02/28/2026,Auburn,Nebraska,15,4,0,0,L,Nebraska,Nebraska,Auburn,1,7,"Auburn, AL / Plainsman Park",2026,WN2026
+03/01/2026,Auburn,Nebraska,12,3,0,0,L,Nebraska,Nebraska,Auburn,1,9,"Auburn, AL / Plainsman Park",2026,WN2026
+03/03/2026,Nebraska,Omaha,8,5,0,0,W,Nebraska,Nebraska,Omaha,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/04/2026,Nebraska,South Dakota State,5,4,0,0,W,Nebraska,Nebraska,South-Dakota-State,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/06/2026,Nebraska,Michigan State,5,4,0,0,W,Nebraska,Nebraska,Michigan-State,0,10,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/07/2026,Nebraska,Michigan State,3,1,0,0,W,Nebraska,Nebraska,Michigan-State,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/08/2026,Nebraska,Michigan State,12,2,0,0,W,Nebraska,Nebraska,Michigan-State,0,7,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/11/2026,Nebraska,North Dakota State,11,1,0,0,W,Nebraska,Nebraska,North-Dakota-State,0,7,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/13/2026,Nebraska,Maine,6,5,0,0,W,Nebraska,Nebraska,Maine,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/14/2026,Nebraska,Maine,6,3,0,0,W,Nebraska,Nebraska,Maine,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/14/2026,Nebraska,Maine,8,7,0,0,W,Nebraska,Nebraska,Maine,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/17/2026,Wichita State,Nebraska,1,8,0,0,W,Nebraska,Nebraska,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/18/2026,Wichita State,Nebraska,1,10,0,0,W,Nebraska,Nebraska,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/20/2026,Michigan,Nebraska,2,1,0,0,L,Nebraska,Nebraska,Michigan,1,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+03/21/2026,Michigan,Nebraska,0,10,0,0,W,Nebraska,Nebraska,Michigan,1,7,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+03/22/2026,Michigan,Nebraska,5,9,0,0,W,Nebraska,Nebraska,Michigan,1,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+03/24/2026,Kansas State,Nebraska,9,14,0,0,W,Nebraska,Nebraska,Kansas-State,1,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/27/2026,Nebraska,Indiana,6,5,0,0,W,Nebraska,Nebraska,Indiana,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/28/2026,Nebraska,Indiana,12,7,0,0,W,Nebraska,Nebraska,Indiana,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/29/2026,Nebraska,Indiana,12,4,0,0,W,Nebraska,Nebraska,Indiana,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/31/2026,Creighton,Nebraska,5,6,0,0,W,Nebraska,Nebraska,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/04/2026,Nebraska,Penn State,8,7,0,0,W,Nebraska,Nebraska,Penn-State,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/04/2026,Nebraska,Penn State,13,1,0,0,W,Nebraska,Nebraska,Penn-State,0,7,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/05/2026,Nebraska,Penn State,8,6,0,0,W,Nebraska,Nebraska,Penn-State,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/07/2026,Nebraska,Kansas,3,5,0,0,L,Nebraska,Nebraska,Kansas,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/10/2026,Oregon,Nebraska,7,6,0,0,L,Nebraska,Nebraska,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+04/11/2026,Oregon,Nebraska,8,10,0,0,W,Nebraska,Nebraska,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+04/12/2026,Oregon,Nebraska,5,4,0,0,L,Nebraska,Nebraska,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+04/14/2026,Nebraska,Creighton,5,4,0,0,W,Nebraska,Nebraska,Creighton,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/17/2026,Nebraska,USC,8,7,0,0,W,Nebraska,Nebraska,USC,0,10,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/18/2026,Nebraska,USC,12,2,0,0,W,Nebraska,Nebraska,USC,0,7,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/19/2026,Nebraska,USC,16,6,0,0,W,Nebraska,Nebraska,USC,0,8,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/21/2026,Kansas,Nebraska,9,7,0,0,L,Nebraska,Nebraska,Kansas,1,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/24/2026,Illinois,Nebraska,10,5,0,0,L,Nebraska,Nebraska,Illinois,1,9,"Champaign, IL / Illinois Field",2026,WN2026
+04/25/2026,Illinois,Nebraska,5,12,0,0,W,Nebraska,Nebraska,Illinois,1,9,"Champaign, IL / Illinois Field",2026,WN2026
+04/26/2026,Illinois,Nebraska,0,3,0,0,W,Nebraska,Nebraska,Illinois,1,9,"Champaign, IL / Illinois Field",2026,WN2026
+04/28/2026,Nebraska,Kansas State,7,6,0,0,W,Nebraska,Nebraska,Kansas-State,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+05/01/2026,Ohio State,Nebraska,2,1,0,0,L,Nebraska,Nebraska,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+05/02/2026,Ohio State,Nebraska,7,3,0,0,L,Nebraska,Nebraska,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+05/03/2026,Ohio State,Nebraska,10,1,0,0,L,Nebraska,Nebraska,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+05/08/2026,Nebraska,Iowa,10,0,0,0,W,Nebraska,Nebraska,Iowa,0,8,"Lincoln, NE / Haymarket Park",2026,WN2026
+05/09/2026,Nebraska,Iowa,15,11,0,0,W,Nebraska,Nebraska,Iowa,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+05/10/2026,Nebraska,Iowa,8,6,0,0,W,Nebraska,Nebraska,Iowa,0,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+05/12/2026,Creighton,Nebraska,4,8,0,0,W,Nebraska,Nebraska,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+05/14/2026,Minnesota,Nebraska,7,12,0,0,W,Nebraska,Nebraska,Minnesota,1,9,"Minneapolis, MN / Siebert Field / Box Score",2026,WN2026
+05/15/2026,Minnesota,Nebraska,6,7,0,0,W,Nebraska,Nebraska,Minnesota,1,9,"Minneapolis, MN / Siebert Field / Box Score",2026,WN2026
+05/16/2026,Minnesota,Nebraska,11,14,0,0,W,Nebraska,Nebraska,Minnesota,1,9,"Minneapolis, MN / Siebert Field / Box Score",2026,WN2026
+05/22/2026,Michigan,Nebraska,4,6,0,1,W,Nebraska,Nebraska,Michigan,0,9,"Omaha, NE / Charles Schwab Field Omaha / Recap",2026,WN2026
+05/23/2026,Oregon,Nebraska,8,0,0,1,L,Nebraska,Nebraska,Oregon,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026

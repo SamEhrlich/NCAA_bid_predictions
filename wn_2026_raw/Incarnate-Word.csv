@@ -1,0 +1,49 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Incarnate Word,UIC,8,3,0,0,W,Incarnate Word,Incarnate-Word,UIC,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+02/15/2026,Incarnate Word,UIC,13,4,0,0,W,Incarnate Word,Incarnate-Word,UIC,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+02/15/2026,Incarnate Word,UIC,2,9,0,0,L,Incarnate Word,Incarnate-Word,UIC,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+02/17/2026,Incarnate Word,South Dakota State,11,19,0,0,L,Incarnate Word,Incarnate-Word,South-Dakota-State,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+02/18/2026,Incarnate Word,South Dakota State,19,18,0,0,W,Incarnate Word,Incarnate-Word,South-Dakota-State,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+02/20/2026,Incarnate Word,Prairie View A&M,7,2,0,0,W,Incarnate Word,Incarnate-Word,Prairie-View-AM,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+02/21/2026,Incarnate Word,Prairie View A&M,3,2,0,0,W,Incarnate Word,Incarnate-Word,Prairie-View-AM,0,10,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+02/22/2026,Incarnate Word,Prairie View A&M,8,1,0,0,W,Incarnate Word,Incarnate-Word,Prairie-View-AM,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+02/24/2026,Tarleton State,Incarnate Word,17,5,0,0,L,Incarnate Word,Incarnate-Word,Tarleton-State,1,7,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+02/27/2026,Houston Christian,Incarnate Word,6,8,0,0,W,Incarnate Word,Incarnate-Word,Houston-Christian,1,9,"Houston, TX / Husky Field",2026,WN2026
+02/28/2026,Houston Christian,Incarnate Word,17,8,0,0,L,Incarnate Word,Incarnate-Word,Houston-Christian,1,9,"Houston, TX / Husky Field",2026,WN2026
+03/01/2026,Houston Christian,Incarnate Word,11,10,0,0,L,Incarnate Word,Incarnate-Word,Houston-Christian,1,9,"Houston, TX / Husky Field",2026,WN2026
+03/03/2026,Texas A&M,Incarnate Word,11,1,0,0,L,Incarnate Word,Incarnate-Word,Texas-AM,1,7,"College Station, TX / Blue Bell Park",2026,WN2026
+03/06/2026,Incarnate Word,Northwestern State,13,9,0,0,W,Incarnate Word,Incarnate-Word,Northwestern-State,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+03/06/2026,Incarnate Word,Northwestern State,8,9,0,0,L,Incarnate Word,Incarnate-Word,Northwestern-State,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+03/07/2026,Incarnate Word,Northwestern State,6,7,0,0,L,Incarnate Word,Incarnate-Word,Northwestern-State,0,12,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+03/11/2026,Incarnate Word,Abilene Christian,13,1,0,0,W,Incarnate Word,Incarnate-Word,Abilene-Christian,0,7,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+03/13/2026,New Orleans,Incarnate Word,6,9,0,0,W,Incarnate Word,Incarnate-Word,New-Orleans,1,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/14/2026,New Orleans,Incarnate Word,1,13,0,0,W,Incarnate Word,Incarnate-Word,New-Orleans,1,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/15/2026,New Orleans,Incarnate Word,11,7,0,0,L,Incarnate Word,Incarnate-Word,New-Orleans,1,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/18/2026,Abilene Christian,Incarnate Word,8,9,0,0,W,Incarnate Word,Incarnate-Word,Abilene-Christian,1,11,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/20/2026,Incarnate Word,Nicholls,4,8,0,0,L,Incarnate Word,Incarnate-Word,Nicholls,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+03/21/2026,Incarnate Word,Nicholls,5,4,0,0,W,Incarnate Word,Incarnate-Word,Nicholls,0,11,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+03/22/2026,Incarnate Word,Nicholls,2,6,0,0,L,Incarnate Word,Incarnate-Word,Nicholls,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+03/24/2026,Baylor,Incarnate Word,16,7,0,0,L,Incarnate Word,Incarnate-Word,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+03/27/2026,Lamar,Incarnate Word,5,2,0,0,L,Incarnate Word,Incarnate-Word,Lamar,1,9,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+03/28/2026,Lamar,Incarnate Word,3,5,0,0,W,Incarnate Word,Incarnate-Word,Lamar,1,10,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+03/29/2026,Lamar,Incarnate Word,9,0,0,0,L,Incarnate Word,Incarnate-Word,Lamar,1,9,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+03/31/2026,Incarnate Word,UTSA,13,11,0,0,W,Incarnate Word,Incarnate-Word,UTSA,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+04/02/2026,Incarnate Word,Southeastern Louisiana,3,9,0,0,L,Incarnate Word,Incarnate-Word,Southeastern-Louisiana,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+04/03/2026,Incarnate Word,Southeastern Louisiana,13,2,0,0,W,Incarnate Word,Incarnate-Word,Southeastern-Louisiana,0,7,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+04/03/2026,Incarnate Word,Southeastern Louisiana,11,13,0,0,L,Incarnate Word,Incarnate-Word,Southeastern-Louisiana,0,11,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+04/07/2026,Texas,Incarnate Word,16,4,0,0,L,Incarnate Word,Incarnate-Word,Texas,1,7,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+04/10/2026,McNeese,Incarnate Word,2,6,0,0,W,Incarnate Word,Incarnate-Word,McNeese,1,9,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+04/11/2026,McNeese,Incarnate Word,8,3,0,0,L,Incarnate Word,Incarnate-Word,McNeese,1,9,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+04/12/2026,McNeese,Incarnate Word,8,6,0,0,L,Incarnate Word,Incarnate-Word,McNeese,1,9,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+04/15/2026,Texas Tech,Incarnate Word,8,13,0,0,W,Incarnate Word,Incarnate-Word,Texas-Tech,1,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/21/2026,Texas State,Incarnate Word,3,1,0,0,L,Incarnate Word,Incarnate-Word,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/24/2026,Incarnate Word,Texas A&M-Corpus Christi,3,14,0,0,L,Incarnate Word,Incarnate-Word,Texas-AM-Corpus-Christi,0,8,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+04/25/2026,Incarnate Word,Texas A&M-Corpus Christi,4,6,0,0,L,Incarnate Word,Incarnate-Word,Texas-AM-Corpus-Christi,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+04/26/2026,Incarnate Word,Texas A&M-Corpus Christi,4,11,0,0,L,Incarnate Word,Incarnate-Word,Texas-AM-Corpus-Christi,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+04/28/2026,UTSA,Incarnate Word,22,10,0,0,L,Incarnate Word,Incarnate-Word,UTSA,1,7,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/01/2026,UTRGV,Incarnate Word,4,3,0,0,L,Incarnate Word,Incarnate-Word,UTRGV,1,10,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+05/02/2026,UTRGV,Incarnate Word,7,5,0,0,L,Incarnate Word,Incarnate-Word,UTRGV,1,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+05/03/2026,UTRGV,Incarnate Word,5,0,0,0,L,Incarnate Word,Incarnate-Word,UTRGV,1,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+05/07/2026,Incarnate Word,Stephen F. Austin,2,4,0,0,L,Incarnate Word,Incarnate-Word,Stephen-F-Austin,0,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+05/08/2026,Incarnate Word,Stephen F. Austin,9,8,0,0,W,Incarnate Word,Incarnate-Word,Stephen-F-Austin,0,12,"San Antonio, TX / Daniel Sullivan Field / Box Score",2026,WN2026
+05/09/2026,Incarnate Word,Stephen F. Austin,6,9,0,0,L,Incarnate Word,Incarnate-Word,Stephen-F-Austin,0,9,"San Antonio, TX / Daniel Sullivan Field / Box Score",2026,WN2026

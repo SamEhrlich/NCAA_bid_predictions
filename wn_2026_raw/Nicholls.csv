@@ -1,0 +1,48 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Tennessee,Nicholls,10,0,0,0,L,Nicholls,Nicholls,Tennessee,1,8,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/14/2026,Tennessee,Nicholls,5,1,0,0,L,Nicholls,Nicholls,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/14/2026,Tennessee,Nicholls,12,2,0,0,L,Nicholls,Nicholls,Tennessee,1,7,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/17/2026,Nicholls,South Alabama,5,7,0,0,L,Nicholls,Nicholls,South-Alabama,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+02/18/2026,LSU,Nicholls,12,1,0,0,L,Nicholls,Nicholls,LSU,1,8,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+02/20/2026,Nicholls,Tennessee-Martin,3,6,0,0,L,Nicholls,Nicholls,Tennessee-Martin,0,12,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+02/21/2026,Nicholls,Tennessee-Martin,9,8,0,0,W,Nicholls,Nicholls,Tennessee-Martin,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+02/21/2026,Nicholls,Tennessee-Martin,13,5,0,0,W,Nicholls,Nicholls,Tennessee-Martin,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+02/22/2026,Nicholls,Tennessee-Martin,15,8,0,0,W,Nicholls,Nicholls,Tennessee-Martin,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+02/27/2026,Nicholls,McNeese,1,8,0,0,L,Nicholls,Nicholls,McNeese,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+02/28/2026,Nicholls,McNeese,4,11,0,0,L,Nicholls,Nicholls,McNeese,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+03/01/2026,Nicholls,McNeese,3,2,0,0,W,Nicholls,Nicholls,McNeese,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+03/03/2026,Nicholls,Tulane,6,5,0,0,W,Nicholls,Nicholls,Tulane,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+03/04/2026,Southern Miss,Nicholls,2,3,0,0,W,Nicholls,Nicholls,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+03/07/2026,Texas A&M-Corpus Christi,Nicholls,3,8,0,0,W,Nicholls,Nicholls,Texas-AM-Corpus-Christi,1,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+03/07/2026,Texas A&M-Corpus Christi,Nicholls,5,14,0,0,W,Nicholls,Nicholls,Texas-AM-Corpus-Christi,1,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+03/10/2026,Nicholls,Jackson State,12,2,0,0,W,Nicholls,Nicholls,Jackson-State,0,7,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+03/13/2026,Nicholls,UTRGV,1,2,0,0,L,Nicholls,Nicholls,UTRGV,0,10,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+03/14/2026,Nicholls,UTRGV,7,11,0,0,L,Nicholls,Nicholls,UTRGV,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+03/15/2026,Nicholls,UTRGV,4,7,0,0,L,Nicholls,Nicholls,UTRGV,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+03/17/2026,Southern Miss,Nicholls,4,0,0,1,L,Nicholls,Nicholls,Southern-Miss,0,9,"Biloxi, MS / Keesler Federal Park",2026,WN2026
+03/20/2026,Incarnate Word,Nicholls,4,8,0,0,W,Nicholls,Nicholls,Incarnate-Word,1,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+03/21/2026,Incarnate Word,Nicholls,5,4,0,0,L,Nicholls,Nicholls,Incarnate-Word,1,11,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+03/22/2026,Incarnate Word,Nicholls,2,6,0,0,W,Nicholls,Nicholls,Incarnate-Word,1,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+03/27/2026,Nicholls,Northwestern State,2,12,0,0,L,Nicholls,Nicholls,Northwestern-State,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+03/28/2026,Nicholls,Northwestern State,9,8,0,0,W,Nicholls,Nicholls,Northwestern-State,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+03/29/2026,Nicholls,Northwestern State,4,6,0,0,L,Nicholls,Nicholls,Northwestern-State,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+03/31/2026,Tulane,Nicholls,6,2,0,0,L,Nicholls,Nicholls,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+04/02/2026,Houston Christian,Nicholls,3,0,0,0,L,Nicholls,Nicholls,Houston-Christian,1,9,"Houston, TX / Husky Field",2026,WN2026
+04/03/2026,Houston Christian,Nicholls,6,10,0,0,W,Nicholls,Nicholls,Houston-Christian,1,9,"Houston, TX / Husky Field",2026,WN2026
+04/04/2026,Houston Christian,Nicholls,1,11,0,0,W,Nicholls,Nicholls,Houston-Christian,1,8,"Houston, TX / Husky Field",2026,WN2026
+04/10/2026,Nicholls,Lamar,3,0,0,0,W,Nicholls,Nicholls,Lamar,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+04/11/2026,Nicholls,Lamar,11,10,0,0,W,Nicholls,Nicholls,Lamar,0,11,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+04/12/2026,Nicholls,Lamar,1,11,0,0,L,Nicholls,Nicholls,Lamar,0,7,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+04/14/2026,South Alabama,Nicholls,4,3,0,0,L,Nicholls,Nicholls,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+04/17/2026,Stephen F. Austin,Nicholls,4,9,0,0,W,Nicholls,Nicholls,Stephen-F-Austin,1,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/18/2026,Stephen F. Austin,Nicholls,3,24,0,0,W,Nicholls,Nicholls,Stephen-F-Austin,1,7,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/19/2026,Stephen F. Austin,Nicholls,0,5,0,0,W,Nicholls,Nicholls,Stephen-F-Austin,1,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/22/2026,Texas A&M-Corpus Christi,Nicholls,1,6,0,0,W,Nicholls,Nicholls,Texas-AM-Corpus-Christi,1,9,"Houston, TX / Husky Field",2026,WN2026
+04/29/2026,Louisiana,Nicholls,7,1,0,0,L,Nicholls,Nicholls,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+05/02/2026,Nicholls,New Orleans,4,10,0,0,L,Nicholls,Nicholls,New-Orleans,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+05/02/2026,Nicholls,New Orleans,11,10,0,0,W,Nicholls,Nicholls,New-Orleans,0,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+05/03/2026,Nicholls,New Orleans,10,12,0,0,L,Nicholls,Nicholls,New-Orleans,0,11,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+05/05/2026,Mississippi State,Nicholls,21,6,0,0,L,Nicholls,Nicholls,Mississippi-State,1,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+05/07/2026,Southeastern Louisiana,Nicholls,12,2,0,0,L,Nicholls,Nicholls,Southeastern-Louisiana,1,8,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+05/14/2026,McNeese,Nicholls,11,3,0,1,L,Nicholls,Nicholls,McNeese,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field / Box Score",2026,WN2026
+05/15/2026,Houston Christian,Nicholls,6,5,0,1,L,Nicholls,Nicholls,Houston-Christian,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field / Box Score",2026,WN2026

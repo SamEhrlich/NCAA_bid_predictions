@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Western Michigan,Pittsburgh,4,12,0,1,W,Pittsburgh,Pittsburgh,Western-Michigan,0,9,"Port Charlotte, FL / Centennial Park",2026,WN2026
+02/14/2026,Western Michigan,Pittsburgh,7,5,0,1,L,Pittsburgh,Pittsburgh,Western-Michigan,0,9,"Port Charlotte, FL / Centennial Park",2026,WN2026
+02/15/2026,Western Michigan,Pittsburgh,7,17,0,1,W,Pittsburgh,Pittsburgh,Western-Michigan,0,8,"Port Charlotte, FL / Centennial Park",2026,WN2026
+02/20/2026,Long Beach State,Pittsburgh,2,6,0,1,W,Pittsburgh,Pittsburgh,Long-Beach-State,0,9,"Corpus Christi, TX / Whataburger Field",2026,WN2026
+02/21/2026,Cal State Bakersfield,Pittsburgh,0,14,0,1,W,Pittsburgh,Pittsburgh,Cal-State-Bakersfield,0,9,"Corpus Christi, TX / Whataburger Field",2026,WN2026
+02/22/2026,Texas A&M-Corpus Christi,Pittsburgh,5,2,0,0,L,Pittsburgh,Pittsburgh,Texas-AM-Corpus-Christi,1,9,"Corpus Christi, TX / Whataburger Field",2026,WN2026
+02/25/2026,Pittsburgh,Bucknell,18,3,0,0,W,Pittsburgh,Pittsburgh,Bucknell,0,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+02/27/2026,Pittsburgh,UNCG,14,6,0,0,W,Pittsburgh,Pittsburgh,UNCG,0,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+02/28/2026,Pittsburgh,UNCG,7,1,0,0,W,Pittsburgh,Pittsburgh,UNCG,0,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+02/28/2026,Pittsburgh,UNCG,14,2,0,0,W,Pittsburgh,Pittsburgh,UNCG,0,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+03/04/2026,Pittsburgh,Ohio,16,2,0,0,W,Pittsburgh,Pittsburgh,Ohio,0,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+03/06/2026,San Jose State,Pittsburgh,1,20,0,0,W,Pittsburgh,Pittsburgh,San-Jose-State,1,7,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/07/2026,San Jose State,Pittsburgh,8,13,0,0,W,Pittsburgh,Pittsburgh,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/08/2026,San Jose State,Pittsburgh,2,3,0,0,W,Pittsburgh,Pittsburgh,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/10/2026,Santa Clara,Pittsburgh,4,3,0,0,L,Pittsburgh,Pittsburgh,Santa-Clara,1,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/13/2026,Stanford,Pittsburgh,9,7,0,0,L,Pittsburgh,Pittsburgh,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/14/2026,Stanford,Pittsburgh,10,11,0,0,W,Pittsburgh,Pittsburgh,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/15/2026,Stanford,Pittsburgh,5,10,0,0,W,Pittsburgh,Pittsburgh,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/20/2026,Pittsburgh,Georgia Tech,9,11,0,0,L,Pittsburgh,Pittsburgh,Georgia-Tech,0,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+03/21/2026,Pittsburgh,Georgia Tech,14,9,0,0,W,Pittsburgh,Pittsburgh,Georgia-Tech,0,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+03/22/2026,Pittsburgh,Georgia Tech,4,12,0,0,L,Pittsburgh,Pittsburgh,Georgia-Tech,0,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+03/24/2026,Kent State,Pittsburgh,4,13,0,0,W,Pittsburgh,Pittsburgh,Kent-State,1,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/25/2026,Pittsburgh,Youngstown State,8,7,0,0,W,Pittsburgh,Pittsburgh,Youngstown-State,0,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+03/27/2026,Louisville,Pittsburgh,3,4,0,0,W,Pittsburgh,Pittsburgh,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/28/2026,Louisville,Pittsburgh,8,5,0,0,L,Pittsburgh,Pittsburgh,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/29/2026,Louisville,Pittsburgh,7,13,0,0,W,Pittsburgh,Pittsburgh,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/31/2026,Pittsburgh,Mercyhurst,27,3,0,0,W,Pittsburgh,Pittsburgh,Mercyhurst,0,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/03/2026,Pittsburgh,Wake Forest,2,8,0,0,L,Pittsburgh,Pittsburgh,Wake-Forest,0,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/04/2026,Pittsburgh,Wake Forest,8,22,0,0,L,Pittsburgh,Pittsburgh,Wake-Forest,0,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/05/2026,Pittsburgh,Wake Forest,4,3,0,0,W,Pittsburgh,Pittsburgh,Wake-Forest,0,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/08/2026,Pittsburgh,Youngstown State,12,2,0,0,W,Pittsburgh,Pittsburgh,Youngstown-State,0,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/10/2026,Pittsburgh,California,1,12,0,0,L,Pittsburgh,Pittsburgh,California,0,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/11/2026,Pittsburgh,California,6,14,0,0,L,Pittsburgh,Pittsburgh,California,0,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/12/2026,Pittsburgh,California,2,13,0,0,L,Pittsburgh,Pittsburgh,California,0,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/15/2026,Pittsburgh,Akron,13,2,0,0,W,Pittsburgh,Pittsburgh,Akron,0,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/17/2026,Virginia Tech,Pittsburgh,11,6,0,0,L,Pittsburgh,Pittsburgh,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+04/18/2026,Virginia Tech,Pittsburgh,4,5,0,0,W,Pittsburgh,Pittsburgh,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+04/19/2026,Virginia Tech,Pittsburgh,6,5,0,0,L,Pittsburgh,Pittsburgh,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+04/21/2026,West Virginia,Pittsburgh,1,23,0,0,W,Pittsburgh,Pittsburgh,West-Virginia,1,7,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+04/24/2026,Pittsburgh,Virginia,7,5,0,0,W,Pittsburgh,Pittsburgh,Virginia,0,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/25/2026,Pittsburgh,Virginia,11,0,0,0,W,Pittsburgh,Pittsburgh,Virginia,0,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/26/2026,Pittsburgh,Virginia,7,3,0,0,W,Pittsburgh,Pittsburgh,Virginia,0,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/29/2026,Pittsburgh,Kent State,5,13,0,0,L,Pittsburgh,Pittsburgh,Kent-State,0,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+05/02/2026,Florida State,Pittsburgh,10,1,0,0,L,Pittsburgh,Pittsburgh,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+05/02/2026,Florida State,Pittsburgh,8,5,0,0,L,Pittsburgh,Pittsburgh,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+05/03/2026,Florida State,Pittsburgh,6,4,0,0,L,Pittsburgh,Pittsburgh,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+05/08/2026,North Carolina,Pittsburgh,4,1,0,0,L,Pittsburgh,Pittsburgh,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium / Box Score",2026,WN2026
+05/09/2026,North Carolina,Pittsburgh,12,2,0,0,L,Pittsburgh,Pittsburgh,North-Carolina,1,8,"Chapel Hill, NC / Boshamer Stadium / Box Score",2026,WN2026
+05/10/2026,North Carolina,Pittsburgh,7,3,0,0,L,Pittsburgh,Pittsburgh,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium / Box Score",2026,WN2026
+05/12/2026,Pittsburgh,Penn State,11,7,0,0,W,Pittsburgh,Pittsburgh,Penn-State,0,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+05/14/2026,Pittsburgh,Notre Dame,6,3,0,0,W,Pittsburgh,Pittsburgh,Notre-Dame,0,9,"Pittsburgh, PA / Charles L. Cost Field / Box Score",2026,WN2026
+05/15/2026,Pittsburgh,Notre Dame,4,6,0,0,L,Pittsburgh,Pittsburgh,Notre-Dame,0,10,"Pittsburgh, PA / Charles L. Cost Field / Box Score",2026,WN2026
+05/16/2026,Pittsburgh,Notre Dame,10,21,0,0,L,Pittsburgh,Pittsburgh,Notre-Dame,0,7,"Pittsburgh, PA / Charles L. Cost Field / Box Score",2026,WN2026
+05/19/2026,Louisville,Pittsburgh,8,16,0,1,W,Pittsburgh,Pittsburgh,Louisville,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026
+05/20/2026,Wake Forest,Pittsburgh,4,7,0,1,W,Pittsburgh,Pittsburgh,Wake-Forest,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026
+05/22/2026,Florida State,Pittsburgh,6,8,0,1,W,Pittsburgh,Pittsburgh,Florida-State,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026
+05/23/2026,North Carolina,Pittsburgh,13,5,0,1,L,Pittsburgh,Pittsburgh,North-Carolina,0,9,"Charlotte, NC / Truist Field",2026,WN2026

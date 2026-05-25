@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/14/2026,Lamar,Oakland,8,2,0,0,L,Oakland,Oakland,Lamar,1,9,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+02/14/2026,Lamar,Oakland,9,7,0,0,L,Oakland,Oakland,Lamar,1,9,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+02/15/2026,Lamar,Oakland,2,3,0,0,W,Oakland,Oakland,Lamar,1,10,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+02/19/2026,Southern Indiana,Oakland,18,9,0,0,L,Oakland,Oakland,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+02/20/2026,Southern Indiana,Oakland,10,7,0,0,L,Oakland,Oakland,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+02/20/2026,Southern Indiana,Oakland,14,4,0,0,L,Oakland,Oakland,Southern-Indiana,1,7,"Evansville, IN / USI Baseball Field",2026,WN2026
+02/21/2026,Southern Indiana,Oakland,7,6,0,0,L,Oakland,Oakland,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+02/27/2026,Georgia,Oakland,16,6,0,0,L,Oakland,Oakland,Georgia,1,7,"Athens, GA / Foley Field",2026,WN2026
+02/28/2026,Georgia,Oakland,17,0,0,0,L,Oakland,Oakland,Georgia,1,7,"Athens, GA / Foley Field",2026,WN2026
+02/28/2026,Georgia,Oakland,11,0,0,0,L,Oakland,Oakland,Georgia,1,7,"Athens, GA / Foley Field",2026,WN2026
+03/01/2026,Georgia,Oakland,4,3,0,0,L,Oakland,Oakland,Georgia,1,9,"Athens, GA / Foley Field",2026,WN2026
+03/04/2026,Tennessee,Oakland,11,2,0,0,L,Oakland,Oakland,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/06/2026,Texas A&M,Oakland,6,3,0,0,L,Oakland,Oakland,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+03/06/2026,Texas A&M,Oakland,10,2,0,0,L,Oakland,Oakland,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+03/07/2026,Texas A&M,Oakland,12,1,0,0,L,Oakland,Oakland,Texas-AM,1,7,"College Station, TX / Blue Bell Park",2026,WN2026
+03/13/2026,Youngstown State,Oakland,6,5,0,0,L,Oakland,Oakland,Youngstown-State,1,9,"Niles, OH / Eastwood Field",2026,WN2026
+03/14/2026,Youngstown State,Oakland,6,12,0,0,W,Oakland,Oakland,Youngstown-State,1,9,"Niles, OH / Eastwood Field",2026,WN2026
+03/15/2026,Youngstown State,Oakland,3,4,0,0,W,Oakland,Oakland,Youngstown-State,1,9,"Niles, OH / Eastwood Field",2026,WN2026
+03/20/2026,Oakland,Northern Kentucky,6,9,0,0,L,Oakland,Oakland,Northern-Kentucky,0,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+03/21/2026,Oakland,Northern Kentucky,8,13,0,0,L,Oakland,Oakland,Northern-Kentucky,0,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+03/22/2026,Oakland,Northern Kentucky,8,4,0,0,W,Oakland,Oakland,Northern-Kentucky,0,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+03/24/2026,Michigan,Oakland,6,7,0,0,W,Oakland,Oakland,Michigan,1,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+03/27/2026,Wright State,Oakland,12,4,0,0,L,Oakland,Oakland,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+03/28/2026,Wright State,Oakland,11,5,0,0,L,Oakland,Oakland,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+03/29/2026,Wright State,Oakland,7,10,0,0,W,Oakland,Oakland,Wright-State,1,10,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+04/07/2026,Oakland,Toledo,4,2,0,0,W,Oakland,Oakland,Toledo,0,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/10/2026,Oakland,Milwaukee,4,12,0,0,L,Oakland,Oakland,Milwaukee,0,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/11/2026,Oakland,Milwaukee,6,5,0,0,W,Oakland,Oakland,Milwaukee,0,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/12/2026,Oakland,Milwaukee,0,12,0,0,L,Oakland,Oakland,Milwaukee,0,7,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/14/2026,Michigan State,Oakland,9,11,0,0,W,Oakland,Oakland,Michigan-State,1,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/17/2026,Oakland,Youngstown State,12,13,0,0,L,Oakland,Oakland,Youngstown-State,0,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/17/2026,Oakland,Youngstown State,2,16,0,0,L,Oakland,Oakland,Youngstown-State,0,7,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/18/2026,Oakland,Youngstown State,4,6,0,0,L,Oakland,Oakland,Youngstown-State,0,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/21/2026,Oakland,Central Michigan,6,11,0,0,L,Oakland,Oakland,Central-Michigan,0,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/22/2026,Oakland,Eastern Michigan,10,11,0,0,L,Oakland,Oakland,Eastern-Michigan,0,10,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/24/2026,Northern Kentucky,Oakland,30,9,0,0,L,Oakland,Oakland,Northern-Kentucky,1,7,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+04/25/2026,Northern Kentucky,Oakland,10,0,0,0,L,Oakland,Oakland,Northern-Kentucky,1,7,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+04/26/2026,Northern Kentucky,Oakland,9,3,0,0,L,Oakland,Oakland,Northern-Kentucky,1,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+04/28/2026,Toledo,Oakland,18,8,0,0,L,Oakland,Oakland,Toledo,1,7,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+05/01/2026,Oakland,Wright State,4,8,0,0,L,Oakland,Oakland,Wright-State,0,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+05/02/2026,Oakland,Wright State,1,6,0,0,L,Oakland,Oakland,Wright-State,0,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+05/03/2026,Oakland,Wright State,2,16,0,0,L,Oakland,Oakland,Wright-State,0,7,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+05/05/2026,Central Michigan,Oakland,6,4,0,0,L,Oakland,Oakland,Central-Michigan,1,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+05/08/2026,Notre Dame,Oakland,2,0,0,0,L,Oakland,Oakland,Notre-Dame,1,9,"Notre Dame, IN / Frank Eck Stadium / Box Score",2026,WN2026
+05/09/2026,Notre Dame,Oakland,15,5,0,0,L,Oakland,Oakland,Notre-Dame,1,8,"Notre Dame, IN / Frank Eck Stadium / Box Score",2026,WN2026
+05/10/2026,Notre Dame,Oakland,9,3,0,0,L,Oakland,Oakland,Notre-Dame,1,9,"Notre Dame, IN / Frank Eck Stadium / Box Score",2026,WN2026
+05/12/2026,Oakland,Akron,13,10,0,0,W,Oakland,Oakland,Akron,0,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+05/14/2026,Milwaukee,Oakland,12,11,0,0,L,Oakland,Oakland,Milwaukee,1,11,"Franklin, WI / Franklin Field / Box Score",2026,WN2026
+05/15/2026,Milwaukee,Oakland,8,4,0,0,L,Oakland,Oakland,Milwaukee,1,9,"Franklin, WI / Franklin Field / Box Score",2026,WN2026
+05/16/2026,Milwaukee,Oakland,14,8,0,0,L,Oakland,Oakland,Milwaukee,1,9,"Franklin, WI / Franklin Field / Box Score",2026,WN2026
+05/20/2026,Youngstown State,Oakland,2,10,0,1,W,Oakland,Oakland,Youngstown-State,0,9,"Dayton, OH / Nischwitz Stadium / Box Score / Recap",2026,WN2026
+05/21/2026,Wright State,Oakland,7,5,0,1,L,Oakland,Oakland,Wright-State,0,9,"Dayton, OH / Nischwitz Stadium / Recap",2026,WN2026
+05/21/2026,Northern Kentucky,Oakland,3,5,0,1,W,Oakland,Oakland,Northern-Kentucky,0,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+05/23/2026,Wright State,Oakland,11,5,0,1,L,Oakland,Oakland,Wright-State,0,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026

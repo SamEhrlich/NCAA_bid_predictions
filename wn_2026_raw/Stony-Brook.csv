@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Arkansas State,Stony Brook,9,8,0,0,L,Stony Brook,Stony-Brook,Arkansas-State,1,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+02/13/2026,Arkansas State,Stony Brook,4,0,0,0,L,Stony Brook,Stony-Brook,Arkansas-State,1,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+02/15/2026,Arkansas State,Stony Brook,12,5,0,0,L,Stony Brook,Stony-Brook,Arkansas-State,1,8,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+02/20/2026,Georgia Tech,Stony Brook,14,5,0,0,L,Stony Brook,Stony-Brook,Georgia-Tech,1,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/20/2026,Georgia Tech,Stony Brook,10,5,0,0,L,Stony Brook,Stony-Brook,Georgia-Tech,1,7,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/21/2026,Georgia Tech,Stony Brook,6,5,0,0,L,Stony Brook,Stony-Brook,Georgia-Tech,1,10,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/22/2026,Georgia Tech,Stony Brook,21,3,0,0,L,Stony Brook,Stony-Brook,Georgia-Tech,1,7,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/27/2026,FIU,Stony Brook,1,11,0,0,W,Stony Brook,Stony-Brook,FIU,1,7,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+02/28/2026,FIU,Stony Brook,10,9,0,0,L,Stony Brook,Stony-Brook,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+03/04/2026,Rutgers,Stony Brook,5,1,0,0,L,Stony Brook,Stony-Brook,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/06/2026,Stony Brook,Northeastern,0,4,0,0,L,Stony Brook,Stony-Brook,Northeastern,0,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+03/08/2026,Stony Brook,Northeastern,3,4,0,0,L,Stony Brook,Stony-Brook,Northeastern,0,13,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+03/08/2026,Stony Brook,Northeastern,7,6,0,0,W,Stony Brook,Stony-Brook,Northeastern,0,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+03/10/2026,Stony Brook,Siena,8,14,0,0,L,Stony Brook,Stony-Brook,Siena,0,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+03/13/2026,Charleston,Stony Brook,1,3,0,0,W,Stony Brook,Stony-Brook,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+03/14/2026,Charleston,Stony Brook,5,4,0,0,L,Stony Brook,Stony-Brook,Charleston,1,10,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+03/15/2026,Charleston,Stony Brook,6,2,0,0,L,Stony Brook,Stony-Brook,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+03/20/2026,Monmouth,Stony Brook,10,2,0,0,L,Stony Brook,Stony-Brook,Monmouth,1,9,"West Long Branch, NJ / Monmouth Baseball Field",2026,WN2026
+03/21/2026,Monmouth,Stony Brook,8,5,0,0,L,Stony Brook,Stony-Brook,Monmouth,1,9,"West Long Branch, NJ / Monmouth Baseball Field",2026,WN2026
+03/22/2026,Monmouth,Stony Brook,7,10,0,0,W,Stony Brook,Stony-Brook,Monmouth,1,9,"West Long Branch, NJ / Monmouth Baseball Field",2026,WN2026
+03/24/2026,Stony Brook,Siena,12,11,0,0,W,Stony Brook,Stony-Brook,Siena,0,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+03/27/2026,Stony Brook,Towson,3,1,0,0,W,Stony Brook,Stony-Brook,Towson,0,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+03/28/2026,Stony Brook,Towson,5,10,0,0,L,Stony Brook,Stony-Brook,Towson,0,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+03/29/2026,Stony Brook,Towson,3,4,0,0,L,Stony Brook,Stony-Brook,Towson,0,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+03/31/2026,New Haven,Stony Brook,12,15,0,0,W,Stony Brook,Stony-Brook,New-Haven,1,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+04/02/2026,Stony Brook,UNCW,7,6,0,0,W,Stony Brook,Stony-Brook,UNCW,0,10,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+04/03/2026,Stony Brook,UNCW,4,2,0,0,W,Stony Brook,Stony-Brook,UNCW,0,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+04/04/2026,Stony Brook,UNCW,6,8,0,0,L,Stony Brook,Stony-Brook,UNCW,0,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+04/07/2026,Sacred Heart,Stony Brook,11,5,0,0,L,Stony Brook,Stony-Brook,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/10/2026,Hofstra,Stony Brook,11,5,0,0,L,Stony Brook,Stony-Brook,Hofstra,1,9,"Hempstead, NY / University Field",2026,WN2026
+04/11/2026,Hofstra,Stony Brook,0,5,0,0,W,Stony Brook,Stony-Brook,Hofstra,1,9,"Hempstead, NY / University Field",2026,WN2026
+04/12/2026,Hofstra,Stony Brook,11,12,0,0,W,Stony Brook,Stony-Brook,Hofstra,1,10,"Hempstead, NY / University Field",2026,WN2026
+04/14/2026,Stony Brook,Manhattan,12,1,0,0,W,Stony Brook,Stony-Brook,Manhattan,0,7,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+04/17/2026,Stony Brook,Monmouth,4,8,0,0,L,Stony Brook,Stony-Brook,Monmouth,0,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+04/18/2026,Stony Brook,Monmouth,3,1,0,0,W,Stony Brook,Stony-Brook,Monmouth,0,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+04/18/2026,Stony Brook,Monmouth,5,2,0,0,W,Stony Brook,Stony-Brook,Monmouth,0,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+04/22/2026,Columbia,Stony Brook,8,4,0,0,L,Stony Brook,Stony-Brook,Columbia,1,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+04/24/2026,Towson,Stony Brook,5,15,0,0,W,Stony Brook,Stony-Brook,Towson,1,8,"Towson, MD / John B. Schuerholz Park",2026,WN2026
+04/25/2026,Towson,Stony Brook,9,7,0,0,L,Stony Brook,Stony-Brook,Towson,1,9,"Towson, MD / John B. Schuerholz Park",2026,WN2026
+04/26/2026,Towson,Stony Brook,0,10,0,0,W,Stony Brook,Stony-Brook,Towson,1,7,"Towson, MD / John B. Schuerholz Park",2026,WN2026
+04/28/2026,Fairfield,Stony Brook,10,12,0,0,W,Stony Brook,Stony-Brook,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/29/2026,Rider,Stony Brook,11,5,0,0,L,Stony Brook,Stony-Brook,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+05/02/2026,Stony Brook,UMass-Lowell,11,1,0,0,W,Stony Brook,Stony-Brook,UMass-Lowell,0,7,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+05/03/2026,Stony Brook,UMass-Lowell,8,4,0,0,W,Stony Brook,Stony-Brook,UMass-Lowell,0,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+05/05/2026,Saint John's,Stony Brook,4,7,0,0,W,Stony Brook,Stony-Brook,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+05/08/2026,Northeastern,Stony Brook,12,3,0,0,L,Stony Brook,Stony-Brook,Northeastern,1,9,"Brookline, MA / Friedman Diamond / Box Score",2026,WN2026
+05/09/2026,Northeastern,Stony Brook,15,0,0,0,L,Stony Brook,Stony-Brook,Northeastern,1,7,"Brookline, MA / Friedman Diamond / Box Score",2026,WN2026
+05/10/2026,Northeastern,Stony Brook,7,4,0,0,L,Stony Brook,Stony-Brook,Northeastern,1,9,"Brookline, MA / Friedman Diamond / Box Score",2026,WN2026
+05/14/2026,Stony Brook,Hofstra,0,4,0,0,L,Stony Brook,Stony-Brook,Hofstra,0,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+05/15/2026,Stony Brook,Hofstra,1,8,0,0,L,Stony Brook,Stony-Brook,Hofstra,0,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+05/16/2026,Stony Brook,Hofstra,23,0,0,0,W,Stony Brook,Stony-Brook,Hofstra,0,7,"Stony Brook, NY / Joe Nathan Field",2026,WN2026

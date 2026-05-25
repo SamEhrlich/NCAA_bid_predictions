@@ -1,0 +1,49 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/17/2026,Coppin State,Mount Saint Mary's,5,11,0,0,L,Coppin State,Coppin-State,Mount-Saint-Marys,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+02/20/2026,Oklahoma,Coppin State,22,1,0,0,L,Coppin State,Coppin-State,Oklahoma,1,7,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+02/21/2026,Oklahoma,Coppin State,24,0,0,0,L,Coppin State,Coppin-State,Oklahoma,1,7,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+02/22/2026,Oklahoma,Coppin State,11,0,0,0,L,Coppin State,Coppin-State,Oklahoma,1,7,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+02/27/2026,Coppin State,La Salle,2,10,0,0,L,Coppin State,Coppin-State,La-Salle,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+02/28/2026,Coppin State,La Salle,6,9,0,0,L,Coppin State,Coppin-State,La-Salle,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/01/2026,Coppin State,La Salle,7,8,0,0,L,Coppin State,Coppin-State,La-Salle,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/03/2026,Navy,Coppin State,8,7,0,0,L,Coppin State,Coppin-State,Navy,1,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/06/2026,Coppin State,Mercyhurst,2,1,0,0,W,Coppin State,Coppin-State,Mercyhurst,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/07/2026,Coppin State,Mercyhurst,14,4,0,0,W,Coppin State,Coppin-State,Mercyhurst,0,7,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/08/2026,Coppin State,Mercyhurst,7,12,0,0,L,Coppin State,Coppin-State,Mercyhurst,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/10/2026,Richmond,Coppin State,19,1,0,0,L,Coppin State,Coppin-State,Richmond,1,7,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+03/13/2026,Fairleigh Dickinson,Coppin State,24,5,0,0,L,Coppin State,Coppin-State,Fairleigh-Dickinson,1,7,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+03/14/2026,Fairleigh Dickinson,Coppin State,15,5,0,0,L,Coppin State,Coppin-State,Fairleigh-Dickinson,1,7,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+03/15/2026,Fairleigh Dickinson,Coppin State,13,12,0,0,L,Coppin State,Coppin-State,Fairleigh-Dickinson,1,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+03/20/2026,Coppin State,Maryland Eastern Shore,4,7,0,0,L,Coppin State,Coppin-State,Maryland-Eastern-Shore,0,10,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/21/2026,Coppin State,Maryland Eastern Shore,4,5,0,0,L,Coppin State,Coppin-State,Maryland-Eastern-Shore,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/22/2026,Coppin State,Maryland Eastern Shore,17,16,0,0,W,Coppin State,Coppin-State,Maryland-Eastern-Shore,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/24/2026,Coppin State,UMBC,14,24,0,0,L,Coppin State,Coppin-State,UMBC,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/28/2026,Le Moyne,Coppin State,11,1,0,0,L,Coppin State,Coppin-State,Le-Moyne,1,7,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+03/29/2026,Le Moyne,Coppin State,9,16,0,0,W,Coppin State,Coppin-State,Le-Moyne,1,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+03/29/2026,Le Moyne,Coppin State,10,6,0,0,L,Coppin State,Coppin-State,Le-Moyne,1,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+03/31/2026,Towson,Coppin State,18,1,0,0,L,Coppin State,Coppin-State,Towson,1,7,"Towson, MD / John B. Schuerholz Park",2026,WN2026
+04/02/2026,Norfolk State,Coppin State,7,6,0,0,L,Coppin State,Coppin-State,Norfolk-State,1,10,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+04/03/2026,Norfolk State,Coppin State,21,2,0,0,L,Coppin State,Coppin-State,Norfolk-State,1,7,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+04/04/2026,Norfolk State,Coppin State,6,9,0,0,W,Coppin State,Coppin-State,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+04/07/2026,Coppin State,Towson,7,14,0,0,L,Coppin State,Coppin-State,Towson,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+04/10/2026,Coppin State,Central Connecticut,4,17,0,0,L,Coppin State,Coppin-State,Central-Connecticut,0,7,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+04/11/2026,Coppin State,Central Connecticut,10,5,0,0,W,Coppin State,Coppin-State,Central-Connecticut,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+04/12/2026,Coppin State,Central Connecticut,9,2,0,0,W,Coppin State,Coppin-State,Central-Connecticut,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+04/14/2026,Coppin State,Lehigh,6,38,0,0,L,Coppin State,Coppin-State,Lehigh,0,7,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+04/17/2026,Coppin State,Long Island,7,16,0,0,L,Coppin State,Coppin-State,Long-Island,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+04/18/2026,Coppin State,Long Island,8,12,0,0,L,Coppin State,Coppin-State,Long-Island,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+04/19/2026,Coppin State,Long Island,1,13,0,0,L,Coppin State,Coppin-State,Long-Island,0,8,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+04/24/2026,Stonehill,Coppin State,18,5,0,0,L,Coppin State,Coppin-State,Stonehill,1,7,"Easton, MA / Lou Gorman Field",2026,WN2026
+04/25/2026,Stonehill,Coppin State,13,3,0,0,L,Coppin State,Coppin-State,Stonehill,1,7,"Easton, MA / Lou Gorman Field",2026,WN2026
+04/26/2026,Stonehill,Coppin State,5,10,0,0,W,Coppin State,Coppin-State,Stonehill,1,9,"Easton, MA / Lou Gorman Field",2026,WN2026
+04/28/2026,Mount Saint Mary's,Coppin State,6,2,0,0,L,Coppin State,Coppin-State,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+05/01/2026,Coppin State,New Haven,6,7,0,0,L,Coppin State,Coppin-State,New-Haven,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+05/02/2026,Coppin State,New Haven,6,3,0,0,W,Coppin State,Coppin-State,New-Haven,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+05/03/2026,Coppin State,New Haven,8,9,0,0,L,Coppin State,Coppin-State,New-Haven,0,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+05/05/2026,UMBC,Coppin State,9,8,0,0,L,Coppin State,Coppin-State,UMBC,1,11,"Catonsville, MD / Alumni Field",2026,WN2026
+05/08/2026,Wagner,Coppin State,7,6,0,0,L,Coppin State,Coppin-State,Wagner,1,9,"Staten Island, NY / SIUH Community Park / Box Score",2026,WN2026
+05/09/2026,Wagner,Coppin State,10,9,0,0,L,Coppin State,Coppin-State,Wagner,1,9,"Staten Island, NY / SIUH Community Park / Box Score",2026,WN2026
+05/10/2026,Wagner,Coppin State,11,12,0,0,W,Coppin State,Coppin-State,Wagner,1,9,"Staten Island, NY / SIUH Community Park / Box Score",2026,WN2026
+05/14/2026,Coppin State,Delaware State,8,3,0,0,W,Coppin State,Coppin-State,Delaware-State,0,9,"Hanover, MD / Joe Cannon Stadium / Box Score",2026,WN2026
+05/15/2026,Coppin State,Delaware State,3,16,0,0,L,Coppin State,Coppin-State,Delaware-State,0,7,"Hanover, MD / Joe Cannon Stadium / Box Score",2026,WN2026
+05/16/2026,Coppin State,Delaware State,6,11,0,0,L,Coppin State,Coppin-State,Delaware-State,0,9,"Hanover, MD / Joe Cannon Stadium / Box Score",2026,WN2026

@@ -1,0 +1,60 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Cal State Fullerton,California Baptist,3,1,0,0,L,California Baptist,California-Baptist,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+02/14/2026,California Baptist,Cal State Fullerton,5,4,0,0,W,California Baptist,California-Baptist,Cal-State-Fullerton,0,17,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+02/14/2026,California Baptist,Cal State Fullerton,7,6,0,0,W,California Baptist,California-Baptist,Cal-State-Fullerton,0,7,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+02/15/2026,Cal State Fullerton,California Baptist,0,7,0,0,W,California Baptist,California-Baptist,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+02/19/2026,California Baptist,Seattle University,14,6,0,0,W,California Baptist,California-Baptist,Seattle-University,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+02/20/2026,California Baptist,Seattle University,5,0,0,0,W,California Baptist,California-Baptist,Seattle-University,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+02/21/2026,California Baptist,Seattle University,7,1,0,0,W,California Baptist,California-Baptist,Seattle-University,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+02/22/2026,California Baptist,Seattle University,5,1,0,0,W,California Baptist,California-Baptist,Seattle-University,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+02/24/2026,California Baptist,Cal State Northridge,5,7,0,0,L,California Baptist,California-Baptist,Cal-State-Northridge,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+02/26/2026,San Francisco,California Baptist,2,16,0,0,W,California Baptist,California-Baptist,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+02/27/2026,San Francisco,California Baptist,1,7,0,0,W,California Baptist,California-Baptist,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+02/28/2026,San Francisco,California Baptist,3,2,0,0,L,California Baptist,California-Baptist,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+03/01/2026,San Francisco,California Baptist,1,2,0,0,W,California Baptist,California-Baptist,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+03/03/2026,California Baptist,UC Riverside,5,3,0,0,W,California Baptist,California-Baptist,UC-Riverside,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/05/2026,BYU,California Baptist,11,13,0,0,W,California Baptist,California-Baptist,BYU,1,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+03/06/2026,BYU,California Baptist,7,14,0,0,W,California Baptist,California-Baptist,BYU,1,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+03/07/2026,BYU,California Baptist,7,11,0,0,W,California Baptist,California-Baptist,BYU,1,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+03/10/2026,Loyola-Marymount,California Baptist,7,2,0,0,L,California Baptist,California-Baptist,Loyola-Marymount,1,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+03/13/2026,California Baptist,Harvard,5,1,0,0,W,California Baptist,California-Baptist,Harvard,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/14/2026,California Baptist,Harvard,11,4,0,0,W,California Baptist,California-Baptist,Harvard,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/15/2026,California Baptist,Harvard,3,2,0,0,W,California Baptist,California-Baptist,Harvard,0,10,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/16/2026,California Baptist,Harvard,12,14,0,0,L,California Baptist,California-Baptist,Harvard,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/20/2026,California Baptist,Evansville,11,6,0,0,W,California Baptist,California-Baptist,Evansville,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/21/2026,California Baptist,Evansville,10,3,0,0,W,California Baptist,California-Baptist,Evansville,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/22/2026,California Baptist,Evansville,9,1,0,0,W,California Baptist,California-Baptist,Evansville,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/24/2026,California Baptist,UC Riverside,12,1,0,0,W,California Baptist,California-Baptist,UC-Riverside,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/27/2026,Saint John's,California Baptist,3,12,0,0,W,California Baptist,California-Baptist,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/28/2026,Saint John's,California Baptist,3,5,0,0,W,California Baptist,California-Baptist,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/29/2026,Saint John's,California Baptist,0,4,0,0,W,California Baptist,California-Baptist,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+04/02/2026,Abilene Christian,California Baptist,1,5,0,0,W,California Baptist,California-Baptist,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/03/2026,Abilene Christian,California Baptist,2,3,0,0,W,California Baptist,California-Baptist,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/04/2026,Abilene Christian,California Baptist,9,8,0,0,L,California Baptist,California-Baptist,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/06/2026,Long Beach State,California Baptist,5,10,0,0,W,California Baptist,California-Baptist,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/10/2026,California Baptist,UTA,9,1,0,0,W,California Baptist,California-Baptist,UTA,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+04/11/2026,California Baptist,UTA,6,4,0,0,W,California Baptist,California-Baptist,UTA,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+04/11/2026,California Baptist,UTA,1,19,0,0,L,California Baptist,California-Baptist,UTA,0,7,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+04/14/2026,UC Riverside,California Baptist,4,19,0,0,W,California Baptist,California-Baptist,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+04/17/2026,Tarleton State,California Baptist,1,12,0,0,W,California Baptist,California-Baptist,Tarleton-State,1,7,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+04/18/2026,Tarleton State,California Baptist,3,2,0,0,L,California Baptist,California-Baptist,Tarleton-State,1,9,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+04/19/2026,Tarleton State,California Baptist,7,6,0,0,L,California Baptist,California-Baptist,Tarleton-State,1,9,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+04/20/2026,California Baptist,UC Santa Barbara,6,11,0,0,L,California Baptist,California-Baptist,UC-Santa-Barbara,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+04/24/2026,California Baptist,Utah Tech,7,3,0,0,W,California Baptist,California-Baptist,Utah-Tech,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+04/25/2026,California Baptist,Utah Tech,1,10,0,0,L,California Baptist,California-Baptist,Utah-Tech,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+04/26/2026,California Baptist,Utah Tech,6,0,0,0,W,California Baptist,California-Baptist,Utah-Tech,0,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+04/28/2026,UC Riverside,California Baptist,6,18,0,0,W,California Baptist,California-Baptist,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+05/01/2026,Utah Valley,California Baptist,10,14,0,0,W,California Baptist,California-Baptist,Utah-Valley,1,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+05/02/2026,Utah Valley,California Baptist,8,14,0,0,W,California Baptist,California-Baptist,Utah-Valley,1,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+05/03/2026,Utah Valley,California Baptist,1,2,0,0,W,California Baptist,California-Baptist,Utah-Valley,1,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+05/05/2026,Cal State Northridge,California Baptist,7,9,0,0,W,California Baptist,California-Baptist,Cal-State-Northridge,1,11,"Northridge, CA / Matador Field",2026,WN2026
+05/08/2026,California Baptist,Sacramento State,5,4,0,0,W,California Baptist,California-Baptist,Sacramento-State,0,9,"Riverside, CA / James W. Totman Stadium / Box Score",2026,WN2026
+05/09/2026,California Baptist,Sacramento State,5,6,0,0,L,California Baptist,California-Baptist,Sacramento-State,0,9,"Riverside, CA / James W. Totman Stadium / Box Score",2026,WN2026
+05/10/2026,California Baptist,Sacramento State,2,19,0,0,L,California Baptist,California-Baptist,Sacramento-State,0,9,"Riverside, CA / James W. Totman Stadium / Box Score",2026,WN2026
+05/11/2026,UC Santa Barbara,California Baptist,3,8,0,0,W,California Baptist,California-Baptist,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+05/13/2026,UC Davis,California Baptist,3,6,0,0,W,California Baptist,California-Baptist,UC-Davis,1,9,"Davis, CA / Dobbins Stadium",2026,WN2026
+05/14/2026,UC Davis,California Baptist,2,4,0,0,W,California Baptist,California-Baptist,UC-Davis,1,11,"Davis, CA / Dobbins Stadium",2026,WN2026
+05/15/2026,UC Davis,California Baptist,8,9,0,0,W,California Baptist,California-Baptist,UC-Davis,1,9,"Davis, CA / Dobbins Stadium",2026,WN2026
+05/21/2026,Utah Tech,California Baptist,7,10,0,1,W,California Baptist,California-Baptist,Utah-Tech,0,14,"Mesa, AZ / Hohokam Stadium / Recap",2026,WN2026
+05/22/2026,Tarleton State,California Baptist,5,3,0,1,L,California Baptist,California-Baptist,Tarleton-State,0,9,"Mesa, AZ / Hohokam Stadium",2026,WN2026
+05/22/2026,Sacramento State,California Baptist,12,7,0,1,L,California Baptist,California-Baptist,Sacramento-State,0,9,"Mesa, AZ / Hohokam Stadium",2026,WN2026

@@ -1,0 +1,51 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Prairie View A&M,Jackson State,10,4,0,1,L,Jackson State,Jackson-State,Prairie-View-AM,0,9,"Pearl, MS / Trustmark Park",2026,WN2026
+02/14/2026,Alabama A&M,Jackson State,1,6,0,1,W,Jackson State,Jackson-State,Alabama-AM,0,9,"Pearl, MS / Trustmark Park",2026,WN2026
+02/15/2026,Alcorn State,Jackson State,8,7,0,1,L,Jackson State,Jackson-State,Alcorn-State,0,10,"Jackson, MS / Braddy Field",2026,WN2026
+02/18/2026,Ole Miss,Jackson State,18,3,0,0,L,Jackson State,Jackson-State,Ole-Miss,1,7,"Oxford, MS / Swayze Field",2026,WN2026
+02/20/2026,Texas Southern,Jackson State,2,3,0,1,W,Jackson State,Jackson-State,Texas-Southern,0,9,"Vero Beach, FL / Jackie Robinson Training Complex",2026,WN2026
+02/21/2026,Yale,Jackson State,5,6,0,1,W,Jackson State,Jackson-State,Yale,0,9,"Vero Beach, FL / Jackie Robinson Training Complex",2026,WN2026
+02/22/2026,Grambling State,Jackson State,8,7,0,1,L,Jackson State,Jackson-State,Grambling-State,0,9,"Vero Beach, FL / Jackie Robinson Training Complex",2026,WN2026
+02/27/2026,Jackson State,Alcorn State,13,8,0,0,W,Jackson State,Jackson-State,Alcorn-State,0,9,"Jackson, MS / Braddy Field",2026,WN2026
+02/28/2026,Jackson State,UNC Asheville,1,7,0,0,L,Jackson State,Jackson-State,UNC-Asheville,0,9,"Jackson, MS / Braddy Field",2026,WN2026
+02/28/2026,Jackson State,Mississippi Valley State,8,14,0,0,L,Jackson State,Jackson-State,Mississippi-Valley-State,0,9,"Jackson, MS / Braddy Field",2026,WN2026
+03/01/2026,Jackson State,UNC Asheville,6,5,0,0,W,Jackson State,Jackson-State,UNC-Asheville,0,9,"Jackson, MS / Braddy Field",2026,WN2026
+03/03/2026,New Orleans,Jackson State,11,6,0,0,L,Jackson State,Jackson-State,New-Orleans,1,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/06/2026,Seattle University,Jackson State,1,5,0,0,W,Jackson State,Jackson-State,Seattle-University,1,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+03/07/2026,Seattle University,Jackson State,12,13,0,0,W,Jackson State,Jackson-State,Seattle-University,1,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+03/08/2026,Seattle University,Jackson State,6,4,0,0,L,Jackson State,Jackson-State,Seattle-University,1,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+03/10/2026,Nicholls,Jackson State,12,2,0,0,L,Jackson State,Jackson-State,Nicholls,1,7,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+03/13/2026,Texas Southern,Jackson State,17,6,0,0,L,Jackson State,Jackson-State,Texas-Southern,1,7,"Houston, TX / MacGregor Park",2026,WN2026
+03/14/2026,Texas Southern,Jackson State,15,9,0,0,L,Jackson State,Jackson-State,Texas-Southern,1,9,"Houston, TX / MacGregor Park",2026,WN2026
+03/15/2026,Texas Southern,Jackson State,12,17,0,0,W,Jackson State,Jackson-State,Texas-Southern,1,9,"Houston, TX / MacGregor Park",2026,WN2026
+03/17/2026,Mississippi State,Jackson State,17,1,0,0,L,Jackson State,Jackson-State,Mississippi-State,1,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+03/20/2026,Jackson State,Prairie View A&M,0,9,0,0,L,Jackson State,Jackson-State,Prairie-View-AM,0,9,"Jackson, MS / Braddy Field",2026,WN2026
+03/21/2026,Jackson State,Prairie View A&M,9,8,0,0,W,Jackson State,Jackson-State,Prairie-View-AM,0,9,"Jackson, MS / Braddy Field",2026,WN2026
+03/22/2026,Jackson State,Prairie View A&M,15,4,0,0,W,Jackson State,Jackson-State,Prairie-View-AM,0,7,"Jackson, MS / Braddy Field",2026,WN2026
+03/24/2026,Jackson State,New Orleans,0,7,0,0,L,Jackson State,Jackson-State,New-Orleans,0,9,"Jackson, MS / Braddy Field",2026,WN2026
+03/27/2026,Bethune-Cookman,Jackson State,7,8,0,0,W,Jackson State,Jackson-State,Bethune-Cookman,1,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/28/2026,Bethune-Cookman,Jackson State,13,2,0,0,L,Jackson State,Jackson-State,Bethune-Cookman,1,7,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/29/2026,Bethune-Cookman,Jackson State,5,4,0,0,L,Jackson State,Jackson-State,Bethune-Cookman,1,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+04/02/2026,Grambling State,Jackson State,12,9,0,0,L,Jackson State,Jackson-State,Grambling-State,1,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/03/2026,Grambling State,Jackson State,5,2,0,0,L,Jackson State,Jackson-State,Grambling-State,1,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/03/2026,Grambling State,Jackson State,10,20,0,0,W,Jackson State,Jackson-State,Grambling-State,1,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/10/2026,Jackson State,Florida A&M,5,4,0,0,W,Jackson State,Jackson-State,Florida-AM,0,11,"Jackson, MS / Braddy Field",2026,WN2026
+04/11/2026,Jackson State,Florida A&M,7,8,0,0,L,Jackson State,Jackson-State,Florida-AM,0,10,"Jackson, MS / Braddy Field",2026,WN2026
+04/12/2026,Jackson State,Florida A&M,8,23,0,0,L,Jackson State,Jackson-State,Florida-AM,0,8,"Jackson, MS / Braddy Field",2026,WN2026
+04/17/2026,Jackson State,Alabama State,2,3,0,0,L,Jackson State,Jackson-State,Alabama-State,0,9,"Jackson, MS / Braddy Field",2026,WN2026
+04/18/2026,Jackson State,Alabama State,7,8,0,0,L,Jackson State,Jackson-State,Alabama-State,0,10,"Jackson, MS / Braddy Field",2026,WN2026
+04/19/2026,Jackson State,Alabama State,9,6,0,0,W,Jackson State,Jackson-State,Alabama-State,0,9,"Jackson, MS / Braddy Field",2026,WN2026
+04/24/2026,Alabama A&M,Jackson State,1,18,0,0,W,Jackson State,Jackson-State,Alabama-AM,1,7,"Huntsville, AL / Bulldog Field",2026,WN2026
+04/25/2026,Alabama A&M,Jackson State,11,6,0,0,L,Jackson State,Jackson-State,Alabama-AM,1,9,"Huntsville, AL / Bulldog Field",2026,WN2026
+04/26/2026,Alabama A&M,Jackson State,5,13,0,0,W,Jackson State,Jackson-State,Alabama-AM,1,9,"Huntsville, AL / Bulldog Field",2026,WN2026
+05/02/2026,Jackson State,Alcorn State,9,1,0,0,W,Jackson State,Jackson-State,Alcorn-State,0,9,"Jackson, MS / Braddy Field",2026,WN2026
+05/03/2026,Jackson State,Alcorn State,14,1,0,0,W,Jackson State,Jackson-State,Alcorn-State,0,7,"Jackson, MS / Braddy Field",2026,WN2026
+05/04/2026,Jackson State,Alcorn State,6,2,0,0,W,Jackson State,Jackson-State,Alcorn-State,0,9,"Jackson, MS / Braddy Field",2026,WN2026
+05/08/2026,Mississippi Valley State,Jackson State,5,11,0,0,W,Jackson State,Jackson-State,Mississippi-Valley-State,1,9,"Itta Bena, MS / Magnolia Field / Box Score",2026,WN2026
+05/09/2026,Mississippi Valley State,Jackson State,13,11,0,0,L,Jackson State,Jackson-State,Mississippi-Valley-State,1,9,"Itta Bena, MS / Magnolia Field / Box Score",2026,WN2026
+05/10/2026,Mississippi Valley State,Jackson State,1,7,0,0,W,Jackson State,Jackson-State,Mississippi-Valley-State,1,9,"Itta Bena, MS / Magnolia Field / Box Score",2026,WN2026
+05/14/2026,Jackson State,Arkansas-Pine Bluff,6,8,0,0,L,Jackson State,Jackson-State,Arkansas-Pine-Bluff,0,9,"Jackson, MS / Braddy Field / Box Score",2026,WN2026
+05/15/2026,Jackson State,Arkansas-Pine Bluff,6,4,0,0,W,Jackson State,Jackson-State,Arkansas-Pine-Bluff,0,9,"Jackson, MS / Braddy Field / Box Score",2026,WN2026
+05/16/2026,Jackson State,Arkansas-Pine Bluff,12,6,0,0,W,Jackson State,Jackson-State,Arkansas-Pine-Bluff,0,9,"Jackson, MS / Braddy Field / Box Score",2026,WN2026
+05/20/2026,Southern,Jackson State,4,3,0,1,L,Jackson State,Jackson-State,Southern,0,10,"Birmingham, AL / Rickwood Field / Box Score / Recap",2026,WN2026
+05/21/2026,Texas Southern,Jackson State,8,7,0,1,L,Jackson State,Jackson-State,Texas-Southern,0,9,"Birmingham, AL / Rickwood Field",2026,WN2026

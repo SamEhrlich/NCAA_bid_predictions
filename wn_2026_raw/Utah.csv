@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Fresno State,Utah,3,8,0,0,W,Utah,Utah,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+02/14/2026,Fresno State,Utah,4,5,0,0,W,Utah,Utah,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+02/15/2026,Fresno State,Utah,14,8,0,0,L,Utah,Utah,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+02/20/2026,San Diego,Utah,8,4,0,0,L,Utah,Utah,San-Diego,1,9,"San Diego, CA / Fowler Park",2026,WN2026
+02/21/2026,San Diego State,Utah,0,7,0,0,W,Utah,Utah,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+02/22/2026,Creighton,Utah,4,9,0,1,W,Utah,Utah,Creighton,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+02/27/2026,UC Santa Barbara,Utah,7,2,0,0,L,Utah,Utah,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+02/28/2026,UC Santa Barbara,Utah,7,1,0,0,L,Utah,Utah,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+03/01/2026,UC Santa Barbara,Utah,12,1,0,0,L,Utah,Utah,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+03/02/2026,Loyola-Marymount,Utah,4,13,0,0,W,Utah,Utah,Loyola-Marymount,1,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+03/06/2026,Utah,Grand Canyon,9,0,0,0,W,Utah,Utah,Grand-Canyon,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/07/2026,Utah,Grand Canyon,1,0,0,0,W,Utah,Utah,Grand-Canyon,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/08/2026,Utah,Grand Canyon,4,0,0,0,W,Utah,Utah,Grand-Canyon,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/09/2026,Utah,Grand Canyon,7,2,0,0,W,Utah,Utah,Grand-Canyon,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/13/2026,Utah,Arizona,6,8,0,0,L,Utah,Utah,Arizona,0,11,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/14/2026,Utah,Arizona,7,6,0,0,W,Utah,Utah,Arizona,0,10,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/15/2026,Utah,Arizona,8,7,0,0,W,Utah,Utah,Arizona,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/17/2026,Utah,Washington State,8,5,0,0,W,Utah,Utah,Washington-State,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/20/2026,Cincinnati,Utah,13,4,0,0,L,Utah,Utah,Cincinnati,1,9,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+03/21/2026,Cincinnati,Utah,20,10,0,0,L,Utah,Utah,Cincinnati,1,8,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+03/22/2026,Cincinnati,Utah,11,13,0,0,W,Utah,Utah,Cincinnati,1,9,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+03/24/2026,Utah,BYU,5,6,0,0,L,Utah,Utah,BYU,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/27/2026,Utah,Kansas State,5,8,0,0,L,Utah,Utah,Kansas-State,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/28/2026,Utah,Kansas State,13,11,0,0,W,Utah,Utah,Kansas-State,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/29/2026,Utah,Kansas State,16,14,0,0,W,Utah,Utah,Kansas-State,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/31/2026,Utah Valley,Utah,9,15,0,0,W,Utah,Utah,Utah-Valley,1,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+04/02/2026,Kansas,Utah,14,12,0,0,L,Utah,Utah,Kansas,1,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/03/2026,Kansas,Utah,14,9,0,0,L,Utah,Utah,Kansas,1,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/04/2026,Kansas,Utah,13,9,0,0,L,Utah,Utah,Kansas,1,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/10/2026,Arizona State,Utah,4,10,0,0,W,Utah,Utah,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/11/2026,Arizona State,Utah,14,13,0,0,L,Utah,Utah,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/12/2026,Arizona State,Utah,5,2,0,0,L,Utah,Utah,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/17/2026,Utah,Texas Tech,10,3,0,0,W,Utah,Utah,Texas-Tech,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+04/18/2026,Utah,Texas Tech,12,2,0,0,W,Utah,Utah,Texas-Tech,0,7,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+04/19/2026,Utah,Texas Tech,6,3,0,0,W,Utah,Utah,Texas-Tech,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+04/21/2026,Utah,Utah Valley,16,9,0,0,W,Utah,Utah,Utah-Valley,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+04/24/2026,Utah,UCF,2,12,0,0,L,Utah,Utah,UCF,0,8,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+04/25/2026,Utah,UCF,4,12,0,0,L,Utah,Utah,UCF,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+04/25/2026,Utah,UCF,0,10,0,0,L,Utah,Utah,UCF,0,7,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+04/30/2026,BYU,Utah,6,4,0,0,L,Utah,Utah,BYU,1,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+05/01/2026,BYU,Utah,1,8,0,0,W,Utah,Utah,BYU,1,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+05/02/2026,BYU,Utah,3,8,0,0,W,Utah,Utah,BYU,1,9,"Provo, UT / Larry H. Miller Field",2026,WN2026
+05/05/2026,Utah,Utah Valley,9,5,0,0,W,Utah,Utah,Utah-Valley,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+05/08/2026,TCU,Utah,3,0,0,0,L,Utah,Utah,TCU,1,9,"Fort Worth, TX / Lupton Stadium / Box Score",2026,WN2026
+05/09/2026,TCU,Utah,3,1,0,0,L,Utah,Utah,TCU,1,9,"Fort Worth, TX / Lupton Stadium / Box Score",2026,WN2026
+05/10/2026,TCU,Utah,4,3,0,0,L,Utah,Utah,TCU,1,9,"Fort Worth, TX / Lupton Stadium / Box Score",2026,WN2026
+05/12/2026,Utah,Utah Tech,16,9,0,0,W,Utah,Utah,Utah-Tech,0,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+05/14/2026,Utah,Baylor,8,7,0,0,W,Utah,Utah,Baylor,0,9,"Salt Lake City, UT / America First Ballpark / Box Score",2026,WN2026
+05/15/2026,Utah,Baylor,3,10,0,0,L,Utah,Utah,Baylor,0,9,"Salt Lake City, UT / America First Ballpark / Box Score",2026,WN2026
+05/16/2026,Utah,Baylor,10,11,0,0,L,Utah,Utah,Baylor,0,9,"Salt Lake City, UT / America First Ballpark / Box Score",2026,WN2026
+05/19/2026,Kansas State,Utah,9,5,0,1,L,Utah,Utah,Kansas-State,0,9,"Surprize, AZ / Surprise Stadium / Recap",2026,WN2026

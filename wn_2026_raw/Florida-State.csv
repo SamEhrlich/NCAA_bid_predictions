@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Florida State,James Madison,5,1,0,0,W,Florida State,Florida-State,James-Madison,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+02/14/2026,Florida State,James Madison,16,5,0,0,W,Florida State,Florida-State,James-Madison,0,7,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+02/17/2026,Jacksonville,Florida State,3,13,0,0,W,Florida State,Florida-State,Jacksonville,1,8,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+02/20/2026,Michigan,Florida State,1,6,0,1,W,Florida State,Florida-State,Michigan,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/21/2026,Auburn,Florida State,8,5,0,1,L,Florida State,Florida-State,Auburn,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/22/2026,Nebraska,Florida State,10,1,0,1,L,Florida State,Florida-State,Nebraska,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/25/2026,Florida State,North Florida,14,9,0,0,W,Florida State,Florida-State,North-Florida,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+02/28/2026,Florida State,The Citadel,6,2,0,0,W,Florida State,Florida-State,The-Citadel,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+02/28/2026,Florida State,The Citadel,2,1,0,0,W,Florida State,Florida-State,The-Citadel,0,10,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/01/2026,Florida State,The Citadel,2,0,0,0,W,Florida State,Florida-State,The-Citadel,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/03/2026,Florida State,Jacksonville,7,6,0,0,W,Florida State,Florida-State,Jacksonville,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/04/2026,Florida State,Mercer,22,4,0,0,W,Florida State,Florida-State,Mercer,0,7,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/06/2026,Florida State,Northern Kentucky,7,3,0,0,W,Florida State,Florida-State,Northern-Kentucky,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/07/2026,Florida State,Northern Kentucky,13,3,0,0,W,Florida State,Florida-State,Northern-Kentucky,0,7,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/08/2026,Florida State,Northern Kentucky,17,3,0,0,W,Florida State,Florida-State,Northern-Kentucky,0,7,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/10/2026,Florida,Florida State,6,3,0,0,L,Florida State,Florida-State,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/13/2026,Wake Forest,Florida State,0,10,0,0,W,Florida State,Florida-State,Wake-Forest,1,7,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+03/14/2026,Wake Forest,Florida State,0,2,0,0,W,Florida State,Florida-State,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+03/15/2026,Wake Forest,Florida State,6,12,0,0,W,Florida State,Florida-State,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+03/17/2026,Florida State,Bethune-Cookman,12,1,0,0,W,Florida State,Florida-State,Bethune-Cookman,0,7,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/20/2026,Florida State,North Carolina State,4,6,0,0,L,Florida State,Florida-State,North-Carolina-State,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/21/2026,Florida State,North Carolina State,11,5,0,0,W,Florida State,Florida-State,North-Carolina-State,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/22/2026,Florida State,North Carolina State,15,5,0,0,W,Florida State,Florida-State,North-Carolina-State,0,7,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/24/2026,Florida,Florida State,5,0,0,1,L,Florida State,Florida-State,Florida,0,9,"Jacksonville, FL / VyStar Ballpark",2026,WN2026
+03/27/2026,Florida State,Duke,3,1,0,0,W,Florida State,Florida-State,Duke,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/28/2026,Florida State,Duke,12,11,0,0,W,Florida State,Florida-State,Duke,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/29/2026,Florida State,Duke,4,11,0,0,L,Florida State,Florida-State,Duke,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/31/2026,Stetson,Florida State,3,6,0,0,W,Florida State,Florida-State,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+04/02/2026,Virginia,Florida State,4,3,0,0,L,Florida State,Florida-State,Virginia,1,9,"Charlottesville, VA / Davenport Field",2026,WN2026
+04/03/2026,Virginia,Florida State,2,5,0,0,W,Florida State,Florida-State,Virginia,1,9,"Charlottesville, VA / Davenport Field",2026,WN2026
+04/04/2026,Virginia,Florida State,3,9,0,0,W,Florida State,Florida-State,Virginia,1,9,"Charlottesville, VA / Davenport Field",2026,WN2026
+04/07/2026,Florida State,Florida,3,4,0,0,L,Florida State,Florida-State,Florida,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+04/09/2026,Georgia Tech,Florida State,4,3,0,0,L,Florida State,Florida-State,Georgia-Tech,1,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+04/10/2026,Georgia Tech,Florida State,8,3,0,0,L,Florida State,Florida-State,Georgia-Tech,1,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+04/11/2026,Georgia Tech,Florida State,17,3,0,0,L,Florida State,Florida-State,Georgia-Tech,1,7,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+04/14/2026,Florida State,Stetson,9,2,0,0,W,Florida State,Florida-State,Stetson,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+04/17/2026,Florida State,Notre Dame,11,0,0,0,W,Florida State,Florida-State,Notre-Dame,0,7,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+04/18/2026,Florida State,Notre Dame,9,7,0,0,W,Florida State,Florida-State,Notre-Dame,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+04/19/2026,Florida State,Notre Dame,6,4,0,0,W,Florida State,Florida-State,Notre-Dame,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+04/21/2026,North Florida,Florida State,1,4,0,0,W,Florida State,Florida-State,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/24/2026,Stanford,Florida State,4,3,0,0,L,Florida State,Florida-State,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/25/2026,Stanford,Florida State,8,7,0,0,L,Florida State,Florida-State,Stanford,1,11,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/26/2026,Stanford,Florida State,7,4,0,0,L,Florida State,Florida-State,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+04/29/2026,Florida State,South Florida,9,1,0,0,W,Florida State,Florida-State,South-Florida,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+05/02/2026,Florida State,Pittsburgh,10,1,0,0,W,Florida State,Florida-State,Pittsburgh,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+05/02/2026,Florida State,Pittsburgh,8,5,0,0,W,Florida State,Florida-State,Pittsburgh,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+05/03/2026,Florida State,Pittsburgh,6,4,0,0,W,Florida State,Florida-State,Pittsburgh,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+05/05/2026,Florida State,Jacksonville,5,2,0,0,W,Florida State,Florida-State,Jacksonville,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+05/08/2026,Clemson,Florida State,4,8,0,0,W,Florida State,Florida-State,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium / Box Score",2026,WN2026
+05/09/2026,Clemson,Florida State,4,3,0,0,L,Florida State,Florida-State,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium / Box Score",2026,WN2026
+05/10/2026,Clemson,Florida State,3,6,0,0,W,Florida State,Florida-State,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium / Box Score",2026,WN2026
+05/14/2026,Florida State,Miami (FL),7,6,0,0,W,Florida State,Florida-State,Miami-FL,0,11,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium / Box Score",2026,WN2026
+05/15/2026,Florida State,Miami (FL),11,1,0,0,W,Florida State,Florida-State,Miami-FL,0,8,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium / Box Score",2026,WN2026
+05/16/2026,Florida State,Miami (FL),4,7,0,0,L,Florida State,Florida-State,Miami-FL,0,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium / Box Score",2026,WN2026
+05/22/2026,Pittsburgh,Florida State,8,6,0,1,L,Florida State,Florida-State,Pittsburgh,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026

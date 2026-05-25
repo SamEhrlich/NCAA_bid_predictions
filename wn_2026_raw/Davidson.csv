@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Davidson,Bryant,5,6,0,0,L,Davidson,Davidson,Bryant,0,10,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+02/14/2026,Davidson,Bryant,11,10,0,0,W,Davidson,Davidson,Bryant,0,8,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+02/14/2026,Davidson,Bryant,5,8,0,0,L,Davidson,Davidson,Bryant,0,7,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+02/17/2026,Davidson,UNCG,7,4,0,0,W,Davidson,Davidson,UNCG,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+02/20/2026,Davidson,Fairfield,1,0,0,0,W,Davidson,Davidson,Fairfield,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+02/21/2026,Davidson,Fairfield,8,6,0,0,W,Davidson,Davidson,Fairfield,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+02/24/2026,Wofford,Davidson,12,8,0,0,L,Davidson,Davidson,Wofford,1,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/27/2026,Wake Forest,Davidson,7,1,0,0,L,Davidson,Davidson,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+02/28/2026,Loyola-Marymount,Davidson,11,1,0,1,L,Davidson,Davidson,Loyola-Marymount,0,7,"Winston-Salem, NC",2026,WN2026
+03/01/2026,Loyola-Marymount,Davidson,11,1,0,1,L,Davidson,Davidson,Loyola-Marymount,0,8,"Winston-Salem, NC",2026,WN2026
+03/01/2026,Wake Forest,Davidson,16,6,0,0,L,Davidson,Davidson,Wake-Forest,1,7,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+03/06/2026,Davidson,Lehigh,14,9,0,0,W,Davidson,Davidson,Lehigh,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+03/07/2026,Davidson,Lehigh,13,7,0,0,W,Davidson,Davidson,Lehigh,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+03/08/2026,Davidson,Lehigh,10,0,0,0,W,Davidson,Davidson,Lehigh,0,7,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+03/10/2026,Davidson,Gardner-Webb,11,10,0,0,W,Davidson,Davidson,Gardner-Webb,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+03/13/2026,Davidson,Fordham,9,8,0,0,W,Davidson,Davidson,Fordham,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+03/14/2026,Davidson,Fordham,4,6,0,0,L,Davidson,Davidson,Fordham,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+03/15/2026,Davidson,Fordham,3,26,0,0,L,Davidson,Davidson,Fordham,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+03/21/2026,La Salle,Davidson,13,17,0,0,W,Davidson,Davidson,La-Salle,1,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+03/21/2026,La Salle,Davidson,8,2,0,0,L,Davidson,Davidson,La-Salle,1,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+03/22/2026,La Salle,Davidson,10,1,0,0,L,Davidson,Davidson,La-Salle,1,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+03/24/2026,Winthrop,Davidson,11,1,0,0,L,Davidson,Davidson,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/27/2026,Davidson,Dayton,4,20,0,0,L,Davidson,Davidson,Dayton,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+03/28/2026,Davidson,Dayton,9,7,0,0,W,Davidson,Davidson,Dayton,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+03/29/2026,Davidson,Dayton,9,8,0,0,W,Davidson,Davidson,Dayton,0,12,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+03/31/2026,Duke,Davidson,14,9,0,0,L,Davidson,Davidson,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+04/03/2026,George Mason,Davidson,3,2,0,0,L,Davidson,Davidson,George-Mason,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+04/04/2026,George Mason,Davidson,0,4,0,0,W,Davidson,Davidson,George-Mason,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+04/04/2026,George Mason,Davidson,4,7,0,0,W,Davidson,Davidson,George-Mason,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+04/07/2026,Queens,Davidson,3,8,0,0,W,Davidson,Davidson,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+04/10/2026,Davidson,Saint Bonaventure,6,5,0,0,W,Davidson,Davidson,Saint-Bonaventure,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+04/11/2026,Davidson,Saint Bonaventure,19,9,0,0,W,Davidson,Davidson,Saint-Bonaventure,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+04/12/2026,Davidson,Saint Bonaventure,12,11,0,0,W,Davidson,Davidson,Saint-Bonaventure,0,10,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+04/14/2026,South Carolina,Davidson,8,6,0,0,L,Davidson,Davidson,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+04/17/2026,Saint Louis,Davidson,5,9,0,0,W,Davidson,Davidson,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+04/18/2026,Saint Louis,Davidson,3,18,0,0,W,Davidson,Davidson,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+04/19/2026,Saint Louis,Davidson,7,2,0,0,L,Davidson,Davidson,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+04/21/2026,Davidson,Radford,2,18,0,0,L,Davidson,Davidson,Radford,0,8,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+04/24/2026,George Washington,Davidson,5,10,0,0,W,Davidson,Davidson,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+04/25/2026,George Washington,Davidson,4,5,0,0,W,Davidson,Davidson,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+04/26/2026,George Washington,Davidson,5,8,0,0,W,Davidson,Davidson,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+04/28/2026,UNCG,Davidson,16,3,0,0,L,Davidson,Davidson,UNCG,1,7,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+05/01/2026,Davidson,Richmond,6,5,0,0,W,Davidson,Davidson,Richmond,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+05/02/2026,Davidson,Richmond,3,8,0,0,L,Davidson,Davidson,Richmond,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+05/03/2026,Davidson,Richmond,9,10,0,0,L,Davidson,Davidson,Richmond,0,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+05/08/2026,Davidson,Rhode Island,16,17,0,0,L,Davidson,Davidson,Rhode-Island,0,9,"Davidson, NC / T. Henry Wilson Jr. Field / Box Score",2026,WN2026
+05/09/2026,Davidson,Rhode Island,7,17,0,0,L,Davidson,Davidson,Rhode-Island,0,9,"Davidson, NC / T. Henry Wilson Jr. Field / Box Score",2026,WN2026
+05/10/2026,Davidson,Rhode Island,21,17,0,0,W,Davidson,Davidson,Rhode-Island,0,9,"Davidson, NC / T. Henry Wilson Jr. Field / Box Score",2026,WN2026
+05/14/2026,VCU,Davidson,10,0,0,0,L,Davidson,Davidson,VCU,1,9,"Richmond, VA / The Diamond / Box Score",2026,WN2026
+05/15/2026,VCU,Davidson,9,7,0,0,L,Davidson,Davidson,VCU,1,9,"Richmond, VA / The Diamond / Box Score",2026,WN2026
+05/16/2026,VCU,Davidson,12,9,0,0,L,Davidson,Davidson,VCU,1,9,"Richmond, VA / The Diamond / Box Score",2026,WN2026
+05/20/2026,VCU,Davidson,7,4,0,1,L,Davidson,Davidson,VCU,0,9,"Tysons, VA / Capital One Park / Box Score / Recap",2026,WN2026
+05/21/2026,George Mason,Davidson,9,1,0,1,L,Davidson,Davidson,George-Mason,0,9,"Tysons, VA / Capital One Park",2026,WN2026

@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UNLV,Austin Peay,7,3,0,0,L,Austin Peay,Austin-Peay,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/14/2026,UNLV,Austin Peay,9,8,0,0,L,Austin Peay,Austin-Peay,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/14/2026,UNLV,Austin Peay,3,5,0,0,W,Austin Peay,Austin-Peay,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/15/2026,UNLV,Austin Peay,12,13,0,0,W,Austin Peay,Austin-Peay,UNLV,1,10,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/20/2026,Austin Peay,Eastern Michigan,6,7,0,0,L,Austin Peay,Austin-Peay,Eastern-Michigan,0,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+02/21/2026,Austin Peay,Eastern Michigan,8,7,0,0,W,Austin Peay,Austin-Peay,Eastern-Michigan,0,11,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+02/22/2026,Austin Peay,Eastern Michigan,6,1,0,0,W,Austin Peay,Austin-Peay,Eastern-Michigan,0,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+02/24/2026,Mississippi State,Austin Peay,16,3,0,0,L,Austin Peay,Austin-Peay,Mississippi-State,1,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+02/27/2026,Cincinnati,Austin Peay,5,4,0,0,L,Austin Peay,Austin-Peay,Cincinnati,1,10,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+02/28/2026,Cincinnati,Austin Peay,1,7,0,0,W,Austin Peay,Austin-Peay,Cincinnati,1,9,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+02/28/2026,Cincinnati,Austin Peay,3,0,0,0,L,Austin Peay,Austin-Peay,Cincinnati,1,9,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+03/05/2026,Utah Tech,Austin Peay,15,11,0,0,L,Austin Peay,Austin-Peay,Utah-Tech,1,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/06/2026,Utah Tech,Austin Peay,5,10,0,0,W,Austin Peay,Austin-Peay,Utah-Tech,1,10,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/06/2026,Utah Tech,Austin Peay,4,7,0,0,W,Austin Peay,Austin-Peay,Utah-Tech,1,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/07/2026,Utah Tech,Austin Peay,7,6,0,0,L,Austin Peay,Austin-Peay,Utah-Tech,1,10,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/10/2026,Austin Peay,Ohio,18,5,0,0,W,Austin Peay,Austin-Peay,Ohio,0,7,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+03/10/2026,Austin Peay,Ohio,15,6,0,0,W,Austin Peay,Austin-Peay,Ohio,0,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+03/13/2026,Bellarmine,Austin Peay,9,15,0,0,W,Austin Peay,Austin-Peay,Bellarmine,1,9,"Louisville, KY / Knights Field",2026,WN2026
+03/14/2026,Bellarmine,Austin Peay,9,8,0,0,L,Austin Peay,Austin-Peay,Bellarmine,1,9,"Louisville, KY / Knights Field",2026,WN2026
+03/15/2026,Bellarmine,Austin Peay,3,12,0,0,W,Austin Peay,Austin-Peay,Bellarmine,1,9,"Louisville, KY / Knights Field",2026,WN2026
+03/17/2026,Ole Miss,Austin Peay,9,5,0,0,L,Austin Peay,Austin-Peay,Ole-Miss,1,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/20/2026,Austin Peay,Lipscomb,8,11,0,0,L,Austin Peay,Austin-Peay,Lipscomb,0,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+03/21/2026,Austin Peay,Lipscomb,12,8,0,0,W,Austin Peay,Austin-Peay,Lipscomb,0,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+03/22/2026,Austin Peay,Lipscomb,5,19,0,0,L,Austin Peay,Austin-Peay,Lipscomb,0,8,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+03/24/2026,Alabama,Austin Peay,6,2,0,1,L,Austin Peay,Austin-Peay,Alabama,0,9,"Huntsville, AL / Toyota Field",2026,WN2026
+03/27/2026,Central Arkansas,Austin Peay,1,4,0,0,W,Austin Peay,Austin-Peay,Central-Arkansas,1,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/28/2026,Central Arkansas,Austin Peay,8,0,0,0,L,Austin Peay,Austin-Peay,Central-Arkansas,1,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/29/2026,Central Arkansas,Austin Peay,4,8,0,0,W,Austin Peay,Austin-Peay,Central-Arkansas,1,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/31/2026,Tennessee,Austin Peay,13,4,0,0,L,Austin Peay,Austin-Peay,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/02/2026,Eastern Kentucky,Austin Peay,2,5,0,0,W,Austin Peay,Austin-Peay,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/03/2026,Eastern Kentucky,Austin Peay,7,6,0,0,L,Austin Peay,Austin-Peay,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/04/2026,Eastern Kentucky,Austin Peay,9,12,0,0,W,Austin Peay,Austin-Peay,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/07/2026,Tennessee Tech,Austin Peay,7,5,0,0,L,Austin Peay,Austin-Peay,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/10/2026,Austin Peay,North Alabama,3,9,0,0,L,Austin Peay,Austin-Peay,North-Alabama,0,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+04/11/2026,Austin Peay,North Alabama,12,13,0,0,L,Austin Peay,Austin-Peay,North-Alabama,0,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+04/12/2026,Austin Peay,North Alabama,5,15,0,0,L,Austin Peay,Austin-Peay,North-Alabama,0,8,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+04/14/2026,Austin Peay,Tennessee Tech,17,7,0,0,W,Austin Peay,Austin-Peay,Tennessee-Tech,0,7,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+04/17/2026,Austin Peay,Bellarmine,16,6,0,0,W,Austin Peay,Austin-Peay,Bellarmine,0,7,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+04/17/2026,Austin Peay,Bellarmine,5,2,0,0,W,Austin Peay,Austin-Peay,Bellarmine,0,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+04/19/2026,Austin Peay,Bellarmine,10,5,0,0,W,Austin Peay,Austin-Peay,Bellarmine,0,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+04/22/2026,Western Kentucky,Austin Peay,6,4,0,0,L,Austin Peay,Austin-Peay,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+04/24/2026,Lipscomb,Austin Peay,6,5,0,0,L,Austin Peay,Austin-Peay,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+04/25/2026,Lipscomb,Austin Peay,11,10,0,0,L,Austin Peay,Austin-Peay,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+04/26/2026,Lipscomb,Austin Peay,2,6,0,0,W,Austin Peay,Austin-Peay,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+05/01/2026,Austin Peay,Central Arkansas,5,2,0,0,W,Austin Peay,Austin-Peay,Central-Arkansas,0,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+05/02/2026,Austin Peay,Central Arkansas,2,1,0,0,W,Austin Peay,Austin-Peay,Central-Arkansas,0,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+05/03/2026,Austin Peay,Central Arkansas,7,8,0,0,L,Austin Peay,Austin-Peay,Central-Arkansas,0,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+05/06/2026,Southeast Missouri,Austin Peay,7,5,0,0,L,Austin Peay,Austin-Peay,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+05/08/2026,Austin Peay,Eastern Kentucky,2,5,0,0,L,Austin Peay,Austin-Peay,Eastern-Kentucky,0,9,"Clarksville, TN / Raymond C. Hand Park / Box Score",2026,WN2026
+05/09/2026,Austin Peay,Eastern Kentucky,2,4,0,0,L,Austin Peay,Austin-Peay,Eastern-Kentucky,0,9,"Clarksville, TN / Raymond C. Hand Park / Box Score",2026,WN2026
+05/10/2026,Austin Peay,Eastern Kentucky,15,2,0,0,W,Austin Peay,Austin-Peay,Eastern-Kentucky,0,9,"Clarksville, TN / Raymond C. Hand Park / Box Score",2026,WN2026
+05/14/2026,North Alabama,Austin Peay,9,2,0,0,L,Austin Peay,Austin-Peay,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field / Box Score",2026,WN2026
+05/15/2026,North Alabama,Austin Peay,6,1,0,0,L,Austin Peay,Austin-Peay,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field / Box Score",2026,WN2026
+05/16/2026,North Alabama,Austin Peay,8,4,0,0,L,Austin Peay,Austin-Peay,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field / Box Score",2026,WN2026
+05/19/2026,Jacksonville,Austin Peay,7,1,0,1,L,Austin Peay,Austin-Peay,Jacksonville,0,9,"DeLand, FL / Melching Field at Conrad Park / Recap",2026,WN2026

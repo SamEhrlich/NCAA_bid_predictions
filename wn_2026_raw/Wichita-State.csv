@@ -1,0 +1,60 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Wichita State,Northern Colorado,11,4,0,0,W,Wichita State,Wichita-State,Northern-Colorado,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+02/14/2026,Wichita State,Northern Colorado,14,1,0,0,W,Wichita State,Wichita-State,Northern-Colorado,0,7,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+02/15/2026,Wichita State,Northern Colorado,11,0,0,0,W,Wichita State,Wichita-State,Northern-Colorado,0,7,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+02/15/2026,Wichita State,Northern Colorado,7,3,0,0,W,Wichita State,Wichita-State,Northern-Colorado,0,7,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+02/19/2026,Hawaii,Wichita State,7,6,0,0,L,Wichita State,Wichita-State,Hawaii,1,9,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+02/20/2026,Hawaii,Wichita State,4,2,0,0,L,Wichita State,Wichita-State,Hawaii,1,9,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+02/22/2026,Hawaii,Wichita State,3,13,0,0,W,Wichita State,Wichita-State,Hawaii,1,7,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+02/22/2026,Hawaii,Wichita State,1,7,0,0,W,Wichita State,Wichita-State,Hawaii,1,9,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+02/26/2026,Wichita State,Omaha,3,2,0,0,W,Wichita State,Wichita-State,Omaha,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+02/27/2026,Wichita State,Omaha,10,3,0,0,W,Wichita State,Wichita-State,Omaha,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+02/28/2026,Wichita State,Omaha,5,2,0,0,W,Wichita State,Wichita-State,Omaha,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+02/28/2026,Wichita State,Omaha,8,15,0,0,L,Wichita State,Wichita-State,Omaha,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/06/2026,Wichita State,West Georgia,22,4,0,0,W,Wichita State,Wichita-State,West-Georgia,0,7,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/07/2026,Wichita State,West Georgia,4,5,0,0,L,Wichita State,Wichita-State,West-Georgia,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/07/2026,Wichita State,West Georgia,12,7,0,0,W,Wichita State,Wichita-State,West-Georgia,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/08/2026,Wichita State,West Georgia,11,13,0,0,L,Wichita State,Wichita-State,West-Georgia,0,8,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/10/2026,Kansas State,Wichita State,7,5,0,0,L,Wichita State,Wichita-State,Kansas-State,1,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/12/2026,Wichita State,Butler,27,3,0,0,W,Wichita State,Wichita-State,Butler,0,7,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/13/2026,Wichita State,Butler,14,8,0,0,W,Wichita State,Wichita-State,Butler,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/14/2026,Wichita State,Butler,30,1,0,0,W,Wichita State,Wichita-State,Butler,0,7,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/14/2026,Wichita State,Butler,6,4,0,0,W,Wichita State,Wichita-State,Butler,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/17/2026,Wichita State,Nebraska,1,8,0,0,L,Wichita State,Wichita-State,Nebraska,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/18/2026,Wichita State,Nebraska,1,10,0,0,L,Wichita State,Wichita-State,Nebraska,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/20/2026,Wichita State,Charlotte,8,3,0,0,W,Wichita State,Wichita-State,Charlotte,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/21/2026,Wichita State,Charlotte,6,19,0,0,L,Wichita State,Wichita-State,Charlotte,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/22/2026,Wichita State,Charlotte,7,2,0,0,W,Wichita State,Wichita-State,Charlotte,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/27/2026,Memphis,Wichita State,3,7,0,0,W,Wichita State,Wichita-State,Memphis,1,9,"Memphis, TN / FedExPark",2026,WN2026
+03/28/2026,Memphis,Wichita State,11,1,0,0,L,Wichita State,Wichita-State,Memphis,1,8,"Memphis, TN / FedExPark",2026,WN2026
+03/29/2026,Memphis,Wichita State,3,7,0,0,W,Wichita State,Wichita-State,Memphis,1,9,"Memphis, TN / FedExPark",2026,WN2026
+04/02/2026,Wichita State,Tulane,2,4,0,0,L,Wichita State,Wichita-State,Tulane,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+04/03/2026,Wichita State,Tulane,7,4,0,0,W,Wichita State,Wichita-State,Tulane,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+04/04/2026,Wichita State,Tulane,1,8,0,0,L,Wichita State,Wichita-State,Tulane,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+04/07/2026,Wichita State,Kansas State,6,10,0,0,L,Wichita State,Wichita-State,Kansas-State,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+04/10/2026,UAB,Wichita State,4,3,0,0,L,Wichita State,Wichita-State,UAB,1,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+04/11/2026,UAB,Wichita State,4,5,0,0,W,Wichita State,Wichita-State,UAB,1,10,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+04/12/2026,UAB,Wichita State,2,10,0,0,W,Wichita State,Wichita-State,UAB,1,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+04/14/2026,Kansas,Wichita State,5,2,0,0,L,Wichita State,Wichita-State,Kansas,1,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/17/2026,East Carolina,Wichita State,7,1,0,0,L,Wichita State,Wichita-State,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+04/18/2026,East Carolina,Wichita State,7,1,0,0,L,Wichita State,Wichita-State,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+04/19/2026,East Carolina,Wichita State,1,13,0,0,W,Wichita State,Wichita-State,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+04/21/2026,Oklahoma State,Wichita State,14,4,0,0,L,Wichita State,Wichita-State,Oklahoma-State,1,7,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+04/24/2026,Wichita State,Rice,5,1,0,0,W,Wichita State,Wichita-State,Rice,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+04/25/2026,Wichita State,Rice,2,3,0,0,L,Wichita State,Wichita-State,Rice,0,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+04/26/2026,Wichita State,Rice,13,3,0,0,W,Wichita State,Wichita-State,Rice,0,7,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+04/28/2026,Wichita State,Kansas,1,14,0,0,L,Wichita State,Wichita-State,Kansas,0,8,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+05/02/2026,UTSA,Wichita State,13,7,0,0,L,Wichita State,Wichita-State,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/02/2026,UTSA,Wichita State,8,1,0,0,L,Wichita State,Wichita-State,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/03/2026,UTSA,Wichita State,6,3,0,0,L,Wichita State,Wichita-State,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/08/2026,Wichita State,FAU,2,4,0,0,L,Wichita State,Wichita-State,FAU,0,9,"Wichita, KS / Gene Stephenson Park / Box Score",2026,WN2026
+05/09/2026,Wichita State,FAU,7,9,0,0,L,Wichita State,Wichita-State,FAU,0,9,"Wichita, KS / Gene Stephenson Park / Box Score",2026,WN2026
+05/10/2026,Wichita State,FAU,4,1,0,0,W,Wichita State,Wichita-State,FAU,0,9,"Wichita, KS / Gene Stephenson Park / Box Score",2026,WN2026
+05/14/2026,South Florida,Wichita State,4,1,0,0,L,Wichita State,Wichita-State,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium / Box Score",2026,WN2026
+05/15/2026,South Florida,Wichita State,7,6,0,0,L,Wichita State,Wichita-State,South-Florida,1,10,"Tampa, FL / USF Baseball Stadium / Box Score",2026,WN2026
+05/16/2026,South Florida,Wichita State,5,8,0,0,W,Wichita State,Wichita-State,South-Florida,1,10,"Tampa, FL / USF Baseball Stadium / Box Score",2026,WN2026
+05/20/2026,FAU,Wichita State,2,3,0,1,W,Wichita State,Wichita-State,FAU,0,9,"Clearwater, FL / BayCare Ballpark / Box Score / Recap",2026,WN2026
+05/21/2026,Rice,Wichita State,5,4,0,1,L,Wichita State,Wichita-State,Rice,0,9,"Clearwater, FL / BayCare Ballpark / Recap",2026,WN2026
+05/22/2026,Memphis,Wichita State,4,6,0,1,W,Wichita State,Wichita-State,Memphis,0,9,"Clearwater, FL / BayCare Ballpark",2026,WN2026
+05/23/2026,UAB,Wichita State,12,14,0,1,W,Wichita State,Wichita-State,UAB,0,9,"Clearwater, FL / BayCare Ballpark",2026,WN2026
+05/23/2026,East Carolina,Wichita State,11,3,0,1,L,Wichita State,Wichita-State,East-Carolina,0,8,"Clearwater, FL / BayCare Ballpark",2026,WN2026

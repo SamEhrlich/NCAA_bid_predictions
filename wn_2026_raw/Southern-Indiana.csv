@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Cal State Bakersfield,Southern Indiana,8,7,0,0,L,Southern Indiana,Southern-Indiana,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+02/14/2026,Cal State Bakersfield,Southern Indiana,6,7,0,0,W,Southern Indiana,Southern-Indiana,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+02/15/2026,Cal State Bakersfield,Southern Indiana,8,14,0,0,W,Southern Indiana,Southern-Indiana,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+02/15/2026,Cal State Bakersfield,Southern Indiana,11,10,0,0,L,Southern Indiana,Southern-Indiana,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+02/19/2026,Southern Indiana,Oakland,18,9,0,0,W,Southern Indiana,Southern-Indiana,Oakland,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+02/20/2026,Southern Indiana,Oakland,10,7,0,0,W,Southern Indiana,Southern-Indiana,Oakland,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+02/20/2026,Southern Indiana,Oakland,14,4,0,0,W,Southern Indiana,Southern-Indiana,Oakland,0,7,"Evansville, IN / USI Baseball Field",2026,WN2026
+02/21/2026,Southern Indiana,Oakland,7,6,0,0,W,Southern Indiana,Southern-Indiana,Oakland,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+02/25/2026,Saint Louis,Southern Indiana,3,1,0,0,L,Southern Indiana,Southern-Indiana,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+02/27/2026,North Alabama,Southern Indiana,1,20,0,0,W,Southern Indiana,Southern-Indiana,North-Alabama,1,7,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/28/2026,North Alabama,Southern Indiana,0,8,0,0,W,Southern Indiana,Southern-Indiana,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+03/01/2026,North Alabama,Southern Indiana,7,3,0,0,L,Southern Indiana,Southern-Indiana,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+03/03/2026,Southern Indiana,Illinois State,12,5,0,0,W,Southern Indiana,Southern-Indiana,Illinois-State,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+03/06/2026,Southern Indiana,Youngstown State,5,2,0,0,W,Southern Indiana,Southern-Indiana,Youngstown-State,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+03/08/2026,Southern Indiana,Youngstown State,10,1,0,0,W,Southern Indiana,Southern-Indiana,Youngstown-State,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+03/08/2026,Southern Indiana,Youngstown State,4,1,0,0,W,Southern Indiana,Southern-Indiana,Youngstown-State,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+03/10/2026,Missouri,Southern Indiana,14,6,0,0,L,Southern Indiana,Southern-Indiana,Missouri,1,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/13/2026,Southern Illinois,Southern Indiana,10,7,0,0,L,Southern Indiana,Southern-Indiana,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/14/2026,Southern Illinois,Southern Indiana,7,4,0,0,L,Southern Indiana,Southern-Indiana,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/14/2026,Southern Illinois,Southern Indiana,3,6,0,0,W,Southern Indiana,Southern-Indiana,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/18/2026,Bellarmine,Southern Indiana,3,2,0,0,L,Southern Indiana,Southern-Indiana,Bellarmine,1,9,"Louisville, KY / Knights Field",2026,WN2026
+03/20/2026,Southern Indiana,Western Illinois,3,2,0,0,W,Southern Indiana,Southern-Indiana,Western-Illinois,0,10,"Evansville, IN / USI Baseball Field",2026,WN2026
+03/21/2026,Southern Indiana,Western Illinois,9,12,0,0,L,Southern Indiana,Southern-Indiana,Western-Illinois,0,10,"Evansville, IN / USI Baseball Field",2026,WN2026
+03/22/2026,Southern Indiana,Western Illinois,12,0,0,0,W,Southern Indiana,Southern-Indiana,Western-Illinois,0,7,"Evansville, IN / USI Baseball Field",2026,WN2026
+03/24/2026,Southern Indiana,Ball State,13,3,0,0,W,Southern Indiana,Southern-Indiana,Ball-State,0,7,"Evansville, IN / USI Baseball Field",2026,WN2026
+03/27/2026,Little Rock,Southern Indiana,5,8,0,0,W,Southern Indiana,Southern-Indiana,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+03/28/2026,Little Rock,Southern Indiana,6,0,0,0,L,Southern Indiana,Southern-Indiana,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+03/29/2026,Little Rock,Southern Indiana,9,4,0,0,L,Southern Indiana,Southern-Indiana,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+03/31/2026,Middle Tennessee,Southern Indiana,2,7,0,0,W,Southern Indiana,Southern-Indiana,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+04/02/2026,Southern Indiana,SIUE,2,4,0,0,L,Southern Indiana,Southern-Indiana,SIUE,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/03/2026,Southern Indiana,SIUE,7,9,0,0,L,Southern Indiana,Southern-Indiana,SIUE,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/03/2026,Southern Indiana,SIUE,7,6,0,0,W,Southern Indiana,Southern-Indiana,SIUE,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/06/2026,Southern Indiana,Bellarmine,9,8,0,0,W,Southern Indiana,Southern-Indiana,Bellarmine,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/07/2026,Butler,Southern Indiana,14,12,0,0,L,Southern Indiana,Southern-Indiana,Butler,1,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+04/10/2026,Eastern Illinois,Southern Indiana,13,3,0,0,L,Southern Indiana,Southern-Indiana,Eastern-Illinois,1,7,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+04/11/2026,Eastern Illinois,Southern Indiana,3,1,0,0,L,Southern Indiana,Southern-Indiana,Eastern-Illinois,1,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+04/12/2026,Eastern Illinois,Southern Indiana,9,6,0,0,L,Southern Indiana,Southern-Indiana,Eastern-Illinois,1,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+04/17/2026,Southern Indiana,Tennessee-Martin,1,10,0,0,L,Southern Indiana,Southern-Indiana,Tennessee-Martin,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/18/2026,Southern Indiana,Tennessee-Martin,4,2,0,0,W,Southern Indiana,Southern-Indiana,Tennessee-Martin,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/19/2026,Southern Indiana,Tennessee-Martin,10,3,0,0,W,Southern Indiana,Southern-Indiana,Tennessee-Martin,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/22/2026,Southern Indiana,Evansville,14,4,0,0,W,Southern Indiana,Southern-Indiana,Evansville,0,7,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/24/2026,Morehead State,Southern Indiana,4,3,0,0,L,Southern Indiana,Southern-Indiana,Morehead-State,1,9,"Morehead, KY / Allen Field",2026,WN2026
+04/25/2026,Morehead State,Southern Indiana,6,5,0,0,L,Southern Indiana,Southern-Indiana,Morehead-State,1,9,"Morehead, KY / Allen Field",2026,WN2026
+04/26/2026,Morehead State,Southern Indiana,17,13,0,0,L,Southern Indiana,Southern-Indiana,Morehead-State,1,9,"Morehead, KY / Allen Field",2026,WN2026
+04/29/2026,Purdue,Southern Indiana,5,1,0,0,L,Southern Indiana,Southern-Indiana,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+05/01/2026,Southern Indiana,Tennessee Tech,3,13,0,0,L,Southern Indiana,Southern-Indiana,Tennessee-Tech,0,8,"Evansville, IN / USI Baseball Field",2026,WN2026
+05/02/2026,Southern Indiana,Tennessee Tech,8,6,0,0,W,Southern Indiana,Southern-Indiana,Tennessee-Tech,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+05/03/2026,Southern Indiana,Tennessee Tech,10,5,0,0,W,Southern Indiana,Southern-Indiana,Tennessee-Tech,0,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+05/08/2026,Southeast Missouri,Southern Indiana,7,5,0,0,L,Southern Indiana,Southern-Indiana,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field / Box Score",2026,WN2026
+05/09/2026,Southeast Missouri,Southern Indiana,11,1,0,0,L,Southern Indiana,Southern-Indiana,Southeast-Missouri,1,7,"Cape Girardeau, MO / Capaha Field / Box Score",2026,WN2026
+05/10/2026,Southeast Missouri,Southern Indiana,9,6,0,0,L,Southern Indiana,Southern-Indiana,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field / Box Score",2026,WN2026
+05/14/2026,Southern Indiana,Lindenwood,8,4,0,0,W,Southern Indiana,Southern-Indiana,Lindenwood,0,9,"Evansville, IN / USI Baseball Field / Box Score",2026,WN2026
+05/15/2026,Southern Indiana,Lindenwood,2,10,0,0,L,Southern Indiana,Southern-Indiana,Lindenwood,0,9,"Evansville, IN / USI Baseball Field / Box Score",2026,WN2026
+05/16/2026,Southern Indiana,Lindenwood,14,9,0,0,W,Southern Indiana,Southern-Indiana,Lindenwood,0,9,"Evansville, IN / USI Baseball Field / Box Score",2026,WN2026
+05/19/2026,Morehead State,Southern Indiana,2,6,0,1,W,Southern Indiana,Southern-Indiana,Morehead-State,0,9,"Marion, IL / Mtn Dew Park / Recap",2026,WN2026
+05/20/2026,Little Rock,Southern Indiana,7,3,0,1,L,Southern Indiana,Southern-Indiana,Little-Rock,0,9,"Marion, IL / Mtn Dew Park / Recap",2026,WN2026
+05/21/2026,Southeast Missouri,Southern Indiana,3,5,0,1,W,Southern Indiana,Southern-Indiana,Southeast-Missouri,0,9,"Marion, IL / Mtn Dew Park",2026,WN2026
+05/22/2026,Little Rock,Southern Indiana,7,2,0,1,L,Southern Indiana,Southern-Indiana,Little-Rock,0,9,"Marion, IL / Mtn Dew Park",2026,WN2026

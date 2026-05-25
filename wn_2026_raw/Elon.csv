@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Elon,Delaware,13,1,0,0,W,Elon,Elon,Delaware,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+02/14/2026,Elon,Delaware,7,5,0,0,W,Elon,Elon,Delaware,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+02/14/2026,Elon,Delaware,17,4,0,0,W,Elon,Elon,Delaware,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+02/17/2026,Elon,Presbyterian College,6,4,0,0,W,Elon,Elon,Presbyterian-College,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+02/20/2026,Charleston Southern,Elon,7,4,0,0,L,Elon,Elon,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+02/22/2026,Charleston Southern,Elon,5,4,0,0,L,Elon,Elon,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+02/22/2026,Charleston Southern,Elon,12,7,0,0,L,Elon,Elon,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+02/24/2026,Elon,Longwood,3,8,0,0,L,Elon,Elon,Longwood,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+02/27/2026,Elon,Fairfield,3,2,0,0,W,Elon,Elon,Fairfield,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+02/28/2026,Elon,Fairfield,3,0,0,0,W,Elon,Elon,Fairfield,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+03/01/2026,Elon,Fairfield,4,6,0,0,L,Elon,Elon,Fairfield,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+03/03/2026,North Carolina,Elon,5,1,0,0,L,Elon,Elon,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/06/2026,Elon,North Carolina A&T,1,2,0,0,L,Elon,Elon,North-Carolina-AT,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+03/07/2026,Elon,North Carolina A&T,8,3,0,0,W,Elon,Elon,North-Carolina-AT,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+03/08/2026,Elon,North Carolina A&T,11,8,0,0,W,Elon,Elon,North-Carolina-AT,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+03/10/2026,North Carolina State,Elon,0,2,0,0,W,Elon,Elon,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+03/13/2026,UNCW,Elon,8,7,0,0,L,Elon,Elon,UNCW,1,16,"Wilmington, NC / Brooks Field",2026,WN2026
+03/14/2026,UNCW,Elon,8,0,0,0,L,Elon,Elon,UNCW,1,9,"Wilmington, NC / Brooks Field",2026,WN2026
+03/15/2026,UNCW,Elon,11,0,0,0,L,Elon,Elon,UNCW,1,7,"Wilmington, NC / Brooks Field",2026,WN2026
+03/17/2026,East Carolina,Elon,4,3,0,0,L,Elon,Elon,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+03/20/2026,Northeastern,Elon,17,5,0,0,L,Elon,Elon,Northeastern,1,7,"Brookline, MA / Friedman Diamond",2026,WN2026
+03/21/2026,Northeastern,Elon,2,3,0,0,W,Elon,Elon,Northeastern,1,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+03/22/2026,Northeastern,Elon,17,7,0,0,L,Elon,Elon,Northeastern,1,8,"Brookline, MA / Friedman Diamond",2026,WN2026
+03/24/2026,Wake Forest,Elon,11,1,0,0,L,Elon,Elon,Wake-Forest,1,7,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+03/27/2026,Elon,Monmouth,3,6,0,0,L,Elon,Elon,Monmouth,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+03/28/2026,Elon,Monmouth,7,9,0,0,L,Elon,Elon,Monmouth,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+03/29/2026,Elon,Monmouth,2,8,0,0,L,Elon,Elon,Monmouth,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+03/31/2026,Elon,Queens,8,7,0,0,W,Elon,Elon,Queens,0,10,"Elon, NC / Walter C. Latham Park",2026,WN2026
+04/03/2026,North Carolina A&T,Elon,3,10,0,0,W,Elon,Elon,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+04/04/2026,North Carolina A&T,Elon,3,11,0,0,W,Elon,Elon,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+04/04/2026,North Carolina A&T,Elon,6,5,0,0,L,Elon,Elon,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+04/07/2026,Gardner-Webb,Elon,14,11,0,0,L,Elon,Elon,Gardner-Webb,1,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+04/10/2026,Elon,William & Mary,6,9,0,0,L,Elon,Elon,William-Mary,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+04/11/2026,Elon,William & Mary,1,13,0,0,L,Elon,Elon,William-Mary,0,7,"Elon, NC / Walter C. Latham Park",2026,WN2026
+04/12/2026,Elon,William & Mary,9,4,0,0,W,Elon,Elon,William-Mary,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+04/14/2026,Elon,Winthrop,3,13,0,0,L,Elon,Elon,Winthrop,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+04/17/2026,Campbell,Elon,6,10,0,0,W,Elon,Elon,Campbell,1,9,"Buies Creek, NC / Jim Perry Stadium",2026,WN2026
+04/18/2026,Campbell,Elon,7,1,0,0,L,Elon,Elon,Campbell,1,9,"Buies Creek, NC / Jim Perry Stadium",2026,WN2026
+04/19/2026,Campbell,Elon,5,10,0,0,W,Elon,Elon,Campbell,1,9,"Buies Creek, NC / Jim Perry Stadium",2026,WN2026
+04/21/2026,Winthrop,Elon,8,10,0,0,W,Elon,Elon,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/24/2026,Elon,UNCW,8,9,0,0,L,Elon,Elon,UNCW,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+04/25/2026,Elon,UNCW,1,5,0,0,L,Elon,Elon,UNCW,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+04/26/2026,Elon,UNCW,1,8,0,0,L,Elon,Elon,UNCW,0,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+05/01/2026,William & Mary,Elon,5,4,0,0,L,Elon,Elon,William-Mary,1,12,"Williamsburg, VA / Plumeri Park",2026,WN2026
+05/02/2026,William & Mary,Elon,2,5,0,0,W,Elon,Elon,William-Mary,1,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+05/03/2026,William & Mary,Elon,5,7,0,0,W,Elon,Elon,William-Mary,1,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+05/05/2026,South Carolina Upstate,Elon,18,4,0,1,L,Elon,Elon,South-Carolina-Upstate,0,7,"Greenville, SC / Fluor Field",2026,WN2026
+05/08/2026,Elon,Charleston,5,6,0,0,L,Elon,Elon,Charleston,0,9,"Elon, NC / Walter C. Latham Park / Box Score",2026,WN2026
+05/09/2026,Elon,Charleston,1,11,0,0,L,Elon,Elon,Charleston,0,7,"Elon, NC / Walter C. Latham Park / Box Score",2026,WN2026
+05/10/2026,Elon,Charleston,3,11,0,0,L,Elon,Elon,Charleston,0,9,"Elon, NC / Walter C. Latham Park / Box Score",2026,WN2026
+05/12/2026,Queens,Elon,3,10,0,0,W,Elon,Elon,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+05/14/2026,Northern Kentucky,Elon,12,11,0,1,L,Elon,Elon,Northern-Kentucky,0,10,"Spartanburg, SC / Cleveland S. Harley Baseball Park / Box Score",2026,WN2026
+05/14/2026,South Carolina Upstate,Elon,7,6,0,0,L,Elon,Elon,South-Carolina-Upstate,1,10,"Spartanburg, SC / Cleveland S. Harley Baseball Park / Box Score",2026,WN2026

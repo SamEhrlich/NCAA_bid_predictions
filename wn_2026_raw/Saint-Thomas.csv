@@ -1,0 +1,51 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Abilene Christian,Saint Thomas,7,1,0,0,L,Saint Thomas,Saint-Thomas,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+02/14/2026,Abilene Christian,Saint Thomas,6,5,0,0,L,Saint Thomas,Saint-Thomas,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+02/14/2026,Abilene Christian,Saint Thomas,10,11,0,0,W,Saint Thomas,Saint-Thomas,Abilene-Christian,1,10,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+02/15/2026,Abilene Christian,Saint Thomas,13,2,0,0,L,Saint Thomas,Saint-Thomas,Abilene-Christian,1,7,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+02/20/2026,Lindenwood,Saint Thomas,4,2,0,0,L,Saint Thomas,Saint-Thomas,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+02/20/2026,Lindenwood,Saint Thomas,2,8,0,0,W,Saint Thomas,Saint-Thomas,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+02/21/2026,Lindenwood,Saint Thomas,6,0,0,0,L,Saint Thomas,Saint-Thomas,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+02/27/2026,New Mexico,Saint Thomas,11,6,0,0,L,Saint Thomas,Saint-Thomas,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+02/28/2026,New Mexico,Saint Thomas,5,1,0,0,L,Saint Thomas,Saint-Thomas,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+02/28/2026,New Mexico,Saint Thomas,4,3,0,0,L,Saint Thomas,Saint-Thomas,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/01/2026,New Mexico,Saint Thomas,7,3,0,0,L,Saint Thomas,Saint-Thomas,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/05/2026,Kansas,Saint Thomas,4,2,0,0,L,Saint Thomas,Saint-Thomas,Kansas,1,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/06/2026,Kansas,Saint Thomas,11,5,0,0,L,Saint Thomas,Saint-Thomas,Kansas,1,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/07/2026,Kansas,Saint Thomas,9,8,0,1,L,Saint Thomas,Saint-Thomas,Kansas,0,9,"Kansas City, KS / Legends Field",2026,WN2026
+03/08/2026,Kansas,Saint Thomas,2,13,0,0,W,Saint Thomas,Saint-Thomas,Kansas,1,8,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/10/2026,Iowa,Saint Thomas,7,2,0,0,L,Saint Thomas,Saint-Thomas,Iowa,1,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+03/14/2026,Northern Colorado,Saint Thomas,5,8,0,0,W,Saint Thomas,Saint-Thomas,Northern-Colorado,1,9,"Greeley, CO / Jackson Field",2026,WN2026
+03/14/2026,Northern Colorado,Saint Thomas,9,4,0,0,L,Saint Thomas,Saint-Thomas,Northern-Colorado,1,9,"Greeley, CO / Jackson Field",2026,WN2026
+03/16/2026,Air Force,Saint Thomas,20,12,0,0,L,Saint Thomas,Saint-Thomas,Air-Force,1,8,"Colorado Springs, CO / Erdle Field",2026,WN2026
+03/20/2026,Oral Roberts,Saint Thomas,4,0,0,0,L,Saint Thomas,Saint-Thomas,Oral-Roberts,1,9,"Tulsa, OK / Chapman Park",2026,WN2026
+03/21/2026,Oral Roberts,Saint Thomas,8,2,0,0,L,Saint Thomas,Saint-Thomas,Oral-Roberts,1,9,"Tulsa, OK / Chapman Park",2026,WN2026
+03/22/2026,Oral Roberts,Saint Thomas,11,3,0,0,L,Saint Thomas,Saint-Thomas,Oral-Roberts,1,9,"Tulsa, OK / Chapman Park",2026,WN2026
+03/25/2026,Minnesota,Saint Thomas,15,5,0,0,L,Saint Thomas,Saint-Thomas,Minnesota,1,8,"Minneapolis, MN / Siebert Field",2026,WN2026
+03/28/2026,Saint Thomas,Omaha,2,12,0,0,L,Saint Thomas,Saint-Thomas,Omaha,0,8,"St. Paul, MN / Koch Diamond",2026,WN2026
+03/28/2026,Saint Thomas,Omaha,15,3,0,0,W,Saint Thomas,Saint-Thomas,Omaha,0,7,"St. Paul, MN / Koch Diamond",2026,WN2026
+03/29/2026,Saint Thomas,Omaha,7,11,0,0,L,Saint Thomas,Saint-Thomas,Omaha,0,9,"St. Paul, MN / Koch Diamond",2026,WN2026
+04/10/2026,Saint Thomas,South Dakota State,2,7,0,0,L,Saint Thomas,Saint-Thomas,South-Dakota-State,0,9,"St. Paul, MN / Koch Diamond",2026,WN2026
+04/10/2026,Saint Thomas,South Dakota State,4,1,0,0,W,Saint Thomas,Saint-Thomas,South-Dakota-State,0,9,"St. Paul, MN / Koch Diamond",2026,WN2026
+04/11/2026,Saint Thomas,South Dakota State,2,13,0,0,L,Saint Thomas,Saint-Thomas,South-Dakota-State,0,7,"St. Paul, MN / Koch Diamond",2026,WN2026
+04/14/2026,Saint Thomas,Minnesota,2,24,0,0,L,Saint Thomas,Saint-Thomas,Minnesota,0,9,"St. Paul, MN / Koch Diamond",2026,WN2026
+04/18/2026,Northern Colorado,Saint Thomas,8,7,0,0,L,Saint Thomas,Saint-Thomas,Northern-Colorado,1,21,"St. Paul, MN / Koch Diamond",2026,WN2026
+04/19/2026,Saint Thomas,Northern Colorado,11,3,0,0,W,Saint Thomas,Saint-Thomas,Northern-Colorado,0,9,"St. Paul, MN / Koch Diamond",2026,WN2026
+04/19/2026,Saint Thomas,Northern Colorado,5,6,0,0,L,Saint Thomas,Saint-Thomas,Northern-Colorado,0,10,"St. Paul, MN / Koch Diamond",2026,WN2026
+04/21/2026,Milwaukee,Saint Thomas,9,8,0,0,L,Saint Thomas,Saint-Thomas,Milwaukee,1,9,"Franklin, WI / Franklin Field",2026,WN2026
+04/22/2026,Northwestern,Saint Thomas,15,5,0,0,L,Saint Thomas,Saint-Thomas,Northwestern,1,7,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/24/2026,Omaha,Saint Thomas,9,1,0,0,L,Saint Thomas,Saint-Thomas,Omaha,1,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+04/25/2026,Omaha,Saint Thomas,5,11,0,0,W,Saint Thomas,Saint-Thomas,Omaha,1,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+04/26/2026,Omaha,Saint Thomas,12,18,0,0,W,Saint Thomas,Saint-Thomas,Omaha,1,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+04/28/2026,Minnesota,Saint Thomas,12,1,0,0,L,Saint Thomas,Saint-Thomas,Minnesota,1,7,"Minneapolis, MN / Siebert Field",2026,WN2026
+05/01/2026,Saint Thomas,Oral Roberts,4,7,0,0,L,Saint Thomas,Saint-Thomas,Oral-Roberts,0,9,"St. Paul, MN / Koch Diamond",2026,WN2026
+05/02/2026,Saint Thomas,Oral Roberts,14,18,0,0,L,Saint Thomas,Saint-Thomas,Oral-Roberts,0,9,"St. Paul, MN / Koch Diamond",2026,WN2026
+05/03/2026,Saint Thomas,Oral Roberts,2,4,0,0,L,Saint Thomas,Saint-Thomas,Oral-Roberts,0,9,"St. Paul, MN / Koch Diamond",2026,WN2026
+05/05/2026,Iowa,Saint Thomas,14,4,0,0,L,Saint Thomas,Saint-Thomas,Iowa,1,8,"Iowa City, IA / Duane Banks Field",2026,WN2026
+05/08/2026,South Dakota State,Saint Thomas,16,13,0,0,L,Saint Thomas,Saint-Thomas,South-Dakota-State,1,9,"Brookings, SD / Erv Huether Field / Box Score",2026,WN2026
+05/09/2026,South Dakota State,Saint Thomas,2,4,0,0,W,Saint Thomas,Saint-Thomas,South-Dakota-State,1,9,"Brookings, SD / Erv Huether Field / Box Score",2026,WN2026
+05/10/2026,South Dakota State,Saint Thomas,7,3,0,0,L,Saint Thomas,Saint-Thomas,South-Dakota-State,1,9,"Brookings, SD / Erv Huether Field / Box Score",2026,WN2026
+05/14/2026,North Dakota State,Saint Thomas,5,1,0,0,L,Saint Thomas,Saint-Thomas,North-Dakota-State,1,9,"St. Paul, MN / Koch Diamond / Box Score",2026,WN2026
+05/14/2026,Saint Thomas,North Dakota State,16,6,0,0,W,Saint Thomas,Saint-Thomas,North-Dakota-State,0,7,"St. Paul, MN / Koch Diamond / Box Score",2026,WN2026
+05/15/2026,Saint Thomas,North Dakota State,3,2,0,0,W,Saint Thomas,Saint-Thomas,North-Dakota-State,0,9,"St. Paul, MN / Koch Diamond / Box Score",2026,WN2026
+05/16/2026,Saint Thomas,North Dakota State,6,10,0,0,L,Saint Thomas,Saint-Thomas,North-Dakota-State,0,9,"St. Paul, MN / Koch Diamond / Box Score",2026,WN2026

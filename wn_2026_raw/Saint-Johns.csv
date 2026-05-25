@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Ball State,Saint John's,4,3,0,1,L,Saint John's,Saint-Johns,Ball-State,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/14/2026,Ball State,Saint John's,8,2,0,1,L,Saint John's,Saint-Johns,Ball-State,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/14/2026,Minnesota,Saint John's,8,0,0,1,L,Saint John's,Saint-Johns,Minnesota,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/15/2026,Stetson,Saint John's,7,11,0,0,W,Saint John's,Saint-Johns,Stetson,1,8,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/20/2026,Arizona State,Saint John's,9,1,0,0,L,Saint John's,Saint-Johns,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+02/21/2026,Arizona State,Saint John's,3,1,0,0,L,Saint John's,Saint-Johns,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+02/22/2026,Arizona State,Saint John's,16,6,0,0,L,Saint John's,Saint-Johns,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+02/27/2026,Kentucky,Saint John's,3,1,0,0,L,Saint John's,Saint-Johns,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+02/28/2026,Kentucky,Saint John's,3,0,0,0,L,Saint John's,Saint-Johns,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+03/01/2026,Kentucky,Saint John's,3,1,0,0,L,Saint John's,Saint-Johns,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+03/04/2026,Penn State,Saint John's,12,2,0,0,L,Saint John's,Saint-Johns,Penn-State,1,7,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/06/2026,Saint John's,Albany,2,1,0,0,W,Saint John's,Saint-Johns,Albany,0,15,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/07/2026,Saint John's,Albany,5,4,0,0,W,Saint John's,Saint-Johns,Albany,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/08/2026,Saint John's,Albany,4,3,0,0,W,Saint John's,Saint-Johns,Albany,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/10/2026,Saint John's,Fairfield,4,6,0,0,L,Saint John's,Saint-Johns,Fairfield,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/11/2026,Saint John's,Marist,3,1,0,0,W,Saint John's,Saint-Johns,Marist,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/13/2026,Charlotte,Saint John's,6,8,0,0,W,Saint John's,Saint-Johns,Charlotte,1,9,"Charlotte, NC / Mariam Hayes Stadium",2026,WN2026
+03/14/2026,Charlotte,Saint John's,2,3,0,0,W,Saint John's,Saint-Johns,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/15/2026,Charlotte,Saint John's,10,9,0,0,L,Saint John's,Saint-Johns,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/20/2026,UTA,Saint John's,1,8,0,0,W,Saint John's,Saint-Johns,UTA,1,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/21/2026,UTA,Saint John's,7,11,0,0,W,Saint John's,Saint-Johns,UTA,1,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/22/2026,UTA,Saint John's,12,6,0,0,L,Saint John's,Saint-Johns,UTA,1,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/24/2026,Saint John's,Fairleigh Dickinson,5,12,0,0,L,Saint John's,Saint-Johns,Fairleigh-Dickinson,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/25/2026,Marist,Saint John's,10,15,0,0,W,Saint John's,Saint-Johns,Marist,1,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/27/2026,Saint John's,California Baptist,3,12,0,0,L,Saint John's,Saint-Johns,California-Baptist,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/28/2026,Saint John's,California Baptist,3,5,0,0,L,Saint John's,Saint-Johns,California-Baptist,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/29/2026,Saint John's,California Baptist,0,4,0,0,L,Saint John's,Saint-Johns,California-Baptist,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/31/2026,Saint John's,Wagner,11,2,0,0,W,Saint John's,Saint-Johns,Wagner,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+04/02/2026,Seton Hall,Saint John's,2,8,0,0,W,Saint John's,Saint-Johns,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/04/2026,Seton Hall,Saint John's,12,13,0,0,W,Saint John's,Saint-Johns,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/04/2026,Seton Hall,Saint John's,3,15,0,0,W,Saint John's,Saint-Johns,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/07/2026,Central Connecticut,Saint John's,1,9,0,0,W,Saint John's,Saint-Johns,Central-Connecticut,1,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/10/2026,Saint John's,Georgetown,12,6,0,0,W,Saint John's,Saint-Johns,Georgetown,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+04/11/2026,Saint John's,Georgetown,9,0,0,0,W,Saint John's,Saint-Johns,Georgetown,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+04/12/2026,Saint John's,Georgetown,7,10,0,0,L,Saint John's,Saint-Johns,Georgetown,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+04/14/2026,Saint John's,Hofstra,10,7,0,0,W,Saint John's,Saint-Johns,Hofstra,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+04/17/2026,Connecticut,Saint John's,0,4,0,0,W,Saint John's,Saint-Johns,Connecticut,1,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+04/18/2026,Connecticut,Saint John's,5,6,0,0,W,Saint John's,Saint-Johns,Connecticut,1,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+04/18/2026,Connecticut,Saint John's,10,0,0,0,L,Saint John's,Saint-Johns,Connecticut,1,7,"Storrs, CT / Elliot Ballpark",2026,WN2026
+04/21/2026,Rutgers,Saint John's,5,10,0,0,W,Saint John's,Saint-Johns,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/24/2026,Xavier,Saint John's,7,12,0,0,W,Saint John's,Saint-Johns,Xavier,1,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+04/25/2026,Xavier,Saint John's,6,8,0,0,W,Saint John's,Saint-Johns,Xavier,1,11,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+04/26/2026,Xavier,Saint John's,16,6,0,0,L,Saint John's,Saint-Johns,Xavier,1,7,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+04/28/2026,Hofstra,Saint John's,10,12,0,0,W,Saint John's,Saint-Johns,Hofstra,1,9,"Hempstead, NY / University Field",2026,WN2026
+05/01/2026,Saint John's,Creighton,10,3,0,0,W,Saint John's,Saint-Johns,Creighton,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+05/02/2026,Saint John's,Creighton,11,3,0,0,W,Saint John's,Saint-Johns,Creighton,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+05/03/2026,Saint John's,Creighton,5,6,0,0,L,Saint John's,Saint-Johns,Creighton,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+05/05/2026,Saint John's,Stony Brook,4,7,0,0,L,Saint John's,Saint-Johns,Stony-Brook,0,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+05/08/2026,Villanova,Saint John's,1,8,0,0,W,Saint John's,Saint-Johns,Villanova,1,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth / Box Score",2026,WN2026
+05/09/2026,Villanova,Saint John's,0,3,0,0,W,Saint John's,Saint-Johns,Villanova,1,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth / Box Score",2026,WN2026
+05/10/2026,Villanova,Saint John's,8,2,0,0,L,Saint John's,Saint-Johns,Villanova,1,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth / Box Score",2026,WN2026
+05/14/2026,Saint John's,Butler,3,7,0,0,L,Saint John's,Saint-Johns,Butler,0,9,"Queens, NY / Jack Kaiser Stadium / Box Score",2026,WN2026
+05/15/2026,Saint John's,Butler,7,2,0,0,W,Saint John's,Saint-Johns,Butler,0,9,"Queens, NY / Jack Kaiser Stadium / Box Score",2026,WN2026
+05/16/2026,Saint John's,Butler,4,1,0,0,W,Saint John's,Saint-Johns,Butler,0,9,"Queens, NY / Jack Kaiser Stadium / Box Score",2026,WN2026
+05/21/2026,Creighton,Saint John's,2,4,0,1,W,Saint John's,Saint-Johns,Creighton,0,9,"Mason, OH / Prasco Park / Box Score / Recap",2026,WN2026
+05/23/2026,Xavier,Saint John's,6,17,0,1,W,Saint John's,Saint-Johns,Xavier,0,9,"Mason, OH / Prasco Park",2026,WN2026
+05/24/2026,Creighton,Saint John's,3,5,0,1,W,Saint John's,Saint-Johns,Creighton,0,9,"Mason, OH / Prasco Park",2026,WN2026

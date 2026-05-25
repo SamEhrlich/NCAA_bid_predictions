@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Western Carolina,George Washington,7,5,0,0,L,George Washington,George-Washington,Western-Carolina,1,10,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+02/14/2026,Western Carolina,George Washington,13,4,0,0,L,George Washington,George-Washington,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+02/14/2026,Western Carolina,George Washington,5,4,0,0,L,George Washington,George-Washington,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+02/20/2026,George Washington,Lehigh,3,5,0,0,L,George Washington,George-Washington,Lehigh,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+02/21/2026,George Washington,Lehigh,7,3,0,0,W,George Washington,George-Washington,Lehigh,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+02/21/2026,George Washington,Lehigh,3,6,0,0,L,George Washington,George-Washington,Lehigh,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+02/25/2026,Virginia,George Washington,11,0,0,0,L,George Washington,George-Washington,Virginia,1,7,"Charlottesville, VA / Davenport Field",2026,WN2026
+02/27/2026,George Washington,Saint Peter's,17,0,0,0,W,George Washington,George-Washington,Saint-Peters,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+02/28/2026,George Washington,Saint Peter's,8,2,0,0,W,George Washington,George-Washington,Saint-Peters,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/01/2026,George Washington,Saint Peter's,9,6,0,0,W,George Washington,George-Washington,Saint-Peters,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/04/2026,George Washington,Georgetown,10,9,0,0,W,George Washington,George-Washington,Georgetown,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/06/2026,George Washington,Yale,3,18,0,0,L,George Washington,George-Washington,Yale,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/07/2026,George Washington,Yale,6,5,0,0,W,George Washington,George-Washington,Yale,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/08/2026,George Washington,Yale,11,15,0,0,L,George Washington,George-Washington,Yale,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/11/2026,George Washington,Towson,6,7,0,0,L,George Washington,George-Washington,Towson,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/13/2026,George Washington,Rhode Island,7,4,0,0,W,George Washington,George-Washington,Rhode-Island,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/14/2026,George Washington,Rhode Island,8,6,0,0,W,George Washington,George-Washington,Rhode-Island,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/15/2026,George Washington,Rhode Island,2,7,0,0,L,George Washington,George-Washington,Rhode-Island,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/18/2026,James Madison,George Washington,12,7,0,0,L,George Washington,George-Washington,James-Madison,1,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/20/2026,Saint Joseph's,George Washington,7,4,0,0,L,George Washington,George-Washington,Saint-Josephs,1,9,"Merion Station, PA / Smithson Field",2026,WN2026
+03/21/2026,Saint Joseph's,George Washington,6,5,0,0,L,George Washington,George-Washington,Saint-Josephs,1,9,"Merion Station, PA / Smithson Field",2026,WN2026
+03/22/2026,Saint Joseph's,George Washington,7,5,0,0,L,George Washington,George-Washington,Saint-Josephs,1,9,"Merion Station, PA / Smithson Field",2026,WN2026
+03/24/2026,George Washington,VMI,5,8,0,0,L,George Washington,George-Washington,VMI,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/28/2026,George Washington,La Salle,9,6,0,0,W,George Washington,George-Washington,La-Salle,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/28/2026,George Washington,La Salle,9,6,0,0,W,George Washington,George-Washington,La-Salle,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/29/2026,George Washington,La Salle,4,8,0,0,L,George Washington,George-Washington,La-Salle,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/31/2026,UMBC,George Washington,7,4,0,0,L,George Washington,George-Washington,UMBC,1,9,"Catonsville, MD / Alumni Field",2026,WN2026
+04/02/2026,Saint Bonaventure,George Washington,11,0,0,0,L,George Washington,George-Washington,Saint-Bonaventure,1,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/03/2026,Saint Bonaventure,George Washington,3,4,0,0,W,George Washington,George-Washington,Saint-Bonaventure,1,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/04/2026,Saint Bonaventure,George Washington,5,3,0,0,L,George Washington,George-Washington,Saint-Bonaventure,1,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/07/2026,VMI,George Washington,10,7,0,0,L,George Washington,George-Washington,VMI,1,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+04/10/2026,George Washington,Saint Louis,0,3,0,0,L,George Washington,George-Washington,Saint-Louis,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+04/11/2026,George Washington,Saint Louis,13,4,0,0,W,George Washington,George-Washington,Saint-Louis,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+04/12/2026,George Washington,Saint Louis,2,3,0,0,L,George Washington,George-Washington,Saint-Louis,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+04/14/2026,George Washington,Navy,4,1,0,0,W,George Washington,George-Washington,Navy,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+04/17/2026,VCU,George Washington,3,4,0,0,W,George Washington,George-Washington,VCU,1,9,"Richmond, VA / The Diamond",2026,WN2026
+04/18/2026,VCU,George Washington,7,8,0,0,W,George Washington,George-Washington,VCU,1,9,"Richmond, VA / The Diamond",2026,WN2026
+04/19/2026,VCU,George Washington,3,9,0,0,W,George Washington,George-Washington,VCU,1,9,"Richmond, VA / The Diamond",2026,WN2026
+04/22/2026,Georgetown,George Washington,7,9,0,0,W,George Washington,George-Washington,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/24/2026,George Washington,Davidson,5,10,0,0,L,George Washington,George-Washington,Davidson,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+04/25/2026,George Washington,Davidson,4,5,0,0,L,George Washington,George-Washington,Davidson,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+04/26/2026,George Washington,Davidson,5,8,0,0,L,George Washington,George-Washington,Davidson,0,9,"Arlington, VA / Barcroft Park",2026,WN2026
+04/28/2026,Towson,George Washington,12,0,0,0,L,George Washington,George-Washington,Towson,1,7,"Towson, MD / John B. Schuerholz Park",2026,WN2026
+05/01/2026,George Mason,George Washington,16,1,0,0,L,George Washington,George-Washington,George-Mason,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+05/02/2026,George Mason,George Washington,8,5,0,0,L,George Washington,George-Washington,George-Mason,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+05/03/2026,George Mason,George Washington,6,5,0,0,L,George Washington,George-Washington,George-Mason,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+05/05/2026,George Washington,James Madison,5,4,0,0,W,George Washington,George-Washington,James-Madison,0,10,"Arlington, VA / Barcroft Park",2026,WN2026
+05/08/2026,Richmond,George Washington,8,5,0,0,L,George Washington,George-Washington,Richmond,1,9,"Richmond, VA / Malcolm U. Pitt Field / Box Score",2026,WN2026
+05/09/2026,Richmond,George Washington,10,6,0,0,L,George Washington,George-Washington,Richmond,1,11,"Richmond, VA / Malcolm U. Pitt Field / Box Score",2026,WN2026
+05/10/2026,Richmond,George Washington,13,1,0,0,L,George Washington,George-Washington,Richmond,1,7,"Richmond, VA / Malcolm U. Pitt Field / Box Score",2026,WN2026
+05/14/2026,George Washington,Dayton,1,9,0,0,L,George Washington,George-Washington,Dayton,0,9,"Arlington, VA / Barcroft Park / Box Score",2026,WN2026
+05/15/2026,George Washington,Dayton,5,7,0,0,L,George Washington,George-Washington,Dayton,0,11,"Arlington, VA / Barcroft Park / Box Score",2026,WN2026
+05/16/2026,George Washington,Dayton,2,6,0,0,L,George Washington,George-Washington,Dayton,0,9,"Arlington, VA / Barcroft Park / Box Score",2026,WN2026

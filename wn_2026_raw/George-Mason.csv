@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Oregon,George Mason,6,2,0,0,L,George Mason,George-Mason,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+02/14/2026,Oregon,George Mason,14,5,0,0,L,George Mason,George-Mason,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+02/14/2026,Oregon,George Mason,14,4,0,0,L,George Mason,George-Mason,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+02/15/2026,Oregon,George Mason,11,1,0,0,L,George Mason,George-Mason,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+02/20/2026,Seton Hall,George Mason,8,6,0,1,L,George Mason,George-Mason,Seton-Hall,0,9,"Charleston, SC / Shipyard Park",2026,WN2026
+02/21/2026,Ball State,George Mason,1,6,0,1,W,George Mason,George-Mason,Ball-State,0,9,"Charleston, SC / Shipyard Park",2026,WN2026
+02/22/2026,Seton Hall,George Mason,4,11,0,1,W,George Mason,George-Mason,Seton-Hall,0,9,"Charleston, SC / Shipyard Park",2026,WN2026
+02/27/2026,Lehigh,George Mason,4,7,0,0,W,George Mason,George-Mason,Lehigh,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/01/2026,George Mason,Lehigh,3,0,0,0,W,George Mason,George-Mason,Lehigh,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/03/2026,James Madison,George Mason,2,11,0,0,W,George Mason,George-Mason,James-Madison,1,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/06/2026,George Mason,Georgetown,5,6,0,0,L,George Mason,George-Mason,Georgetown,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/07/2026,Georgetown,George Mason,7,12,0,0,W,George Mason,George-Mason,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/08/2026,George Mason,Georgetown,4,5,0,0,L,George Mason,George-Mason,Georgetown,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/10/2026,Longwood,George Mason,11,1,0,0,L,George Mason,George-Mason,Longwood,1,8,"Farmville, VA / Bolding Stadium",2026,WN2026
+03/13/2026,George Mason,Saint Bonaventure,4,3,0,0,W,George Mason,George-Mason,Saint-Bonaventure,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/14/2026,George Mason,Saint Bonaventure,15,11,0,0,W,George Mason,George-Mason,Saint-Bonaventure,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/15/2026,George Mason,Saint Bonaventure,3,0,0,0,W,George Mason,George-Mason,Saint-Bonaventure,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/18/2026,George Mason,Mount Saint Mary's,8,9,0,0,L,George Mason,George-Mason,Mount-Saint-Marys,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/20/2026,Rhode Island,George Mason,10,5,0,0,L,George Mason,George-Mason,Rhode-Island,1,9,"Kingston, RI / Bill Beck Field",2026,WN2026
+03/21/2026,Rhode Island,George Mason,1,3,0,0,W,George Mason,George-Mason,Rhode-Island,1,9,"Kingston, RI / Bill Beck Field",2026,WN2026
+03/22/2026,Rhode Island,George Mason,10,9,0,0,L,George Mason,George-Mason,Rhode-Island,1,9,"Kingston, RI / Bill Beck Field",2026,WN2026
+03/24/2026,George Mason,Longwood,14,4,0,0,W,George Mason,George-Mason,Longwood,0,7,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/27/2026,Saint Louis,George Mason,3,5,0,0,W,George Mason,George-Mason,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/28/2026,Saint Louis,George Mason,3,5,0,0,W,George Mason,George-Mason,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/29/2026,Saint Louis,George Mason,1,3,0,0,W,George Mason,George-Mason,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/31/2026,George Mason,South Carolina Upstate,10,14,0,0,L,George Mason,George-Mason,South-Carolina-Upstate,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+04/03/2026,George Mason,Davidson,3,2,0,0,W,George Mason,George-Mason,Davidson,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+04/04/2026,George Mason,Davidson,0,4,0,0,L,George Mason,George-Mason,Davidson,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+04/04/2026,George Mason,Davidson,4,7,0,0,L,George Mason,George-Mason,Davidson,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+04/08/2026,George Mason,Towson,4,5,0,0,L,George Mason,George-Mason,Towson,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+04/10/2026,George Mason,Richmond,2,4,0,0,L,George Mason,George-Mason,Richmond,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+04/11/2026,George Mason,Richmond,3,11,0,0,L,George Mason,George-Mason,Richmond,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+04/12/2026,George Mason,Richmond,7,5,0,0,W,George Mason,George-Mason,Richmond,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+04/14/2026,Mount Saint Mary's,George Mason,3,15,0,0,W,George Mason,George-Mason,Mount-Saint-Marys,1,7,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+04/17/2026,Saint Joseph's,George Mason,6,9,0,0,W,George Mason,George-Mason,Saint-Josephs,1,10,"Merion Station, PA / Smithson Field",2026,WN2026
+04/18/2026,Saint Joseph's,George Mason,17,9,0,0,L,George Mason,George-Mason,Saint-Josephs,1,9,"Merion Station, PA / Smithson Field",2026,WN2026
+04/18/2026,Saint Joseph's,George Mason,15,6,0,0,L,George Mason,George-Mason,Saint-Josephs,1,9,"Merion Station, PA / Smithson Field",2026,WN2026
+04/21/2026,George Mason,James Madison,7,4,0,0,W,George Mason,George-Mason,James-Madison,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+04/24/2026,Fordham,George Mason,11,4,0,0,L,George Mason,George-Mason,Fordham,1,9,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+04/26/2026,Fordham,George Mason,2,1,0,0,L,George Mason,George-Mason,Fordham,1,7,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+04/26/2026,Fordham,George Mason,5,4,0,0,L,George Mason,George-Mason,Fordham,1,12,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+04/28/2026,Virginia,George Mason,5,1,0,0,L,George Mason,George-Mason,Virginia,1,9,"Charlottesville, VA / Davenport Field",2026,WN2026
+05/01/2026,George Mason,George Washington,16,1,0,0,W,George Mason,George-Mason,George-Washington,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+05/02/2026,George Mason,George Washington,8,5,0,0,W,George Mason,George-Mason,George-Washington,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+05/03/2026,George Mason,George Washington,6,5,0,0,W,George Mason,George-Mason,George-Washington,0,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+05/05/2026,William & Mary,George Mason,14,15,0,0,W,George Mason,George-Mason,William-Mary,1,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+05/08/2026,Dayton,George Mason,11,6,0,0,L,George Mason,George-Mason,Dayton,1,9,"Dayton, OH / Woerner Field / Box Score",2026,WN2026
+05/09/2026,Dayton,George Mason,4,6,0,0,W,George Mason,George-Mason,Dayton,1,10,"Dayton, OH / Woerner Field / Box Score",2026,WN2026
+05/10/2026,Dayton,George Mason,5,9,0,0,W,George Mason,George-Mason,Dayton,1,9,"Dayton, OH / Woerner Field / Box Score",2026,WN2026
+05/14/2026,George Mason,La Salle,17,5,0,0,W,George Mason,George-Mason,La-Salle,0,9,"Fairfax, VA / Spuhler Field / Box Score",2026,WN2026
+05/15/2026,George Mason,La Salle,10,4,0,0,W,George Mason,George-Mason,La-Salle,0,9,"Fairfax, VA / Spuhler Field / Box Score",2026,WN2026
+05/16/2026,George Mason,La Salle,8,7,0,0,W,George Mason,George-Mason,La-Salle,0,9,"Fairfax, VA / Spuhler Field / Box Score",2026,WN2026
+05/20/2026,Rhode Island,George Mason,19,8,0,1,L,George Mason,George-Mason,Rhode-Island,0,9,"Tysons, VA / Capital One Park / Box Score / Recap",2026,WN2026
+05/21/2026,Davidson,George Mason,1,9,0,1,W,George Mason,George-Mason,Davidson,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+05/22/2026,Richmond,George Mason,6,11,0,1,W,George Mason,George-Mason,Richmond,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+05/22/2026,Saint Joseph's,George Mason,14,4,0,1,L,George Mason,George-Mason,Saint-Josephs,0,9,"Tysons, VA / Capital One Park",2026,WN2026

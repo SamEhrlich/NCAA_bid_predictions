@@ -1,0 +1,51 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UCF,Siena,16,0,0,0,L,Siena,Siena,UCF,1,7,"Orlando, FL / John Euliano Park",2026,WN2026
+02/14/2026,UCF,Siena,13,1,0,0,L,Siena,Siena,UCF,1,7,"Orlando, FL / John Euliano Park",2026,WN2026
+02/15/2026,UCF,Siena,15,0,0,0,L,Siena,Siena,UCF,1,7,"Orlando, FL / John Euliano Park",2026,WN2026
+02/20/2026,Wake Forest,Siena,11,7,0,0,L,Siena,Siena,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+02/21/2026,Wake Forest,Siena,8,1,0,0,L,Siena,Siena,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+02/22/2026,Wake Forest,Siena,15,1,0,0,L,Siena,Siena,Wake-Forest,1,7,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+02/27/2026,UMass,Siena,6,2,0,1,L,Siena,Siena,UMass,0,9,"Aberdeen, MD / Ripken Stadium",2026,WN2026
+02/28/2026,UMass,Siena,7,9,0,1,W,Siena,Siena,UMass,0,9,"Aberdeen, MD / Ripken Stadium",2026,WN2026
+03/01/2026,UMass,Siena,7,9,0,1,W,Siena,Siena,UMass,0,9,"Aberdeen, MD / Ripken Stadium",2026,WN2026
+03/03/2026,Maryland Eastern Shore,Siena,11,20,0,0,W,Siena,Siena,Maryland-Eastern-Shore,1,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/06/2026,Siena,Fairfield,6,5,0,0,W,Siena,Siena,Fairfield,0,11,"Troy, NY / RPI - Robison Field",2026,WN2026
+03/07/2026,Siena,Fairfield,7,6,0,0,W,Siena,Siena,Fairfield,0,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+03/07/2026,Siena,Fairfield,3,12,0,0,L,Siena,Siena,Fairfield,0,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+03/10/2026,Stony Brook,Siena,8,14,0,0,W,Siena,Siena,Stony-Brook,1,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+03/13/2026,Rider,Siena,4,3,0,0,L,Siena,Siena,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+03/14/2026,Rider,Siena,10,1,0,0,L,Siena,Siena,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+03/15/2026,Rider,Siena,12,7,0,0,L,Siena,Siena,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+03/20/2026,Siena,Niagara,2,3,0,0,L,Siena,Siena,Niagara,0,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+03/21/2026,Siena,Niagara,10,9,0,0,W,Siena,Siena,Niagara,0,10,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+03/21/2026,Siena,Niagara,6,9,0,0,L,Siena,Siena,Niagara,0,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+03/24/2026,Stony Brook,Siena,12,11,0,0,L,Siena,Siena,Stony-Brook,1,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+03/27/2026,Marist,Siena,11,0,0,0,L,Siena,Siena,Marist,1,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/28/2026,Marist,Siena,6,5,0,0,L,Siena,Siena,Marist,1,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/29/2026,Marist,Siena,13,6,0,0,L,Siena,Siena,Marist,1,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+04/03/2026,Siena,Mount Saint Mary's,7,1,0,0,W,Siena,Siena,Mount-Saint-Marys,0,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+04/03/2026,Siena,Mount Saint Mary's,3,2,0,0,W,Siena,Siena,Mount-Saint-Marys,0,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+04/04/2026,Siena,Mount Saint Mary's,2,3,0,0,L,Siena,Siena,Mount-Saint-Marys,0,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+04/08/2026,Binghamton,Siena,11,1,0,0,L,Siena,Siena,Binghamton,1,7,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/10/2026,Manhattan,Siena,3,5,0,0,W,Siena,Siena,Manhattan,1,9,"Pomona, NY / Clover Stadium",2026,WN2026
+04/11/2026,Manhattan,Siena,8,5,0,0,L,Siena,Siena,Manhattan,1,9,"Pomona, NY / Clover Stadium",2026,WN2026
+04/12/2026,Manhattan,Siena,16,2,0,0,L,Siena,Siena,Manhattan,1,7,"Pomona, NY / Clover Stadium",2026,WN2026
+04/15/2026,Dartmouth,Siena,5,3,0,0,L,Siena,Siena,Dartmouth,1,9,"Hanover, NH / Red Rolfe Field at Biondi Park",2026,WN2026
+04/17/2026,Siena,Albany,10,13,0,0,L,Siena,Siena,Albany,0,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+04/18/2026,Albany,Siena,9,10,0,0,W,Siena,Siena,Albany,1,7,"Albany, NY / Varsity Field",2026,WN2026
+04/18/2026,Albany,Siena,4,10,0,0,W,Siena,Siena,Albany,1,9,"Albany, NY / Varsity Field",2026,WN2026
+04/21/2026,Siena,Albany,10,0,0,0,W,Siena,Siena,Albany,0,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+04/24/2026,Sacred Heart,Siena,11,4,0,0,L,Siena,Siena,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/25/2026,Sacred Heart,Siena,11,20,0,0,W,Siena,Siena,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/26/2026,Sacred Heart,Siena,2,10,0,0,W,Siena,Siena,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/28/2026,Siena,UMass,7,4,0,0,W,Siena,Siena,UMass,0,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+04/29/2026,Princeton,Siena,5,1,0,0,L,Siena,Siena,Princeton,1,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+05/01/2026,Siena,Saint Peter's,10,14,0,0,L,Siena,Siena,Saint-Peters,0,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+05/02/2026,Siena,Saint Peter's,6,3,0,0,W,Siena,Siena,Saint-Peters,0,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+05/03/2026,Siena,Saint Peter's,5,2,0,0,W,Siena,Siena,Saint-Peters,0,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+05/08/2026,Siena,Iona,12,11,0,0,W,Siena,Siena,Iona,0,9,"Loudonville, NY / Siena Baseball Field / Box Score",2026,WN2026
+05/08/2026,Siena,Iona,1,9,0,0,L,Siena,Siena,Iona,0,9,"Loudonville, NY / Siena Baseball Field / Box Score",2026,WN2026
+05/10/2026,Siena,Iona,8,1,0,0,W,Siena,Siena,Iona,0,9,"Loudonville, NY / Siena Baseball Field / Box Score",2026,WN2026
+05/13/2026,Canisius,Siena,15,2,0,0,L,Siena,Siena,Canisius,1,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+05/14/2026,Canisius,Siena,13,6,0,0,L,Siena,Siena,Canisius,1,9,"Buffalo, NY / Demske Sports Complex / Box Score",2026,WN2026
+05/15/2026,Canisius,Siena,10,0,0,0,L,Siena,Siena,Canisius,1,7,"Buffalo, NY / Demske Sports Complex / Box Score",2026,WN2026

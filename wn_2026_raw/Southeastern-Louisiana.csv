@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Southeastern Louisiana,Kent State,3,8,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,Kent-State,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+02/14/2026,Southeastern Louisiana,Kent State,2,11,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,Kent-State,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+02/15/2026,Southeastern Louisiana,Kent State,7,14,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,Kent-State,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+02/17/2026,Southeastern Louisiana,Southern Miss,1,3,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,Southern-Miss,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+02/20/2026,Southeastern Louisiana,SIUE,2,4,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,SIUE,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+02/21/2026,Southeastern Louisiana,SIUE,7,2,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,SIUE,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+02/22/2026,Southeastern Louisiana,SIUE,6,5,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,SIUE,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+02/24/2026,Southeastern Louisiana,South Alabama,7,9,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,South-Alabama,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+02/27/2026,Northwestern State,Southeastern Louisiana,5,7,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+02/28/2026,Northwestern State,Southeastern Louisiana,1,5,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+03/01/2026,Northwestern State,Southeastern Louisiana,5,4,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+03/03/2026,ULM,Southeastern Louisiana,5,15,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/04/2026,ULM,Southeastern Louisiana,6,16,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/06/2026,Southeastern Louisiana,Grambling State,13,3,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Grambling-State,0,7,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/07/2026,Southeastern Louisiana,Grambling State,12,9,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Grambling-State,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/08/2026,Southeastern Louisiana,Grambling State,10,9,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Grambling-State,0,8,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/11/2026,South Alabama,Southeastern Louisiana,10,3,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+03/13/2026,Southeastern Louisiana,Stephen F. Austin,8,1,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Stephen-F-Austin,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/14/2026,Southeastern Louisiana,Stephen F. Austin,8,7,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Stephen-F-Austin,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/15/2026,Southeastern Louisiana,Stephen F. Austin,2,3,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,Stephen-F-Austin,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/17/2026,Southeastern Louisiana,Oklahoma,3,0,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Oklahoma,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/20/2026,McNeese,Southeastern Louisiana,8,2,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,McNeese,1,9,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+03/21/2026,McNeese,Southeastern Louisiana,8,7,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,McNeese,1,11,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+03/22/2026,McNeese,Southeastern Louisiana,8,13,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,McNeese,1,9,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+03/24/2026,Louisiana,Southeastern Louisiana,9,3,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+03/27/2026,Southeastern Louisiana,New Orleans,13,11,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,New-Orleans,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/28/2026,Southeastern Louisiana,New Orleans,11,1,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,New-Orleans,0,7,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/29/2026,Southeastern Louisiana,New Orleans,7,5,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,New-Orleans,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/31/2026,Southern Miss,Southeastern Louisiana,1,5,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+04/02/2026,Incarnate Word,Southeastern Louisiana,3,9,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Incarnate-Word,1,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+04/03/2026,Incarnate Word,Southeastern Louisiana,13,2,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,Incarnate-Word,1,7,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+04/03/2026,Incarnate Word,Southeastern Louisiana,11,13,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Incarnate-Word,1,11,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+04/08/2026,Southeastern Louisiana,Louisiana,7,6,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Louisiana,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+04/10/2026,Southeastern Louisiana,Texas A&M-Corpus Christi,5,7,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,Texas-AM-Corpus-Christi,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+04/11/2026,Southeastern Louisiana,Texas A&M-Corpus Christi,10,5,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Texas-AM-Corpus-Christi,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+04/12/2026,Southeastern Louisiana,Texas A&M-Corpus Christi,5,4,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Texas-AM-Corpus-Christi,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+04/14/2026,Tulane,Southeastern Louisiana,8,4,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+04/17/2026,UTRGV,Southeastern Louisiana,8,6,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,UTRGV,1,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+04/18/2026,UTRGV,Southeastern Louisiana,6,11,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,UTRGV,1,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+04/18/2026,UTRGV,Southeastern Louisiana,10,1,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,UTRGV,1,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+04/22/2026,Southeastern Louisiana,Alcorn State,11,1,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Alcorn-State,0,7,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+04/24/2026,Southeastern Louisiana,Houston Christian,12,2,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Houston-Christian,0,7,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+04/25/2026,Southeastern Louisiana,Houston Christian,12,1,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Houston-Christian,0,7,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+04/26/2026,Southeastern Louisiana,Houston Christian,4,1,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Houston-Christian,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+04/28/2026,LSU,Southeastern Louisiana,12,4,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+05/02/2026,Lamar,Southeastern Louisiana,2,6,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Lamar,1,9,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+05/02/2026,Lamar,Southeastern Louisiana,0,10,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Lamar,1,7,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+05/03/2026,Lamar,Southeastern Louisiana,8,2,0,0,L,Southeastern Louisiana,Southeastern-Louisiana,Lamar,1,9,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+05/07/2026,Southeastern Louisiana,Nicholls,12,2,0,0,W,Southeastern Louisiana,Southeastern-Louisiana,Nicholls,0,8,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+05/14/2026,Houston Christian,Southeastern Louisiana,2,3,0,1,W,Southeastern Louisiana,Southeastern-Louisiana,Houston-Christian,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field / Box Score",2026,WN2026
+05/15/2026,McNeese,Southeastern Louisiana,15,9,0,1,L,Southeastern Louisiana,Southeastern-Louisiana,McNeese,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field / Box Score",2026,WN2026
+05/16/2026,Houston Christian,Southeastern Louisiana,4,8,0,1,W,Southeastern Louisiana,Southeastern-Louisiana,Houston-Christian,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field / Box Score",2026,WN2026
+05/16/2026,McNeese,Southeastern Louisiana,12,13,0,1,W,Southeastern Louisiana,Southeastern-Louisiana,McNeese,0,11,"Hammond, LA / Pat Kenelly Diamond at Alumni Field / Box Score",2026,WN2026
+05/17/2026,McNeese,Southeastern Louisiana,8,5,0,1,L,Southeastern Louisiana,Southeastern-Louisiana,McNeese,0,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field / Box Score",2026,WN2026

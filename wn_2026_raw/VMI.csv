@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,VMI,Delaware State,10,0,0,0,W,VMI,VMI,Delaware-State,0,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/13/2026,VMI,Delaware State,24,4,0,0,W,VMI,VMI,Delaware-State,0,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/14/2026,VMI,Delaware State,24,4,0,0,W,VMI,VMI,Delaware-State,0,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/14/2026,VMI,Delaware State,9,4,0,0,W,VMI,VMI,Delaware-State,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/17/2026,Virginia,VMI,5,2,0,0,L,VMI,VMI,Virginia,1,9,"Charlottesville, VA / Davenport Field",2026,WN2026
+02/20/2026,VMI,Maryland Eastern Shore,13,3,0,0,W,VMI,VMI,Maryland-Eastern-Shore,0,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/21/2026,VMI,Maryland Eastern Shore,7,3,0,0,W,VMI,VMI,Maryland-Eastern-Shore,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/21/2026,VMI,Maryland Eastern Shore,14,4,0,0,W,VMI,VMI,Maryland-Eastern-Shore,0,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/27/2026,VMI,Stonehill,8,2,0,0,W,VMI,VMI,Stonehill,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/28/2026,VMI,Stonehill,3,0,0,0,W,VMI,VMI,Stonehill,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/28/2026,VMI,Stonehill,5,16,0,0,L,VMI,VMI,Stonehill,0,8,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/01/2026,VMI,Stonehill,7,0,0,0,W,VMI,VMI,Stonehill,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/06/2026,VMI,Western Illinois,8,7,0,0,W,VMI,VMI,Western-Illinois,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/06/2026,VMI,Western Illinois,10,7,0,0,W,VMI,VMI,Western-Illinois,0,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/07/2026,VMI,Western Illinois,16,6,0,0,W,VMI,VMI,Western-Illinois,0,8,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/08/2026,VMI,Western Illinois,9,8,0,0,W,VMI,VMI,Western-Illinois,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/11/2026,Norfolk State,VMI,10,15,0,0,W,VMI,VMI,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+03/14/2026,VMI,Cornell,4,7,0,0,L,VMI,VMI,Cornell,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/14/2026,VMI,Cornell,8,0,0,0,W,VMI,VMI,Cornell,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/15/2026,VMI,Cornell,7,4,0,0,W,VMI,VMI,Cornell,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/20/2026,Radford,VMI,9,4,0,0,L,VMI,VMI,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+03/21/2026,VMI,Radford,11,6,0,0,W,VMI,VMI,Radford,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/22/2026,Radford,VMI,1,9,0,0,W,VMI,VMI,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+03/24/2026,George Washington,VMI,5,8,0,0,W,VMI,VMI,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/27/2026,East Tennessee State,VMI,6,5,0,0,L,VMI,VMI,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/28/2026,East Tennessee State,VMI,4,3,0,0,L,VMI,VMI,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/29/2026,East Tennessee State,VMI,4,5,0,0,W,VMI,VMI,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/31/2026,William & Mary,VMI,3,10,0,0,W,VMI,VMI,William-Mary,1,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+04/02/2026,VMI,Wofford,5,16,0,0,L,VMI,VMI,Wofford,0,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+04/03/2026,VMI,Wofford,2,9,0,0,L,VMI,VMI,Wofford,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+04/04/2026,VMI,Wofford,13,12,0,0,W,VMI,VMI,Wofford,0,10,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+04/07/2026,VMI,George Washington,10,7,0,0,W,VMI,VMI,George-Washington,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+04/10/2026,Samford,VMI,10,4,0,0,L,VMI,VMI,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/11/2026,Samford,VMI,8,3,0,0,L,VMI,VMI,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/12/2026,Samford,VMI,5,3,0,0,L,VMI,VMI,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/14/2026,Norfolk State,VMI,4,8,0,0,W,VMI,VMI,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+04/17/2026,VMI,Western Carolina,10,8,0,0,W,VMI,VMI,Western-Carolina,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+04/18/2026,VMI,Western Carolina,5,18,0,0,L,VMI,VMI,Western-Carolina,0,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+04/19/2026,VMI,Western Carolina,3,4,0,0,L,VMI,VMI,Western-Carolina,0,10,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+04/21/2026,Longwood,VMI,10,4,0,0,L,VMI,VMI,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+04/24/2026,High Point,VMI,7,5,0,0,L,VMI,VMI,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+04/26/2026,High Point,VMI,12,6,0,0,L,VMI,VMI,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+04/26/2026,High Point,VMI,5,2,0,0,L,VMI,VMI,High-Point,1,7,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+04/28/2026,VMI,Longwood,3,0,0,0,W,VMI,VMI,Longwood,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+05/01/2026,UNCG,VMI,7,6,0,0,L,VMI,VMI,UNCG,1,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+05/02/2026,UNCG,VMI,9,6,0,0,L,VMI,VMI,UNCG,1,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+05/03/2026,UNCG,VMI,7,4,0,0,L,VMI,VMI,UNCG,1,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+05/08/2026,Mercer,VMI,13,2,0,0,L,VMI,VMI,Mercer,1,7,"Macon, GA / Claude Smith Field / Box Score",2026,WN2026
+05/09/2026,Mercer,VMI,5,2,0,0,L,VMI,VMI,Mercer,1,9,"Macon, GA / Claude Smith Field / Box Score",2026,WN2026
+05/10/2026,Mercer,VMI,11,1,0,0,L,VMI,VMI,Mercer,1,8,"Macon, GA / Claude Smith Field / Box Score",2026,WN2026
+05/12/2026,VMI,Norfolk State,15,5,0,0,W,VMI,VMI,Norfolk-State,0,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+05/14/2026,VMI,The Citadel,2,9,0,0,L,VMI,VMI,The-Citadel,0,9,"Lexington, VA / Gray-Minor Stadium / Box Score",2026,WN2026
+05/15/2026,VMI,The Citadel,4,7,0,0,L,VMI,VMI,The-Citadel,0,10,"Lexington, VA / Gray-Minor Stadium / Box Score",2026,WN2026
+05/16/2026,VMI,The Citadel,7,12,0,0,L,VMI,VMI,The-Citadel,0,9,"Lexington, VA / Gray-Minor Stadium / Box Score",2026,WN2026
+05/20/2026,The Citadel,VMI,21,11,0,1,L,VMI,VMI,The-Citadel,0,8,"Greenville, SC / Fluor Field / Box Score / Recap",2026,WN2026

@@ -1,0 +1,46 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,FGCU,North Dakota State,2,1,0,0,L,North Dakota State,North-Dakota-State,FGCU,1,10,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/14/2026,FGCU,North Dakota State,19,18,0,0,L,North Dakota State,North-Dakota-State,FGCU,1,11,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/15/2026,FGCU,North Dakota State,10,6,0,0,L,North Dakota State,North-Dakota-State,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/17/2026,South Florida,North Dakota State,9,5,0,0,L,North Dakota State,North-Dakota-State,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/18/2026,South Florida,North Dakota State,3,1,0,0,L,North Dakota State,North-Dakota-State,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/20/2026,Stetson,North Dakota State,8,4,0,0,L,North Dakota State,North-Dakota-State,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/21/2026,Monmouth,North Dakota State,1,5,0,1,W,North Dakota State,North-Dakota-State,Monmouth,0,9,"Deland, FL / Melching Field at Conrad Park",2026,WN2026
+02/22/2026,Virginia,North Dakota State,5,4,0,1,L,North Dakota State,North-Dakota-State,Virginia,0,9,"Deland, FL / Melching Field at Conrad Park",2026,WN2026
+02/27/2026,Missouri,North Dakota State,11,5,0,0,L,North Dakota State,North-Dakota-State,Missouri,1,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+02/28/2026,Missouri,North Dakota State,5,3,0,0,L,North Dakota State,North-Dakota-State,Missouri,1,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+02/28/2026,Missouri,North Dakota State,7,5,0,0,L,North Dakota State,North-Dakota-State,Missouri,1,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/03/2026,Southern Illinois,North Dakota State,9,4,0,0,L,North Dakota State,North-Dakota-State,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/06/2026,Vanderbilt,North Dakota State,14,2,0,0,L,North Dakota State,North-Dakota-State,Vanderbilt,1,7,"Nashville, TN / Hawkins Field",2026,WN2026
+03/07/2026,Vanderbilt,North Dakota State,10,0,0,0,L,North Dakota State,North-Dakota-State,Vanderbilt,1,8,"Nashville, TN / Hawkins Field",2026,WN2026
+03/08/2026,Vanderbilt,North Dakota State,2,5,0,0,W,North Dakota State,North-Dakota-State,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/11/2026,Nebraska,North Dakota State,11,1,0,0,L,North Dakota State,North-Dakota-State,Nebraska,1,7,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/13/2026,Omaha,North Dakota State,4,2,0,0,L,North Dakota State,North-Dakota-State,Omaha,1,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+03/14/2026,Omaha,North Dakota State,6,2,0,0,L,North Dakota State,North-Dakota-State,Omaha,1,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+03/14/2026,Omaha,North Dakota State,2,0,0,0,L,North Dakota State,North-Dakota-State,Omaha,1,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+03/17/2026,Minnesota,North Dakota State,4,7,0,0,W,North Dakota State,North-Dakota-State,Minnesota,1,11,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/20/2026,South Dakota State,North Dakota State,1,6,0,0,W,North Dakota State,North-Dakota-State,South-Dakota-State,1,9,"Brookings, SD / Erv Huether Field",2026,WN2026
+03/21/2026,South Dakota State,North Dakota State,13,5,0,0,L,North Dakota State,North-Dakota-State,South-Dakota-State,1,9,"Brookings, SD / Erv Huether Field",2026,WN2026
+03/21/2026,South Dakota State,North Dakota State,11,1,0,0,L,North Dakota State,North-Dakota-State,South-Dakota-State,1,8,"Brookings, SD / Erv Huether Field",2026,WN2026
+04/08/2026,Creighton,North Dakota State,16,4,0,0,L,North Dakota State,North-Dakota-State,Creighton,1,7,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/10/2026,Northern Colorado,North Dakota State,3,4,0,0,W,North Dakota State,North-Dakota-State,Northern-Colorado,1,9,"Greeley, CO / Jackson Field",2026,WN2026
+04/11/2026,Northern Colorado,North Dakota State,11,10,0,0,L,North Dakota State,North-Dakota-State,Northern-Colorado,1,10,"Greeley, CO / Jackson Field",2026,WN2026
+04/12/2026,Northern Colorado,North Dakota State,10,5,0,0,L,North Dakota State,North-Dakota-State,Northern-Colorado,1,9,"Greeley, CO / Jackson Field",2026,WN2026
+04/19/2026,North Dakota State,Omaha,5,6,0,0,L,North Dakota State,North-Dakota-State,Omaha,0,9,"Fargo, ND / Newman Outdoor Field",2026,WN2026
+04/19/2026,North Dakota State,Omaha,6,1,0,0,W,North Dakota State,North-Dakota-State,Omaha,0,9,"Fargo, ND / Newman Outdoor Field",2026,WN2026
+04/21/2026,Minnesota,North Dakota State,12,3,0,0,L,North Dakota State,North-Dakota-State,Minnesota,1,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/24/2026,Oral Roberts,North Dakota State,2,3,0,0,W,North Dakota State,North-Dakota-State,Oral-Roberts,1,9,"Tulsa, OK / Chapman Park",2026,WN2026
+04/24/2026,Oral Roberts,North Dakota State,14,3,0,0,L,North Dakota State,North-Dakota-State,Oral-Roberts,1,7,"Tulsa, OK / Chapman Park",2026,WN2026
+04/25/2026,Oral Roberts,North Dakota State,3,2,0,0,L,North Dakota State,North-Dakota-State,Oral-Roberts,1,9,"Tulsa, OK / Chapman Park",2026,WN2026
+04/26/2026,Oral Roberts,North Dakota State,3,11,0,0,W,North Dakota State,North-Dakota-State,Oral-Roberts,1,9,"Tulsa, OK / Chapman Park",2026,WN2026
+04/28/2026,Creighton,North Dakota State,6,13,0,0,W,North Dakota State,North-Dakota-State,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+05/01/2026,North Dakota State,South Dakota State,8,1,0,0,W,North Dakota State,North-Dakota-State,South-Dakota-State,0,9,"Fargo, ND / Newman Outdoor Field",2026,WN2026
+05/02/2026,North Dakota State,South Dakota State,4,5,0,0,L,North Dakota State,North-Dakota-State,South-Dakota-State,0,9,"Fargo, ND / Newman Outdoor Field",2026,WN2026
+05/03/2026,North Dakota State,South Dakota State,10,16,0,0,L,North Dakota State,North-Dakota-State,South-Dakota-State,0,9,"Fargo, ND / Newman Outdoor Field",2026,WN2026
+05/08/2026,North Dakota State,Northern Colorado,4,10,0,0,L,North Dakota State,North-Dakota-State,Northern-Colorado,0,9,"Fargo, ND / Newman Outdoor Field / Box Score",2026,WN2026
+05/09/2026,North Dakota State,Northern Colorado,12,9,0,0,W,North Dakota State,North-Dakota-State,Northern-Colorado,0,9,"Fargo, ND / Newman Outdoor Field / Box Score",2026,WN2026
+05/10/2026,North Dakota State,Northern Colorado,7,9,0,0,L,North Dakota State,North-Dakota-State,Northern-Colorado,0,9,"Fargo, ND / Newman Outdoor Field / Box Score",2026,WN2026
+05/14/2026,North Dakota State,Saint Thomas,5,1,0,0,W,North Dakota State,North-Dakota-State,Saint-Thomas,0,9,"St. Paul, MN / Koch Diamond / Box Score",2026,WN2026
+05/14/2026,Saint Thomas,North Dakota State,16,6,0,0,L,North Dakota State,North-Dakota-State,Saint-Thomas,1,7,"St. Paul, MN / Koch Diamond / Box Score",2026,WN2026
+05/15/2026,Saint Thomas,North Dakota State,3,2,0,0,L,North Dakota State,North-Dakota-State,Saint-Thomas,1,9,"St. Paul, MN / Koch Diamond / Box Score",2026,WN2026
+05/16/2026,Saint Thomas,North Dakota State,6,10,0,0,W,North Dakota State,North-Dakota-State,Saint-Thomas,1,9,"St. Paul, MN / Koch Diamond / Box Score",2026,WN2026

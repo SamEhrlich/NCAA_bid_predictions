@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,California,Santa Clara,2,13,0,0,L,California,California,Santa-Clara,0,8,"Berkeley, CA / Evans Diamond",2026,WN2026
+02/14/2026,California,Santa Clara,5,4,0,0,W,California,California,Santa-Clara,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+02/14/2026,California,Santa Clara,4,3,0,0,W,California,California,Santa-Clara,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+02/16/2026,Santa Clara,California,10,4,0,0,L,California,California,Santa-Clara,1,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+02/20/2026,UC Irvine,California,5,3,0,0,L,California,California,UC-Irvine,1,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+02/21/2026,UC Irvine,California,2,11,0,0,W,California,California,UC-Irvine,1,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+02/22/2026,UC Irvine,California,2,4,0,0,W,California,California,UC-Irvine,1,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+02/25/2026,UC Davis,California,2,7,0,0,W,California,California,UC-Davis,1,9,"Davis, CA / Dobbins Stadium",2026,WN2026
+02/27/2026,California,Sacramento State,5,4,0,0,W,California,California,Sacramento-State,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+02/28/2026,Sacramento State,California,2,8,0,0,W,California,California,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+03/01/2026,California,Sacramento State,3,2,0,0,W,California,California,Sacramento-State,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/04/2026,California,Cal State Bakersfield,15,6,0,0,W,California,California,Cal-State-Bakersfield,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/06/2026,California,San Diego,11,1,0,0,W,California,California,San-Diego,0,8,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/07/2026,California,San Diego,15,9,0,0,W,California,California,San-Diego,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/07/2026,California,San Diego,9,1,0,0,W,California,California,San-Diego,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/08/2026,California,San Diego,5,2,0,0,W,California,California,San-Diego,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/10/2026,San Jose State,California,3,2,0,0,L,California,California,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/13/2026,California,North Carolina,1,8,0,0,L,California,California,North-Carolina,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/14/2026,California,North Carolina,2,6,0,0,L,California,California,North-Carolina,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/15/2026,California,North Carolina,2,10,0,0,L,California,California,North-Carolina,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/17/2026,California,Connecticut,3,9,0,0,L,California,California,Connecticut,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/20/2026,Boston College,California,4,3,0,0,L,California,California,Boston-College,1,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+03/21/2026,Boston College,California,9,6,0,0,L,California,California,Boston-College,1,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+03/22/2026,Boston College,California,3,2,0,0,L,California,California,Boston-College,1,11,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+03/28/2026,Wake Forest,California,9,5,0,0,L,California,California,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+03/28/2026,Wake Forest,California,4,1,0,0,L,California,California,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+03/29/2026,Wake Forest,California,3,5,0,0,W,California,California,Wake-Forest,1,9,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+04/02/2026,California,Georgia Tech,2,17,0,0,L,California,California,Georgia-Tech,0,7,"Berkeley, CA / Evans Diamond",2026,WN2026
+04/03/2026,California,Georgia Tech,2,7,0,0,L,California,California,Georgia-Tech,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+04/04/2026,California,Georgia Tech,3,9,0,0,L,California,California,Georgia-Tech,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+04/06/2026,San Francisco,California,0,8,0,0,W,California,California,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+04/10/2026,Pittsburgh,California,1,12,0,0,W,California,California,Pittsburgh,1,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/11/2026,Pittsburgh,California,6,14,0,0,W,California,California,Pittsburgh,1,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/12/2026,Pittsburgh,California,2,13,0,0,W,California,California,Pittsburgh,1,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/15/2026,California,San Jose State,7,10,0,0,L,California,California,San-Jose-State,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+04/17/2026,California,Louisville,8,5,0,0,W,California,California,Louisville,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+04/18/2026,California,Louisville,6,5,0,0,W,California,California,Louisville,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+04/19/2026,California,Louisville,5,8,0,0,L,California,California,Louisville,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+04/22/2026,California,San Francisco,4,3,0,0,W,California,California,San-Francisco,0,10,"Berkeley, CA / Evans Diamond",2026,WN2026
+04/24/2026,Miami (FL),California,2,9,0,0,W,California,California,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/25/2026,Miami (FL),California,4,3,0,0,L,California,California,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/26/2026,Miami (FL),California,4,1,0,0,L,California,California,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/28/2026,Saint Mary's College,California,5,6,0,0,W,California,California,Saint-Marys-College,1,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/29/2026,California,UC Davis,1,6,0,0,L,California,California,UC-Davis,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+05/01/2026,California,Virginia Tech,1,9,0,0,L,California,California,Virginia-Tech,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+05/02/2026,California,Virginia Tech,2,6,0,0,L,California,California,Virginia-Tech,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+05/03/2026,California,Virginia Tech,9,4,0,0,W,California,California,Virginia-Tech,0,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+05/05/2026,Pacific,California,1,2,0,0,W,California,California,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+05/08/2026,Virginia,California,4,7,0,0,W,California,California,Virginia,1,9,"Charlottesville, VA / Davenport Field / Box Score",2026,WN2026
+05/09/2026,Virginia,California,2,1,0,0,L,California,California,Virginia,1,9,"Charlottesville, VA / Davenport Field / Box Score",2026,WN2026
+05/10/2026,Virginia,California,7,8,0,0,W,California,California,Virginia,1,9,"Charlottesville, VA / Davenport Field / Box Score",2026,WN2026
+05/14/2026,California,Stanford,6,7,0,0,L,California,California,Stanford,0,9,"Berkeley, CA / Evans Diamond / Box Score",2026,WN2026
+05/15/2026,California,Stanford,4,3,0,0,W,California,California,Stanford,0,9,"Berkeley, CA / Evans Diamond / Box Score",2026,WN2026
+05/16/2026,California,Stanford,2,1,0,0,W,California,California,Stanford,0,9,"Berkeley, CA / Evans Diamond / Box Score",2026,WN2026
+05/19/2026,Stanford,California,11,4,0,1,L,California,California,Stanford,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026

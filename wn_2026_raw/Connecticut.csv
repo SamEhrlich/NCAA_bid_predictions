@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Nebraska,Connecticut,12,2,0,1,L,Connecticut,Connecticut,Nebraska,0,7,"Scottsdale, AZ / Salt River Fields",2026,WN2026
+02/14/2026,Kansas State,Connecticut,7,3,0,1,L,Connecticut,Connecticut,Kansas-State,0,9,"Scottsdale, AZ / Scottsdale Stadium",2026,WN2026
+02/15/2026,Air Force,Connecticut,12,6,0,1,L,Connecticut,Connecticut,Air-Force,0,9,"Scottsdale, AZ / Salt River Fields",2026,WN2026
+02/17/2026,Arizona State,Connecticut,17,7,0,0,L,Connecticut,Connecticut,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+02/19/2026,Arizona,Connecticut,4,6,0,0,W,Connecticut,Connecticut,Arizona,1,12,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+02/20/2026,Arizona,Connecticut,0,4,0,0,W,Connecticut,Connecticut,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+02/21/2026,Arizona,Connecticut,5,4,0,0,L,Connecticut,Connecticut,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+02/22/2026,Arizona,Connecticut,2,11,0,0,W,Connecticut,Connecticut,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+02/27/2026,UNCW,Connecticut,2,5,0,0,W,Connecticut,Connecticut,UNCW,1,9,"Wilmington, NC / Brooks Field",2026,WN2026
+02/28/2026,UNCW,Connecticut,2,1,0,0,L,Connecticut,Connecticut,UNCW,1,12,"Wilmington, NC / Brooks Field",2026,WN2026
+03/01/2026,UNCW,Connecticut,7,2,0,0,L,Connecticut,Connecticut,UNCW,1,9,"Wilmington, NC / Brooks Field",2026,WN2026
+03/04/2026,Connecticut,New Haven,9,4,0,0,W,Connecticut,Connecticut,New-Haven,0,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+03/06/2026,Old Dominion,Connecticut,2,4,0,0,W,Connecticut,Connecticut,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+03/07/2026,Old Dominion,Connecticut,3,14,0,0,W,Connecticut,Connecticut,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+03/08/2026,Old Dominion,Connecticut,6,5,0,0,L,Connecticut,Connecticut,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+03/10/2026,Connecticut,Boston College,19,26,0,0,L,Connecticut,Connecticut,Boston-College,0,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+03/14/2026,Portland,Connecticut,5,8,0,0,W,Connecticut,Connecticut,Portland,1,9,"Portland, OR / Joe Etzel Field",2026,WN2026
+03/14/2026,Portland,Connecticut,8,6,0,0,L,Connecticut,Connecticut,Portland,1,9,"Portland, OR / Joe Etzel Field",2026,WN2026
+03/15/2026,Portland,Connecticut,5,3,0,0,L,Connecticut,Connecticut,Portland,1,9,"Portland, OR / Joe Etzel Field",2026,WN2026
+03/17/2026,California,Connecticut,3,9,0,0,W,Connecticut,Connecticut,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/18/2026,Santa Clara,Connecticut,5,12,0,0,W,Connecticut,Connecticut,Santa-Clara,1,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/20/2026,San Jose State,Connecticut,16,6,0,0,L,Connecticut,Connecticut,San-Jose-State,1,7,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/21/2026,San Diego State,Connecticut,6,4,0,1,L,Connecticut,Connecticut,San-Diego-State,0,9,"San Jose, CA",2026,WN2026
+03/22/2026,San Diego State,Connecticut,5,7,0,1,W,Connecticut,Connecticut,San-Diego-State,0,9,"San Jose, CA",2026,WN2026
+03/22/2026,San Jose State,Connecticut,0,8,0,0,W,Connecticut,Connecticut,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/25/2026,Connecticut,Quinnipiac,3,8,0,0,L,Connecticut,Connecticut,Quinnipiac,0,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+03/27/2026,Connecticut,Xavier,3,1,0,0,W,Connecticut,Connecticut,Xavier,0,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+03/28/2026,Connecticut,Xavier,8,0,0,0,W,Connecticut,Connecticut,Xavier,0,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+03/29/2026,Connecticut,Xavier,1,6,0,0,L,Connecticut,Connecticut,Xavier,0,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+03/31/2026,Northeastern,Connecticut,5,21,0,0,W,Connecticut,Connecticut,Northeastern,1,7,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/02/2026,Connecticut,Creighton,1,3,0,0,L,Connecticut,Connecticut,Creighton,0,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+04/03/2026,Connecticut,Creighton,11,2,0,0,W,Connecticut,Connecticut,Creighton,0,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+04/04/2026,Connecticut,Creighton,11,9,0,0,W,Connecticut,Connecticut,Creighton,0,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+04/07/2026,Bryant,Connecticut,2,6,0,0,W,Connecticut,Connecticut,Bryant,1,9,"Smithfield, RI / Conaty Park",2026,WN2026
+04/10/2026,Butler,Connecticut,5,4,0,0,L,Connecticut,Connecticut,Butler,1,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+04/11/2026,Butler,Connecticut,1,3,0,0,W,Connecticut,Connecticut,Butler,1,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+04/12/2026,Butler,Connecticut,0,13,0,0,W,Connecticut,Connecticut,Butler,1,8,"Indianapolis, IN / Bulldog Park",2026,WN2026
+04/15/2026,Boston College,Connecticut,8,5,0,0,L,Connecticut,Connecticut,Boston-College,1,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/17/2026,Connecticut,Saint John's,0,4,0,0,L,Connecticut,Connecticut,Saint-Johns,0,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+04/18/2026,Connecticut,Saint John's,5,6,0,0,L,Connecticut,Connecticut,Saint-Johns,0,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+04/18/2026,Connecticut,Saint John's,10,0,0,0,W,Connecticut,Connecticut,Saint-Johns,0,7,"Storrs, CT / Elliot Ballpark",2026,WN2026
+04/21/2026,Rhode Island,Connecticut,5,9,0,1,W,Connecticut,Connecticut,Rhode-Island,0,9,"Hartford, CT / Dunkin Donuts Park",2026,WN2026
+04/24/2026,Georgetown,Connecticut,2,14,0,0,W,Connecticut,Connecticut,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/25/2026,Georgetown,Connecticut,4,22,0,0,W,Connecticut,Connecticut,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/26/2026,Georgetown,Connecticut,2,3,0,0,W,Connecticut,Connecticut,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/28/2026,Rutgers,Connecticut,4,5,0,0,W,Connecticut,Connecticut,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+05/01/2026,Connecticut,East Tennessee State,7,14,0,0,L,Connecticut,Connecticut,East-Tennessee-State,0,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+05/02/2026,Connecticut,East Tennessee State,1,6,0,0,L,Connecticut,Connecticut,East-Tennessee-State,0,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+05/03/2026,Connecticut,East Tennessee State,4,3,0,0,W,Connecticut,Connecticut,East-Tennessee-State,0,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+05/08/2026,Seton Hall,Connecticut,3,4,0,0,W,Connecticut,Connecticut,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field / Box Score",2026,WN2026
+05/09/2026,Seton Hall,Connecticut,1,13,0,0,W,Connecticut,Connecticut,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field / Box Score",2026,WN2026
+05/10/2026,Seton Hall,Connecticut,3,7,0,0,W,Connecticut,Connecticut,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field / Box Score",2026,WN2026
+05/12/2026,Connecticut,Northeastern,6,10,0,0,L,Connecticut,Connecticut,Northeastern,0,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+05/14/2026,Connecticut,Villanova,6,5,0,0,W,Connecticut,Connecticut,Villanova,0,9,"Storrs, CT / Elliot Ballpark / Box Score",2026,WN2026
+05/15/2026,Connecticut,Villanova,8,0,0,0,W,Connecticut,Connecticut,Villanova,0,9,"Storrs, CT / Elliot Ballpark / Box Score",2026,WN2026
+05/16/2026,Connecticut,Villanova,6,9,0,0,L,Connecticut,Connecticut,Villanova,0,9,"Storrs, CT / Elliot Ballpark / Box Score",2026,WN2026
+05/21/2026,Xavier,Connecticut,5,1,0,1,L,Connecticut,Connecticut,Xavier,0,9,"Mason, OH / Prasco Park / Box Score / Recap",2026,WN2026
+05/21/2026,Creighton,Connecticut,7,4,0,1,L,Connecticut,Connecticut,Creighton,0,9,"Mason, OH / Prasco Park",2026,WN2026

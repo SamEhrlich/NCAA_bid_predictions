@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Iowa,Kansas State,6,15,0,1,W,Kansas State,Kansas-State,Iowa,0,9,"Scottsdale, AZ / Goodyear Ballpark",2026,WN2026
+02/14/2026,Connecticut,Kansas State,3,7,0,1,W,Kansas State,Kansas-State,Connecticut,0,9,"Scottsdale, AZ / Scottsdale Stadium",2026,WN2026
+02/15/2026,Penn State,Kansas State,5,24,0,1,W,Kansas State,Kansas-State,Penn-State,0,7,"Scottsdale, AZ / Sloan Park",2026,WN2026
+02/16/2026,Air Force,Kansas State,8,11,0,1,W,Kansas State,Kansas-State,Air-Force,0,9,"Scottsdale, AZ / Sloan Park",2026,WN2026
+02/20/2026,Auburn,Kansas State,5,1,0,1,L,Kansas State,Kansas-State,Auburn,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/21/2026,Nebraska,Kansas State,3,5,0,1,W,Kansas State,Kansas-State,Nebraska,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/22/2026,Michigan,Kansas State,6,10,0,1,W,Kansas State,Kansas-State,Michigan,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/24/2026,Louisiana,Kansas State,1,0,0,0,L,Kansas State,Kansas-State,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+02/25/2026,Louisiana,Kansas State,3,2,0,0,L,Kansas State,Kansas-State,Louisiana,1,11,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+02/27/2026,Kansas State,Columbia,8,9,0,0,L,Kansas State,Kansas-State,Columbia,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+02/27/2026,Kansas State,Columbia,2,1,0,0,W,Kansas State,Kansas-State,Columbia,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+02/28/2026,Kansas State,Columbia,5,2,0,0,W,Kansas State,Kansas-State,Columbia,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/06/2026,Kansas State,SIUE,14,5,0,0,W,Kansas State,Kansas-State,SIUE,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/07/2026,Kansas State,SIUE,8,4,0,0,W,Kansas State,Kansas-State,SIUE,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/08/2026,Kansas State,SIUE,20,7,0,0,W,Kansas State,Kansas-State,SIUE,0,7,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/10/2026,Kansas State,Wichita State,7,5,0,0,W,Kansas State,Kansas-State,Wichita-State,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/11/2026,Kansas State,South Dakota State,9,0,0,0,W,Kansas State,Kansas-State,South-Dakota-State,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/13/2026,Houston,Kansas State,8,20,0,0,W,Kansas State,Kansas-State,Houston,1,8,"Houston, TX / Schroeder Park",2026,WN2026
+03/14/2026,Houston,Kansas State,1,16,0,0,W,Kansas State,Kansas-State,Houston,1,7,"Houston, TX / Schroeder Park",2026,WN2026
+03/15/2026,Houston,Kansas State,16,6,0,0,L,Kansas State,Kansas-State,Houston,1,8,"Houston, TX / Schroeder Park",2026,WN2026
+03/17/2026,Baylor,Kansas State,3,13,0,0,W,Kansas State,Kansas-State,Baylor,1,7,"Waco, TX / Baylor Ballpark",2026,WN2026
+03/20/2026,Kansas State,Arizona State,4,5,0,0,L,Kansas State,Kansas-State,Arizona-State,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/21/2026,Kansas State,Arizona State,12,18,0,0,L,Kansas State,Kansas-State,Arizona-State,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/22/2026,Kansas State,Arizona State,12,1,0,0,W,Kansas State,Kansas-State,Arizona-State,0,7,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/24/2026,Kansas State,Nebraska,9,14,0,0,L,Kansas State,Kansas-State,Nebraska,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+03/27/2026,Utah,Kansas State,5,8,0,0,W,Kansas State,Kansas-State,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/28/2026,Utah,Kansas State,13,11,0,0,L,Kansas State,Kansas-State,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/29/2026,Utah,Kansas State,16,14,0,0,L,Kansas State,Kansas-State,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/31/2026,BYU,Kansas State,3,16,0,0,W,Kansas State,Kansas-State,BYU,1,8,"Provo, UT / Larry H. Miller Field",2026,WN2026
+04/03/2026,Kansas State,TCU,13,12,0,0,W,Kansas State,Kansas-State,TCU,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/04/2026,Kansas State,TCU,3,9,0,0,L,Kansas State,Kansas-State,TCU,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/05/2026,Kansas State,TCU,0,4,0,0,L,Kansas State,Kansas-State,TCU,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/07/2026,Wichita State,Kansas State,6,10,0,0,W,Kansas State,Kansas-State,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+04/10/2026,Kansas State,Oklahoma State,11,3,0,0,W,Kansas State,Kansas-State,Oklahoma-State,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/11/2026,Kansas State,Oklahoma State,13,9,0,0,W,Kansas State,Kansas-State,Oklahoma-State,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/12/2026,Kansas State,Oklahoma State,10,12,0,0,L,Kansas State,Kansas-State,Oklahoma-State,0,13,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/14/2026,Kansas State,Omaha,5,12,0,0,L,Kansas State,Kansas-State,Omaha,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/17/2026,Arizona,Kansas State,1,2,0,0,W,Kansas State,Kansas-State,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/18/2026,Arizona,Kansas State,1,11,0,0,W,Kansas State,Kansas-State,Arizona,1,8,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/19/2026,Arizona,Kansas State,11,7,0,0,L,Kansas State,Kansas-State,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/21/2026,Grand Canyon,Kansas State,3,8,0,0,W,Kansas State,Kansas-State,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/24/2026,Kansas State,Kansas,6,18,0,0,L,Kansas State,Kansas-State,Kansas,0,7,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/25/2026,Kansas State,Kansas,8,10,0,0,L,Kansas State,Kansas-State,Kansas,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/26/2026,Kansas State,Kansas,7,9,0,0,L,Kansas State,Kansas-State,Kansas,0,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/28/2026,Nebraska,Kansas State,7,6,0,0,L,Kansas State,Kansas-State,Nebraska,1,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+05/01/2026,West Virginia,Kansas State,7,0,0,0,L,Kansas State,Kansas-State,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+05/02/2026,West Virginia,Kansas State,9,1,0,0,L,Kansas State,Kansas-State,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+05/03/2026,West Virginia,Kansas State,13,6,0,0,L,Kansas State,Kansas-State,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+05/08/2026,Kansas State,Cincinnati,2,4,0,0,L,Kansas State,Kansas-State,Cincinnati,0,9,"Manhattan, KS / Tointon Family Stadium / Box Score",2026,WN2026
+05/09/2026,Kansas State,Cincinnati,3,5,0,0,L,Kansas State,Kansas-State,Cincinnati,0,9,"Manhattan, KS / Tointon Family Stadium / Box Score",2026,WN2026
+05/10/2026,Kansas State,Cincinnati,5,2,0,0,W,Kansas State,Kansas-State,Cincinnati,0,9,"Manhattan, KS / Tointon Family Stadium / Box Score",2026,WN2026
+05/14/2026,UCF,Kansas State,10,6,0,0,L,Kansas State,Kansas-State,UCF,1,9,"Orlando, FL / John Euliano Park / Box Score",2026,WN2026
+05/15/2026,UCF,Kansas State,4,5,0,0,W,Kansas State,Kansas-State,UCF,1,9,"Orlando, FL / John Euliano Park / Box Score",2026,WN2026
+05/16/2026,UCF,Kansas State,6,5,0,0,L,Kansas State,Kansas-State,UCF,1,9,"Orlando, FL / John Euliano Park / Box Score",2026,WN2026
+05/19/2026,Utah,Kansas State,5,9,0,1,W,Kansas State,Kansas-State,Utah,0,9,"Surprize, AZ / Surprise Stadium / Recap",2026,WN2026
+05/20/2026,TCU,Kansas State,4,9,0,1,W,Kansas State,Kansas-State,TCU,0,9,"Surprize, AZ / Surprise Stadium / Recap",2026,WN2026
+05/21/2026,West Virginia,Kansas State,4,2,0,1,L,Kansas State,Kansas-State,West-Virginia,0,9,"Surprize, AZ / Surprise Stadium / Recap",2026,WN2026

@@ -1,0 +1,48 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Cal State Northridge,Seattle University,10,5,0,0,L,Seattle University,Seattle-University,Cal-State-Northridge,1,9,"Northridge, CA / Matador Field",2026,WN2026
+02/14/2026,Cal State Northridge,Seattle University,4,3,0,0,L,Seattle University,Seattle-University,Cal-State-Northridge,1,9,"Northridge, CA / Matador Field",2026,WN2026
+02/15/2026,Cal State Northridge,Seattle University,15,6,0,0,L,Seattle University,Seattle-University,Cal-State-Northridge,1,9,"Northridge, CA / Matador Field",2026,WN2026
+02/19/2026,California Baptist,Seattle University,14,6,0,0,L,Seattle University,Seattle-University,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+02/20/2026,California Baptist,Seattle University,5,0,0,0,L,Seattle University,Seattle-University,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+02/21/2026,California Baptist,Seattle University,7,1,0,0,L,Seattle University,Seattle-University,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+02/22/2026,California Baptist,Seattle University,5,1,0,0,L,Seattle University,Seattle-University,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+02/24/2026,Washington,Seattle University,11,14,0,0,W,Seattle University,Seattle-University,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+02/27/2026,Seattle University,Holy Cross,1,11,0,0,L,Seattle University,Seattle-University,Holy-Cross,0,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+02/28/2026,Seattle University,Holy Cross,11,10,0,0,W,Seattle University,Seattle-University,Holy-Cross,0,10,"Bellevue, WA / Bannerwood Park",2026,WN2026
+03/01/2026,Seattle University,Holy Cross,2,7,0,0,L,Seattle University,Seattle-University,Holy-Cross,0,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+03/02/2026,Seattle University,Holy Cross,3,7,0,0,L,Seattle University,Seattle-University,Holy-Cross,0,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+03/06/2026,Seattle University,Jackson State,1,5,0,0,L,Seattle University,Seattle-University,Jackson-State,0,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+03/07/2026,Seattle University,Jackson State,12,13,0,0,L,Seattle University,Seattle-University,Jackson-State,0,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+03/08/2026,Seattle University,Jackson State,6,4,0,0,W,Seattle University,Seattle-University,Jackson-State,0,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+03/10/2026,Washington,Seattle University,7,4,0,0,L,Seattle University,Seattle-University,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/20/2026,Pacific,Seattle University,6,4,0,0,L,Seattle University,Seattle-University,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+03/21/2026,Pacific,Seattle University,2,5,0,0,W,Seattle University,Seattle-University,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+03/22/2026,Pacific,Seattle University,10,15,0,0,W,Seattle University,Seattle-University,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+03/27/2026,San Francisco,Seattle University,8,4,0,0,L,Seattle University,Seattle-University,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+03/28/2026,San Francisco,Seattle University,6,5,0,0,L,Seattle University,Seattle-University,San-Francisco,1,10,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+03/29/2026,San Francisco,Seattle University,8,5,0,0,L,Seattle University,Seattle-University,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+03/31/2026,Seattle University,Washington State,0,10,0,0,L,Seattle University,Seattle-University,Washington-State,0,7,"Bellevue, WA / Bannerwood Park",2026,WN2026
+04/02/2026,Seattle University,Portland,5,1,0,0,W,Seattle University,Seattle-University,Portland,0,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+04/03/2026,Seattle University,Portland,6,2,0,0,W,Seattle University,Seattle-University,Portland,0,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+04/04/2026,Seattle University,Portland,0,3,0,0,L,Seattle University,Seattle-University,Portland,0,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+04/10/2026,Seattle University,Loyola-Marymount,5,4,0,0,W,Seattle University,Seattle-University,Loyola-Marymount,0,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+04/11/2026,Seattle University,Loyola-Marymount,8,6,0,0,W,Seattle University,Seattle-University,Loyola-Marymount,0,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+04/12/2026,Seattle University,Loyola-Marymount,7,6,0,0,W,Seattle University,Seattle-University,Loyola-Marymount,0,12,"Bellevue, WA / Bannerwood Park",2026,WN2026
+04/17/2026,San Diego,Seattle University,4,7,0,0,W,Seattle University,Seattle-University,San-Diego,1,9,"San Diego, CA / Fowler Park",2026,WN2026
+04/18/2026,San Diego,Seattle University,6,11,0,0,W,Seattle University,Seattle-University,San-Diego,1,9,"San Diego, CA / Fowler Park",2026,WN2026
+04/19/2026,San Diego,Seattle University,13,12,0,0,L,Seattle University,Seattle-University,San-Diego,1,9,"San Diego, CA / Fowler Park",2026,WN2026
+04/20/2026,San Diego State,Seattle University,9,5,0,0,L,Seattle University,Seattle-University,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+04/24/2026,Seattle University,Pepperdine,1,3,0,0,L,Seattle University,Seattle-University,Pepperdine,0,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+04/25/2026,Seattle University,Pepperdine,6,7,0,0,L,Seattle University,Seattle-University,Pepperdine,0,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+04/26/2026,Seattle University,Pepperdine,2,4,0,0,L,Seattle University,Seattle-University,Pepperdine,0,10,"Bellevue, WA / Bannerwood Park",2026,WN2026
+05/01/2026,Saint Mary's College,Seattle University,11,1,0,0,L,Seattle University,Seattle-University,Saint-Marys-College,1,8,"Moraga, CA / Louis Guisto Field",2026,WN2026
+05/02/2026,Saint Mary's College,Seattle University,7,8,0,0,W,Seattle University,Seattle-University,Saint-Marys-College,1,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+05/03/2026,Saint Mary's College,Seattle University,4,5,0,0,W,Seattle University,Seattle-University,Saint-Marys-College,1,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+05/05/2026,Seattle University,Washington,4,3,0,0,W,Seattle University,Seattle-University,Washington,0,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+05/08/2026,Seattle University,Santa Clara,1,7,0,0,L,Seattle University,Seattle-University,Santa-Clara,0,9,"Bellevue, WA / Bannerwood Park / Box Score",2026,WN2026
+05/09/2026,Seattle University,Santa Clara,4,11,0,0,L,Seattle University,Seattle-University,Santa-Clara,0,9,"Bellevue, WA / Bannerwood Park / Box Score",2026,WN2026
+05/10/2026,Seattle University,Santa Clara,2,4,0,0,L,Seattle University,Seattle-University,Santa-Clara,0,9,"Bellevue, WA / Bannerwood Park / Box Score",2026,WN2026
+05/12/2026,Washington State,Seattle University,11,12,0,0,W,Seattle University,Seattle-University,Washington-State,1,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+05/14/2026,Gonzaga,Seattle University,12,2,0,0,L,Seattle University,Seattle-University,Gonzaga,1,7,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex / Box Score",2026,WN2026
+05/15/2026,Gonzaga,Seattle University,5,1,0,0,L,Seattle University,Seattle-University,Gonzaga,1,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex / Box Score",2026,WN2026
+05/16/2026,Gonzaga,Seattle University,16,13,0,0,L,Seattle University,Seattle-University,Gonzaga,1,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex / Box Score",2026,WN2026

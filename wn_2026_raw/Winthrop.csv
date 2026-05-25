@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Winthrop,Georgetown,13,2,0,0,W,Winthrop,Winthrop,Georgetown,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/14/2026,Winthrop,Georgetown,13,3,0,0,W,Winthrop,Winthrop,Georgetown,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/14/2026,Winthrop,Georgetown,3,8,0,0,L,Winthrop,Winthrop,Georgetown,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/18/2026,North Carolina State,Winthrop,7,3,0,0,L,Winthrop,Winthrop,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+02/20/2026,Winthrop,Morehead State,10,0,0,0,W,Winthrop,Winthrop,Morehead-State,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/21/2026,Winthrop,Morehead State,19,4,0,0,W,Winthrop,Winthrop,Morehead-State,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/22/2026,Winthrop,Morehead State,4,3,0,0,W,Winthrop,Winthrop,Morehead-State,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/23/2026,Winthrop,Marshall,11,7,0,0,W,Winthrop,Winthrop,Marshall,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/27/2026,Winthrop,Maine,7,4,0,0,W,Winthrop,Winthrop,Maine,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/28/2026,Winthrop,Maine,7,2,0,0,W,Winthrop,Winthrop,Maine,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/01/2026,Winthrop,Maine,9,6,0,0,W,Winthrop,Winthrop,Maine,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/03/2026,Michigan State,Winthrop,2,5,0,1,W,Winthrop,Winthrop,Michigan-State,0,9,"Greenville, SC / Fluor Field",2026,WN2026
+03/06/2026,Auburn,Winthrop,10,0,0,0,L,Winthrop,Winthrop,Auburn,1,7,"Auburn, AL / Plainsman Park",2026,WN2026
+03/07/2026,Auburn,Winthrop,6,0,0,0,L,Winthrop,Winthrop,Auburn,1,9,"Auburn, AL / Plainsman Park",2026,WN2026
+03/07/2026,Auburn,Winthrop,8,1,0,0,L,Winthrop,Winthrop,Auburn,1,9,"Auburn, AL / Plainsman Park",2026,WN2026
+03/10/2026,Winthrop,Princeton,3,10,0,0,L,Winthrop,Winthrop,Princeton,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/11/2026,Winthrop,Princeton,11,0,0,0,W,Winthrop,Winthrop,Princeton,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/13/2026,Winthrop,Radford,10,9,0,0,W,Winthrop,Winthrop,Radford,0,14,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/14/2026,Winthrop,Radford,6,5,0,0,W,Winthrop,Winthrop,Radford,0,10,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/15/2026,Winthrop,Radford,9,7,0,0,W,Winthrop,Winthrop,Radford,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/17/2026,Pacific,Winthrop,2,8,0,0,W,Winthrop,Winthrop,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+03/19/2026,Sacramento State,Winthrop,13,1,0,0,L,Winthrop,Winthrop,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+03/20/2026,Sacramento State,Winthrop,12,14,0,0,W,Winthrop,Winthrop,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+03/21/2026,Sacramento State,Winthrop,5,7,0,0,W,Winthrop,Winthrop,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+03/24/2026,Winthrop,Davidson,11,1,0,0,W,Winthrop,Winthrop,Davidson,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/27/2026,Winthrop,Charleston Southern,4,0,0,0,W,Winthrop,Winthrop,Charleston-Southern,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/28/2026,Winthrop,Charleston Southern,14,4,0,0,W,Winthrop,Winthrop,Charleston-Southern,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/29/2026,Winthrop,Charleston Southern,5,4,0,0,W,Winthrop,Winthrop,Charleston-Southern,0,10,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/31/2026,Winthrop,Charleston,5,15,0,0,L,Winthrop,Winthrop,Charleston,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/02/2026,Winthrop,Western Carolina,7,15,0,0,L,Winthrop,Winthrop,Western-Carolina,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/03/2026,Winthrop,Western Carolina,6,4,0,0,W,Winthrop,Winthrop,Western-Carolina,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/04/2026,Winthrop,Western Carolina,6,7,0,0,L,Winthrop,Winthrop,Western-Carolina,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/08/2026,Winthrop,The Citadel,8,10,0,0,L,Winthrop,Winthrop,The-Citadel,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/10/2026,Presbyterian College,Winthrop,2,4,0,0,W,Winthrop,Winthrop,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+04/11/2026,Presbyterian College,Winthrop,5,2,0,0,L,Winthrop,Winthrop,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+04/12/2026,Presbyterian College,Winthrop,12,10,0,0,L,Winthrop,Winthrop,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+04/14/2026,Elon,Winthrop,3,13,0,0,W,Winthrop,Winthrop,Elon,1,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+04/17/2026,Winthrop,South Carolina Upstate,3,1,0,0,W,Winthrop,Winthrop,South-Carolina-Upstate,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/18/2026,Winthrop,South Carolina Upstate,4,3,0,0,W,Winthrop,Winthrop,South-Carolina-Upstate,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/19/2026,Winthrop,South Carolina Upstate,6,5,0,0,W,Winthrop,Winthrop,South-Carolina-Upstate,0,10,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/21/2026,Winthrop,Elon,8,10,0,0,L,Winthrop,Winthrop,Elon,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/24/2026,Gardner-Webb,Winthrop,3,0,0,0,L,Winthrop,Winthrop,Gardner-Webb,1,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+04/25/2026,Gardner-Webb,Winthrop,7,9,0,0,W,Winthrop,Winthrop,Gardner-Webb,1,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+04/26/2026,Gardner-Webb,Winthrop,7,6,0,0,L,Winthrop,Winthrop,Gardner-Webb,1,10,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+04/28/2026,Winthrop,North Carolina A&T,3,9,0,0,L,Winthrop,Winthrop,North-Carolina-AT,0,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+05/01/2026,UNC Asheville,Winthrop,1,5,0,0,W,Winthrop,Winthrop,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+05/02/2026,UNC Asheville,Winthrop,6,10,0,0,W,Winthrop,Winthrop,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+05/03/2026,UNC Asheville,Winthrop,9,0,0,0,L,Winthrop,Winthrop,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+05/08/2026,High Point,Winthrop,9,8,0,0,L,Winthrop,Winthrop,High-Point,1,10,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium / Box Score",2026,WN2026
+05/09/2026,High Point,Winthrop,7,3,0,0,L,Winthrop,Winthrop,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium / Box Score",2026,WN2026
+05/10/2026,High Point,Winthrop,11,3,0,0,L,Winthrop,Winthrop,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium / Box Score",2026,WN2026
+05/12/2026,South Carolina,Winthrop,2,5,0,0,W,Winthrop,Winthrop,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+05/14/2026,Winthrop,Longwood,2,8,0,0,L,Winthrop,Winthrop,Longwood,0,9,"Rock Hill, SC / Winthrop Ballpark / Box Score",2026,WN2026
+05/15/2026,Winthrop,Longwood,23,5,0,0,W,Winthrop,Winthrop,Longwood,0,9,"Rock Hill, SC / Winthrop Ballpark / Box Score",2026,WN2026
+05/16/2026,Winthrop,Longwood,11,5,0,0,W,Winthrop,Winthrop,Longwood,0,9,"Rock Hill, SC / Winthrop Ballpark / Box Score",2026,WN2026
+05/21/2026,South Carolina Upstate,Winthrop,18,6,0,1,L,Winthrop,Winthrop,South-Carolina-Upstate,0,7,"Asheville, NC / Hoemtrust Park / Recap",2026,WN2026
+05/23/2026,Longwood,Winthrop,4,3,0,1,L,Winthrop,Winthrop,Longwood,0,11,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026

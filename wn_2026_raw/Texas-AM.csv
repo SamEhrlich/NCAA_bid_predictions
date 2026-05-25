@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Texas A&M,Tennessee Tech,15,6,0,0,W,Texas A&M,Texas-AM,Tennessee-Tech,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+02/14/2026,Texas A&M,Tennessee Tech,23,7,0,0,W,Texas A&M,Texas-AM,Tennessee-Tech,0,7,"College Station, TX / Blue Bell Park",2026,WN2026
+02/15/2026,Texas A&M,Tennessee Tech,7,1,0,0,W,Texas A&M,Texas-AM,Tennessee-Tech,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+02/17/2026,Texas A&M,Texas A&M-Corpus Christi,8,3,0,0,W,Texas A&M,Texas-AM,Texas-AM-Corpus-Christi,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+02/20/2026,Texas A&M,Penn,1,0,0,0,W,Texas A&M,Texas-AM,Penn,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+02/21/2026,Texas A&M,Penn,2,1,0,0,W,Texas A&M,Texas-AM,Penn,0,11,"College Station, TX / Blue Bell Park",2026,WN2026
+02/22/2026,Texas A&M,Penn,7,1,0,0,W,Texas A&M,Texas-AM,Penn,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+02/24/2026,Texas A&M,Lamar,25,5,0,0,W,Texas A&M,Texas-AM,Lamar,0,7,"College Station, TX / Blue Bell Park",2026,WN2026
+02/27/2026,Virginia Tech,Texas A&M,0,10,0,1,W,Texas A&M,Texas-AM,Virginia-Tech,0,7,"Arlington, TX / Globe Life Field",2026,WN2026
+02/28/2026,UCLA,Texas A&M,11,1,0,1,L,Texas A&M,Texas-AM,UCLA,0,7,"Arlington, TX / Globe Life Field",2026,WN2026
+03/01/2026,Arizona State,Texas A&M,3,9,0,1,W,Texas A&M,Texas-AM,Arizona-State,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+03/03/2026,Texas A&M,Incarnate Word,11,1,0,0,W,Texas A&M,Texas-AM,Incarnate-Word,0,7,"College Station, TX / Blue Bell Park",2026,WN2026
+03/06/2026,Texas A&M,Oakland,6,3,0,0,W,Texas A&M,Texas-AM,Oakland,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+03/06/2026,Texas A&M,Oakland,10,2,0,0,W,Texas A&M,Texas-AM,Oakland,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+03/07/2026,Texas A&M,Oakland,12,1,0,0,W,Texas A&M,Texas-AM,Oakland,0,7,"College Station, TX / Blue Bell Park",2026,WN2026
+03/10/2026,Texas A&M,Stephen F. Austin,14,1,0,0,W,Texas A&M,Texas-AM,Stephen-F-Austin,0,7,"College Station, TX / Blue Bell Park",2026,WN2026
+03/13/2026,Oklahoma,Texas A&M,8,7,0,0,L,Texas A&M,Texas-AM,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/14/2026,Oklahoma,Texas A&M,5,9,0,0,W,Texas A&M,Texas-AM,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/15/2026,Oklahoma,Texas A&M,12,11,0,0,L,Texas A&M,Texas-AM,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/17/2026,Texas A&M,Texas State,9,6,0,0,W,Texas A&M,Texas-AM,Texas-State,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+03/20/2026,Texas A&M,Georgia,4,9,0,0,L,Texas A&M,Texas-AM,Georgia,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+03/21/2026,Texas A&M,Georgia,2,8,0,0,L,Texas A&M,Texas-AM,Georgia,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+03/22/2026,Texas A&M,Georgia,18,5,0,0,W,Texas A&M,Texas-AM,Georgia,0,7,"College Station, TX / Blue Bell Park",2026,WN2026
+03/24/2026,Texas A&M,Houston Christian,5,1,0,0,W,Texas A&M,Texas-AM,Houston-Christian,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+03/27/2026,Missouri,Texas A&M,9,11,0,0,W,Texas A&M,Texas-AM,Missouri,1,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/28/2026,Missouri,Texas A&M,6,14,0,0,W,Texas A&M,Texas-AM,Missouri,1,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/29/2026,Missouri,Texas A&M,3,14,0,0,W,Texas A&M,Texas-AM,Missouri,1,7,"Columbia, MO / Taylor Stadium",2026,WN2026
+03/31/2026,Texas A&M,Sam Houston State,16,2,0,0,W,Texas A&M,Texas-AM,Sam-Houston-State,0,7,"College Station, TX / Blue Bell Park",2026,WN2026
+04/02/2026,Texas A&M,Vanderbilt,8,14,0,0,L,Texas A&M,Texas-AM,Vanderbilt,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+04/03/2026,Texas A&M,Vanderbilt,8,4,0,0,W,Texas A&M,Texas-AM,Vanderbilt,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+04/03/2026,Texas A&M,Vanderbilt,12,0,0,0,W,Texas A&M,Texas-AM,Vanderbilt,0,7,"College Station, TX / Blue Bell Park",2026,WN2026
+04/07/2026,Texas State,Texas A&M,9,8,0,0,L,Texas A&M,Texas-AM,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/10/2026,Texas A&M,Texas,9,8,0,0,W,Texas A&M,Texas-AM,Texas,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+04/11/2026,Texas A&M,Texas,11,4,0,0,W,Texas A&M,Texas-AM,Texas,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+04/14/2026,Texas A&M,Houston,10,2,0,0,W,Texas A&M,Texas-AM,Houston,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+04/17/2026,LSU,Texas A&M,4,10,0,0,W,Texas A&M,Texas-AM,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+04/18/2026,LSU,Texas A&M,2,7,0,0,W,Texas A&M,Texas-AM,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+04/19/2026,LSU,Texas A&M,2,5,0,0,W,Texas A&M,Texas-AM,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+04/24/2026,Florida,Texas A&M,9,2,0,0,L,Texas A&M,Texas-AM,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/25/2026,Florida,Texas A&M,4,8,0,0,W,Texas A&M,Texas-AM,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/26/2026,Florida,Texas A&M,1,5,0,0,W,Texas A&M,Texas-AM,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/28/2026,Texas A&M,Tarleton State,9,7,0,0,W,Texas A&M,Texas-AM,Tarleton-State,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+05/02/2026,Texas A&M,Auburn,5,18,0,0,L,Texas A&M,Texas-AM,Auburn,0,7,"College Station, TX / Blue Bell Park",2026,WN2026
+05/02/2026,Texas A&M,Auburn,4,5,0,0,L,Texas A&M,Texas-AM,Auburn,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+05/03/2026,Texas A&M,Auburn,4,3,0,0,W,Texas A&M,Texas-AM,Auburn,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+05/05/2026,Texas A&M,Prairie View A&M,16,7,0,0,W,Texas A&M,Texas-AM,Prairie-View-AM,0,9,"College Station, TX / Blue Bell Park",2026,WN2026
+05/08/2026,Ole Miss,Texas A&M,5,3,0,0,L,Texas A&M,Texas-AM,Ole-Miss,1,9,"Oxford, MS / Swayze Field / Box Score",2026,WN2026
+05/09/2026,Ole Miss,Texas A&M,5,18,0,0,W,Texas A&M,Texas-AM,Ole-Miss,1,7,"Oxford, MS / Swayze Field / Box Score",2026,WN2026
+05/09/2026,Ole Miss,Texas A&M,6,5,0,0,L,Texas A&M,Texas-AM,Ole-Miss,1,9,"Oxford, MS / Swayze Field / Box Score",2026,WN2026
+05/14/2026,Texas A&M,Mississippi State,11,18,0,0,L,Texas A&M,Texas-AM,Mississippi-State,0,9,"College Station, TX / Blue Bell Park / Box Score",2026,WN2026
+05/15/2026,Texas A&M,Mississippi State,11,9,0,0,W,Texas A&M,Texas-AM,Mississippi-State,0,9,"College Station, TX / Blue Bell Park / Box Score",2026,WN2026
+05/16/2026,Texas A&M,Mississippi State,7,6,0,0,W,Texas A&M,Texas-AM,Mississippi-State,0,9,"College Station, TX / Blue Bell Park / Box Score",2026,WN2026
+05/22/2026,Auburn,Texas A&M,7,0,0,1,L,Texas A&M,Texas-AM,Auburn,0,9,"Hoover, AL / Hoover Metropolitan Stadium / Recap",2026,WN2026
