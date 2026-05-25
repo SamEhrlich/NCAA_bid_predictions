@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UTRGV,Kansas,7,4,0,0,L,Kansas,Kansas,UTRGV,1,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+02/14/2026,UTRGV,Kansas,3,10,0,0,W,Kansas,Kansas,UTRGV,1,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+02/15/2026,UTRGV,Kansas,7,8,0,0,W,Kansas,Kansas,UTRGV,1,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+02/18/2026,Lamar,Kansas,4,1,0,0,L,Kansas,Kansas,Lamar,1,9,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+02/20/2026,McNeese,Kansas,2,11,0,0,W,Kansas,Kansas,McNeese,1,9,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+02/21/2026,McNeese,Kansas,2,8,0,0,W,Kansas,Kansas,McNeese,1,9,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+02/22/2026,McNeese,Kansas,1,6,0,0,W,Kansas,Kansas,McNeese,1,9,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+02/25/2026,Minnesota,Kansas,7,8,0,0,W,Kansas,Kansas,Minnesota,1,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+02/27/2026,Minnesota,Kansas,12,5,0,0,L,Kansas,Kansas,Minnesota,1,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+02/28/2026,Minnesota,Kansas,10,3,0,0,L,Kansas,Kansas,Minnesota,1,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/01/2026,Minnesota,Kansas,3,8,0,0,W,Kansas,Kansas,Minnesota,1,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/05/2026,Kansas,Saint Thomas,4,2,0,0,W,Kansas,Kansas,Saint-Thomas,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/06/2026,Kansas,Saint Thomas,11,5,0,0,W,Kansas,Kansas,Saint-Thomas,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/07/2026,Saint Thomas,Kansas,8,9,0,1,W,Kansas,Kansas,Saint-Thomas,0,9,"Kansas City, KS / Legends Field",2026,WN2026
+03/08/2026,Kansas,Saint Thomas,2,13,0,0,L,Kansas,Kansas,Saint-Thomas,0,8,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/11/2026,TCU,Kansas,9,4,0,0,L,Kansas,Kansas,TCU,1,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/13/2026,Texas Tech,Kansas,11,4,0,0,L,Kansas,Kansas,Texas-Tech,1,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/14/2026,Texas Tech,Kansas,10,9,0,0,L,Kansas,Kansas,Texas-Tech,1,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/15/2026,Texas Tech,Kansas,7,18,0,0,W,Kansas,Kansas,Texas-Tech,1,8,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/18/2026,Kansas,Missouri,10,0,0,0,W,Kansas,Kansas,Missouri,0,7,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/20/2026,Kansas,Houston,12,10,0,0,W,Kansas,Kansas,Houston,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/21/2026,Kansas,Houston,9,8,0,0,W,Kansas,Kansas,Houston,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/22/2026,Kansas,Houston,8,4,0,0,W,Kansas,Kansas,Houston,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/24/2026,Kansas,Sacramento State,11,1,0,0,W,Kansas,Kansas,Sacramento-State,0,7,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/25/2026,Kansas,Sacramento State,4,7,0,0,L,Kansas,Kansas,Sacramento-State,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/27/2026,Cincinnati,Kansas,5,0,0,0,L,Kansas,Kansas,Cincinnati,1,9,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+03/28/2026,Cincinnati,Kansas,2,8,0,0,W,Kansas,Kansas,Cincinnati,1,9,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+03/29/2026,Cincinnati,Kansas,6,13,0,0,W,Kansas,Kansas,Cincinnati,1,9,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+03/31/2026,Missouri,Kansas,8,11,0,0,W,Kansas,Kansas,Missouri,1,9,"Columbia, MO / Taylor Stadium",2026,WN2026
+04/02/2026,Kansas,Utah,14,12,0,0,W,Kansas,Kansas,Utah,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/03/2026,Kansas,Utah,14,9,0,0,W,Kansas,Kansas,Utah,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/04/2026,Kansas,Utah,13,9,0,0,W,Kansas,Kansas,Utah,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/07/2026,Nebraska,Kansas,3,5,0,0,W,Kansas,Kansas,Nebraska,1,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/10/2026,Kansas,UCF,4,3,0,0,W,Kansas,Kansas,UCF,0,11,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/11/2026,Kansas,UCF,6,3,0,0,W,Kansas,Kansas,UCF,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/11/2026,Kansas,UCF,3,1,0,0,W,Kansas,Kansas,UCF,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/14/2026,Kansas,Wichita State,5,2,0,0,W,Kansas,Kansas,Wichita-State,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/18/2026,Oklahoma State,Kansas,13,2,0,0,L,Kansas,Kansas,Oklahoma-State,1,8,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+04/18/2026,Oklahoma State,Kansas,3,13,0,0,W,Kansas,Kansas,Oklahoma-State,1,9,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+04/19/2026,Oklahoma State,Kansas,6,9,0,0,W,Kansas,Kansas,Oklahoma-State,1,9,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+04/21/2026,Kansas,Nebraska,9,7,0,0,W,Kansas,Kansas,Nebraska,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/24/2026,Kansas State,Kansas,6,18,0,0,W,Kansas,Kansas,Kansas-State,1,7,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/25/2026,Kansas State,Kansas,8,10,0,0,W,Kansas,Kansas,Kansas-State,1,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/26/2026,Kansas State,Kansas,7,9,0,0,W,Kansas,Kansas,Kansas-State,1,9,"Manhattan, KS / Tointon Family Stadium",2026,WN2026
+04/28/2026,Wichita State,Kansas,1,14,0,0,W,Kansas,Kansas,Wichita-State,1,8,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+05/01/2026,Kansas,Arizona,4,2,0,0,W,Kansas,Kansas,Arizona,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+05/02/2026,Kansas,Arizona,7,2,0,0,W,Kansas,Kansas,Arizona,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+05/03/2026,Kansas,Arizona,11,5,0,0,W,Kansas,Kansas,Arizona,0,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+05/05/2026,Creighton,Kansas,9,8,0,0,L,Kansas,Kansas,Creighton,1,13,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+05/08/2026,Kansas,West Virginia,1,4,0,0,L,Kansas,Kansas,West-Virginia,0,9,"Lawrence, KS / Hoglund Ballpark / Box Score",2026,WN2026
+05/09/2026,Kansas,West Virginia,2,5,0,0,L,Kansas,Kansas,West-Virginia,0,9,"Lawrence, KS / Hoglund Ballpark / Box Score",2026,WN2026
+05/10/2026,Kansas,West Virginia,2,13,0,0,L,Kansas,Kansas,West-Virginia,0,8,"Lawrence, KS / Hoglund Ballpark / Box Score",2026,WN2026
+05/14/2026,BYU,Kansas,6,9,0,0,W,Kansas,Kansas,BYU,1,9,"Provo, UT / Larry H. Miller Field / Box Score",2026,WN2026
+05/15/2026,BYU,Kansas,6,7,0,0,W,Kansas,Kansas,BYU,1,9,"Provo, UT / Larry H. Miller Field / Box Score",2026,WN2026
+05/16/2026,BYU,Kansas,5,4,0,0,L,Kansas,Kansas,BYU,1,11,"Provo, UT / Larry H. Miller Field / Box Score",2026,WN2026
+05/21/2026,Baylor,Kansas,7,8,0,1,W,Kansas,Kansas,Baylor,0,10,"Surprize, AZ / Surprise Stadium / Recap",2026,WN2026
+05/22/2026,Oklahoma State,Kansas,2,9,0,1,W,Kansas,Kansas,Oklahoma-State,0,9,"Surprize, AZ / Surprise Stadium",2026,WN2026
+05/23/2026,West Virginia,Kansas,0,9,0,1,W,Kansas,Kansas,West-Virginia,0,9,"Surprize, AZ / Surprise Stadium",2026,WN2026

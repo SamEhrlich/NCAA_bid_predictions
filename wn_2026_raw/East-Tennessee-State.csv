@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,East Tennessee State,Marist,6,5,0,0,W,East Tennessee State,East-Tennessee-State,Marist,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/14/2026,East Tennessee State,Marist,7,5,0,0,W,East Tennessee State,East-Tennessee-State,Marist,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/14/2026,East Tennessee State,Marist,7,2,0,0,W,East Tennessee State,East-Tennessee-State,Marist,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/17/2026,Virginia Tech,East Tennessee State,7,5,0,0,L,East Tennessee State,East-Tennessee-State,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+02/20/2026,East Tennessee State,Sacred Heart,10,0,0,0,W,East Tennessee State,East-Tennessee-State,Sacred-Heart,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/21/2026,East Tennessee State,Sacred Heart,26,3,0,0,W,East Tennessee State,East-Tennessee-State,Sacred-Heart,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/21/2026,East Tennessee State,Sacred Heart,11,8,0,0,W,East Tennessee State,East-Tennessee-State,Sacred-Heart,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/25/2026,East Tennessee State,Appalachian State,5,8,0,0,L,East Tennessee State,East-Tennessee-State,Appalachian-State,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/27/2026,East Tennessee State,Quinnipiac,8,2,0,0,W,East Tennessee State,East-Tennessee-State,Quinnipiac,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/28/2026,East Tennessee State,Quinnipiac,4,3,0,0,W,East Tennessee State,East-Tennessee-State,Quinnipiac,0,10,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/01/2026,East Tennessee State,Quinnipiac,16,5,0,0,W,East Tennessee State,East-Tennessee-State,Quinnipiac,0,8,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/03/2026,Tennessee,East Tennessee State,7,1,0,0,L,East Tennessee State,East-Tennessee-State,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/07/2026,James Madison,East Tennessee State,11,1,0,0,L,East Tennessee State,East-Tennessee-State,James-Madison,1,7,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/07/2026,James Madison,East Tennessee State,6,4,0,0,L,East Tennessee State,East-Tennessee-State,James-Madison,1,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park / Box Score",2026,WN2026
+03/08/2026,James Madison,East Tennessee State,0,13,0,0,W,East Tennessee State,East-Tennessee-State,James-Madison,1,8,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/13/2026,East Tennessee State,Bradley,12,2,0,0,W,East Tennessee State,East-Tennessee-State,Bradley,0,7,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/14/2026,East Tennessee State,Bradley,15,2,0,0,W,East Tennessee State,East-Tennessee-State,Bradley,0,7,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/14/2026,East Tennessee State,Bradley,10,3,0,0,W,East Tennessee State,East-Tennessee-State,Bradley,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/15/2026,East Tennessee State,Bradley,15,2,0,0,W,East Tennessee State,East-Tennessee-State,Bradley,0,7,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/20/2026,UNCG,East Tennessee State,6,3,0,0,L,East Tennessee State,East-Tennessee-State,UNCG,1,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+03/21/2026,UNCG,East Tennessee State,2,8,0,0,W,East Tennessee State,East-Tennessee-State,UNCG,1,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+03/22/2026,UNCG,East Tennessee State,8,15,0,0,W,East Tennessee State,East-Tennessee-State,UNCG,1,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+03/24/2026,East Tennessee State,Virginia Tech,9,4,0,0,W,East Tennessee State,East-Tennessee-State,Virginia-Tech,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/27/2026,East Tennessee State,VMI,6,5,0,0,W,East Tennessee State,East-Tennessee-State,VMI,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/28/2026,East Tennessee State,VMI,4,3,0,0,W,East Tennessee State,East-Tennessee-State,VMI,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/29/2026,East Tennessee State,VMI,4,5,0,0,L,East Tennessee State,East-Tennessee-State,VMI,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+04/02/2026,Samford,East Tennessee State,13,7,0,0,L,East Tennessee State,East-Tennessee-State,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/03/2026,Samford,East Tennessee State,3,4,0,0,W,East Tennessee State,East-Tennessee-State,Samford,1,10,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/04/2026,Samford,East Tennessee State,4,6,0,0,W,East Tennessee State,East-Tennessee-State,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/07/2026,Radford,East Tennessee State,4,3,0,0,L,East Tennessee State,East-Tennessee-State,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+04/10/2026,Belmont,East Tennessee State,3,6,0,0,W,East Tennessee State,East-Tennessee-State,Belmont,1,9,"Nashville, TN / E. S. Rose Park",2026,WN2026
+04/11/2026,Belmont,East Tennessee State,4,8,0,0,W,East Tennessee State,East-Tennessee-State,Belmont,1,7,"Nashville, TN / E. S. Rose Park",2026,WN2026
+04/11/2026,Belmont,East Tennessee State,10,8,0,0,L,East Tennessee State,East-Tennessee-State,Belmont,1,9,"Nashville, TN / E. S. Rose Park",2026,WN2026
+04/14/2026,Georgia,East Tennessee State,12,10,0,0,L,East Tennessee State,East-Tennessee-State,Georgia,1,9,"Athens, GA / Foley Field",2026,WN2026
+04/17/2026,East Tennessee State,The Citadel,8,11,0,0,L,East Tennessee State,East-Tennessee-State,The-Citadel,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+04/18/2026,East Tennessee State,The Citadel,5,4,0,0,W,East Tennessee State,East-Tennessee-State,The-Citadel,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+04/19/2026,East Tennessee State,The Citadel,12,1,0,0,W,East Tennessee State,East-Tennessee-State,The-Citadel,0,8,"Johnson City, TN / Thomas Stadium",2026,WN2026
+04/21/2026,Appalachian State,East Tennessee State,3,1,0,0,L,East Tennessee State,East-Tennessee-State,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/24/2026,Western Carolina,East Tennessee State,14,10,0,0,L,East Tennessee State,East-Tennessee-State,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/24/2026,Western Carolina,East Tennessee State,3,4,0,0,W,East Tennessee State,East-Tennessee-State,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/26/2026,Western Carolina,East Tennessee State,13,2,0,0,L,East Tennessee State,East-Tennessee-State,Western-Carolina,1,7,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/28/2026,East Tennessee State,UNC Asheville,10,7,0,0,W,East Tennessee State,East-Tennessee-State,UNC-Asheville,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+05/01/2026,Connecticut,East Tennessee State,7,14,0,0,W,East Tennessee State,East-Tennessee-State,Connecticut,1,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+05/02/2026,Connecticut,East Tennessee State,1,6,0,0,W,East Tennessee State,East-Tennessee-State,Connecticut,1,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+05/03/2026,Connecticut,East Tennessee State,4,3,0,0,L,East Tennessee State,East-Tennessee-State,Connecticut,1,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+05/05/2026,East Tennessee State,Radford,10,12,0,0,L,East Tennessee State,East-Tennessee-State,Radford,0,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+05/08/2026,Wofford,East Tennessee State,7,6,0,0,L,East Tennessee State,East-Tennessee-State,Wofford,1,9,"Spartanburg, SC / Russell C. King Field / Box Score",2026,WN2026
+05/09/2026,Wofford,East Tennessee State,6,5,0,0,L,East Tennessee State,East-Tennessee-State,Wofford,1,9,"Spartanburg, SC / Russell C. King Field / Box Score",2026,WN2026
+05/10/2026,Wofford,East Tennessee State,5,9,0,0,W,East Tennessee State,East-Tennessee-State,Wofford,1,9,"Spartanburg, SC / Russell C. King Field / Box Score",2026,WN2026
+05/14/2026,East Tennessee State,Mercer,7,9,0,0,L,East Tennessee State,East-Tennessee-State,Mercer,0,9,"Johnson City, TN / Thomas Stadium / Box Score",2026,WN2026
+05/15/2026,East Tennessee State,Mercer,7,9,0,0,L,East Tennessee State,East-Tennessee-State,Mercer,0,9,"Johnson City, TN / Thomas Stadium / Box Score",2026,WN2026
+05/16/2026,East Tennessee State,Mercer,6,11,0,0,L,East Tennessee State,East-Tennessee-State,Mercer,0,9,"Johnson City, TN / Thomas Stadium / Box Score",2026,WN2026
+05/20/2026,UNCG,East Tennessee State,6,5,0,1,L,East Tennessee State,East-Tennessee-State,UNCG,0,9,"Greenville, SC / Fluor Field / Box Score / Recap",2026,WN2026

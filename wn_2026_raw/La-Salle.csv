@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,La Salle,Maryland Eastern Shore,27,10,0,0,W,La Salle,La-Salle,Maryland-Eastern-Shore,0,8,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+02/14/2026,La Salle,Maryland Eastern Shore,14,2,0,0,W,La Salle,La-Salle,Maryland-Eastern-Shore,0,7,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+02/15/2026,La Salle,Maryland Eastern Shore,7,4,0,0,W,La Salle,La-Salle,Maryland-Eastern-Shore,0,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+02/17/2026,Delaware,La Salle,6,4,0,0,L,La Salle,La-Salle,Delaware,1,9,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+02/20/2026,La Salle,Delaware State,13,4,0,0,W,La Salle,La-Salle,Delaware-State,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+02/20/2026,La Salle,Delaware State,9,8,0,0,W,La Salle,La-Salle,Delaware-State,0,8,"Philadelphia, PA / DeVincent Field",2026,WN2026
+02/25/2026,Delaware,La Salle,8,4,0,0,L,La Salle,La-Salle,Delaware,1,9,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+02/27/2026,Coppin State,La Salle,2,10,0,0,W,La Salle,La-Salle,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+02/28/2026,Coppin State,La Salle,6,9,0,0,W,La Salle,La-Salle,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/01/2026,Coppin State,La Salle,7,8,0,0,W,La Salle,La-Salle,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/06/2026,Clemson,La Salle,14,1,0,0,L,La Salle,La-Salle,Clemson,1,7,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+03/07/2026,Clemson,La Salle,6,4,0,0,L,La Salle,La-Salle,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+03/07/2026,Clemson,La Salle,16,4,0,0,L,La Salle,La-Salle,Clemson,1,7,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+03/08/2026,Clemson,La Salle,16,3,0,0,L,La Salle,La-Salle,Clemson,1,7,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+03/10/2026,Villanova,La Salle,14,10,0,0,L,La Salle,La-Salle,Villanova,1,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+03/11/2026,La Salle,Lafayette,16,11,0,0,W,La Salle,La-Salle,Lafayette,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+03/13/2026,VCU,La Salle,6,2,0,0,L,La Salle,La-Salle,VCU,1,9,"Richmond, VA / The Diamond",2026,WN2026
+03/14/2026,VCU,La Salle,4,3,0,0,L,La Salle,La-Salle,VCU,1,9,"Richmond, VA / The Diamond",2026,WN2026
+03/15/2026,VCU,La Salle,8,4,0,0,L,La Salle,La-Salle,VCU,1,9,"Richmond, VA / The Diamond",2026,WN2026
+03/18/2026,La Salle,Lafayette,3,5,0,0,L,La Salle,La-Salle,Lafayette,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+03/21/2026,La Salle,Davidson,13,17,0,0,L,La Salle,La-Salle,Davidson,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+03/21/2026,La Salle,Davidson,8,2,0,0,W,La Salle,La-Salle,Davidson,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+03/22/2026,La Salle,Davidson,10,1,0,0,W,La Salle,La-Salle,Davidson,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+03/24/2026,Penn,La Salle,0,8,0,0,W,La Salle,La-Salle,Penn,1,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+03/25/2026,La Salle,Saint Peter's,16,15,0,0,W,La Salle,La-Salle,Saint-Peters,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+03/28/2026,George Washington,La Salle,9,6,0,0,L,La Salle,La-Salle,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/28/2026,George Washington,La Salle,9,6,0,0,L,La Salle,La-Salle,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/29/2026,George Washington,La Salle,4,8,0,0,W,La Salle,La-Salle,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/31/2026,Bucknell,La Salle,7,3,0,0,L,La Salle,La-Salle,Bucknell,1,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+04/01/2026,La Salle,Iona,18,13,0,0,W,La Salle,La-Salle,Iona,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/02/2026,La Salle,Richmond,0,6,0,0,L,La Salle,La-Salle,Richmond,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/03/2026,La Salle,Richmond,7,16,0,0,L,La Salle,La-Salle,Richmond,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/04/2026,La Salle,Richmond,2,4,0,0,L,La Salle,La-Salle,Richmond,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/08/2026,Saint Peter's,La Salle,3,19,0,0,W,La Salle,La-Salle,Saint-Peters,1,7,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+04/10/2026,Rhode Island,La Salle,7,6,0,0,L,La Salle,La-Salle,Rhode-Island,1,12,"Kingston, RI / Bill Beck Field",2026,WN2026
+04/11/2026,Rhode Island,La Salle,3,4,0,0,W,La Salle,La-Salle,Rhode-Island,1,9,"Kingston, RI / Bill Beck Field",2026,WN2026
+04/12/2026,Rhode Island,La Salle,9,6,0,0,L,La Salle,La-Salle,Rhode-Island,1,9,"Kingston, RI / Bill Beck Field",2026,WN2026
+04/17/2026,La Salle,Fordham,7,9,0,0,L,La Salle,La-Salle,Fordham,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/18/2026,La Salle,Fordham,4,5,0,0,L,La Salle,La-Salle,Fordham,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/18/2026,La Salle,Fordham,3,10,0,0,L,La Salle,La-Salle,Fordham,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/21/2026,La Salle,Manhattan,14,4,0,0,W,La Salle,La-Salle,Manhattan,0,8,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/24/2026,La Salle,Saint Joseph's,5,6,0,0,L,La Salle,La-Salle,Saint-Josephs,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/24/2026,La Salle,Saint Joseph's,6,15,0,0,L,La Salle,La-Salle,Saint-Josephs,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/26/2026,La Salle,Saint Joseph's,2,12,0,0,L,La Salle,La-Salle,Saint-Josephs,0,7,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/28/2026,La Salle,UMBC,9,2,0,0,W,La Salle,La-Salle,UMBC,0,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/29/2026,Iona,La Salle,0,8,0,0,W,La Salle,La-Salle,Iona,1,9,"New Rochelle, NY / City Park",2026,WN2026
+05/01/2026,Dayton,La Salle,12,9,0,0,L,La Salle,La-Salle,Dayton,1,9,"Dayton, OH / Woerner Field",2026,WN2026
+05/02/2026,Dayton,La Salle,5,6,0,0,W,La Salle,La-Salle,Dayton,1,9,"Dayton, OH / Woerner Field",2026,WN2026
+05/03/2026,Dayton,La Salle,21,14,0,0,L,La Salle,La-Salle,Dayton,1,9,"Dayton, OH / Woerner Field",2026,WN2026
+05/08/2026,La Salle,Saint Bonaventure,11,8,0,0,W,La Salle,La-Salle,Saint-Bonaventure,0,9,"Philadelphia, PA / DeVincent Field / Box Score",2026,WN2026
+05/08/2026,La Salle,Saint Bonaventure,18,9,0,0,W,La Salle,La-Salle,Saint-Bonaventure,0,9,"Philadelphia, PA / DeVincent Field / Box Score",2026,WN2026
+05/10/2026,La Salle,Saint Bonaventure,10,8,0,0,W,La Salle,La-Salle,Saint-Bonaventure,0,9,"Philadelphia, PA / DeVincent Field / Box Score",2026,WN2026
+05/14/2026,George Mason,La Salle,17,5,0,0,L,La Salle,La-Salle,George-Mason,1,9,"Fairfax, VA / Spuhler Field / Box Score",2026,WN2026
+05/15/2026,George Mason,La Salle,10,4,0,0,L,La Salle,La-Salle,George-Mason,1,9,"Fairfax, VA / Spuhler Field / Box Score",2026,WN2026
+05/16/2026,George Mason,La Salle,8,7,0,0,L,La Salle,La-Salle,George-Mason,1,9,"Fairfax, VA / Spuhler Field / Box Score",2026,WN2026

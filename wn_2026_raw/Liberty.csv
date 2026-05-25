@@ -1,0 +1,61 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,The Citadel,Liberty,3,7,0,0,W,Liberty,Liberty,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park",2026,WN2026
+02/14/2026,The Citadel,Liberty,4,3,0,0,L,Liberty,Liberty,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park",2026,WN2026
+02/15/2026,The Citadel,Liberty,4,5,0,0,W,Liberty,Liberty,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park",2026,WN2026
+02/20/2026,Liberty,West Virginia,0,12,0,0,L,Liberty,Liberty,West-Virginia,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+02/21/2026,Liberty,West Virginia,0,2,0,0,L,Liberty,Liberty,West-Virginia,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+02/21/2026,Liberty,West Virginia,4,1,0,0,W,Liberty,Liberty,West-Virginia,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+02/25/2026,Liberty,High Point,9,3,0,0,W,Liberty,Liberty,High-Point,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+02/27/2026,Liberty,Hofstra,7,2,0,0,W,Liberty,Liberty,Hofstra,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+02/28/2026,Liberty,Hofstra,13,2,0,0,W,Liberty,Liberty,Hofstra,0,7,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/01/2026,Liberty,Hofstra,10,7,0,0,W,Liberty,Liberty,Hofstra,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/03/2026,High Point,Liberty,0,8,0,0,W,Liberty,Liberty,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+03/06/2026,Liberty,Harvard,9,3,0,0,W,Liberty,Liberty,Harvard,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/07/2026,Liberty,Harvard,11,7,0,0,W,Liberty,Liberty,Harvard,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/08/2026,Liberty,Harvard,5,4,0,0,W,Liberty,Liberty,Harvard,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/10/2026,UNCG,Liberty,10,12,0,0,W,Liberty,Liberty,UNCG,1,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+03/13/2026,Liberty,Missouri State,3,4,0,0,L,Liberty,Liberty,Missouri-State,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/14/2026,Liberty,Missouri State,11,12,0,0,L,Liberty,Liberty,Missouri-State,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/15/2026,Liberty,Missouri State,9,3,0,0,W,Liberty,Liberty,Missouri-State,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/17/2026,Wake Forest,Liberty,11,0,0,0,L,Liberty,Liberty,Wake-Forest,1,7,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+03/18/2026,Liberty,Virginia,12,14,0,0,L,Liberty,Liberty,Virginia,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/20/2026,Kennesaw State,Liberty,0,2,0,0,W,Liberty,Liberty,Kennesaw-State,1,10,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/21/2026,Kennesaw State,Liberty,5,11,0,0,W,Liberty,Liberty,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/22/2026,Kennesaw State,Liberty,4,3,0,0,L,Liberty,Liberty,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/24/2026,Liberty,UNCG,6,7,0,0,L,Liberty,Liberty,UNCG,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/27/2026,Liberty,FIU,4,3,0,0,W,Liberty,Liberty,FIU,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/28/2026,Liberty,FIU,7,1,0,0,W,Liberty,Liberty,FIU,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/29/2026,Liberty,FIU,13,0,0,0,W,Liberty,Liberty,FIU,0,7,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/31/2026,North Carolina State,Liberty,5,7,0,0,W,Liberty,Liberty,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+04/02/2026,Western Kentucky,Liberty,3,8,0,0,W,Liberty,Liberty,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+04/03/2026,Western Kentucky,Liberty,2,6,0,0,W,Liberty,Liberty,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+04/04/2026,Western Kentucky,Liberty,5,6,0,0,W,Liberty,Liberty,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+04/07/2026,Virginia Tech,Liberty,4,11,0,0,W,Liberty,Liberty,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+04/10/2026,Liberty,Jacksonville State,4,8,0,0,L,Liberty,Liberty,Jacksonville-State,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+04/11/2026,Liberty,Jacksonville State,7,6,0,0,W,Liberty,Liberty,Jacksonville-State,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+04/12/2026,Liberty,Jacksonville State,4,2,0,0,W,Liberty,Liberty,Jacksonville-State,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+04/14/2026,Duke,Liberty,7,17,0,0,W,Liberty,Liberty,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+04/17/2026,Dallas Baptist,Liberty,3,17,0,0,W,Liberty,Liberty,Dallas-Baptist,1,8,"Dallas, TX / Horner Ballpark",2026,WN2026
+04/18/2026,Dallas Baptist,Liberty,7,6,0,0,L,Liberty,Liberty,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+04/19/2026,Dallas Baptist,Liberty,8,9,0,0,W,Liberty,Liberty,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+04/21/2026,Liberty,Duke,13,10,0,0,W,Liberty,Liberty,Duke,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+04/22/2026,Virginia,Liberty,5,4,0,0,L,Liberty,Liberty,Virginia,1,9,"Charlottesville, VA / Davenport Field",2026,WN2026
+04/24/2026,Liberty,Delaware,4,5,0,0,L,Liberty,Liberty,Delaware,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+04/25/2026,Liberty,Delaware,10,5,0,0,W,Liberty,Liberty,Delaware,0,7,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+04/26/2026,Liberty,Delaware,14,4,0,0,W,Liberty,Liberty,Delaware,0,8,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+04/28/2026,Liberty,Charlotte,12,2,0,0,W,Liberty,Liberty,Charlotte,0,7,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+05/02/2026,New Mexico State,Liberty,4,15,0,0,W,Liberty,Liberty,New-Mexico-State,1,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+05/02/2026,New Mexico State,Liberty,7,9,0,0,W,Liberty,Liberty,New-Mexico-State,1,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+05/03/2026,New Mexico State,Liberty,4,7,0,0,W,Liberty,Liberty,New-Mexico-State,1,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+05/06/2026,Liberty,Virginia Tech,4,8,0,0,L,Liberty,Liberty,Virginia-Tech,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+05/08/2026,Liberty,Louisiana Tech,3,9,0,0,L,Liberty,Liberty,Louisiana-Tech,0,9,"Lynchburg, VA / Liberty Baseball Stadium / Box Score",2026,WN2026
+05/09/2026,Liberty,Louisiana Tech,6,9,0,0,L,Liberty,Liberty,Louisiana-Tech,0,9,"Lynchburg, VA / Liberty Baseball Stadium / Box Score",2026,WN2026
+05/10/2026,Liberty,Louisiana Tech,3,2,0,0,W,Liberty,Liberty,Louisiana-Tech,0,9,"Lynchburg, VA / Liberty Baseball Stadium / Box Score",2026,WN2026
+05/12/2026,Liberty,Wake Forest,5,7,0,0,L,Liberty,Liberty,Wake-Forest,0,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+05/14/2026,Middle Tennessee,Liberty,8,1,0,0,L,Liberty,Liberty,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field / Box Score",2026,WN2026
+05/15/2026,Middle Tennessee,Liberty,2,10,0,0,W,Liberty,Liberty,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field / Box Score",2026,WN2026
+05/16/2026,Middle Tennessee,Liberty,7,8,0,0,W,Liberty,Liberty,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field / Box Score",2026,WN2026
+05/21/2026,Sam Houston State,Liberty,4,10,0,1,W,Liberty,Liberty,Sam-Houston-State,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+05/22/2026,Louisiana Tech,Liberty,0,6,0,1,W,Liberty,Liberty,Louisiana-Tech,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+05/24/2026,Missouri State,Liberty,5,7,0,1,W,Liberty,Liberty,Missouri-State,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+05/24/2026,Jacksonville State,Liberty,10,0,0,1,L,Liberty,Liberty,Jacksonville-State,0,7,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026

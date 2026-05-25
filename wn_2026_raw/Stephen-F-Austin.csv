@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Stephen F. Austin,Mississippi Valley State,17,2,0,0,W,Stephen F. Austin,Stephen-F-Austin,Mississippi-Valley-State,0,7,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+02/13/2026,Stephen F. Austin,Mississippi Valley State,15,3,0,0,W,Stephen F. Austin,Stephen-F-Austin,Mississippi-Valley-State,0,7,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+02/14/2026,Stephen F. Austin,Mississippi Valley State,14,5,0,0,W,Stephen F. Austin,Stephen-F-Austin,Mississippi-Valley-State,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+02/15/2026,Stephen F. Austin,Mississippi Valley State,10,0,0,0,W,Stephen F. Austin,Stephen-F-Austin,Mississippi-Valley-State,0,7,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+02/20/2026,Arkansas-Pine Bluff,Stephen F. Austin,6,3,0,0,L,Stephen F. Austin,Stephen-F-Austin,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+02/21/2026,Arkansas-Pine Bluff,Stephen F. Austin,4,3,0,0,L,Stephen F. Austin,Stephen-F-Austin,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+02/21/2026,Arkansas-Pine Bluff,Stephen F. Austin,1,2,0,0,W,Stephen F. Austin,Stephen-F-Austin,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+02/22/2026,Arkansas-Pine Bluff,Stephen F. Austin,5,11,0,0,W,Stephen F. Austin,Stephen-F-Austin,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+02/24/2026,Baylor,Stephen F. Austin,9,8,0,0,L,Stephen F. Austin,Stephen-F-Austin,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+02/27/2026,New Orleans,Stephen F. Austin,5,6,0,0,W,Stephen F. Austin,Stephen-F-Austin,New-Orleans,1,9,"New Orleans, LA / Maestri Field",2026,WN2026
+02/28/2026,New Orleans,Stephen F. Austin,1,3,0,0,W,Stephen F. Austin,Stephen-F-Austin,New-Orleans,1,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/01/2026,New Orleans,Stephen F. Austin,12,6,0,0,L,Stephen F. Austin,Stephen-F-Austin,New-Orleans,1,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/04/2026,Abilene Christian,Stephen F. Austin,20,10,0,0,L,Stephen F. Austin,Stephen-F-Austin,Abilene-Christian,1,8,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/06/2026,Stephen F. Austin,Lamar,6,4,0,0,W,Stephen F. Austin,Stephen-F-Austin,Lamar,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+03/07/2026,Stephen F. Austin,Lamar,3,11,0,0,L,Stephen F. Austin,Stephen-F-Austin,Lamar,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+03/08/2026,Stephen F. Austin,Lamar,14,11,0,0,W,Stephen F. Austin,Stephen-F-Austin,Lamar,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+03/10/2026,Texas A&M,Stephen F. Austin,14,1,0,0,L,Stephen F. Austin,Stephen-F-Austin,Texas-AM,1,7,"College Station, TX / Blue Bell Park",2026,WN2026
+03/13/2026,Southeastern Louisiana,Stephen F. Austin,8,1,0,0,L,Stephen F. Austin,Stephen-F-Austin,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/14/2026,Southeastern Louisiana,Stephen F. Austin,8,7,0,0,L,Stephen F. Austin,Stephen-F-Austin,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/15/2026,Southeastern Louisiana,Stephen F. Austin,2,3,0,0,W,Stephen F. Austin,Stephen-F-Austin,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/17/2026,UTA,Stephen F. Austin,1,4,0,0,W,Stephen F. Austin,Stephen-F-Austin,UTA,1,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/20/2026,Stephen F. Austin,Tarleton State,8,9,0,0,L,Stephen F. Austin,Stephen-F-Austin,Tarleton-State,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+03/21/2026,Stephen F. Austin,Tarleton State,6,7,0,0,L,Stephen F. Austin,Stephen-F-Austin,Tarleton-State,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+03/22/2026,Stephen F. Austin,Tarleton State,1,3,0,0,L,Stephen F. Austin,Stephen-F-Austin,Tarleton-State,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+03/25/2026,Stephen F. Austin,Abilene Christian,4,9,0,0,L,Stephen F. Austin,Stephen-F-Austin,Abilene-Christian,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+03/27/2026,Stephen F. Austin,Houston Christian,8,5,0,0,W,Stephen F. Austin,Stephen-F-Austin,Houston-Christian,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+03/28/2026,Stephen F. Austin,Houston Christian,3,4,0,0,L,Stephen F. Austin,Stephen-F-Austin,Houston-Christian,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+03/29/2026,Stephen F. Austin,Houston Christian,5,2,0,0,W,Stephen F. Austin,Stephen-F-Austin,Houston-Christian,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+03/31/2026,Stephen F. Austin,Prairie View A&M,15,3,0,0,W,Stephen F. Austin,Stephen-F-Austin,Prairie-View-AM,0,7,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/02/2026,Texas A&M-Corpus Christi,Stephen F. Austin,3,8,0,0,W,Stephen F. Austin,Stephen-F-Austin,Texas-AM-Corpus-Christi,1,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+04/03/2026,Texas A&M-Corpus Christi,Stephen F. Austin,9,13,0,0,W,Stephen F. Austin,Stephen-F-Austin,Texas-AM-Corpus-Christi,1,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+04/04/2026,Texas A&M-Corpus Christi,Stephen F. Austin,8,3,0,0,L,Stephen F. Austin,Stephen-F-Austin,Texas-AM-Corpus-Christi,1,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+04/08/2026,Texas State,Stephen F. Austin,10,0,0,0,L,Stephen F. Austin,Stephen-F-Austin,Texas-State,1,7,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/10/2026,Stephen F. Austin,UTRGV,7,2,0,0,W,Stephen F. Austin,Stephen-F-Austin,UTRGV,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/11/2026,Stephen F. Austin,UTRGV,5,3,0,0,W,Stephen F. Austin,Stephen-F-Austin,UTRGV,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/12/2026,Stephen F. Austin,UTRGV,3,9,0,0,L,Stephen F. Austin,Stephen-F-Austin,UTRGV,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/14/2026,Prairie View A&M,Stephen F. Austin,7,13,0,0,W,Stephen F. Austin,Stephen-F-Austin,Prairie-View-AM,1,9,"Prairie View, TX / Tankersley Field",2026,WN2026
+04/15/2026,Stephen F. Austin,Alcorn State,16,8,0,0,W,Stephen F. Austin,Stephen-F-Austin,Alcorn-State,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/17/2026,Stephen F. Austin,Nicholls,4,9,0,0,L,Stephen F. Austin,Stephen-F-Austin,Nicholls,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/18/2026,Stephen F. Austin,Nicholls,3,24,0,0,L,Stephen F. Austin,Stephen-F-Austin,Nicholls,0,7,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/19/2026,Stephen F. Austin,Nicholls,0,5,0,0,L,Stephen F. Austin,Stephen-F-Austin,Nicholls,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/24/2026,Northwestern State,Stephen F. Austin,11,8,0,0,L,Stephen F. Austin,Stephen-F-Austin,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+04/25/2026,Northwestern State,Stephen F. Austin,2,1,0,0,L,Stephen F. Austin,Stephen-F-Austin,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+04/26/2026,Northwestern State,Stephen F. Austin,8,11,0,0,W,Stephen F. Austin,Stephen-F-Austin,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+04/28/2026,Stephen F. Austin,Houston,5,2,0,0,W,Stephen F. Austin,Stephen-F-Austin,Houston,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+05/02/2026,Stephen F. Austin,McNeese,1,6,0,0,L,Stephen F. Austin,Stephen-F-Austin,McNeese,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+05/02/2026,Stephen F. Austin,McNeese,7,4,0,0,W,Stephen F. Austin,Stephen-F-Austin,McNeese,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+05/03/2026,Stephen F. Austin,McNeese,1,7,0,0,L,Stephen F. Austin,Stephen-F-Austin,McNeese,0,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+05/07/2026,Incarnate Word,Stephen F. Austin,2,4,0,0,W,Stephen F. Austin,Stephen-F-Austin,Incarnate-Word,1,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+05/08/2026,Incarnate Word,Stephen F. Austin,9,8,0,0,L,Stephen F. Austin,Stephen-F-Austin,Incarnate-Word,1,12,"San Antonio, TX / Daniel Sullivan Field / Box Score",2026,WN2026
+05/09/2026,Incarnate Word,Stephen F. Austin,6,9,0,0,W,Stephen F. Austin,Stephen-F-Austin,Incarnate-Word,1,9,"San Antonio, TX / Daniel Sullivan Field / Box Score",2026,WN2026
+05/14/2026,Lamar,Stephen F. Austin,0,2,0,1,W,Stephen F. Austin,Stephen-F-Austin,Lamar,0,9,"Beaumont, TX / Vincent-Beck Stadium / Box Score",2026,WN2026
+05/15/2026,Northwestern State,Stephen F. Austin,4,6,0,1,W,Stephen F. Austin,Stephen-F-Austin,Northwestern-State,0,9,"Beaumont, TX / Vincent-Beck Stadium / Box Score",2026,WN2026
+05/16/2026,Lamar,Stephen F. Austin,4,2,0,1,L,Stephen F. Austin,Stephen-F-Austin,Lamar,0,9,"Beaumont, TX / Vincent-Beck Stadium / Box Score",2026,WN2026
+05/17/2026,Lamar,Stephen F. Austin,11,0,0,1,L,Stephen F. Austin,Stephen-F-Austin,Lamar,0,7,"Beaumont, TX / Vincent-Beck Stadium / Box Score",2026,WN2026

@@ -1,0 +1,51 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Charlotte,San Diego,4,7,0,0,W,San Diego,San-Diego,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+02/14/2026,Charlotte,San Diego,13,0,0,0,L,San Diego,San-Diego,Charlotte,1,7,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+02/14/2026,Charlotte,San Diego,4,14,0,0,W,San Diego,San-Diego,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+02/17/2026,Long Beach State,San Diego,3,6,0,0,W,San Diego,San-Diego,Long-Beach-State,1,11,"Long Beach, CA / Blair Field",2026,WN2026
+02/20/2026,San Diego,Utah,8,4,0,0,W,San Diego,San-Diego,Utah,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+02/21/2026,San Diego,Creighton,15,5,0,0,W,San Diego,San-Diego,Creighton,0,7,"San Diego, CA / Fowler Park",2026,WN2026
+02/22/2026,San Diego State,San Diego,4,15,0,0,W,San Diego,San-Diego,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+02/24/2026,UC San Diego,San Diego,8,7,0,0,L,San Diego,San-Diego,UC-San-Diego,1,10,"La Jolla, CA / Triton Park",2026,WN2026
+02/27/2026,San Diego,Michigan,6,5,0,0,W,San Diego,San-Diego,Michigan,0,10,"San Diego, CA / Fowler Park",2026,WN2026
+02/28/2026,San Diego,Michigan,0,9,0,0,L,San Diego,San-Diego,Michigan,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+03/01/2026,San Diego,Michigan,2,9,0,0,L,San Diego,San-Diego,Michigan,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+03/06/2026,California,San Diego,11,1,0,0,L,San Diego,San-Diego,California,1,8,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/07/2026,California,San Diego,15,9,0,0,L,San Diego,San-Diego,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/07/2026,California,San Diego,9,1,0,0,L,San Diego,San-Diego,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/08/2026,California,San Diego,5,2,0,0,L,San Diego,San-Diego,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+03/11/2026,USC,San Diego,7,6,0,0,L,San Diego,San-Diego,USC,1,10,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/13/2026,San Diego,Oregon State,5,7,0,0,L,San Diego,San-Diego,Oregon-State,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+03/14/2026,San Diego,Oregon State,5,11,0,0,L,San Diego,San-Diego,Oregon-State,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+03/15/2026,San Diego,Oregon State,3,10,0,0,L,San Diego,San-Diego,Oregon-State,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+03/20/2026,San Diego,Gonzaga,7,6,0,0,W,San Diego,San-Diego,Gonzaga,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+03/21/2026,San Diego,Gonzaga,5,7,0,0,L,San Diego,San-Diego,Gonzaga,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+03/22/2026,San Diego,Gonzaga,6,11,0,0,L,San Diego,San-Diego,Gonzaga,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+03/24/2026,San Diego,Cal State Fullerton,6,11,0,0,L,San Diego,San-Diego,Cal-State-Fullerton,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+03/27/2026,Pepperdine,San Diego,1,5,0,0,W,San Diego,San-Diego,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+03/28/2026,Pepperdine,San Diego,3,0,0,0,L,San Diego,San-Diego,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+03/29/2026,Pepperdine,San Diego,7,4,0,0,L,San Diego,San-Diego,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+04/02/2026,San Diego,Santa Clara,5,1,0,0,W,San Diego,San-Diego,Santa-Clara,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+04/03/2026,San Diego,Santa Clara,6,1,0,0,W,San Diego,San-Diego,Santa-Clara,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+04/04/2026,San Diego,Santa Clara,13,7,0,0,W,San Diego,San-Diego,Santa-Clara,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+04/07/2026,UC Irvine,San Diego,13,5,0,0,L,San Diego,San-Diego,UC-Irvine,1,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+04/10/2026,San Francisco,San Diego,2,9,0,0,W,San Diego,San-Diego,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+04/11/2026,San Francisco,San Diego,7,5,0,0,L,San Diego,San-Diego,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+04/12/2026,San Francisco,San Diego,6,1,0,0,L,San Diego,San-Diego,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+04/14/2026,Cal State Fullerton,San Diego,13,0,0,0,L,San Diego,San-Diego,Cal-State-Fullerton,1,7,"Fullerton, CA / Goodwin Field",2026,WN2026
+04/17/2026,San Diego,Seattle University,4,7,0,0,L,San Diego,San-Diego,Seattle-University,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+04/18/2026,San Diego,Seattle University,6,11,0,0,L,San Diego,San-Diego,Seattle-University,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+04/19/2026,San Diego,Seattle University,13,12,0,0,W,San Diego,San-Diego,Seattle-University,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+04/21/2026,San Diego,UC San Diego,6,5,0,0,W,San Diego,San-Diego,UC-San-Diego,0,10,"San Diego, CA / Fowler Park",2026,WN2026
+04/24/2026,San Diego,Saint Mary's College,4,10,0,0,L,San Diego,San-Diego,Saint-Marys-College,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+04/25/2026,San Diego,Saint Mary's College,3,14,0,0,L,San Diego,San-Diego,Saint-Marys-College,0,7,"San Diego, CA / Fowler Park",2026,WN2026
+04/26/2026,San Diego,Saint Mary's College,16,6,0,0,W,San Diego,San-Diego,Saint-Marys-College,0,8,"San Diego, CA / Fowler Park",2026,WN2026
+04/30/2026,Portland,San Diego,9,6,0,0,L,San Diego,San-Diego,Portland,1,9,"Portland, OR / Joe Etzel Field",2026,WN2026
+05/01/2026,Portland,San Diego,4,8,0,0,W,San Diego,San-Diego,Portland,1,9,"Portland, OR / Joe Etzel Field",2026,WN2026
+05/02/2026,Portland,San Diego,9,5,0,0,L,San Diego,San-Diego,Portland,1,9,"Portland, OR / Joe Etzel Field",2026,WN2026
+05/05/2026,San Diego,UC Irvine,4,9,0,0,L,San Diego,San-Diego,UC-Irvine,0,9,"San Diego, CA / Fowler Park",2026,WN2026
+05/08/2026,Pacific,San Diego,6,4,0,0,L,San Diego,San-Diego,Pacific,1,9,"Stockton, CA / Klein Family Field / Box Score",2026,WN2026
+05/09/2026,Pacific,San Diego,18,6,0,0,L,San Diego,San-Diego,Pacific,1,7,"Stockton, CA / Klein Family Field / Box Score",2026,WN2026
+05/14/2026,San Diego,Loyola-Marymount,17,8,0,0,W,San Diego,San-Diego,Loyola-Marymount,0,9,"San Diego, CA / Fowler Park / Box Score",2026,WN2026
+05/15/2026,San Diego,Loyola-Marymount,7,3,0,0,W,San Diego,San-Diego,Loyola-Marymount,0,9,"San Diego, CA / Fowler Park / Box Score",2026,WN2026
+05/16/2026,San Diego,Loyola-Marymount,9,8,0,0,W,San Diego,San-Diego,Loyola-Marymount,0,10,"San Diego, CA / Fowler Park / Box Score",2026,WN2026

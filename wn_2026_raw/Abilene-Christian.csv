@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Abilene Christian,Saint Thomas,7,1,0,0,W,Abilene Christian,Abilene-Christian,Saint-Thomas,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+02/14/2026,Abilene Christian,Saint Thomas,6,5,0,0,W,Abilene Christian,Abilene-Christian,Saint-Thomas,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+02/14/2026,Abilene Christian,Saint Thomas,10,11,0,0,L,Abilene Christian,Abilene-Christian,Saint-Thomas,0,10,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+02/15/2026,Abilene Christian,Saint Thomas,13,2,0,0,W,Abilene Christian,Abilene-Christian,Saint-Thomas,0,7,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+02/17/2026,Dallas Baptist,Abilene Christian,12,3,0,0,L,Abilene Christian,Abilene-Christian,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+02/20/2026,Abilene Christian,Oral Roberts,2,9,0,0,L,Abilene Christian,Abilene-Christian,Oral-Roberts,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+02/21/2026,Abilene Christian,Oral Roberts,12,3,0,0,W,Abilene Christian,Abilene-Christian,Oral-Roberts,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+02/22/2026,Abilene Christian,Oral Roberts,8,7,0,0,W,Abilene Christian,Abilene-Christian,Oral-Roberts,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+02/27/2026,Texas State,Abilene Christian,5,4,0,1,L,Abilene Christian,Abilene-Christian,Texas-State,0,9,"Cleburne, TX / La Moderna Field",2026,WN2026
+02/28/2026,Creighton,Abilene Christian,11,12,0,1,W,Abilene Christian,Abilene-Christian,Creighton,0,9,"Cleburne, TX / La Moderna Field",2026,WN2026
+03/01/2026,Texas State,Abilene Christian,3,0,0,1,L,Abilene Christian,Abilene-Christian,Texas-State,0,9,"Cleburne, TX / La Moderna Field",2026,WN2026
+03/03/2026,TCU,Abilene Christian,7,6,0,0,L,Abilene Christian,Abilene-Christian,TCU,1,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/04/2026,Abilene Christian,Stephen F. Austin,20,10,0,0,W,Abilene Christian,Abilene-Christian,Stephen-F-Austin,0,8,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/06/2026,Abilene Christian,Rice,4,5,0,0,L,Abilene Christian,Abilene-Christian,Rice,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/07/2026,Abilene Christian,Rice,6,8,0,0,L,Abilene Christian,Abilene-Christian,Rice,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/08/2026,Abilene Christian,Rice,4,1,0,0,W,Abilene Christian,Abilene-Christian,Rice,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/11/2026,Incarnate Word,Abilene Christian,13,1,0,0,L,Abilene Christian,Abilene-Christian,Incarnate-Word,1,7,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+03/13/2026,Abilene Christian,Loyola-Marymount,0,3,0,0,L,Abilene Christian,Abilene-Christian,Loyola-Marymount,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/14/2026,Abilene Christian,Loyola-Marymount,11,5,0,0,W,Abilene Christian,Abilene-Christian,Loyola-Marymount,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/15/2026,Abilene Christian,Loyola-Marymount,22,11,0,0,W,Abilene Christian,Abilene-Christian,Loyola-Marymount,0,7,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/18/2026,Abilene Christian,Incarnate Word,8,9,0,0,L,Abilene Christian,Abilene-Christian,Incarnate-Word,0,11,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/20/2026,New Mexico,Abilene Christian,5,12,0,0,W,Abilene Christian,Abilene-Christian,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/21/2026,New Mexico,Abilene Christian,7,11,0,0,W,Abilene Christian,Abilene-Christian,New-Mexico,1,10,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/22/2026,New Mexico,Abilene Christian,11,5,0,0,L,Abilene Christian,Abilene-Christian,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/25/2026,Stephen F. Austin,Abilene Christian,4,9,0,0,W,Abilene Christian,Abilene-Christian,Stephen-F-Austin,1,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+03/27/2026,McNeese,Abilene Christian,4,6,0,0,W,Abilene Christian,Abilene-Christian,McNeese,1,9,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+03/28/2026,McNeese,Abilene Christian,6,7,0,0,W,Abilene Christian,Abilene-Christian,McNeese,1,9,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+03/29/2026,McNeese,Abilene Christian,11,10,0,0,L,Abilene Christian,Abilene-Christian,McNeese,1,9,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+03/31/2026,Texas Tech,Abilene Christian,15,4,0,0,L,Abilene Christian,Abilene-Christian,Texas-Tech,1,8,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/02/2026,Abilene Christian,California Baptist,1,5,0,0,L,Abilene Christian,Abilene-Christian,California-Baptist,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/03/2026,Abilene Christian,California Baptist,2,3,0,0,L,Abilene Christian,Abilene-Christian,California-Baptist,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/04/2026,Abilene Christian,California Baptist,9,8,0,0,W,Abilene Christian,Abilene-Christian,California-Baptist,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/07/2026,Abilene Christian,TCU,4,1,0,0,W,Abilene Christian,Abilene-Christian,TCU,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/09/2026,Tarleton State,Abilene Christian,10,5,0,0,L,Abilene Christian,Abilene-Christian,Tarleton-State,1,9,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+04/10/2026,Tarleton State,Abilene Christian,4,11,0,0,W,Abilene Christian,Abilene-Christian,Tarleton-State,1,9,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+04/11/2026,Tarleton State,Abilene Christian,10,9,0,0,L,Abilene Christian,Abilene-Christian,Tarleton-State,1,9,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+04/17/2026,Indiana,Abilene Christian,13,3,0,0,L,Abilene Christian,Abilene-Christian,Indiana,1,7,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/18/2026,Indiana,Abilene Christian,4,8,0,0,W,Abilene Christian,Abilene-Christian,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/19/2026,Indiana,Abilene Christian,5,4,0,0,L,Abilene Christian,Abilene-Christian,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/22/2026,Abilene Christian,Texas Tech,1,9,0,0,L,Abilene Christian,Abilene-Christian,Texas-Tech,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/24/2026,Abilene Christian,UTA,6,11,0,0,L,Abilene Christian,Abilene-Christian,UTA,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/25/2026,Abilene Christian,UTA,9,8,0,0,W,Abilene Christian,Abilene-Christian,UTA,0,10,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/26/2026,Abilene Christian,UTA,14,4,0,0,W,Abilene Christian,Abilene-Christian,UTA,0,7,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/28/2026,Abilene Christian,Dallas Baptist,4,16,0,0,L,Abilene Christian,Abilene-Christian,Dallas-Baptist,0,8,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+05/01/2026,Sacramento State,Abilene Christian,2,7,0,0,W,Abilene Christian,Abilene-Christian,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+05/02/2026,Sacramento State,Abilene Christian,4,3,0,0,L,Abilene Christian,Abilene-Christian,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+05/03/2026,Sacramento State,Abilene Christian,11,13,0,0,W,Abilene Christian,Abilene-Christian,Sacramento-State,1,10,"Sacramento, CA / John Smith Field",2026,WN2026
+05/05/2026,Abilene Christian,UTRGV,7,13,0,0,L,Abilene Christian,Abilene-Christian,UTRGV,0,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+05/08/2026,Abilene Christian,Utah Valley,9,2,0,0,W,Abilene Christian,Abilene-Christian,Utah-Valley,0,9,"Abilene, TX / Crutcher Scott Field / Box Score",2026,WN2026
+05/09/2026,Abilene Christian,Utah Valley,3,5,0,0,L,Abilene Christian,Abilene-Christian,Utah-Valley,0,9,"Abilene, TX / Crutcher Scott Field / Box Score",2026,WN2026
+05/10/2026,Abilene Christian,Utah Valley,16,6,0,0,W,Abilene Christian,Abilene-Christian,Utah-Valley,0,8,"Abilene, TX / Crutcher Scott Field / Box Score",2026,WN2026
+05/14/2026,Utah Tech,Abilene Christian,22,12,0,0,L,Abilene Christian,Abilene-Christian,Utah-Tech,1,8,"Saint George, UT / Bruce Hurst Field / Box Score",2026,WN2026
+05/15/2026,Utah Tech,Abilene Christian,7,4,0,0,L,Abilene Christian,Abilene-Christian,Utah-Tech,1,9,"Saint George, UT / Bruce Hurst Field / Box Score",2026,WN2026
+05/16/2026,Utah Tech,Abilene Christian,19,8,0,0,L,Abilene Christian,Abilene-Christian,Utah-Tech,1,8,"Saint George, UT / Bruce Hurst Field / Box Score",2026,WN2026
+05/20/2026,Sacramento State,Abilene Christian,9,4,0,1,L,Abilene Christian,Abilene-Christian,Sacramento-State,0,9,"Mesa, AZ / Hohokam Stadium / Box Score / Recap",2026,WN2026
+05/20/2026,UTA,Abilene Christian,3,5,0,1,W,Abilene Christian,Abilene-Christian,UTA,0,9,"Mesa, AZ / Hohokam Stadium",2026,WN2026
+05/21/2026,Utah Tech,Abilene Christian,6,5,0,1,L,Abilene Christian,Abilene-Christian,Utah-Tech,0,9,"Mesa, AZ / Hohokam Stadium",2026,WN2026

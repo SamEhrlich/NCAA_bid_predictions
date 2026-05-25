@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,East Tennessee State,Marist,6,5,0,0,L,Marist,Marist,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/14/2026,East Tennessee State,Marist,7,5,0,0,L,Marist,Marist,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/14/2026,East Tennessee State,Marist,7,2,0,0,L,Marist,Marist,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/20/2026,Vanderbilt,Marist,16,5,0,0,L,Marist,Marist,Vanderbilt,1,8,"Nashville, TN / Hawkins Field",2026,WN2026
+02/21/2026,Vanderbilt,Marist,12,1,0,0,L,Marist,Marist,Vanderbilt,1,7,"Nashville, TN / Hawkins Field",2026,WN2026
+02/22/2026,Vanderbilt,Marist,8,1,0,0,L,Marist,Marist,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+02/27/2026,Purdue,Marist,9,4,0,1,L,Marist,Marist,Purdue,0,9,"Holly Springs, NC",2026,WN2026
+02/28/2026,Purdue,Marist,11,10,0,1,L,Marist,Marist,Purdue,0,9,"Holly Springs, NC",2026,WN2026
+02/28/2026,Purdue,Marist,8,2,0,1,L,Marist,Marist,Purdue,0,9,"Holly Springs, NC",2026,WN2026
+03/01/2026,Purdue,Marist,18,1,0,1,L,Marist,Marist,Purdue,0,7,"Holly Springs, NC",2026,WN2026
+03/06/2026,Marist,Manhattan,10,12,0,0,L,Marist,Marist,Manhattan,0,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/07/2026,Marist,Manhattan,17,5,0,0,W,Marist,Marist,Manhattan,0,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/08/2026,Marist,Manhattan,14,7,0,0,W,Marist,Marist,Manhattan,0,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/11/2026,Saint John's,Marist,3,1,0,0,L,Marist,Marist,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/13/2026,Marist,Saint Peter's,5,4,0,0,W,Marist,Marist,Saint-Peters,0,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/14/2026,Marist,Saint Peter's,4,3,0,0,W,Marist,Marist,Saint-Peters,0,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/15/2026,Marist,Saint Peter's,11,5,0,0,W,Marist,Marist,Saint-Peters,0,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/17/2026,Fairleigh Dickinson,Marist,16,1,0,0,L,Marist,Marist,Fairleigh-Dickinson,1,7,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+03/18/2026,Fordham,Marist,10,5,0,0,L,Marist,Marist,Fordham,1,9,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+03/20/2026,Iona,Marist,0,1,0,0,W,Marist,Marist,Iona,1,9,"New Rochelle, NY / City Park",2026,WN2026
+03/21/2026,Iona,Marist,5,3,0,0,L,Marist,Marist,Iona,1,9,"New Rochelle, NY / City Park",2026,WN2026
+03/22/2026,Iona,Marist,3,10,0,0,W,Marist,Marist,Iona,1,9,"New Rochelle, NY / City Park",2026,WN2026
+03/25/2026,Marist,Saint John's,10,15,0,0,L,Marist,Marist,Saint-Johns,0,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/27/2026,Marist,Siena,11,0,0,0,W,Marist,Marist,Siena,0,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/28/2026,Marist,Siena,6,5,0,0,W,Marist,Marist,Siena,0,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/29/2026,Marist,Siena,13,6,0,0,W,Marist,Marist,Siena,0,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/31/2026,Marist,NJIT,9,11,0,0,L,Marist,Marist,NJIT,0,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+04/02/2026,Rider,Marist,9,2,0,0,L,Marist,Marist,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+04/03/2026,Rider,Marist,3,8,0,0,W,Marist,Marist,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+04/04/2026,Rider,Marist,9,3,0,0,L,Marist,Marist,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+04/10/2026,Marist,Quinnipiac,7,5,0,0,W,Marist,Marist,Quinnipiac,0,9,"Poughkeepsie, NY / James J. McCann Baseball Field",2026,WN2026
+04/11/2026,Marist,Quinnipiac,9,2,0,0,W,Marist,Marist,Quinnipiac,0,9,"Poughkeepsie, NY / James J. McCann Baseball Field",2026,WN2026
+04/12/2026,Marist,Quinnipiac,2,6,0,0,L,Marist,Marist,Quinnipiac,0,9,"Poughkeepsie, NY / James J. McCann Baseball Field",2026,WN2026
+04/14/2026,Rutgers,Marist,3,10,0,0,W,Marist,Marist,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/17/2026,Niagara,Marist,10,6,0,0,L,Marist,Marist,Niagara,1,9,"Lewiston, NY / Bobo Field",2026,WN2026
+04/18/2026,Niagara,Marist,8,3,0,0,L,Marist,Marist,Niagara,1,9,"Lewiston, NY / Bobo Field",2026,WN2026
+04/19/2026,Niagara,Marist,11,6,0,0,L,Marist,Marist,Niagara,1,9,"Lewiston, NY / Bobo Field",2026,WN2026
+04/21/2026,Army,Marist,4,5,0,0,W,Marist,Marist,Army,1,9,"West Point, NY / Doubleday Field",2026,WN2026
+04/24/2026,Merrimack,Marist,8,0,0,0,L,Marist,Marist,Merrimack,1,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+04/25/2026,Merrimack,Marist,3,18,0,0,W,Marist,Marist,Merrimack,1,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+04/26/2026,Merrimack,Marist,13,7,0,0,L,Marist,Marist,Merrimack,1,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+04/28/2026,Albany,Marist,5,10,0,0,W,Marist,Marist,Albany,1,9,"Albany, NY / Varsity Field",2026,WN2026
+05/01/2026,Marist,Sacred Heart,9,1,0,0,W,Marist,Marist,Sacred-Heart,0,9,"Poughkeepsie, NY / James J. McCann Baseball Field",2026,WN2026
+05/02/2026,Marist,Sacred Heart,1,15,0,0,L,Marist,Marist,Sacred-Heart,0,9,"Poughkeepsie, NY / James J. McCann Baseball Field",2026,WN2026
+05/03/2026,Marist,Sacred Heart,10,6,0,0,W,Marist,Marist,Sacred-Heart,0,9,"Poughkeepsie, NY / James J. McCann Baseball Field",2026,WN2026
+05/05/2026,Marist,Albany,12,10,0,0,W,Marist,Marist,Albany,0,9,"Poughkeepsie, NY / James J. McCann Baseball Field",2026,WN2026
+05/08/2026,Fairfield,Marist,4,0,0,0,L,Marist,Marist,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond / Box Score",2026,WN2026
+05/08/2026,Fairfield,Marist,3,4,0,0,W,Marist,Marist,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond / Box Score",2026,WN2026
+05/10/2026,Fairfield,Marist,12,7,0,0,L,Marist,Marist,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond / Box Score",2026,WN2026
+05/15/2026,Marist,Bryant,3,2,0,0,W,Marist,Marist,Bryant,0,7,"Poughkeepsie, NY / James J. McCann Baseball Field / Box Score",2026,WN2026
+05/15/2026,Marist,Bryant,9,2,0,0,W,Marist,Marist,Bryant,0,7,"Poughkeepsie, NY / James J. McCann Baseball Field / Box Score",2026,WN2026
+05/20/2026,Fairfield,Marist,6,3,0,1,L,Marist,Marist,Fairfield,0,9,"Wappingers Falls, NY / Heritage Financial Park / Box Score / Recap",2026,WN2026
+05/20/2026,Canisius,Marist,8,10,0,1,W,Marist,Marist,Canisius,0,9,"Wappingers Falls, NY / Heritage Financial Park",2026,WN2026
+05/21/2026,Merrimack,Marist,8,13,0,1,W,Marist,Marist,Merrimack,0,9,"Wappingers Falls, NY / Heritage Financial Park",2026,WN2026
+05/22/2026,Niagara,Marist,6,2,0,1,L,Marist,Marist,Niagara,0,9,"Wappingers Falls, NY / Heritage Financial Park",2026,WN2026

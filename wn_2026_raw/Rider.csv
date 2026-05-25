@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/20/2026,UNC Asheville,Rider,5,6,0,0,W,Rider,Rider,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+02/21/2026,UNC Asheville,Rider,8,10,0,0,W,Rider,Rider,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+02/21/2026,UNC Asheville,Rider,2,10,0,0,W,Rider,Rider,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+02/27/2026,Delaware,Rider,13,8,0,0,L,Rider,Rider,Delaware,1,9,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+02/28/2026,Delaware,Rider,5,4,0,0,L,Rider,Rider,Delaware,1,9,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+03/01/2026,Delaware,Rider,5,4,0,0,L,Rider,Rider,Delaware,1,9,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+03/06/2026,Sacred Heart,Rider,1,5,0,0,W,Rider,Rider,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park",2026,WN2026
+03/07/2026,Sacred Heart,Rider,3,9,0,0,W,Rider,Rider,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park",2026,WN2026
+03/08/2026,Sacred Heart,Rider,5,4,0,0,L,Rider,Rider,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park",2026,WN2026
+03/10/2026,Long Island,Rider,6,7,0,0,W,Rider,Rider,Long-Island,1,9,"Brooklyn, NY / Long Island University Field",2026,WN2026
+03/11/2026,Hofstra,Rider,16,6,0,0,L,Rider,Rider,Hofstra,1,8,"Hempstead, NY / University Field",2026,WN2026
+03/13/2026,Rider,Siena,4,3,0,0,W,Rider,Rider,Siena,0,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+03/14/2026,Rider,Siena,10,1,0,0,W,Rider,Rider,Siena,0,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+03/15/2026,Rider,Siena,12,7,0,0,W,Rider,Rider,Siena,0,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+03/20/2026,Mount Saint Mary's,Rider,8,9,0,0,W,Rider,Rider,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/21/2026,Mount Saint Mary's,Rider,2,6,0,0,W,Rider,Rider,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/22/2026,Mount Saint Mary's,Rider,5,10,0,0,W,Rider,Rider,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/25/2026,Saint Joseph's,Rider,11,10,0,0,L,Rider,Rider,Saint-Josephs,1,9,"Merion Station, PA / Smithson Field",2026,WN2026
+03/27/2026,Rider,Canisius,15,3,0,0,W,Rider,Rider,Canisius,0,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+03/28/2026,Rider,Canisius,2,8,0,0,L,Rider,Rider,Canisius,0,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+03/29/2026,Rider,Canisius,15,7,0,0,W,Rider,Rider,Canisius,0,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+03/31/2026,Delaware,Rider,5,10,0,0,W,Rider,Rider,Delaware,1,9,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+04/02/2026,Rider,Marist,9,2,0,0,W,Rider,Rider,Marist,0,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+04/03/2026,Rider,Marist,3,8,0,0,L,Rider,Rider,Marist,0,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+04/04/2026,Rider,Marist,9,3,0,0,W,Rider,Rider,Marist,0,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+04/07/2026,NJIT,Rider,11,1,0,0,L,Rider,Rider,NJIT,1,7,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/08/2026,Saint Joseph's,Rider,11,10,0,0,L,Rider,Rider,Saint-Josephs,1,9,"Merion Station, PA / Smithson Field",2026,WN2026
+04/10/2026,Fairfield,Rider,10,3,0,0,L,Rider,Rider,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/11/2026,Fairfield,Rider,3,6,0,0,W,Rider,Rider,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/12/2026,Fairfield,Rider,8,9,0,0,W,Rider,Rider,Fairfield,1,13,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/14/2026,Seton Hall,Rider,2,3,0,0,W,Rider,Rider,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/15/2026,Princeton,Rider,10,9,0,0,L,Rider,Rider,Princeton,1,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+04/17/2026,Rider,Manhattan,8,2,0,0,W,Rider,Rider,Manhattan,0,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+04/18/2026,Rider,Manhattan,4,6,0,0,L,Rider,Rider,Manhattan,0,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+04/18/2026,Rider,Manhattan,13,9,0,0,W,Rider,Rider,Manhattan,0,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+04/24/2026,Monmouth,Rider,4,14,0,0,W,Rider,Rider,Monmouth,1,9,"West Long Branch, NJ / Monmouth Baseball Field",2026,WN2026
+04/26/2026,Monmouth,Rider,12,2,0,0,L,Rider,Rider,Monmouth,1,8,"West Long Branch, NJ / Monmouth Baseball Field",2026,WN2026
+04/29/2026,Rider,Stony Brook,11,5,0,0,W,Rider,Rider,Stony-Brook,0,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+05/01/2026,Niagara,Rider,12,3,0,0,L,Rider,Rider,Niagara,1,9,"Lewiston, NY / Bobo Field",2026,WN2026
+05/02/2026,Niagara,Rider,2,26,0,0,W,Rider,Rider,Niagara,1,9,"Lewiston, NY / Bobo Field",2026,WN2026
+05/03/2026,Niagara,Rider,1,0,0,0,L,Rider,Rider,Niagara,1,10,"Lewiston, NY / Bobo Field",2026,WN2026
+05/07/2026,Quinnipiac,Rider,3,9,0,0,W,Rider,Rider,Quinnipiac,1,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+05/08/2026,Quinnipiac,Rider,9,4,0,0,L,Rider,Rider,Quinnipiac,1,9,"Hamden, CT / Quinnipiac Baseball Field / Box Score",2026,WN2026
+05/08/2026,Quinnipiac,Rider,2,5,0,0,W,Rider,Rider,Quinnipiac,1,9,"Hamden, CT / Quinnipiac Baseball Field / Box Score",2026,WN2026
+05/14/2026,Rider,Saint Peter's,11,2,0,0,W,Rider,Rider,Saint-Peters,0,9,"Lawrenceville, NJ / Sonny Pittaro Field / Box Score",2026,WN2026
+05/15/2026,Rider,Saint Peter's,4,3,0,0,W,Rider,Rider,Saint-Peters,0,9,"Lawrenceville, NJ / Sonny Pittaro Field / Box Score",2026,WN2026
+05/16/2026,Rider,Saint Peter's,12,5,0,0,W,Rider,Rider,Saint-Peters,0,9,"Lawrenceville, NJ / Sonny Pittaro Field / Box Score",2026,WN2026
+05/21/2026,Merrimack,Rider,2,8,0,1,W,Rider,Rider,Merrimack,0,9,"Wappingers Falls, NY / Heritage Financial Park / Recap",2026,WN2026
+05/22/2026,Fairfield,Rider,1,5,0,1,W,Rider,Rider,Fairfield,0,9,"Wappingers Falls, NY / Heritage Financial Park",2026,WN2026
+05/23/2026,Fairfield,Rider,12,7,0,1,L,Rider,Rider,Fairfield,0,9,"Wappingers Falls, NY / Heritage Financial Park",2026,WN2026
+05/23/2026,Fairfield,Rider,1,6,0,1,W,Rider,Rider,Fairfield,0,9,"Wappingers Falls, NY / Heritage Financial Park",2026,WN2026

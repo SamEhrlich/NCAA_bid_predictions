@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Oklahoma,Texas Tech,10,3,0,1,L,Texas Tech,Texas-Tech,Oklahoma,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/14/2026,Vanderbilt,Texas Tech,13,3,0,1,L,Texas Tech,Texas-Tech,Vanderbilt,0,8,"Arlington, TX / Globe Life Field",2026,WN2026
+02/15/2026,Arkansas,Texas Tech,6,5,0,1,L,Texas Tech,Texas-Tech,Arkansas,0,11,"Arlington, TX / Globe Life Field",2026,WN2026
+02/17/2026,UTRGV,Texas Tech,12,21,0,0,W,Texas Tech,Texas-Tech,UTRGV,1,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+02/20/2026,Texas Tech,Albany,16,8,0,0,W,Texas Tech,Texas-Tech,Albany,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+02/21/2026,Texas Tech,Albany,15,1,0,0,W,Texas Tech,Texas-Tech,Albany,0,7,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+02/21/2026,Texas Tech,Albany,8,6,0,0,W,Texas Tech,Texas-Tech,Albany,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+02/22/2026,Texas Tech,Albany,10,0,0,0,W,Texas Tech,Texas-Tech,Albany,0,8,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+02/27/2026,Texas Tech,Cal State Bakersfield,17,4,0,0,W,Texas Tech,Texas-Tech,Cal-State-Bakersfield,0,7,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+02/28/2026,Texas Tech,Cal State Bakersfield,14,3,0,0,W,Texas Tech,Texas-Tech,Cal-State-Bakersfield,0,7,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/01/2026,Texas Tech,Cal State Bakersfield,8,15,0,0,L,Texas Tech,Texas-Tech,Cal-State-Bakersfield,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/06/2026,Texas Tech,Penn State,15,7,0,0,W,Texas Tech,Texas-Tech,Penn-State,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/07/2026,Texas Tech,Penn State,21,6,0,0,W,Texas Tech,Texas-Tech,Penn-State,0,7,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/08/2026,Texas Tech,Penn State,14,4,0,0,W,Texas Tech,Texas-Tech,Penn-State,0,7,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/10/2026,Texas Tech,UTSA,8,9,0,0,L,Texas Tech,Texas-Tech,UTSA,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/11/2026,Texas Tech,UTSA,10,5,0,0,W,Texas Tech,Texas-Tech,UTSA,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/13/2026,Texas Tech,Kansas,11,4,0,0,W,Texas Tech,Texas-Tech,Kansas,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/14/2026,Texas Tech,Kansas,10,9,0,0,W,Texas Tech,Texas-Tech,Kansas,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/15/2026,Texas Tech,Kansas,7,18,0,0,L,Texas Tech,Texas-Tech,Kansas,0,8,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/17/2026,Dallas Baptist,Texas Tech,16,10,0,0,L,Texas Tech,Texas-Tech,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/20/2026,Arizona,Texas Tech,5,9,0,0,W,Texas Tech,Texas-Tech,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/21/2026,Arizona,Texas Tech,14,6,0,0,L,Texas Tech,Texas-Tech,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/22/2026,Arizona,Texas Tech,10,12,0,0,W,Texas Tech,Texas-Tech,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/24/2026,Texas Tech,New Mexico,12,2,0,0,W,Texas Tech,Texas-Tech,New-Mexico,0,8,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/27/2026,TCU,Texas Tech,18,8,0,0,L,Texas Tech,Texas-Tech,TCU,1,7,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/28/2026,TCU,Texas Tech,10,9,0,0,L,Texas Tech,Texas-Tech,TCU,1,13,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/29/2026,TCU,Texas Tech,5,4,0,0,L,Texas Tech,Texas-Tech,TCU,1,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/31/2026,Texas Tech,Abilene Christian,15,4,0,0,W,Texas Tech,Texas-Tech,Abilene-Christian,0,8,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/02/2026,Texas Tech,Houston,6,8,0,0,L,Texas Tech,Texas-Tech,Houston,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/03/2026,Texas Tech,Houston,10,13,0,0,L,Texas Tech,Texas-Tech,Houston,0,11,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/04/2026,Texas Tech,Houston,11,2,0,0,W,Texas Tech,Texas-Tech,Houston,0,8,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/07/2026,New Mexico,Texas Tech,5,10,0,0,W,Texas Tech,Texas-Tech,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+04/10/2026,Texas Tech,West Virginia,8,12,0,0,L,Texas Tech,Texas-Tech,West-Virginia,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/11/2026,Texas Tech,West Virginia,4,1,0,0,W,Texas Tech,Texas-Tech,West-Virginia,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/12/2026,Texas Tech,West Virginia,2,10,0,0,L,Texas Tech,Texas-Tech,West-Virginia,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/15/2026,Texas Tech,Incarnate Word,8,13,0,0,L,Texas Tech,Texas-Tech,Incarnate-Word,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/17/2026,Utah,Texas Tech,10,3,0,0,L,Texas Tech,Texas-Tech,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+04/18/2026,Utah,Texas Tech,12,2,0,0,L,Texas Tech,Texas-Tech,Utah,1,7,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+04/19/2026,Utah,Texas Tech,6,3,0,0,L,Texas Tech,Texas-Tech,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+04/21/2026,Texas Tech,Tarleton State,13,3,0,0,W,Texas Tech,Texas-Tech,Tarleton-State,0,7,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/22/2026,Abilene Christian,Texas Tech,1,9,0,0,W,Texas Tech,Texas-Tech,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/24/2026,Texas Tech,Oklahoma State,6,16,0,0,L,Texas Tech,Texas-Tech,Oklahoma-State,0,7,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/25/2026,Texas Tech,Oklahoma State,8,9,0,0,L,Texas Tech,Texas-Tech,Oklahoma-State,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/26/2026,Texas Tech,Oklahoma State,2,11,0,0,L,Texas Tech,Texas-Tech,Oklahoma-State,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+05/02/2026,Baylor,Texas Tech,8,1,0,0,L,Texas Tech,Texas-Tech,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+05/02/2026,Baylor,Texas Tech,10,9,0,0,L,Texas Tech,Texas-Tech,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+05/03/2026,Baylor,Texas Tech,3,8,0,0,W,Texas Tech,Texas-Tech,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+05/05/2026,Texas Tech,Dallas Baptist,9,7,0,0,W,Texas Tech,Texas-Tech,Dallas-Baptist,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+05/07/2026,Texas Tech,BYU,2,1,0,0,W,Texas Tech,Texas-Tech,BYU,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+05/08/2026,Texas Tech,BYU,3,12,0,0,L,Texas Tech,Texas-Tech,BYU,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park / Box Score",2026,WN2026
+05/09/2026,Texas Tech,BYU,15,11,0,0,W,Texas Tech,Texas-Tech,BYU,0,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park / Box Score",2026,WN2026
+05/14/2026,Cincinnati,Texas Tech,13,1,0,0,L,Texas Tech,Texas-Tech,Cincinnati,1,7,"Cincinnati, OH / UC Baseball Stadium / Box Score",2026,WN2026
+05/15/2026,Cincinnati,Texas Tech,5,6,0,0,W,Texas Tech,Texas-Tech,Cincinnati,1,9,"Cincinnati, OH / UC Baseball Stadium / Box Score",2026,WN2026
+05/15/2026,Cincinnati,Texas Tech,8,7,0,0,L,Texas Tech,Texas-Tech,Cincinnati,1,9,"Cincinnati, OH / UC Baseball Stadium / Box Score",2026,WN2026
+05/19/2026,BYU,Texas Tech,18,8,0,1,L,Texas Tech,Texas-Tech,BYU,0,7,"Surprize, AZ / Surprise Stadium / Recap",2026,WN2026

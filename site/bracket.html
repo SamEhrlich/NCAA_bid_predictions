@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>2026 Bracket Odds — NCAA D1 Baseball Elo</title>
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-brand">NCAA D1 Baseball <span>Elo</span></div>
+  <div class="nav-links">
+    <a href="index.html"   data-nav="leaderboard">Leaderboard</a>
+    <a href="bracket.html" data-nav="bracket">2026 Bracket</a>
+    <a href="whatif.html"  data-nav="whatif">What-If</a>
+    <a href="compare.html" data-nav="compare">Compare</a>
+    <a href="conference.html" data-nav="conference">Conferences</a>
+    <a href="extras.html"  data-nav="extras">Upsets</a>
+  </div>
+  <div class="nav-meta" id="nav-meta"></div>
+</nav>
+
+<div class="container">
+  <h1 class="section-title">
+    2026 Tournament — Multi-Stage Odds
+    <span class="sub" id="bracket-sub">based on 20k bracket simulations</span>
+  </h1>
+
+  <div style="display:flex; gap:14px; flex-wrap:wrap; margin-bottom:18px; font-size:12px; color:var(--text-dim);">
+    <span><b style="color:var(--text)">R</b> = win regional</span>
+    <span><b style="color:var(--text)">CWS</b> = make College World Series</span>
+    <span><b style="color:var(--text)">F</b> = reach CWS finals</span>
+    <span><b style="color:var(--text)">W</b> = win national championship</span>
+  </div>
+
+  <div class="bracket-grid" id="bracket-grid"></div>
+</div>
+
+<footer class="footer">
+  Click any team to see its full Elo trajectory.
+</footer>
+
+<script type="module">
+import { loadJSON, fmtPct, fmtElo, setActiveNav, makeLogoEl, $ } from "./js/common.js";
+
+setActiveNav("bracket");
+
+const [bracket, odds, meta] = await Promise.all([
+  loadJSON("bracket.json"),
+  loadJSON("odds.json"),
+  loadJSON("meta.json"),
+]);
+$("#nav-meta").textContent =
+  `${meta.n_games_fit.toLocaleString()} games · ${meta.n_sims.toLocaleString()} sims`;
+$("#bracket-sub").textContent = `${meta.n_sims.toLocaleString()} bracket simulations`;
+
+const oddsMap = new Map(odds.teams.map(o => [o.team, o]));
+
+const grid = $("#bracket-grid");
+
+for (const r of bracket.regionals) {
+  const card = document.createElement("div");
+  card.className = "regional-card";
+
+  card.innerHTML = `
+    <h3>${r.name} <span class="seed">#${r.seed} ${r.host}</span></h3>
+  `;
+
+  for (const t of r.teams) {
+    const o = oddsMap.get(t.team) || {};
+    const seedBadge = t.regional_seed;
+
+    const teamBlock = document.createElement("div");
+    teamBlock.className = "bracket-team";
+    teamBlock.style.borderLeft = `3px solid ${t.color}`;
+
+    // Left column: logo + regional seed
+    const left = document.createElement("div");
+    left.className = "left";
+    left.appendChild(makeLogoEl(t));
+    const seedSpan = document.createElement("div");
+    seedSpan.className = "seedchip";
+    seedSpan.textContent = `#${seedBadge}`;
+    left.appendChild(seedSpan);
+
+    // Right column: name + 4 stage bars
+    const right = document.createElement("div");
+    right.className = "right";
+
+    const nameDiv = document.createElement("div");
+    nameDiv.className = "name";
+    const a = document.createElement("a");
+    a.href = `team.html?slug=${encodeURIComponent(t.slug)}`;
+    a.textContent = `${t.team} · ${fmtElo(t.elo)} Elo`;
+    nameDiv.appendChild(a);
+    right.appendChild(nameDiv);
+
+    const stages = document.createElement("div");
+    stages.className = "stages";
+    for (const [lbl, key] of [["R","regional_pct"],["CWS","cws_pct"],["F","finals_pct"],["W","champ_pct"]]) {
+      const v = o[key] ?? 0;
+      const s = document.createElement("div");
+      s.className = "stage";
+      const fillWidth = Math.min(v, 100);
+      s.innerHTML = `
+        <span class="stage-fill" style="width:${fillWidth}%; background:${t.color};"></span>
+        <span class="stage-row">
+          <span class="lbl">${lbl}</span>
+          <span class="val">${fmtPct(v, v < 10 ? 1 : 0)}</span>
+        </span>
+      `;
+      stages.appendChild(s);
+    }
+    right.appendChild(stages);
+
+    teamBlock.appendChild(left);
+    teamBlock.appendChild(right);
+    card.appendChild(teamBlock);
+  }
+  grid.appendChild(card);
+}
+</script>
+
+</body>
+</html>

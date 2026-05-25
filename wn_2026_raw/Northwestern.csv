@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Rice,Northwestern,7,6,0,0,L,Northwestern,Northwestern,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+02/13/2026,Rice,Northwestern,3,2,0,0,L,Northwestern,Northwestern,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+02/15/2026,Rice,Northwestern,6,17,0,0,W,Northwestern,Northwestern,Rice,1,7,"Houston, TX / Reckling Park",2026,WN2026
+02/20/2026,Cornell,Northwestern,5,13,0,1,W,Northwestern,Northwestern,Cornell,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/21/2026,Boston College,Northwestern,4,5,0,1,W,Northwestern,Northwestern,Boston-College,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/21/2026,Cornell,Northwestern,5,6,0,1,W,Northwestern,Northwestern,Cornell,0,11,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/22/2026,Boston College,Northwestern,5,8,0,1,W,Northwestern,Northwestern,Boston-College,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/27/2026,Georgia Tech,Northwestern,17,3,0,0,L,Northwestern,Northwestern,Georgia-Tech,1,7,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/28/2026,Georgia Tech,Northwestern,13,3,0,0,L,Northwestern,Northwestern,Georgia-Tech,1,7,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+03/01/2026,Georgia Tech,Northwestern,14,6,0,0,L,Northwestern,Northwestern,Georgia-Tech,1,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+03/06/2026,South Dakota State,Northwestern,5,4,0,1,L,Northwestern,Northwestern,South-Dakota-State,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/07/2026,Omaha,Northwestern,6,9,0,1,W,Northwestern,Northwestern,Omaha,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/08/2026,UNLV,Northwestern,10,5,0,1,L,Northwestern,Northwestern,UNLV,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/13/2026,Northwestern,USC,1,15,0,0,L,Northwestern,Northwestern,USC,0,7,"Evanston, IL / Rocky Miller Park",2026,WN2026
+03/14/2026,Northwestern,USC,0,2,0,0,L,Northwestern,Northwestern,USC,0,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+03/14/2026,Northwestern,USC,2,1,0,0,W,Northwestern,Northwestern,USC,0,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+03/20/2026,Oregon,Northwestern,20,6,0,0,L,Northwestern,Northwestern,Oregon,1,7,"Eugene, OR / PK Park",2026,WN2026
+03/21/2026,Oregon,Northwestern,6,4,0,0,L,Northwestern,Northwestern,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+03/22/2026,Oregon,Northwestern,10,11,0,0,W,Northwestern,Northwestern,Oregon,1,12,"Eugene, OR / PK Park",2026,WN2026
+03/23/2026,Portland,Northwestern,8,3,0,0,L,Northwestern,Northwestern,Portland,1,9,"Portland, OR / Joe Etzel Field",2026,WN2026
+03/27/2026,Washington,Northwestern,7,2,0,0,L,Northwestern,Northwestern,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/28/2026,Washington,Northwestern,9,10,0,0,W,Northwestern,Northwestern,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/29/2026,Washington,Northwestern,7,2,0,0,L,Northwestern,Northwestern,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/31/2026,Northwestern,Valparaiso,13,9,0,0,W,Northwestern,Northwestern,Valparaiso,0,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/03/2026,Northwestern,Michigan State,1,5,0,0,L,Northwestern,Northwestern,Michigan-State,0,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/04/2026,Northwestern,Michigan State,10,9,0,0,W,Northwestern,Northwestern,Michigan-State,0,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/05/2026,Northwestern,Michigan State,8,6,0,0,W,Northwestern,Northwestern,Michigan-State,0,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/08/2026,UIC,Northwestern,4,15,0,0,W,Northwestern,Northwestern,UIC,1,7,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/10/2026,Northwestern,Purdue,3,11,0,0,L,Northwestern,Northwestern,Purdue,0,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/11/2026,Northwestern,Purdue,2,3,0,0,L,Northwestern,Northwestern,Purdue,0,10,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/12/2026,Northwestern,Purdue,3,8,0,0,L,Northwestern,Northwestern,Purdue,0,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/14/2026,Northwestern,UIC,12,11,0,0,W,Northwestern,Northwestern,UIC,0,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/17/2026,Michigan,Northwestern,7,6,0,0,L,Northwestern,Northwestern,Michigan,1,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/18/2026,Michigan,Northwestern,8,3,0,0,L,Northwestern,Northwestern,Michigan,1,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/19/2026,Michigan,Northwestern,2,1,0,0,L,Northwestern,Northwestern,Michigan,1,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/21/2026,Northwestern,Bradley,11,6,0,0,W,Northwestern,Northwestern,Bradley,0,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/22/2026,Northwestern,Saint Thomas,15,5,0,0,W,Northwestern,Northwestern,Saint-Thomas,0,7,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/24/2026,Minnesota,Northwestern,13,1,0,0,L,Northwestern,Northwestern,Minnesota,1,7,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/25/2026,Minnesota,Northwestern,7,3,0,0,L,Northwestern,Northwestern,Minnesota,1,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/26/2026,Minnesota,Northwestern,7,2,0,0,L,Northwestern,Northwestern,Minnesota,1,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/28/2026,Northwestern,Milwaukee,10,8,0,0,W,Northwestern,Northwestern,Milwaukee,0,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+05/01/2026,Northwestern,Indiana,2,9,0,0,L,Northwestern,Northwestern,Indiana,0,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+05/02/2026,Northwestern,Indiana,7,4,0,0,W,Northwestern,Northwestern,Indiana,0,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+05/03/2026,Northwestern,Indiana,9,6,0,0,W,Northwestern,Northwestern,Indiana,0,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+05/05/2026,Northwestern,Illinois State,7,1,0,0,W,Northwestern,Northwestern,Illinois-State,0,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+05/08/2026,Illinois,Northwestern,12,0,0,0,L,Northwestern,Northwestern,Illinois,1,7,"Champaign, IL / Illinois Field / Box Score",2026,WN2026
+05/09/2026,Illinois,Northwestern,4,3,0,0,L,Northwestern,Northwestern,Illinois,1,9,"Champaign, IL / Illinois Field / Box Score",2026,WN2026
+05/10/2026,Illinois,Northwestern,10,3,0,0,L,Northwestern,Northwestern,Illinois,1,9,"Champaign, IL / Illinois Field / Box Score",2026,WN2026
+05/14/2026,Northwestern,Rutgers,5,8,0,0,L,Northwestern,Northwestern,Rutgers,0,9,"Evanston, IL / Rocky Miller Park / Box Score",2026,WN2026
+05/15/2026,Northwestern,Rutgers,7,6,0,0,W,Northwestern,Northwestern,Rutgers,0,9,"Evanston, IL / Rocky Miller Park / Box Score",2026,WN2026
+05/16/2026,Northwestern,Rutgers,9,15,0,0,L,Northwestern,Northwestern,Rutgers,0,9,"Evanston, IL / Rocky Miller Park / Box Score",2026,WN2026

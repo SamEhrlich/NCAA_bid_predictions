@@ -1,0 +1,50 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/20/2026,Texas Tech,Albany,16,8,0,0,L,Albany,Albany,Texas-Tech,1,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+02/21/2026,Texas Tech,Albany,15,1,0,0,L,Albany,Albany,Texas-Tech,1,7,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+02/21/2026,Texas Tech,Albany,8,6,0,0,L,Albany,Albany,Texas-Tech,1,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+02/22/2026,Texas Tech,Albany,10,0,0,0,L,Albany,Albany,Texas-Tech,1,8,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+02/28/2026,James Madison,Albany,6,3,0,1,L,Albany,Albany,James-Madison,0,9,"Greenville, SC / Fluor Field",2026,WN2026
+02/28/2026,Michigan State,Albany,4,1,0,1,L,Albany,Albany,Michigan-State,0,9,"Greenville, SC / Fluor Field",2026,WN2026
+03/01/2026,Illinois,Albany,14,6,0,1,L,Albany,Albany,Illinois,0,9,"Greenville, SC / Fluor Field",2026,WN2026
+03/06/2026,Saint John's,Albany,2,1,0,0,L,Albany,Albany,Saint-Johns,1,15,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/07/2026,Saint John's,Albany,5,4,0,0,L,Albany,Albany,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/08/2026,Saint John's,Albany,4,3,0,0,L,Albany,Albany,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/13/2026,Yale,Albany,2,4,0,0,W,Albany,Albany,Yale,1,13,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/14/2026,Yale,Albany,6,5,0,0,L,Albany,Albany,Yale,1,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/15/2026,Yale,Albany,15,7,0,0,L,Albany,Albany,Yale,1,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/18/2026,Army,Albany,12,2,0,0,L,Albany,Albany,Army,1,7,"West Point, NY / Doubleday Field",2026,WN2026
+03/20/2026,NJIT,Albany,5,8,0,0,W,Albany,Albany,NJIT,1,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/21/2026,NJIT,Albany,5,4,0,0,L,Albany,Albany,NJIT,1,10,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/22/2026,NJIT,Albany,3,10,0,0,W,Albany,Albany,NJIT,1,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/24/2026,Albany,UMass,4,3,0,0,W,Albany,Albany,UMass,0,9,"Albany, NY / Varsity Field",2026,WN2026
+03/27/2026,Albany,UMBC,0,2,0,0,L,Albany,Albany,UMBC,0,7,"Albany, NY / Varsity Field",2026,WN2026
+03/27/2026,Albany,UMBC,3,8,0,0,L,Albany,Albany,UMBC,0,9,"Albany, NY / Varsity Field",2026,WN2026
+03/29/2026,Albany,UMBC,6,8,0,0,L,Albany,Albany,UMBC,0,9,"Albany, NY / Varsity Field",2026,WN2026
+04/02/2026,UMass-Lowell,Albany,4,0,0,0,L,Albany,Albany,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/03/2026,UMass-Lowell,Albany,2,7,0,0,W,Albany,Albany,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/04/2026,UMass-Lowell,Albany,2,4,0,0,W,Albany,Albany,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/08/2026,Albany,Long Island,6,5,0,0,W,Albany,Albany,Long-Island,0,9,"Albany, NY / Varsity Field",2026,WN2026
+04/10/2026,Bryant,Albany,15,5,0,0,L,Albany,Albany,Bryant,1,7,"Smithfield, RI / Conaty Park",2026,WN2026
+04/11/2026,Bryant,Albany,3,6,0,0,W,Albany,Albany,Bryant,1,9,"Smithfield, RI / Conaty Park",2026,WN2026
+04/12/2026,Bryant,Albany,15,5,0,0,L,Albany,Albany,Bryant,1,8,"Smithfield, RI / Conaty Park",2026,WN2026
+04/14/2026,Albany,Central Connecticut,7,6,0,0,W,Albany,Albany,Central-Connecticut,0,9,"Albany, NY / Varsity Field",2026,WN2026
+04/17/2026,Siena,Albany,10,13,0,0,W,Albany,Albany,Siena,1,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+04/18/2026,Albany,Siena,9,10,0,0,L,Albany,Albany,Siena,0,7,"Albany, NY / Varsity Field",2026,WN2026
+04/18/2026,Albany,Siena,4,10,0,0,L,Albany,Albany,Siena,0,9,"Albany, NY / Varsity Field",2026,WN2026
+04/21/2026,Siena,Albany,10,0,0,0,L,Albany,Albany,Siena,1,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+04/24/2026,Albany,NJIT,7,5,0,0,W,Albany,Albany,NJIT,0,9,"Albany, NY / Varsity Field",2026,WN2026
+04/25/2026,Albany,NJIT,1,0,0,0,W,Albany,Albany,NJIT,0,9,"Albany, NY / Varsity Field",2026,WN2026
+04/26/2026,Albany,NJIT,0,6,0,0,L,Albany,Albany,NJIT,0,9,"Albany, NY / Varsity Field",2026,WN2026
+04/28/2026,Albany,Marist,5,10,0,0,L,Albany,Albany,Marist,0,9,"Albany, NY / Varsity Field",2026,WN2026
+05/01/2026,UMBC,Albany,11,5,0,0,L,Albany,Albany,UMBC,1,9,"Catonsville, MD / Alumni Field",2026,WN2026
+05/02/2026,UMBC,Albany,4,8,0,0,W,Albany,Albany,UMBC,1,9,"Catonsville, MD / Alumni Field",2026,WN2026
+05/03/2026,UMBC,Albany,12,6,0,0,L,Albany,Albany,UMBC,1,9,"Catonsville, MD / Alumni Field",2026,WN2026
+05/05/2026,Marist,Albany,12,10,0,0,L,Albany,Albany,Marist,1,9,"Poughkeepsie, NY / James J. McCann Baseball Field",2026,WN2026
+05/08/2026,Albany,Binghamton,2,12,0,0,L,Albany,Albany,Binghamton,0,9,"Albany, NY / Varsity Field / Box Score",2026,WN2026
+05/10/2026,Albany,Binghamton,1,3,0,0,L,Albany,Albany,Binghamton,0,7,"Albany, NY / Varsity Field / Box Score",2026,WN2026
+05/10/2026,Albany,Binghamton,11,9,0,0,W,Albany,Albany,Binghamton,0,9,"Albany, NY / Varsity Field / Box Score",2026,WN2026
+05/12/2026,Albany,Le Moyne,20,3,0,0,W,Albany,Albany,Le-Moyne,0,7,"Albany, NY / Varsity Field",2026,WN2026
+05/14/2026,Maine,Albany,12,1,0,0,L,Albany,Albany,Maine,1,7,"Orono, ME / Mahaney Diamond / Box Score",2026,WN2026
+05/15/2026,Maine,Albany,7,5,0,0,L,Albany,Albany,Maine,1,9,"Orono, ME / Mahaney Diamond / Box Score",2026,WN2026
+05/16/2026,Maine,Albany,11,6,0,0,L,Albany,Albany,Maine,1,9,"Orono, ME / Mahaney Diamond / Box Score",2026,WN2026
+05/20/2026,Maine,Albany,11,5,0,1,L,Albany,Albany,Maine,0,9,"Vestal, NY / Bearcats Baseball Complex / Box Score / Recap",2026,WN2026

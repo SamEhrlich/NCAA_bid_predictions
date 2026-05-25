@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Charleston Southern,Bucknell,6,3,0,0,L,Bucknell,Bucknell,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+02/14/2026,Charleston Southern,Bucknell,6,1,0,0,L,Bucknell,Bucknell,Charleston-Southern,1,8,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+02/14/2026,Charleston Southern,Bucknell,8,5,0,0,L,Bucknell,Bucknell,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+02/20/2026,Radford,Bucknell,7,1,0,0,L,Bucknell,Bucknell,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+02/21/2026,Radford,Bucknell,11,9,0,0,L,Bucknell,Bucknell,Radford,1,10,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+02/21/2026,Radford,Bucknell,1,4,0,0,W,Bucknell,Bucknell,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+02/25/2026,Pittsburgh,Bucknell,18,3,0,0,L,Bucknell,Bucknell,Pittsburgh,1,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+02/27/2026,Bucknell,Merrimack,2,24,0,0,L,Bucknell,Bucknell,Merrimack,0,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+02/28/2026,Bucknell,Merrimack,6,5,0,0,W,Bucknell,Bucknell,Merrimack,0,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+02/28/2026,Bucknell,Merrimack,3,2,0,0,W,Bucknell,Bucknell,Merrimack,0,7,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+03/06/2026,Bucknell,Saint Joseph's,0,2,0,0,L,Bucknell,Bucknell,Saint-Josephs,0,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+03/07/2026,Bucknell,Saint Joseph's,15,13,0,0,W,Bucknell,Bucknell,Saint-Josephs,0,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+03/08/2026,Saint Joseph's,Bucknell,13,3,0,0,L,Bucknell,Bucknell,Saint-Josephs,1,9,"Merion Station, PA / Smithson Field",2026,WN2026
+03/10/2026,North Carolina,Bucknell,13,3,0,0,L,Bucknell,Bucknell,North-Carolina,1,7,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/13/2026,Bucknell,Lafayette,8,5,0,0,W,Bucknell,Bucknell,Lafayette,0,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+03/14/2026,Bucknell,Lafayette,9,8,0,0,W,Bucknell,Bucknell,Lafayette,0,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+03/15/2026,Bucknell,Lafayette,8,0,0,0,W,Bucknell,Bucknell,Lafayette,0,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+03/21/2026,Navy,Bucknell,3,7,0,0,W,Bucknell,Bucknell,Navy,1,7,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/21/2026,Navy,Bucknell,8,3,0,0,L,Bucknell,Bucknell,Navy,1,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/22/2026,Navy,Bucknell,1,3,0,0,W,Bucknell,Bucknell,Navy,1,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/24/2026,Mount Saint Mary's,Bucknell,6,7,0,0,W,Bucknell,Bucknell,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/25/2026,Penn State,Bucknell,0,9,0,0,W,Bucknell,Bucknell,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/27/2026,Bucknell,Lehigh,3,2,0,0,W,Bucknell,Bucknell,Lehigh,0,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+03/28/2026,Bucknell,Lehigh,6,3,0,0,W,Bucknell,Bucknell,Lehigh,0,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+03/29/2026,Bucknell,Lehigh,12,11,0,0,W,Bucknell,Bucknell,Lehigh,0,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+03/31/2026,Bucknell,La Salle,7,3,0,0,W,Bucknell,Bucknell,La-Salle,0,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+04/04/2026,Lafayette,Bucknell,1,3,0,0,W,Bucknell,Bucknell,Lafayette,1,7,"Forks Township, PA / Kamine Stadium",2026,WN2026
+04/04/2026,Lafayette,Bucknell,8,10,0,0,W,Bucknell,Bucknell,Lafayette,1,10,"Forks Township, PA / Kamine Stadium",2026,WN2026
+04/06/2026,Lafayette,Bucknell,7,13,0,0,W,Bucknell,Bucknell,Lafayette,1,9,"Forks Township, PA / Kamine Stadium",2026,WN2026
+04/08/2026,Bucknell,Mount Saint Mary's,2,14,0,0,L,Bucknell,Bucknell,Mount-Saint-Marys,0,8,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+04/10/2026,Bucknell,Holy Cross,5,14,0,0,L,Bucknell,Bucknell,Holy-Cross,0,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+04/11/2026,Bucknell,Holy Cross,5,4,0,0,W,Bucknell,Bucknell,Holy-Cross,0,7,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+04/11/2026,Bucknell,Holy Cross,5,7,0,0,L,Bucknell,Bucknell,Holy-Cross,0,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+04/12/2026,Bucknell,Holy Cross,12,4,0,0,W,Bucknell,Bucknell,Holy-Cross,0,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+04/14/2026,Villanova,Bucknell,14,2,0,0,L,Bucknell,Bucknell,Villanova,1,7,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+04/17/2026,Army,Bucknell,14,3,0,0,L,Bucknell,Bucknell,Army,1,7,"West Point, NY / Doubleday Field",2026,WN2026
+04/18/2026,Army,Bucknell,2,1,0,0,L,Bucknell,Bucknell,Army,1,8,"West Point, NY / Doubleday Field",2026,WN2026
+04/18/2026,Army,Bucknell,5,1,0,0,L,Bucknell,Bucknell,Army,1,9,"West Point, NY / Doubleday Field",2026,WN2026
+04/19/2026,Army,Bucknell,0,8,0,0,W,Bucknell,Bucknell,Army,1,9,"West Point, NY / Doubleday Field",2026,WN2026
+04/21/2026,Penn State,Bucknell,9,7,0,0,L,Bucknell,Bucknell,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+04/25/2026,Bucknell,Navy,4,9,0,0,L,Bucknell,Bucknell,Navy,0,7,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+04/26/2026,Bucknell,Navy,5,4,0,0,W,Bucknell,Bucknell,Navy,0,13,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+04/26/2026,Bucknell,Navy,3,5,0,0,L,Bucknell,Bucknell,Navy,0,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+05/02/2026,Lehigh,Bucknell,0,4,0,0,W,Bucknell,Bucknell,Lehigh,1,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+05/03/2026,Lehigh,Bucknell,1,2,0,0,W,Bucknell,Bucknell,Lehigh,1,7,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+05/03/2026,Lehigh,Bucknell,10,4,0,0,L,Bucknell,Bucknell,Lehigh,1,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+05/10/2026,Navy,Bucknell,4,16,0,1,W,Bucknell,Bucknell,Navy,0,9,"Lewisburg, PA / Eugene B. Depew Field / Box Score",2026,WN2026
+05/11/2026,Navy,Bucknell,4,6,0,1,W,Bucknell,Bucknell,Navy,0,9,"Lewisburg, PA / Eugene B. Depew Field / Box Score",2026,WN2026
+05/18/2026,Holy Cross,Bucknell,11,2,0,1,L,Bucknell,Bucknell,Holy-Cross,0,9,"Lewisburg, PA / Eugene B. Depew Field / Box Score",2026,WN2026
+05/19/2026,Holy Cross,Bucknell,5,9,0,1,W,Bucknell,Bucknell,Holy-Cross,0,9,"Lewisburg, PA / Eugene B. Depew Field / Box Score",2026,WN2026
+05/20/2026,Holy Cross,Bucknell,14,11,0,1,L,Bucknell,Bucknell,Holy-Cross,0,9,"Lewisburg, PA / Eugene B. Depew Field / Box Score",2026,WN2026

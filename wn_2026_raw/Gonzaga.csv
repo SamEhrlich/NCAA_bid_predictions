@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Hawaii,Gonzaga,3,2,0,0,L,Gonzaga,Gonzaga,Hawaii,1,10,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+02/14/2026,Hawaii,Gonzaga,5,3,0,0,L,Gonzaga,Gonzaga,Hawaii,1,9,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+02/15/2026,Hawaii,Gonzaga,2,7,0,0,W,Gonzaga,Gonzaga,Hawaii,1,12,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+02/16/2026,Hawaii,Gonzaga,4,3,0,0,L,Gonzaga,Gonzaga,Hawaii,1,9,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+02/20/2026,Texas State,Gonzaga,8,6,0,0,L,Gonzaga,Gonzaga,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+02/21/2026,Texas State,Gonzaga,1,5,0,0,W,Gonzaga,Gonzaga,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+02/22/2026,Texas State,Gonzaga,5,0,0,0,L,Gonzaga,Gonzaga,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+02/27/2026,Oklahoma,Gonzaga,14,4,0,0,L,Gonzaga,Gonzaga,Oklahoma,1,8,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+02/28/2026,Oklahoma,Gonzaga,11,1,0,0,L,Gonzaga,Gonzaga,Oklahoma,1,7,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/01/2026,Oklahoma,Gonzaga,1,7,0,0,W,Gonzaga,Gonzaga,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/07/2026,Creighton,Gonzaga,2,1,0,0,L,Gonzaga,Gonzaga,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+03/07/2026,Creighton,Gonzaga,4,5,0,0,W,Gonzaga,Gonzaga,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+03/08/2026,Creighton,Gonzaga,7,6,0,0,L,Gonzaga,Gonzaga,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+03/10/2026,Minnesota,Gonzaga,11,8,0,0,L,Gonzaga,Gonzaga,Minnesota,1,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/11/2026,Minnesota,Gonzaga,6,2,0,0,L,Gonzaga,Gonzaga,Minnesota,1,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/13/2026,Indiana State,Gonzaga,4,7,0,0,W,Gonzaga,Gonzaga,Indiana-State,1,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+03/14/2026,Indiana State,Gonzaga,4,7,0,0,W,Gonzaga,Gonzaga,Indiana-State,1,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+03/15/2026,Indiana State,Gonzaga,16,23,0,0,W,Gonzaga,Gonzaga,Indiana-State,1,10,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+03/20/2026,San Diego,Gonzaga,7,6,0,0,L,Gonzaga,Gonzaga,San-Diego,1,9,"San Diego, CA / Fowler Park",2026,WN2026
+03/21/2026,San Diego,Gonzaga,5,7,0,0,W,Gonzaga,Gonzaga,San-Diego,1,9,"San Diego, CA / Fowler Park",2026,WN2026
+03/22/2026,San Diego,Gonzaga,6,11,0,0,W,Gonzaga,Gonzaga,San-Diego,1,9,"San Diego, CA / Fowler Park",2026,WN2026
+03/25/2026,Gonzaga,Washington State,19,8,0,0,W,Gonzaga,Gonzaga,Washington-State,0,7,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+03/27/2026,Pacific,Gonzaga,6,7,0,0,W,Gonzaga,Gonzaga,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+03/28/2026,Pacific,Gonzaga,5,12,0,0,W,Gonzaga,Gonzaga,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+03/29/2026,Pacific,Gonzaga,7,4,0,0,L,Gonzaga,Gonzaga,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+03/30/2026,Gonzaga,Nevada,7,2,0,0,W,Gonzaga,Gonzaga,Nevada,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+04/02/2026,Gonzaga,Pepperdine,2,5,0,0,L,Gonzaga,Gonzaga,Pepperdine,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+04/03/2026,Gonzaga,Pepperdine,9,2,0,0,W,Gonzaga,Gonzaga,Pepperdine,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+04/04/2026,Gonzaga,Pepperdine,4,3,0,0,W,Gonzaga,Gonzaga,Pepperdine,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+04/06/2026,Washington,Gonzaga,2,9,0,0,W,Gonzaga,Gonzaga,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/07/2026,Washington,Gonzaga,5,8,0,0,W,Gonzaga,Gonzaga,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/10/2026,Gonzaga,Portland,12,6,0,0,W,Gonzaga,Gonzaga,Portland,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+04/11/2026,Gonzaga,Portland,11,3,0,0,W,Gonzaga,Gonzaga,Portland,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+04/12/2026,Gonzaga,Portland,12,11,0,0,W,Gonzaga,Gonzaga,Portland,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+04/17/2026,Saint Mary's College,Gonzaga,2,7,0,0,W,Gonzaga,Gonzaga,Saint-Marys-College,1,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/18/2026,Saint Mary's College,Gonzaga,4,14,0,0,W,Gonzaga,Gonzaga,Saint-Marys-College,1,8,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/19/2026,Saint Mary's College,Gonzaga,5,6,0,0,W,Gonzaga,Gonzaga,Saint-Marys-College,1,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/21/2026,Washington State,Gonzaga,8,16,0,0,W,Gonzaga,Gonzaga,Washington-State,1,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/24/2026,Gonzaga,Loyola-Marymount,4,3,0,0,W,Gonzaga,Gonzaga,Loyola-Marymount,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+04/25/2026,Gonzaga,Loyola-Marymount,7,1,0,0,W,Gonzaga,Gonzaga,Loyola-Marymount,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+04/26/2026,Gonzaga,Loyola-Marymount,14,8,0,0,W,Gonzaga,Gonzaga,Loyola-Marymount,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+04/28/2026,Oregon,Gonzaga,4,3,0,0,L,Gonzaga,Gonzaga,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+05/01/2026,Gonzaga,Santa Clara,3,5,0,0,L,Gonzaga,Gonzaga,Santa-Clara,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+05/02/2026,Gonzaga,Santa Clara,7,6,0,0,W,Gonzaga,Gonzaga,Santa-Clara,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+05/03/2026,Gonzaga,Santa Clara,4,12,0,0,L,Gonzaga,Gonzaga,Santa-Clara,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+05/04/2026,Gonzaga,Washington State,10,5,0,0,W,Gonzaga,Gonzaga,Washington-State,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+05/08/2026,San Francisco,Gonzaga,0,7,0,0,W,Gonzaga,Gonzaga,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond / Box Score",2026,WN2026
+05/09/2026,San Francisco,Gonzaga,0,13,0,0,W,Gonzaga,Gonzaga,San-Francisco,1,7,"San Francisco, CA / Dante Benedetti Diamond / Box Score",2026,WN2026
+05/10/2026,San Francisco,Gonzaga,5,12,0,0,W,Gonzaga,Gonzaga,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond / Box Score",2026,WN2026
+05/14/2026,Gonzaga,Seattle University,12,2,0,0,W,Gonzaga,Gonzaga,Seattle-University,0,7,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex / Box Score",2026,WN2026
+05/15/2026,Gonzaga,Seattle University,5,1,0,0,W,Gonzaga,Gonzaga,Seattle-University,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex / Box Score",2026,WN2026
+05/16/2026,Gonzaga,Seattle University,16,13,0,0,W,Gonzaga,Gonzaga,Seattle-University,0,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex / Box Score",2026,WN2026
+05/21/2026,Saint Mary's College,Gonzaga,13,4,0,1,L,Gonzaga,Gonzaga,Saint-Marys-College,0,9,"Scottsdale, AZ / Scottsdale Stadium / Recap",2026,WN2026
+05/22/2026,San Francisco,Gonzaga,6,5,0,1,L,Gonzaga,Gonzaga,San-Francisco,0,9,"Scottsdale, AZ / Scottsdale Stadium",2026,WN2026

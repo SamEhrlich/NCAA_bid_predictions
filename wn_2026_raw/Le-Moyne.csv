@@ -1,0 +1,49 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Tarleton State,Le Moyne,20,3,0,0,L,Le Moyne,Le-Moyne,Tarleton-State,1,7,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+02/14/2026,Tarleton State,Le Moyne,5,4,0,0,L,Le Moyne,Le-Moyne,Tarleton-State,1,9,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+02/15/2026,Tarleton State,Le Moyne,13,8,0,0,L,Le Moyne,Le-Moyne,Tarleton-State,1,9,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+02/20/2026,James Madison,Le Moyne,13,11,0,0,L,Le Moyne,Le-Moyne,James-Madison,1,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+02/21/2026,James Madison,Le Moyne,16,1,0,0,L,Le Moyne,Le-Moyne,James-Madison,1,7,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+02/21/2026,James Madison,Le Moyne,11,4,0,0,L,Le Moyne,Le-Moyne,James-Madison,1,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+02/27/2026,North Carolina,Le Moyne,16,3,0,0,L,Le Moyne,Le-Moyne,North-Carolina,1,7,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+02/28/2026,North Carolina,Le Moyne,12,2,0,0,L,Le Moyne,Le-Moyne,North-Carolina,1,7,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/01/2026,North Carolina,Le Moyne,21,1,0,0,L,Le Moyne,Le-Moyne,North-Carolina,1,7,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/08/2026,Le Moyne,Delaware State,8,12,0,0,L,Le Moyne,Le-Moyne,Delaware-State,0,9,"Cortland, NY / Gutchess Lumber Sports Complex",2026,WN2026
+03/08/2026,Le Moyne,Delaware State,21,5,0,0,W,Le Moyne,Le-Moyne,Delaware-State,0,7,"Cortland, NY / Gutchess Lumber Sports Complex",2026,WN2026
+03/09/2026,Le Moyne,Delaware State,24,19,0,0,W,Le Moyne,Le-Moyne,Delaware-State,0,9,"Cortland, NY / Gutchess Lumber Sports Complex",2026,WN2026
+03/13/2026,New Haven,Le Moyne,13,6,0,0,L,Le Moyne,Le-Moyne,New-Haven,1,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+03/14/2026,New Haven,Le Moyne,1,13,0,0,W,Le Moyne,Le-Moyne,New-Haven,1,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+03/15/2026,New Haven,Le Moyne,5,6,0,0,W,Le Moyne,Le-Moyne,New-Haven,1,9,"West Haven, CT / Frank Vieira Field",2026,WN2026
+03/20/2026,Wagner,Le Moyne,6,0,0,0,L,Le Moyne,Le-Moyne,Wagner,1,9,"Staten Island, NY / SIUH Community Park",2026,WN2026
+03/21/2026,Wagner,Le Moyne,5,1,0,0,L,Le Moyne,Le-Moyne,Wagner,1,9,"Staten Island, NY / SIUH Community Park",2026,WN2026
+03/22/2026,Wagner,Le Moyne,9,7,0,0,L,Le Moyne,Le-Moyne,Wagner,1,9,"Staten Island, NY / SIUH Community Park",2026,WN2026
+03/24/2026,Binghamton,Le Moyne,17,6,0,0,L,Le Moyne,Le-Moyne,Binghamton,1,7,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+03/28/2026,Le Moyne,Coppin State,11,1,0,0,W,Le Moyne,Le-Moyne,Coppin-State,0,7,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+03/29/2026,Le Moyne,Coppin State,9,16,0,0,L,Le Moyne,Le-Moyne,Coppin-State,0,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+03/29/2026,Le Moyne,Coppin State,10,6,0,0,W,Le Moyne,Le-Moyne,Coppin-State,0,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+04/03/2026,Long Island,Le Moyne,4,5,0,0,W,Le Moyne,Le-Moyne,Long-Island,1,14,"Brooklyn, NY / Long Island University Field",2026,WN2026
+04/03/2026,Long Island,Le Moyne,5,12,0,0,W,Le Moyne,Le-Moyne,Long-Island,1,9,"Brooklyn, NY / Long Island University Field",2026,WN2026
+04/04/2026,Long Island,Le Moyne,12,9,0,0,L,Le Moyne,Le-Moyne,Long-Island,1,9,"Brooklyn, NY / Long Island University Field",2026,WN2026
+04/11/2026,Le Moyne,Mercyhurst,11,4,0,0,W,Le Moyne,Le-Moyne,Mercyhurst,0,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+04/11/2026,Le Moyne,Mercyhurst,5,7,0,0,L,Le Moyne,Le-Moyne,Mercyhurst,0,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+04/12/2026,Le Moyne,Mercyhurst,11,10,0,0,W,Le Moyne,Le-Moyne,Mercyhurst,0,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+04/17/2026,Le Moyne,Fairleigh Dickinson,4,3,0,0,W,Le Moyne,Le-Moyne,Fairleigh-Dickinson,0,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+04/18/2026,Le Moyne,Fairleigh Dickinson,13,19,0,0,L,Le Moyne,Le-Moyne,Fairleigh-Dickinson,0,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+04/19/2026,Le Moyne,Fairleigh Dickinson,10,3,0,0,W,Le Moyne,Le-Moyne,Fairleigh-Dickinson,0,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+04/21/2026,Le Moyne,Canisius,11,24,0,0,L,Le Moyne,Le-Moyne,Canisius,0,7,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+04/24/2026,Norfolk State,Le Moyne,9,7,0,0,L,Le Moyne,Le-Moyne,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+04/25/2026,Norfolk State,Le Moyne,4,10,0,0,W,Le Moyne,Le-Moyne,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+04/25/2026,Norfolk State,Le Moyne,4,15,0,0,W,Le Moyne,Le-Moyne,Norfolk-State,1,8,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+04/28/2026,Le Moyne,Binghamton,13,24,0,0,L,Le Moyne,Le-Moyne,Binghamton,0,7,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+05/01/2026,Le Moyne,Stonehill,5,4,0,0,W,Le Moyne,Le-Moyne,Stonehill,0,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+05/02/2026,Le Moyne,Stonehill,2,12,0,0,L,Le Moyne,Le-Moyne,Stonehill,0,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+05/03/2026,Le Moyne,Stonehill,9,2,0,0,W,Le Moyne,Le-Moyne,Stonehill,0,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+05/08/2026,Le Moyne,Maryland Eastern Shore,6,2,0,0,W,Le Moyne,Le-Moyne,Maryland-Eastern-Shore,0,9,"Syracuse, NY / Dick Rockwell Field / Box Score",2026,WN2026
+05/08/2026,Le Moyne,Maryland Eastern Shore,14,11,0,0,W,Le Moyne,Le-Moyne,Maryland-Eastern-Shore,0,9,"Syracuse, NY / Dick Rockwell Field / Box Score",2026,WN2026
+05/09/2026,Le Moyne,Maryland Eastern Shore,16,15,0,0,W,Le Moyne,Le-Moyne,Maryland-Eastern-Shore,0,9,"Syracuse, NY / Dick Rockwell Field / Box Score",2026,WN2026
+05/12/2026,Albany,Le Moyne,20,3,0,0,L,Le Moyne,Le-Moyne,Albany,1,7,"Albany, NY / Varsity Field",2026,WN2026
+05/15/2026,Central Connecticut,Le Moyne,2,3,0,0,W,Le Moyne,Le-Moyne,Central-Connecticut,1,9,"New Britain, CT / Balf-Savin Field / Box Score",2026,WN2026
+05/15/2026,Central Connecticut,Le Moyne,5,16,0,0,W,Le Moyne,Le-Moyne,Central-Connecticut,1,8,"New Britain, CT / Balf-Savin Field / Box Score",2026,WN2026
+05/16/2026,Central Connecticut,Le Moyne,8,10,0,0,W,Le Moyne,Le-Moyne,Central-Connecticut,1,9,"New Britain, CT / Balf-Savin Field / Box Score",2026,WN2026
+05/21/2026,Long Island,Le Moyne,11,5,0,1,L,Le Moyne,Le-Moyne,Long-Island,0,9,"Augusta, NJ / Skylands Stadium / Box Score / Recap",2026,WN2026
+05/22/2026,Wagner,Le Moyne,10,1,0,1,L,Le Moyne,Le-Moyne,Wagner,0,7,"Augusta, NJ / Skylands Stadium",2026,WN2026

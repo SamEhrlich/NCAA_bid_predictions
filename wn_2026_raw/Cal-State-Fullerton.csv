@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Cal State Fullerton,California Baptist,3,1,0,0,W,Cal State Fullerton,Cal-State-Fullerton,California-Baptist,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+02/14/2026,California Baptist,Cal State Fullerton,5,4,0,0,L,Cal State Fullerton,Cal-State-Fullerton,California-Baptist,1,17,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+02/14/2026,California Baptist,Cal State Fullerton,7,6,0,0,L,Cal State Fullerton,Cal-State-Fullerton,California-Baptist,1,7,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+02/15/2026,Cal State Fullerton,California Baptist,0,7,0,0,L,Cal State Fullerton,Cal-State-Fullerton,California-Baptist,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+02/20/2026,Stanford,Cal State Fullerton,2,4,0,0,W,Cal State Fullerton,Cal-State-Fullerton,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+02/21/2026,Stanford,Cal State Fullerton,4,3,0,0,L,Cal State Fullerton,Cal-State-Fullerton,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+02/21/2026,Stanford,Cal State Fullerton,3,4,0,0,W,Cal State Fullerton,Cal-State-Fullerton,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+02/22/2026,Stanford,Cal State Fullerton,3,2,0,0,L,Cal State Fullerton,Cal-State-Fullerton,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+02/27/2026,Cal State Fullerton,Xavier,0,3,0,0,L,Cal State Fullerton,Cal-State-Fullerton,Xavier,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+02/28/2026,Cal State Fullerton,Xavier,2,3,0,0,L,Cal State Fullerton,Cal-State-Fullerton,Xavier,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/01/2026,Cal State Fullerton,Xavier,16,7,0,0,W,Cal State Fullerton,Cal-State-Fullerton,Xavier,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/03/2026,UCLA,Cal State Fullerton,4,3,0,0,L,Cal State Fullerton,Cal-State-Fullerton,UCLA,1,10,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/06/2026,Cal State Bakersfield,Cal State Fullerton,3,5,0,0,W,Cal State Fullerton,Cal-State-Fullerton,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+03/07/2026,Cal State Bakersfield,Cal State Fullerton,9,3,0,0,L,Cal State Fullerton,Cal-State-Fullerton,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+03/08/2026,Cal State Bakersfield,Cal State Fullerton,7,13,0,0,W,Cal State Fullerton,Cal-State-Fullerton,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+03/10/2026,Cal State Fullerton,San Diego State,3,2,0,0,W,Cal State Fullerton,Cal-State-Fullerton,San-Diego-State,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/13/2026,Cal State Fullerton,UC Irvine,8,3,0,0,W,Cal State Fullerton,Cal-State-Fullerton,UC-Irvine,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/14/2026,Cal State Fullerton,UC Irvine,9,5,0,0,W,Cal State Fullerton,Cal-State-Fullerton,UC-Irvine,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/15/2026,Cal State Fullerton,UC Irvine,8,6,0,0,W,Cal State Fullerton,Cal-State-Fullerton,UC-Irvine,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/17/2026,UNLV,Cal State Fullerton,4,3,0,0,L,Cal State Fullerton,Cal-State-Fullerton,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/20/2026,Cal State Fullerton,Cal State Northridge,3,5,0,0,L,Cal State Fullerton,Cal-State-Fullerton,Cal-State-Northridge,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/21/2026,Cal State Fullerton,Cal State Northridge,2,6,0,0,L,Cal State Fullerton,Cal-State-Fullerton,Cal-State-Northridge,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/22/2026,Cal State Fullerton,Cal State Northridge,1,4,0,0,L,Cal State Fullerton,Cal-State-Fullerton,Cal-State-Northridge,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/24/2026,San Diego,Cal State Fullerton,6,11,0,0,W,Cal State Fullerton,Cal-State-Fullerton,San-Diego,1,9,"San Diego, CA / Fowler Park",2026,WN2026
+03/27/2026,Hawaii,Cal State Fullerton,0,2,0,0,W,Cal State Fullerton,Cal-State-Fullerton,Hawaii,1,9,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+03/28/2026,Hawaii,Cal State Fullerton,6,2,0,0,L,Cal State Fullerton,Cal-State-Fullerton,Hawaii,1,9,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+03/29/2026,Hawaii,Cal State Fullerton,6,5,0,0,L,Cal State Fullerton,Cal-State-Fullerton,Hawaii,1,10,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+04/02/2026,Cal State Fullerton,UC Riverside,9,1,0,0,W,Cal State Fullerton,Cal-State-Fullerton,UC-Riverside,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+04/03/2026,Cal State Fullerton,UC Riverside,5,2,0,0,W,Cal State Fullerton,Cal-State-Fullerton,UC-Riverside,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+04/04/2026,Cal State Fullerton,UC Riverside,9,3,0,0,W,Cal State Fullerton,Cal-State-Fullerton,UC-Riverside,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+04/07/2026,Cal State Fullerton,UCLA,3,7,0,0,L,Cal State Fullerton,Cal-State-Fullerton,UCLA,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+04/10/2026,Long Beach State,Cal State Fullerton,0,10,0,0,W,Cal State Fullerton,Cal-State-Fullerton,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/11/2026,Long Beach State,Cal State Fullerton,4,3,0,0,L,Cal State Fullerton,Cal-State-Fullerton,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/12/2026,Long Beach State,Cal State Fullerton,2,6,0,0,W,Cal State Fullerton,Cal-State-Fullerton,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/14/2026,Cal State Fullerton,San Diego,13,0,0,0,W,Cal State Fullerton,Cal-State-Fullerton,San-Diego,0,7,"Fullerton, CA / Goodwin Field",2026,WN2026
+04/17/2026,Oregon State,Cal State Fullerton,1,2,0,0,W,Cal State Fullerton,Cal-State-Fullerton,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+04/18/2026,Oregon State,Cal State Fullerton,6,1,0,0,L,Cal State Fullerton,Cal-State-Fullerton,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+04/19/2026,Oregon State,Cal State Fullerton,10,2,0,0,L,Cal State Fullerton,Cal-State-Fullerton,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+04/21/2026,Cal State Fullerton,USC,2,9,0,0,L,Cal State Fullerton,Cal-State-Fullerton,USC,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+04/24/2026,UC Santa Barbara,Cal State Fullerton,8,3,0,0,L,Cal State Fullerton,Cal-State-Fullerton,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+04/25/2026,UC Santa Barbara,Cal State Fullerton,7,9,0,0,W,Cal State Fullerton,Cal-State-Fullerton,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+04/26/2026,UC Santa Barbara,Cal State Fullerton,1,6,0,0,W,Cal State Fullerton,Cal-State-Fullerton,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+04/28/2026,San Diego State,Cal State Fullerton,5,3,0,0,L,Cal State Fullerton,Cal-State-Fullerton,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+05/01/2026,Cal State Fullerton,UC Davis,6,7,0,0,L,Cal State Fullerton,Cal-State-Fullerton,UC-Davis,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+05/02/2026,Cal State Fullerton,UC Davis,5,11,0,0,L,Cal State Fullerton,Cal-State-Fullerton,UC-Davis,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+05/03/2026,Cal State Fullerton,UC Davis,2,6,0,0,L,Cal State Fullerton,Cal-State-Fullerton,UC-Davis,0,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+05/05/2026,USC,Cal State Fullerton,13,4,0,0,L,Cal State Fullerton,Cal-State-Fullerton,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+05/08/2026,Cal State Fullerton,Cal Poly,4,3,0,0,W,Cal State Fullerton,Cal-State-Fullerton,Cal-Poly,0,9,"Fullerton, CA / Goodwin Field / Box Score",2026,WN2026
+05/09/2026,Cal State Fullerton,Cal Poly,6,7,0,0,L,Cal State Fullerton,Cal-State-Fullerton,Cal-Poly,0,9,"Fullerton, CA / Goodwin Field / Box Score",2026,WN2026
+05/10/2026,Cal State Fullerton,Cal Poly,2,6,0,0,L,Cal State Fullerton,Cal-State-Fullerton,Cal-Poly,0,9,"Fullerton, CA / Goodwin Field / Box Score",2026,WN2026
+05/14/2026,UC San Diego,Cal State Fullerton,10,6,0,0,L,Cal State Fullerton,Cal-State-Fullerton,UC-San-Diego,1,9,"La Jolla, CA / Triton Park / Box Score",2026,WN2026
+05/15/2026,UC San Diego,Cal State Fullerton,10,9,0,0,L,Cal State Fullerton,Cal-State-Fullerton,UC-San-Diego,1,10,"La Jolla, CA / Triton Park / Box Score",2026,WN2026
+05/16/2026,UC San Diego,Cal State Fullerton,5,10,0,0,W,Cal State Fullerton,Cal-State-Fullerton,UC-San-Diego,1,9,"La Jolla, CA / Triton Park / Box Score",2026,WN2026
+05/20/2026,Hawaii,Cal State Fullerton,1,5,0,1,W,Cal State Fullerton,Cal-State-Fullerton,Hawaii,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+05/21/2026,UC Santa Barbara,Cal State Fullerton,7,4,0,1,L,Cal State Fullerton,Cal-State-Fullerton,UC-Santa-Barbara,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+05/22/2026,UC San Diego,Cal State Fullerton,5,1,0,1,L,Cal State Fullerton,Cal-State-Fullerton,UC-San-Diego,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026

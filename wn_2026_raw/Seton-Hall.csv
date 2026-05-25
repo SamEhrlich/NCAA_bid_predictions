@@ -1,0 +1,47 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Boston College,Seton Hall,6,4,0,1,L,Seton Hall,Seton-Hall,Boston-College,0,9,"Ponce, PR",2026,WN2026
+02/14/2026,Manhattan,Seton Hall,2,7,0,1,W,Seton Hall,Seton-Hall,Manhattan,0,9,"Ponce, PR",2026,WN2026
+02/20/2026,George Mason,Seton Hall,6,8,0,1,W,Seton Hall,Seton-Hall,George-Mason,0,9,"Charleston, SC / Shipyard Park",2026,WN2026
+02/21/2026,Merrimack,Seton Hall,10,11,0,1,W,Seton Hall,Seton-Hall,Merrimack,0,11,"Charleston, SC / Shipyard Park",2026,WN2026
+02/22/2026,George Mason,Seton Hall,11,4,0,1,L,Seton Hall,Seton-Hall,George-Mason,0,9,"Charleston, SC / Shipyard Park",2026,WN2026
+02/27/2026,Southern Illinois,Seton Hall,5,3,0,0,L,Seton Hall,Seton-Hall,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+02/28/2026,Southern Illinois,Seton Hall,7,4,0,0,L,Seton Hall,Seton-Hall,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/01/2026,Southern Illinois,Seton Hall,2,4,0,0,W,Seton Hall,Seton-Hall,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/06/2026,Louisville,Seton Hall,16,1,0,0,L,Seton Hall,Seton-Hall,Louisville,1,7,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/07/2026,Louisville,Seton Hall,13,3,0,0,L,Seton Hall,Seton-Hall,Louisville,1,8,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/08/2026,Louisville,Seton Hall,6,2,0,0,L,Seton Hall,Seton-Hall,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/11/2026,NJIT,Seton Hall,5,8,0,0,W,Seton Hall,Seton-Hall,NJIT,1,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+03/13/2026,Seton Hall,Brown,5,2,0,0,W,Seton Hall,Seton-Hall,Brown,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+03/14/2026,Seton Hall,Brown,6,9,0,0,L,Seton Hall,Seton-Hall,Brown,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+03/15/2026,Seton Hall,Brown,3,1,0,0,W,Seton Hall,Seton-Hall,Brown,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+03/17/2026,Seton Hall,Wagner,14,1,0,0,W,Seton Hall,Seton-Hall,Wagner,0,7,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+03/20/2026,Seton Hall,Hofstra,5,4,0,0,W,Seton Hall,Seton-Hall,Hofstra,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+03/21/2026,Seton Hall,Hofstra,8,16,0,0,L,Seton Hall,Seton-Hall,Hofstra,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+03/22/2026,Seton Hall,Hofstra,6,2,0,0,W,Seton Hall,Seton-Hall,Hofstra,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+03/25/2026,Seton Hall,Princeton,3,1,0,0,W,Seton Hall,Seton-Hall,Princeton,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/02/2026,Seton Hall,Saint John's,2,8,0,0,L,Seton Hall,Seton-Hall,Saint-Johns,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/04/2026,Seton Hall,Saint John's,12,13,0,0,L,Seton Hall,Seton-Hall,Saint-Johns,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/04/2026,Seton Hall,Saint John's,3,15,0,0,L,Seton Hall,Seton-Hall,Saint-Johns,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/07/2026,Seton Hall,Rutgers,7,12,0,0,L,Seton Hall,Seton-Hall,Rutgers,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/10/2026,Creighton,Seton Hall,5,0,0,0,L,Seton Hall,Seton-Hall,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/11/2026,Creighton,Seton Hall,9,1,0,0,L,Seton Hall,Seton-Hall,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/12/2026,Creighton,Seton Hall,9,2,0,0,L,Seton Hall,Seton-Hall,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/14/2026,Seton Hall,Rider,2,3,0,0,L,Seton Hall,Seton-Hall,Rider,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/17/2026,Seton Hall,Xavier,1,10,0,0,L,Seton Hall,Seton-Hall,Xavier,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/18/2026,Seton Hall,Xavier,3,6,0,0,L,Seton Hall,Seton-Hall,Xavier,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/19/2026,Seton Hall,Xavier,1,3,0,0,L,Seton Hall,Seton-Hall,Xavier,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/22/2026,Monmouth,Seton Hall,6,5,0,0,L,Seton Hall,Seton-Hall,Monmouth,1,9,"West Long Branch, NJ / Monmouth Baseball Field",2026,WN2026
+04/24/2026,Seton Hall,Villanova,9,3,0,0,W,Seton Hall,Seton-Hall,Villanova,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/26/2026,Seton Hall,Villanova,3,2,0,0,W,Seton Hall,Seton-Hall,Villanova,0,7,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/26/2026,Seton Hall,Villanova,6,11,0,0,L,Seton Hall,Seton-Hall,Villanova,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/29/2026,Seton Hall,Lehigh,10,5,0,0,W,Seton Hall,Seton-Hall,Lehigh,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+05/01/2026,Butler,Seton Hall,8,3,0,0,L,Seton Hall,Seton-Hall,Butler,1,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+05/02/2026,Butler,Seton Hall,15,6,0,0,L,Seton Hall,Seton-Hall,Butler,1,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+05/03/2026,Butler,Seton Hall,9,2,0,0,L,Seton Hall,Seton-Hall,Butler,1,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+05/05/2026,Seton Hall,Saint Peter's,4,2,0,0,W,Seton Hall,Seton-Hall,Saint-Peters,0,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+05/08/2026,Seton Hall,Connecticut,3,4,0,0,L,Seton Hall,Seton-Hall,Connecticut,0,9,"South Orange, NJ / Owen T. Carroll Field / Box Score",2026,WN2026
+05/09/2026,Seton Hall,Connecticut,1,13,0,0,L,Seton Hall,Seton-Hall,Connecticut,0,9,"South Orange, NJ / Owen T. Carroll Field / Box Score",2026,WN2026
+05/10/2026,Seton Hall,Connecticut,3,7,0,0,L,Seton Hall,Seton-Hall,Connecticut,0,9,"South Orange, NJ / Owen T. Carroll Field / Box Score",2026,WN2026
+05/14/2026,Georgetown,Seton Hall,5,1,0,0,L,Seton Hall,Seton-Hall,Georgetown,1,9,"Tysons, VA / Capital One Park / Box Score",2026,WN2026
+05/15/2026,Georgetown,Seton Hall,2,3,0,0,W,Seton Hall,Seton-Hall,Georgetown,1,9,"Tysons, VA / Capital One Park / Box Score",2026,WN2026
+05/16/2026,Georgetown,Seton Hall,7,2,0,0,L,Seton Hall,Seton-Hall,Georgetown,1,9,"Tysons, VA / Capital One Park / Box Score",2026,WN2026

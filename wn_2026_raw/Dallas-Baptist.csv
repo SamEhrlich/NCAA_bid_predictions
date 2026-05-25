@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Dallas Baptist,Binghamton,13,2,0,0,W,Dallas Baptist,Dallas-Baptist,Binghamton,0,7,"Dallas, TX / Horner Ballpark",2026,WN2026
+02/13/2026,Dallas Baptist,Binghamton,14,1,0,0,W,Dallas Baptist,Dallas-Baptist,Binghamton,0,7,"Dallas, TX / Horner Ballpark",2026,WN2026
+02/15/2026,Dallas Baptist,Binghamton,6,3,0,0,W,Dallas Baptist,Dallas-Baptist,Binghamton,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+02/17/2026,Dallas Baptist,Abilene Christian,12,3,0,0,W,Dallas Baptist,Dallas-Baptist,Abilene-Christian,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+02/20/2026,UTSA,Dallas Baptist,12,8,0,0,L,Dallas Baptist,Dallas-Baptist,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+02/21/2026,UTSA,Dallas Baptist,10,8,0,0,L,Dallas Baptist,Dallas-Baptist,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+02/22/2026,UTSA,Dallas Baptist,6,3,0,0,L,Dallas Baptist,Dallas-Baptist,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+02/24/2026,UTA,Dallas Baptist,1,6,0,0,W,Dallas Baptist,Dallas-Baptist,UTA,1,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+02/26/2026,Dallas Baptist,Oral Roberts,6,5,0,0,W,Dallas Baptist,Dallas-Baptist,Oral-Roberts,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+02/27/2026,Dallas Baptist,Air Force,15,11,0,0,W,Dallas Baptist,Dallas-Baptist,Air-Force,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+02/28/2026,Dallas Baptist,Oral Roberts,6,8,0,0,L,Dallas Baptist,Dallas-Baptist,Oral-Roberts,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/01/2026,Dallas Baptist,Air Force,16,15,0,0,W,Dallas Baptist,Dallas-Baptist,Air-Force,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/03/2026,Oklahoma,Dallas Baptist,2,0,0,0,L,Dallas Baptist,Dallas-Baptist,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/06/2026,Dallas Baptist,Louisiana,5,6,0,0,L,Dallas Baptist,Dallas-Baptist,Louisiana,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/07/2026,Dallas Baptist,Louisiana,6,11,0,0,L,Dallas Baptist,Dallas-Baptist,Louisiana,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/08/2026,Dallas Baptist,Louisiana,12,1,0,0,W,Dallas Baptist,Dallas-Baptist,Louisiana,0,7,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/10/2026,Oklahoma State,Dallas Baptist,6,5,0,0,L,Dallas Baptist,Dallas-Baptist,Oklahoma-State,1,10,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+03/13/2026,Dallas Baptist,New Mexico State,14,2,0,0,W,Dallas Baptist,Dallas-Baptist,New-Mexico-State,0,8,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/14/2026,Dallas Baptist,New Mexico State,14,17,0,0,L,Dallas Baptist,Dallas-Baptist,New-Mexico-State,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/15/2026,Dallas Baptist,New Mexico State,20,2,0,0,W,Dallas Baptist,Dallas-Baptist,New-Mexico-State,0,7,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/17/2026,Dallas Baptist,Texas Tech,16,10,0,0,W,Dallas Baptist,Dallas-Baptist,Texas-Tech,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/20/2026,Delaware,Dallas Baptist,5,4,0,0,L,Dallas Baptist,Dallas-Baptist,Delaware,1,9,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+03/21/2026,Delaware,Dallas Baptist,2,10,0,0,W,Dallas Baptist,Dallas-Baptist,Delaware,1,9,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+03/22/2026,Delaware,Dallas Baptist,6,8,0,0,W,Dallas Baptist,Dallas-Baptist,Delaware,1,10,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+03/24/2026,Dallas Baptist,TCU,5,11,0,0,L,Dallas Baptist,Dallas-Baptist,TCU,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/27/2026,Dallas Baptist,Missouri State,5,4,0,0,W,Dallas Baptist,Dallas-Baptist,Missouri-State,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/28/2026,Dallas Baptist,Missouri State,2,8,0,0,L,Dallas Baptist,Dallas-Baptist,Missouri-State,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/29/2026,Dallas Baptist,Missouri State,8,5,0,0,W,Dallas Baptist,Dallas-Baptist,Missouri-State,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/31/2026,Dallas Baptist,Oklahoma State,5,14,0,0,L,Dallas Baptist,Dallas-Baptist,Oklahoma-State,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+04/02/2026,Kennesaw State,Dallas Baptist,5,10,0,0,W,Dallas Baptist,Dallas-Baptist,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+04/03/2026,Kennesaw State,Dallas Baptist,5,7,0,0,W,Dallas Baptist,Dallas-Baptist,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+04/04/2026,Kennesaw State,Dallas Baptist,5,4,0,0,L,Dallas Baptist,Dallas-Baptist,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+04/06/2026,Dallas Baptist,Oklahoma,3,9,0,0,L,Dallas Baptist,Dallas-Baptist,Oklahoma,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+04/10/2026,Sam Houston State,Dallas Baptist,4,6,0,0,W,Dallas Baptist,Dallas-Baptist,Sam-Houston-State,1,9,"Huntsville, TX / Don Sanders Stadium",2026,WN2026
+04/11/2026,Sam Houston State,Dallas Baptist,3,14,0,0,W,Dallas Baptist,Dallas-Baptist,Sam-Houston-State,1,7,"Huntsville, TX / Don Sanders Stadium",2026,WN2026
+04/12/2026,Sam Houston State,Dallas Baptist,4,5,0,0,W,Dallas Baptist,Dallas-Baptist,Sam-Houston-State,1,10,"Huntsville, TX / Don Sanders Stadium",2026,WN2026
+04/14/2026,Dallas Baptist,UTA,10,5,0,0,W,Dallas Baptist,Dallas-Baptist,UTA,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+04/17/2026,Dallas Baptist,Liberty,3,17,0,0,L,Dallas Baptist,Dallas-Baptist,Liberty,0,8,"Dallas, TX / Horner Ballpark",2026,WN2026
+04/18/2026,Dallas Baptist,Liberty,7,6,0,0,W,Dallas Baptist,Dallas-Baptist,Liberty,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+04/19/2026,Dallas Baptist,Liberty,8,9,0,0,L,Dallas Baptist,Dallas-Baptist,Liberty,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+04/21/2026,TCU,Dallas Baptist,6,5,0,0,L,Dallas Baptist,Dallas-Baptist,TCU,1,10,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/24/2026,FIU,Dallas Baptist,5,10,0,0,W,Dallas Baptist,Dallas-Baptist,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+04/25/2026,FIU,Dallas Baptist,10,14,0,0,W,Dallas Baptist,Dallas-Baptist,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+04/26/2026,FIU,Dallas Baptist,13,10,0,0,L,Dallas Baptist,Dallas-Baptist,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+04/28/2026,Abilene Christian,Dallas Baptist,4,16,0,0,W,Dallas Baptist,Dallas-Baptist,Abilene-Christian,1,8,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+05/01/2026,Dallas Baptist,Louisiana Tech,4,1,0,0,W,Dallas Baptist,Dallas-Baptist,Louisiana-Tech,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+05/02/2026,Dallas Baptist,Louisiana Tech,4,5,0,0,L,Dallas Baptist,Dallas-Baptist,Louisiana-Tech,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+05/03/2026,Dallas Baptist,Louisiana Tech,9,7,0,0,W,Dallas Baptist,Dallas-Baptist,Louisiana-Tech,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+05/05/2026,Texas Tech,Dallas Baptist,9,7,0,0,L,Dallas Baptist,Dallas-Baptist,Texas-Tech,1,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+05/08/2026,Western Kentucky,Dallas Baptist,7,4,0,0,L,Dallas Baptist,Dallas-Baptist,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field / Box Score",2026,WN2026
+05/09/2026,Western Kentucky,Dallas Baptist,3,5,0,0,W,Dallas Baptist,Dallas-Baptist,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field / Box Score",2026,WN2026
+05/10/2026,Western Kentucky,Dallas Baptist,11,8,0,0,L,Dallas Baptist,Dallas-Baptist,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field / Box Score",2026,WN2026
+05/14/2026,Dallas Baptist,Jacksonville State,13,3,0,0,W,Dallas Baptist,Dallas-Baptist,Jacksonville-State,0,7,"Dallas, TX / Horner Ballpark / Box Score",2026,WN2026
+05/15/2026,Dallas Baptist,Jacksonville State,10,6,0,0,W,Dallas Baptist,Dallas-Baptist,Jacksonville-State,0,9,"Dallas, TX / Horner Ballpark / Box Score",2026,WN2026
+05/16/2026,Dallas Baptist,Jacksonville State,4,13,0,0,L,Dallas Baptist,Dallas-Baptist,Jacksonville-State,0,9,"Dallas, TX / Horner Ballpark / Box Score",2026,WN2026
+05/20/2026,Kennesaw State,Dallas Baptist,0,6,0,1,W,Dallas Baptist,Dallas-Baptist,Kennesaw-State,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+05/22/2026,Missouri State,Dallas Baptist,9,8,0,1,L,Dallas Baptist,Dallas-Baptist,Missouri-State,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+05/23/2026,Jacksonville State,Dallas Baptist,6,5,0,1,L,Dallas Baptist,Dallas-Baptist,Jacksonville-State,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026

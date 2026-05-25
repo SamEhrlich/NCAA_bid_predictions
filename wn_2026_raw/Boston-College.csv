@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Seton Hall,Boston College,4,6,0,1,W,Boston College,Boston-College,Seton-Hall,0,9,"Ponce, PR",2026,WN2026
+02/14/2026,Houston,Boston College,5,1,0,1,L,Boston College,Boston-College,Houston,0,9,"Caguas, PR",2026,WN2026
+02/15/2026,Washington,Boston College,0,10,0,1,W,Boston College,Boston-College,Washington,0,7,"Caguas, PR",2026,WN2026
+02/20/2026,Cornell,Boston College,1,9,0,1,W,Boston College,Boston-College,Cornell,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/21/2026,Northwestern,Boston College,5,4,0,1,L,Boston College,Boston-College,Northwestern,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/22/2026,Cornell,Boston College,6,7,0,1,W,Boston College,Boston-College,Cornell,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/22/2026,Northwestern,Boston College,8,5,0,1,L,Boston College,Boston-College,Northwestern,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/27/2026,FGCU,Boston College,4,10,0,0,W,Boston College,Boston-College,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/28/2026,FGCU,Boston College,11,5,0,0,L,Boston College,Boston-College,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/01/2026,FGCU,Boston College,4,3,0,0,L,Boston College,Boston-College,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/03/2026,FIU,Boston College,0,4,0,0,W,Boston College,Boston-College,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+03/04/2026,FIU,Boston College,4,9,0,0,W,Boston College,Boston-College,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+03/06/2026,Miami (FL),Boston College,7,8,0,0,W,Boston College,Boston-College,Miami-FL,1,11,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/07/2026,Miami (FL),Boston College,5,3,0,0,L,Boston College,Boston-College,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/08/2026,Miami (FL),Boston College,5,9,0,0,W,Boston College,Boston-College,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/10/2026,Connecticut,Boston College,19,26,0,0,W,Boston College,Boston-College,Connecticut,1,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+03/13/2026,North Carolina State,Boston College,4,2,0,0,L,Boston College,Boston-College,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+03/14/2026,North Carolina State,Boston College,5,12,0,0,W,Boston College,Boston-College,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+03/15/2026,North Carolina State,Boston College,5,1,0,0,L,Boston College,Boston-College,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+03/17/2026,Boston College,Sacred Heart,5,4,0,0,W,Boston College,Boston-College,Sacred-Heart,0,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+03/18/2026,Boston College,UMass-Lowell,12,2,0,0,W,Boston College,Boston-College,UMass-Lowell,0,8,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+03/20/2026,Boston College,California,4,3,0,0,W,Boston College,Boston-College,California,0,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+03/21/2026,Boston College,California,9,6,0,0,W,Boston College,Boston-College,California,0,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+03/22/2026,Boston College,California,3,2,0,0,W,Boston College,Boston-College,California,0,11,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+03/24/2026,Northeastern,Boston College,2,3,0,0,W,Boston College,Boston-College,Northeastern,1,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+03/25/2026,Boston College,Merrimack,12,2,0,0,W,Boston College,Boston-College,Merrimack,0,7,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+03/27/2026,Boston College,Virginia,5,3,0,0,W,Boston College,Boston-College,Virginia,0,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+03/28/2026,Boston College,Virginia,17,0,0,0,W,Boston College,Boston-College,Virginia,0,7,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+03/29/2026,Boston College,Virginia,1,3,0,0,L,Boston College,Boston-College,Virginia,0,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+03/31/2026,Boston College,Maine,7,4,0,0,W,Boston College,Boston-College,Maine,0,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/02/2026,North Carolina,Boston College,1,6,0,0,W,Boston College,Boston-College,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/03/2026,North Carolina,Boston College,5,2,0,0,L,Boston College,Boston-College,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/04/2026,North Carolina,Boston College,8,7,0,0,L,Boston College,Boston-College,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/07/2026,Boston College,UMass,11,1,0,0,W,Boston College,Boston-College,UMass,0,8,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/08/2026,Boston College,Dartmouth,13,3,0,0,W,Boston College,Boston-College,Dartmouth,0,7,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/10/2026,Boston College,Virginia Tech,8,9,0,0,L,Boston College,Boston-College,Virginia-Tech,0,11,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/11/2026,Boston College,Virginia Tech,8,7,0,0,W,Boston College,Boston-College,Virginia-Tech,0,9,"Boston, MA / Fenway Park",2026,WN2026
+04/12/2026,Boston College,Virginia Tech,6,2,0,0,W,Boston College,Boston-College,Virginia-Tech,0,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/14/2026,Boston College,Northeastern,3,1,0,0,W,Boston College,Boston-College,Northeastern,0,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/15/2026,Boston College,Connecticut,8,5,0,0,W,Boston College,Boston-College,Connecticut,0,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/17/2026,Boston College,Duke,11,1,0,0,W,Boston College,Boston-College,Duke,0,7,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/18/2026,Boston College,Duke,4,2,0,0,W,Boston College,Boston-College,Duke,0,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/18/2026,Boston College,Duke,14,6,0,0,W,Boston College,Boston-College,Duke,0,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/21/2026,Boston College,Maine,4,6,0,0,L,Boston College,Boston-College,Maine,0,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/24/2026,Notre Dame,Boston College,12,2,0,0,L,Boston College,Boston-College,Notre-Dame,1,7,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+04/25/2026,Notre Dame,Boston College,1,16,0,0,W,Boston College,Boston-College,Notre-Dame,1,8,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+04/26/2026,Notre Dame,Boston College,6,7,0,0,W,Boston College,Boston-College,Notre-Dame,1,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+04/28/2026,UMass-Lowell,Boston College,6,7,0,0,W,Boston College,Boston-College,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+05/01/2026,Clemson,Boston College,4,8,0,0,W,Boston College,Boston-College,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+05/02/2026,Clemson,Boston College,14,4,0,0,L,Boston College,Boston-College,Clemson,1,7,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+05/03/2026,Clemson,Boston College,4,3,0,0,L,Boston College,Boston-College,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+05/10/2026,Boston College,NJIT,7,8,0,0,L,Boston College,Boston-College,NJIT,0,9,"Brighton, MA / Eddie Pellagrini Diamond / Box Score",2026,WN2026
+05/10/2026,Boston College,NJIT,6,3,0,0,W,Boston College,Boston-College,NJIT,0,9,"Brighton, MA / Eddie Pellagrini Diamond / Box Score",2026,WN2026
+05/14/2026,Boston College,Georgia Tech,0,9,0,0,L,Boston College,Boston-College,Georgia-Tech,0,9,"Brighton, MA / Eddie Pellagrini Diamond / Box Score",2026,WN2026
+05/15/2026,Boston College,Georgia Tech,1,14,0,0,L,Boston College,Boston-College,Georgia-Tech,0,9,"Brighton, MA / Eddie Pellagrini Diamond / Box Score",2026,WN2026
+05/16/2026,Boston College,Georgia Tech,2,15,0,0,L,Boston College,Boston-College,Georgia-Tech,0,7,"Brighton, MA / Eddie Pellagrini Diamond / Box Score",2026,WN2026
+05/21/2026,Miami (FL),Boston College,8,2,0,1,L,Boston College,Boston-College,Miami-FL,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026

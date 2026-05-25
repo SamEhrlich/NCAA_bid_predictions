@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Winthrop,Georgetown,13,2,0,0,L,Georgetown,Georgetown,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/14/2026,Winthrop,Georgetown,13,3,0,0,L,Georgetown,Georgetown,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/14/2026,Winthrop,Georgetown,3,8,0,0,W,Georgetown,Georgetown,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/17/2026,Maryland,Georgetown,16,3,0,0,L,Georgetown,Georgetown,Maryland,1,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+02/20/2026,Georgetown,Saint Peter's,4,2,0,0,W,Georgetown,Georgetown,Saint-Peters,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+02/20/2026,Georgetown,Saint Peter's,13,3,0,0,W,Georgetown,Georgetown,Saint-Peters,0,7,"Tysons, VA / Capital One Park",2026,WN2026
+02/21/2026,Georgetown,Saint Peter's,18,2,0,0,W,Georgetown,Georgetown,Saint-Peters,0,7,"Tysons, VA / Capital One Park",2026,WN2026
+02/21/2026,Georgetown,Saint Peter's,13,0,0,0,W,Georgetown,Georgetown,Saint-Peters,0,7,"Tysons, VA / Capital One Park",2026,WN2026
+02/25/2026,Georgetown,UMBC,7,12,0,0,L,Georgetown,Georgetown,UMBC,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+02/27/2026,Georgetown,Fairleigh Dickinson,12,1,0,0,W,Georgetown,Georgetown,Fairleigh-Dickinson,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+02/28/2026,Georgetown,Fairleigh Dickinson,7,2,0,0,W,Georgetown,Georgetown,Fairleigh-Dickinson,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/01/2026,Georgetown,Fairleigh Dickinson,6,5,0,0,W,Georgetown,Georgetown,Fairleigh-Dickinson,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/04/2026,George Washington,Georgetown,10,9,0,0,L,Georgetown,Georgetown,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+03/06/2026,George Mason,Georgetown,5,6,0,0,W,Georgetown,Georgetown,George-Mason,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/07/2026,Georgetown,George Mason,7,12,0,0,L,Georgetown,Georgetown,George-Mason,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/08/2026,George Mason,Georgetown,4,5,0,0,W,Georgetown,Georgetown,George-Mason,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+03/10/2026,Georgetown,Penn State,8,2,0,0,W,Georgetown,Georgetown,Penn-State,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/11/2026,Georgetown,Penn State,5,4,0,0,W,Georgetown,Georgetown,Penn-State,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/13/2026,Georgetown,William & Mary,6,5,0,0,W,Georgetown,Georgetown,William-Mary,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/14/2026,Georgetown,William & Mary,2,8,0,0,L,Georgetown,Georgetown,William-Mary,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/15/2026,Georgetown,William & Mary,3,7,0,0,L,Georgetown,Georgetown,William-Mary,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/17/2026,Virginia,Georgetown,6,4,0,0,L,Georgetown,Georgetown,Virginia,1,9,"Charlottesville, VA / Davenport Field",2026,WN2026
+03/20/2026,Georgetown,Youngstown State,2,3,0,0,L,Georgetown,Georgetown,Youngstown-State,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/21/2026,Georgetown,Youngstown State,7,2,0,0,W,Georgetown,Georgetown,Youngstown-State,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/22/2026,Georgetown,Youngstown State,6,3,0,0,W,Georgetown,Georgetown,Youngstown-State,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/27/2026,North Carolina A&T,Georgetown,6,17,0,0,W,Georgetown,Georgetown,North-Carolina-AT,1,8,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+03/28/2026,North Carolina A&T,Georgetown,13,8,0,0,L,Georgetown,Georgetown,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+03/29/2026,North Carolina A&T,Georgetown,3,2,0,0,L,Georgetown,Georgetown,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+03/31/2026,Georgetown,James Madison,7,12,0,0,L,Georgetown,Georgetown,James-Madison,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/02/2026,Georgetown,Xavier,1,5,0,0,L,Georgetown,Georgetown,Xavier,0,12,"Tysons, VA / Capital One Park",2026,WN2026
+04/03/2026,Georgetown,Xavier,6,11,0,0,L,Georgetown,Georgetown,Xavier,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/04/2026,Georgetown,Xavier,10,9,0,0,W,Georgetown,Georgetown,Xavier,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/07/2026,Georgetown,Maryland Eastern Shore,13,9,0,0,W,Georgetown,Georgetown,Maryland-Eastern-Shore,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/10/2026,Saint John's,Georgetown,12,6,0,0,L,Georgetown,Georgetown,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+04/11/2026,Saint John's,Georgetown,9,0,0,0,L,Georgetown,Georgetown,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+04/12/2026,Saint John's,Georgetown,7,10,0,0,W,Georgetown,Georgetown,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+04/14/2026,UMBC,Georgetown,3,9,0,0,W,Georgetown,Georgetown,UMBC,1,9,"Catonsville, MD / Alumni Field",2026,WN2026
+04/17/2026,Butler,Georgetown,11,12,0,0,W,Georgetown,Georgetown,Butler,1,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+04/18/2026,Butler,Georgetown,6,0,0,0,L,Georgetown,Georgetown,Butler,1,9,"Indianapolis, IN / Bulldog Park",2026,WN2026
+04/19/2026,Butler,Georgetown,5,14,0,0,W,Georgetown,Georgetown,Butler,1,13,"Indianapolis, IN / Bulldog Park",2026,WN2026
+04/22/2026,Georgetown,George Washington,7,9,0,0,L,Georgetown,Georgetown,George-Washington,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/24/2026,Georgetown,Connecticut,2,14,0,0,L,Georgetown,Georgetown,Connecticut,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/25/2026,Georgetown,Connecticut,4,22,0,0,L,Georgetown,Georgetown,Connecticut,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/26/2026,Georgetown,Connecticut,2,3,0,0,L,Georgetown,Georgetown,Connecticut,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/28/2026,Georgetown,Maryland,2,11,0,0,L,Georgetown,Georgetown,Maryland,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+05/01/2026,Georgetown,Villanova,7,11,0,0,L,Georgetown,Georgetown,Villanova,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+05/02/2026,Georgetown,Villanova,3,9,0,0,L,Georgetown,Georgetown,Villanova,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+05/03/2026,Georgetown,Villanova,14,5,0,0,W,Georgetown,Georgetown,Villanova,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+05/05/2026,Georgetown,Delaware State,17,11,0,0,W,Georgetown,Georgetown,Delaware-State,0,9,"Tysons, VA / Capital One Park",2026,WN2026
+05/08/2026,Creighton,Georgetown,3,4,0,0,W,Georgetown,Georgetown,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha / Box Score",2026,WN2026
+05/09/2026,Creighton,Georgetown,9,5,0,0,L,Georgetown,Georgetown,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha / Box Score",2026,WN2026
+05/10/2026,Creighton,Georgetown,2,5,0,0,W,Georgetown,Georgetown,Creighton,1,9,"Omaha, NE / Charles Schwab Field Omaha / Box Score",2026,WN2026
+05/12/2026,Maryland,Georgetown,21,6,0,0,L,Georgetown,Georgetown,Maryland,1,7,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+05/14/2026,Georgetown,Seton Hall,5,1,0,0,W,Georgetown,Georgetown,Seton-Hall,0,9,"Tysons, VA / Capital One Park / Box Score",2026,WN2026
+05/15/2026,Georgetown,Seton Hall,2,3,0,0,L,Georgetown,Georgetown,Seton-Hall,0,9,"Tysons, VA / Capital One Park / Box Score",2026,WN2026
+05/16/2026,Georgetown,Seton Hall,7,2,0,0,W,Georgetown,Georgetown,Seton-Hall,0,9,"Tysons, VA / Capital One Park / Box Score",2026,WN2026

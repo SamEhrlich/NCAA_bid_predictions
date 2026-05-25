@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Stetson,Minnesota,5,11,0,0,W,Minnesota,Minnesota,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/14/2026,Saint John's,Minnesota,0,8,0,1,W,Minnesota,Minnesota,Saint-Johns,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/15/2026,Ball State,Minnesota,0,8,0,1,W,Minnesota,Minnesota,Ball-State,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/18/2026,FGCU,Minnesota,6,5,0,0,L,Minnesota,Minnesota,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/21/2026,Northeastern,Minnesota,2,12,0,1,W,Minnesota,Minnesota,Northeastern,0,7,"Fort Myers, FL / Terry Park",2026,WN2026
+02/22/2026,Northeastern,Minnesota,5,15,0,1,W,Minnesota,Minnesota,Northeastern,0,7,"Fort Myers, FL / Terry Park",2026,WN2026
+02/25/2026,Minnesota,Kansas,7,8,0,0,L,Minnesota,Minnesota,Kansas,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+02/27/2026,Minnesota,Kansas,12,5,0,0,W,Minnesota,Minnesota,Kansas,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+02/28/2026,Minnesota,Kansas,10,3,0,0,W,Minnesota,Minnesota,Kansas,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/01/2026,Minnesota,Kansas,3,8,0,0,L,Minnesota,Minnesota,Kansas,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/03/2026,Minnesota,Milwaukee,14,4,0,0,W,Minnesota,Minnesota,Milwaukee,0,8,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/04/2026,Minnesota,Milwaukee,6,2,0,0,W,Minnesota,Minnesota,Milwaukee,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/06/2026,Minnesota,UNLV,10,0,0,0,W,Minnesota,Minnesota,UNLV,0,7,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/07/2026,Minnesota,South Dakota State,3,2,0,0,W,Minnesota,Minnesota,South-Dakota-State,0,10,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/08/2026,Minnesota,Omaha,6,4,0,0,W,Minnesota,Minnesota,Omaha,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/10/2026,Minnesota,Gonzaga,11,8,0,0,W,Minnesota,Minnesota,Gonzaga,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/11/2026,Minnesota,Gonzaga,6,2,0,0,W,Minnesota,Minnesota,Gonzaga,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/13/2026,Illinois,Minnesota,2,1,0,0,L,Minnesota,Minnesota,Illinois,1,10,"Champaign, IL / Illinois Field",2026,WN2026
+03/14/2026,Illinois,Minnesota,0,1,0,0,W,Minnesota,Minnesota,Illinois,1,9,"Champaign, IL / Illinois Field",2026,WN2026
+03/14/2026,Illinois,Minnesota,4,2,0,0,L,Minnesota,Minnesota,Illinois,1,9,"Champaign, IL / Illinois Field",2026,WN2026
+03/17/2026,Minnesota,North Dakota State,4,7,0,0,L,Minnesota,Minnesota,North-Dakota-State,0,11,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/20/2026,Indiana,Minnesota,8,6,0,0,L,Minnesota,Minnesota,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+03/21/2026,Indiana,Minnesota,7,2,0,0,L,Minnesota,Minnesota,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+03/22/2026,Indiana,Minnesota,2,14,0,0,W,Minnesota,Minnesota,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+03/25/2026,Minnesota,Saint Thomas,15,5,0,0,W,Minnesota,Minnesota,Saint-Thomas,0,8,"Minneapolis, MN / Siebert Field",2026,WN2026
+03/27/2026,Minnesota,Ohio State,3,4,0,0,L,Minnesota,Minnesota,Ohio-State,0,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+03/28/2026,Minnesota,Ohio State,3,9,0,0,L,Minnesota,Minnesota,Ohio-State,0,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+03/29/2026,Minnesota,Ohio State,9,12,0,0,L,Minnesota,Minnesota,Ohio-State,0,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/03/2026,Iowa,Minnesota,4,9,0,0,W,Minnesota,Minnesota,Iowa,1,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/04/2026,Iowa,Minnesota,3,2,0,0,L,Minnesota,Minnesota,Iowa,1,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/05/2026,Iowa,Minnesota,5,4,0,0,L,Minnesota,Minnesota,Iowa,1,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/08/2026,Minnesota,South Dakota State,16,7,0,0,W,Minnesota,Minnesota,South-Dakota-State,0,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/10/2026,Minnesota,Washington,7,11,0,0,L,Minnesota,Minnesota,Washington,0,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/10/2026,Minnesota,Washington,12,6,0,0,W,Minnesota,Minnesota,Washington,0,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/11/2026,Minnesota,Washington,5,4,0,0,W,Minnesota,Minnesota,Washington,0,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/14/2026,Saint Thomas,Minnesota,2,24,0,0,W,Minnesota,Minnesota,Saint-Thomas,1,9,"St. Paul, MN / Koch Diamond",2026,WN2026
+04/17/2026,UCLA,Minnesota,4,2,0,0,L,Minnesota,Minnesota,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/18/2026,UCLA,Minnesota,6,4,0,0,L,Minnesota,Minnesota,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/19/2026,UCLA,Minnesota,5,2,0,0,L,Minnesota,Minnesota,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/21/2026,Minnesota,North Dakota State,12,3,0,0,W,Minnesota,Minnesota,North-Dakota-State,0,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/24/2026,Minnesota,Northwestern,13,1,0,0,W,Minnesota,Minnesota,Northwestern,0,7,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/25/2026,Minnesota,Northwestern,7,3,0,0,W,Minnesota,Minnesota,Northwestern,0,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/26/2026,Minnesota,Northwestern,7,2,0,0,W,Minnesota,Minnesota,Northwestern,0,9,"Minneapolis, MN / Siebert Field",2026,WN2026
+04/28/2026,Minnesota,Saint Thomas,12,1,0,0,W,Minnesota,Minnesota,Saint-Thomas,0,7,"Minneapolis, MN / Siebert Field",2026,WN2026
+05/02/2026,Penn State,Minnesota,4,5,0,0,W,Minnesota,Minnesota,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+05/02/2026,Penn State,Minnesota,3,5,0,0,W,Minnesota,Minnesota,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+05/03/2026,Penn State,Minnesota,4,3,0,0,L,Minnesota,Minnesota,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+05/08/2026,Minnesota,Michigan,13,1,0,0,W,Minnesota,Minnesota,Michigan,0,7,"Minneapolis, MN / Siebert Field / Box Score",2026,WN2026
+05/09/2026,Minnesota,Michigan,8,9,0,0,L,Minnesota,Minnesota,Michigan,0,9,"Minneapolis, MN / Siebert Field / Box Score",2026,WN2026
+05/10/2026,Minnesota,Michigan,5,8,0,0,L,Minnesota,Minnesota,Michigan,0,9,"Minneapolis, MN / Siebert Field / Box Score",2026,WN2026
+05/14/2026,Minnesota,Nebraska,7,12,0,0,L,Minnesota,Minnesota,Nebraska,0,9,"Minneapolis, MN / Siebert Field / Box Score",2026,WN2026
+05/15/2026,Minnesota,Nebraska,6,7,0,0,L,Minnesota,Minnesota,Nebraska,0,9,"Minneapolis, MN / Siebert Field / Box Score",2026,WN2026
+05/16/2026,Minnesota,Nebraska,11,14,0,0,L,Minnesota,Minnesota,Nebraska,0,9,"Minneapolis, MN / Siebert Field / Box Score",2026,WN2026

@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Florida,UAB,7,9,0,0,W,UAB,UAB,Florida,1,10,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/14/2026,Florida,UAB,11,0,0,0,L,UAB,UAB,Florida,1,7,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/14/2026,Florida,UAB,6,1,0,0,L,UAB,UAB,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/17/2026,North Alabama,UAB,3,15,0,0,W,UAB,UAB,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/19/2026,UAB,Cincinnati,12,11,0,0,W,UAB,UAB,Cincinnati,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+02/20/2026,UAB,Cincinnati,8,3,0,0,W,UAB,UAB,Cincinnati,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+02/21/2026,UAB,Cincinnati,4,8,0,0,L,UAB,UAB,Cincinnati,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+02/22/2026,UAB,Cincinnati,6,8,0,0,L,UAB,UAB,Cincinnati,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+02/24/2026,UAB,Alabama State,10,5,0,0,W,UAB,UAB,Alabama-State,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+02/27/2026,UAB,Jacksonville,2,10,0,0,L,UAB,UAB,Jacksonville,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+02/28/2026,UAB,Jacksonville,11,6,0,0,W,UAB,UAB,Jacksonville,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/01/2026,UAB,Jacksonville,9,3,0,0,W,UAB,UAB,Jacksonville,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/03/2026,South Alabama,UAB,11,1,0,1,L,UAB,UAB,South-Alabama,0,8,"Montgomery, AL / Riverwalk Stadium",2026,WN2026
+03/06/2026,UAB,Middle Tennessee,12,2,0,0,W,UAB,UAB,Middle-Tennessee,0,8,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/07/2026,UAB,Middle Tennessee,9,8,0,0,W,UAB,UAB,Middle-Tennessee,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/07/2026,UAB,Middle Tennessee,16,14,0,0,W,UAB,UAB,Middle-Tennessee,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/10/2026,Auburn,UAB,17,2,0,0,L,UAB,UAB,Auburn,1,7,"Auburn, AL / Plainsman Park",2026,WN2026
+03/13/2026,UAB,Belmont,13,3,0,0,W,UAB,UAB,Belmont,0,7,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/14/2026,UAB,Belmont,4,10,0,0,L,UAB,UAB,Belmont,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/15/2026,UAB,Belmont,12,2,0,0,W,UAB,UAB,Belmont,0,8,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/17/2026,UAB,Alabama A&M,9,8,0,0,W,UAB,UAB,Alabama-AM,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/20/2026,East Carolina,UAB,3,2,0,0,L,UAB,UAB,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+03/21/2026,East Carolina,UAB,18,1,0,0,L,UAB,UAB,East-Carolina,1,7,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+03/22/2026,East Carolina,UAB,4,11,0,0,W,UAB,UAB,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+03/24/2026,UAB,Jacksonville State,16,11,0,0,W,UAB,UAB,Jacksonville-State,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/27/2026,UAB,Tulane,9,6,0,0,W,UAB,UAB,Tulane,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/28/2026,UAB,Tulane,7,4,0,0,W,UAB,UAB,Tulane,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/29/2026,UAB,Tulane,5,4,0,0,W,UAB,UAB,Tulane,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/31/2026,UAB,North Alabama,10,0,0,0,W,UAB,UAB,North-Alabama,0,7,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+04/02/2026,FAU,UAB,2,7,0,0,W,UAB,UAB,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/03/2026,FAU,UAB,8,11,0,0,W,UAB,UAB,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/04/2026,FAU,UAB,4,10,0,0,W,UAB,UAB,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/07/2026,Mississippi State,UAB,5,3,0,0,L,UAB,UAB,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/10/2026,UAB,Wichita State,4,3,0,0,W,UAB,UAB,Wichita-State,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+04/11/2026,UAB,Wichita State,4,5,0,0,L,UAB,UAB,Wichita-State,0,10,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+04/12/2026,UAB,Wichita State,2,10,0,0,L,UAB,UAB,Wichita-State,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+04/14/2026,UAB,Alabama,6,12,0,0,L,UAB,UAB,Alabama,0,9,"Birmingham, AL / Regions Field",2026,WN2026
+04/17/2026,South Florida,UAB,4,8,0,0,W,UAB,UAB,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+04/18/2026,South Florida,UAB,6,12,0,0,W,UAB,UAB,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+04/19/2026,South Florida,UAB,1,0,0,0,L,UAB,UAB,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+04/21/2026,Alabama,UAB,2,11,0,0,W,UAB,UAB,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+04/24/2026,UAB,Memphis,7,6,0,0,W,UAB,UAB,Memphis,0,11,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+04/25/2026,UAB,Memphis,9,13,0,0,L,UAB,UAB,Memphis,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+04/26/2026,UAB,Memphis,11,2,0,0,W,UAB,UAB,Memphis,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+05/02/2026,Rice,UAB,16,9,0,0,L,UAB,UAB,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+05/02/2026,Rice,UAB,12,2,0,0,L,UAB,UAB,Rice,1,7,"Houston, TX / Reckling Park",2026,WN2026
+05/03/2026,Rice,UAB,10,3,0,0,L,UAB,UAB,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+05/05/2026,UAB,Auburn,2,10,0,0,L,UAB,UAB,Auburn,0,9,"Birmingham, AL / Regions Field",2026,WN2026
+05/08/2026,UAB,Charlotte,2,20,0,0,L,UAB,UAB,Charlotte,0,7,"Birmingham, AL / Jerry D. Young Memorial Field / Box Score",2026,WN2026
+05/09/2026,UAB,Charlotte,11,2,0,0,W,UAB,UAB,Charlotte,0,9,"Birmingham, AL / Jerry D. Young Memorial Field / Box Score",2026,WN2026
+05/10/2026,UAB,Charlotte,8,10,0,0,L,UAB,UAB,Charlotte,0,10,"Birmingham, AL / Jerry D. Young Memorial Field / Box Score",2026,WN2026
+05/12/2026,UAB,Troy,5,14,0,0,L,UAB,UAB,Troy,0,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+05/14/2026,UTSA,UAB,6,7,0,0,W,UAB,UAB,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/15/2026,UTSA,UAB,19,9,0,0,L,UAB,UAB,UTSA,1,7,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/16/2026,UTSA,UAB,11,23,0,0,W,UAB,UAB,UTSA,1,8,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/21/2026,Memphis,UAB,7,3,0,1,L,UAB,UAB,Memphis,0,9,"Clearwater, FL / BayCare Ballpark / Recap",2026,WN2026
+05/22/2026,Rice,UAB,6,9,0,1,W,UAB,UAB,Rice,0,9,"Clearwater, FL / BayCare Ballpark",2026,WN2026
+05/23/2026,Wichita State,UAB,14,12,0,1,L,UAB,UAB,Wichita-State,0,9,"Clearwater, FL / BayCare Ballpark",2026,WN2026

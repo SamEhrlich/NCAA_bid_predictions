@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Georgia,Wright State,13,1,0,0,W,Georgia,Georgia,Wright-State,0,7,"Athens, GA / Foley Field",2026,WN2026
+02/14/2026,Georgia,Wright State,9,0,0,0,W,Georgia,Georgia,Wright-State,0,9,"Athens, GA / Foley Field",2026,WN2026
+02/14/2026,Georgia,Wright State,3,6,0,0,L,Georgia,Georgia,Wright-State,0,9,"Athens, GA / Foley Field",2026,WN2026
+02/18/2026,Georgia,South Carolina Upstate,12,6,0,0,W,Georgia,Georgia,South-Carolina-Upstate,0,9,"Athens, GA / Foley Field",2026,WN2026
+02/20/2026,Georgia,Samford,11,1,0,0,W,Georgia,Georgia,Samford,0,7,"Athens, GA / Foley Field",2026,WN2026
+02/21/2026,Georgia,Samford,12,4,0,0,W,Georgia,Georgia,Samford,0,9,"Athens, GA / Foley Field",2026,WN2026
+02/22/2026,Georgia,Samford,22,0,0,0,W,Georgia,Georgia,Samford,0,7,"Athens, GA / Foley Field",2026,WN2026
+02/25/2026,Georgia,Troy,5,6,0,0,L,Georgia,Georgia,Troy,0,12,"Athens, GA / Foley Field",2026,WN2026
+02/27/2026,Georgia,Oakland,16,6,0,0,W,Georgia,Georgia,Oakland,0,7,"Athens, GA / Foley Field",2026,WN2026
+02/28/2026,Georgia,Oakland,17,0,0,0,W,Georgia,Georgia,Oakland,0,7,"Athens, GA / Foley Field",2026,WN2026
+02/28/2026,Georgia,Oakland,11,0,0,0,W,Georgia,Georgia,Oakland,0,7,"Athens, GA / Foley Field",2026,WN2026
+03/01/2026,Georgia,Oakland,4,3,0,0,W,Georgia,Georgia,Oakland,0,9,"Athens, GA / Foley Field",2026,WN2026
+03/03/2026,Kennesaw State,Georgia,1,11,0,0,W,Georgia,Georgia,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/04/2026,Georgia,Western Carolina,9,10,0,0,L,Georgia,Georgia,Western-Carolina,0,9,"Athens, GA / Foley Field",2026,WN2026
+03/06/2026,Georgia,Queens,12,2,0,0,W,Georgia,Georgia,Queens,0,8,"Athens, GA / Foley Field",2026,WN2026
+03/07/2026,Georgia,Queens,13,5,0,0,W,Georgia,Georgia,Queens,0,9,"Athens, GA / Foley Field",2026,WN2026
+03/07/2026,Georgia,Queens,11,0,0,0,W,Georgia,Georgia,Queens,0,7,"Athens, GA / Foley Field",2026,WN2026
+03/08/2026,Georgia,Queens,14,3,0,0,W,Georgia,Georgia,Queens,0,7,"Athens, GA / Foley Field",2026,WN2026
+03/13/2026,Georgia,Tennessee,4,7,0,0,L,Georgia,Georgia,Tennessee,0,9,"Athens, GA / Foley Field",2026,WN2026
+03/14/2026,Georgia,Tennessee,4,2,0,0,W,Georgia,Georgia,Tennessee,0,9,"Athens, GA / Foley Field",2026,WN2026
+03/15/2026,Georgia,Tennessee,8,7,0,0,W,Georgia,Georgia,Tennessee,0,9,"Athens, GA / Foley Field",2026,WN2026
+03/17/2026,Georgia,The Citadel,8,5,0,0,W,Georgia,Georgia,The-Citadel,0,9,"Athens, GA / Foley Field",2026,WN2026
+03/20/2026,Texas A&M,Georgia,4,9,0,0,W,Georgia,Georgia,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+03/21/2026,Texas A&M,Georgia,2,8,0,0,W,Georgia,Georgia,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+03/22/2026,Texas A&M,Georgia,18,5,0,0,L,Georgia,Georgia,Texas-AM,1,7,"College Station, TX / Blue Bell Park",2026,WN2026
+03/24/2026,Georgia,Kennesaw State,7,10,0,0,L,Georgia,Georgia,Kennesaw-State,0,9,"Athens, GA / Foley Field",2026,WN2026
+03/27/2026,Georgia,South Carolina,5,2,0,0,W,Georgia,Georgia,South-Carolina,0,9,"Athens, GA / Foley Field",2026,WN2026
+03/28/2026,Georgia,South Carolina,3,1,0,0,W,Georgia,Georgia,South-Carolina,0,9,"Athens, GA / Foley Field",2026,WN2026
+03/29/2026,Georgia,South Carolina,9,7,0,0,W,Georgia,Georgia,South-Carolina,0,9,"Athens, GA / Foley Field",2026,WN2026
+03/31/2026,Georgia,Georgia State,14,9,0,0,W,Georgia,Georgia,Georgia-State,0,9,"Athens, GA / Foley Field",2026,WN2026
+04/02/2026,Mississippi State,Georgia,9,10,0,0,W,Georgia,Georgia,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/03/2026,Mississippi State,Georgia,1,3,0,0,W,Georgia,Georgia,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/04/2026,Mississippi State,Georgia,5,8,0,0,W,Georgia,Georgia,Mississippi-State,1,10,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/07/2026,Georgia,Presbyterian College,28,3,0,0,W,Georgia,Georgia,Presbyterian-College,0,7,"Athens, GA / Foley Field",2026,WN2026
+04/10/2026,Georgia,Florida,2,8,0,0,L,Georgia,Georgia,Florida,0,9,"Athens, GA / Foley Field",2026,WN2026
+04/11/2026,Georgia,Florida,5,1,0,0,W,Georgia,Georgia,Florida,0,9,"Athens, GA / Foley Field",2026,WN2026
+04/12/2026,Georgia,Florida,7,13,0,0,L,Georgia,Georgia,Florida,0,9,"Athens, GA / Foley Field",2026,WN2026
+04/14/2026,Georgia,East Tennessee State,12,10,0,0,W,Georgia,Georgia,East-Tennessee-State,0,9,"Athens, GA / Foley Field",2026,WN2026
+04/16/2026,Arkansas,Georgia,6,3,0,0,L,Georgia,Georgia,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+04/17/2026,Arkansas,Georgia,3,5,0,0,W,Georgia,Georgia,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+04/18/2026,Arkansas,Georgia,14,26,0,0,W,Georgia,Georgia,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+04/21/2026,Georgia Tech,Georgia,14,4,0,1,L,Georgia,Georgia,Georgia-Tech,0,7,"Atlanta, GA / Truist Park",2026,WN2026
+04/25/2026,Ole Miss,Georgia,10,8,0,0,L,Georgia,Georgia,Ole-Miss,1,9,"Oxford, MS / Swayze Field",2026,WN2026
+04/25/2026,Ole Miss,Georgia,7,9,0,0,W,Georgia,Georgia,Ole-Miss,1,14,"Oxford, MS / Swayze Field",2026,WN2026
+04/26/2026,Ole Miss,Georgia,1,5,0,0,W,Georgia,Georgia,Ole-Miss,1,9,"Oxford, MS / Swayze Field",2026,WN2026
+04/28/2026,Georgia,Troy,11,1,0,0,W,Georgia,Georgia,Troy,0,7,"Athens, GA / Foley Field",2026,WN2026
+05/01/2026,Georgia,Missouri,4,0,0,0,W,Georgia,Georgia,Missouri,0,9,"Athens, GA / Foley Field",2026,WN2026
+05/02/2026,Georgia,Missouri,13,3,0,0,W,Georgia,Georgia,Missouri,0,8,"Athens, GA / Foley Field",2026,WN2026
+05/03/2026,Georgia,Missouri,14,4,0,0,W,Georgia,Georgia,Missouri,0,7,"Athens, GA / Foley Field",2026,WN2026
+05/08/2026,Georgia,LSU,11,8,0,0,W,Georgia,Georgia,LSU,0,9,"Athens, GA / Foley Field / Box Score",2026,WN2026
+05/09/2026,Georgia,LSU,13,8,0,0,W,Georgia,Georgia,LSU,0,9,"Athens, GA / Foley Field / Box Score",2026,WN2026
+05/10/2026,Georgia,LSU,12,1,0,0,W,Georgia,Georgia,LSU,0,7,"Athens, GA / Foley Field / Box Score",2026,WN2026
+05/14/2026,Auburn,Georgia,1,2,0,0,W,Georgia,Georgia,Auburn,1,9,"Auburn, AL / Plainsman Park / Box Score",2026,WN2026
+05/15/2026,Auburn,Georgia,7,9,0,0,W,Georgia,Georgia,Auburn,1,9,"Auburn, AL / Plainsman Park / Box Score",2026,WN2026
+05/16/2026,Auburn,Georgia,14,4,0,0,L,Georgia,Georgia,Auburn,1,8,"Auburn, AL / Plainsman Park / Box Score",2026,WN2026
+05/21/2026,Mississippi State,Georgia,3,5,0,1,W,Georgia,Georgia,Mississippi-State,0,9,"Hoover, AL / Hoover Metropolitan Stadium / Recap",2026,WN2026
+05/23/2026,Florida,Georgia,7,8,0,1,W,Georgia,Georgia,Florida,0,9,"Hoover, AL / Hoover Metropolitan Stadium",2026,WN2026
+05/24/2026,Arkansas,Georgia,1,11,0,1,W,Georgia,Georgia,Arkansas,0,7,"Hoover, AL / Hoover Metropolitan Stadium",2026,WN2026

@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Old Dominion,Quinnipiac,15,5,0,0,L,Quinnipiac,Quinnipiac,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+02/14/2026,Old Dominion,Quinnipiac,15,5,0,0,L,Quinnipiac,Quinnipiac,Old-Dominion,1,7,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+02/14/2026,Old Dominion,Quinnipiac,5,6,0,0,W,Quinnipiac,Quinnipiac,Old-Dominion,1,10,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+02/20/2026,North Florida,Quinnipiac,10,0,0,0,L,Quinnipiac,Quinnipiac,North-Florida,1,7,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/21/2026,North Florida,Quinnipiac,3,6,0,0,W,Quinnipiac,Quinnipiac,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/21/2026,North Florida,Quinnipiac,5,4,0,0,L,Quinnipiac,Quinnipiac,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/27/2026,East Tennessee State,Quinnipiac,8,2,0,0,L,Quinnipiac,Quinnipiac,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/28/2026,East Tennessee State,Quinnipiac,4,3,0,0,L,Quinnipiac,Quinnipiac,East-Tennessee-State,1,10,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/01/2026,East Tennessee State,Quinnipiac,16,5,0,0,L,Quinnipiac,Quinnipiac,East-Tennessee-State,1,8,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/06/2026,UNCG,Quinnipiac,13,3,0,0,L,Quinnipiac,Quinnipiac,UNCG,1,7,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+03/07/2026,UNCG,Quinnipiac,11,14,0,0,W,Quinnipiac,Quinnipiac,UNCG,1,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+03/08/2026,UNCG,Quinnipiac,3,5,0,0,W,Quinnipiac,Quinnipiac,UNCG,1,11,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+03/10/2026,Brown,Quinnipiac,4,1,0,0,L,Quinnipiac,Quinnipiac,Brown,1,9,"Providence, RI / Murray Stadium",2026,WN2026
+03/14/2026,Quinnipiac,Sacred Heart,8,9,0,0,L,Quinnipiac,Quinnipiac,Sacred-Heart,0,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+03/14/2026,Quinnipiac,Sacred Heart,4,10,0,0,L,Quinnipiac,Quinnipiac,Sacred-Heart,0,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+03/15/2026,Quinnipiac,Sacred Heart,10,2,0,0,W,Quinnipiac,Quinnipiac,Sacred-Heart,0,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+03/18/2026,Quinnipiac,Yale,15,9,0,0,W,Quinnipiac,Quinnipiac,Yale,0,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+03/20/2026,Manhattan,Quinnipiac,6,5,0,0,L,Quinnipiac,Quinnipiac,Manhattan,1,9,"Pomona, NY / Clover Stadium",2026,WN2026
+03/21/2026,Manhattan,Quinnipiac,2,1,0,0,L,Quinnipiac,Quinnipiac,Manhattan,1,9,"Pomona, NY / Clover Stadium",2026,WN2026
+03/22/2026,Manhattan,Quinnipiac,3,9,0,0,W,Quinnipiac,Quinnipiac,Manhattan,1,9,"Pomona, NY / Clover Stadium",2026,WN2026
+03/24/2026,Quinnipiac,Rhode Island,5,17,0,0,L,Quinnipiac,Quinnipiac,Rhode-Island,0,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+03/25/2026,Connecticut,Quinnipiac,3,8,0,0,W,Quinnipiac,Quinnipiac,Connecticut,1,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+03/27/2026,Saint Peter's,Quinnipiac,2,12,0,0,W,Quinnipiac,Quinnipiac,Saint-Peters,1,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+03/28/2026,Saint Peter's,Quinnipiac,6,8,0,0,W,Quinnipiac,Quinnipiac,Saint-Peters,1,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+03/29/2026,Saint Peter's,Quinnipiac,4,8,0,0,W,Quinnipiac,Quinnipiac,Saint-Peters,1,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+03/31/2026,UMass,Quinnipiac,6,17,0,0,W,Quinnipiac,Quinnipiac,UMass,1,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/02/2026,Quinnipiac,Niagara,6,8,0,0,L,Quinnipiac,Quinnipiac,Niagara,0,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+04/03/2026,Quinnipiac,Niagara,3,4,0,0,L,Quinnipiac,Quinnipiac,Niagara,0,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+04/04/2026,Quinnipiac,Niagara,4,3,0,0,W,Quinnipiac,Quinnipiac,Niagara,0,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+04/08/2026,Rhode Island,Quinnipiac,9,2,0,0,L,Quinnipiac,Quinnipiac,Rhode-Island,1,9,"Kingston, RI / Bill Beck Field",2026,WN2026
+04/10/2026,Marist,Quinnipiac,7,5,0,0,L,Quinnipiac,Quinnipiac,Marist,1,9,"Poughkeepsie, NY / James J. McCann Baseball Field",2026,WN2026
+04/11/2026,Marist,Quinnipiac,9,2,0,0,L,Quinnipiac,Quinnipiac,Marist,1,9,"Poughkeepsie, NY / James J. McCann Baseball Field",2026,WN2026
+04/12/2026,Marist,Quinnipiac,2,6,0,0,W,Quinnipiac,Quinnipiac,Marist,1,9,"Poughkeepsie, NY / James J. McCann Baseball Field",2026,WN2026
+04/15/2026,Yale,Quinnipiac,6,5,0,0,L,Quinnipiac,Quinnipiac,Yale,1,12,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+04/17/2026,Canisius,Quinnipiac,10,3,0,0,L,Quinnipiac,Quinnipiac,Canisius,1,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+04/17/2026,Canisius,Quinnipiac,0,3,0,0,W,Quinnipiac,Quinnipiac,Canisius,1,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+04/19/2026,Canisius,Quinnipiac,2,12,0,0,W,Quinnipiac,Quinnipiac,Canisius,1,7,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+04/21/2026,New Haven,Quinnipiac,0,13,0,0,W,Quinnipiac,Quinnipiac,New-Haven,1,7,"West Haven, CT / Frank Vieira Field",2026,WN2026
+04/22/2026,Quinnipiac,Central Connecticut,10,3,0,0,W,Quinnipiac,Quinnipiac,Central-Connecticut,0,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+04/24/2026,Quinnipiac,Mount Saint Mary's,1,11,0,0,L,Quinnipiac,Quinnipiac,Mount-Saint-Marys,0,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+04/25/2026,Quinnipiac,Mount Saint Mary's,4,3,0,0,W,Quinnipiac,Quinnipiac,Mount-Saint-Marys,0,10,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+04/26/2026,Quinnipiac,Mount Saint Mary's,3,2,0,0,W,Quinnipiac,Quinnipiac,Mount-Saint-Marys,0,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+05/01/2026,Quinnipiac,Fairfield,7,0,0,0,W,Quinnipiac,Quinnipiac,Fairfield,0,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+05/02/2026,Quinnipiac,Fairfield,2,11,0,0,L,Quinnipiac,Quinnipiac,Fairfield,0,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+05/03/2026,Quinnipiac,Fairfield,5,4,0,0,W,Quinnipiac,Quinnipiac,Fairfield,0,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+05/07/2026,Quinnipiac,Rider,3,9,0,0,L,Quinnipiac,Quinnipiac,Rider,0,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+05/08/2026,Quinnipiac,Rider,9,4,0,0,W,Quinnipiac,Quinnipiac,Rider,0,9,"Hamden, CT / Quinnipiac Baseball Field / Box Score",2026,WN2026
+05/08/2026,Quinnipiac,Rider,2,5,0,0,L,Quinnipiac,Quinnipiac,Rider,0,9,"Hamden, CT / Quinnipiac Baseball Field / Box Score",2026,WN2026
+05/15/2026,Merrimack,Quinnipiac,12,11,0,0,L,Quinnipiac,Quinnipiac,Merrimack,1,9,"Andover, MA / Warrior Baseball Diamond / Box Score",2026,WN2026
+05/16/2026,Merrimack,Quinnipiac,12,6,0,0,L,Quinnipiac,Quinnipiac,Merrimack,1,9,"Andover, MA / Warrior Baseball Diamond / Box Score",2026,WN2026
+05/16/2026,Merrimack,Quinnipiac,14,4,0,0,L,Quinnipiac,Quinnipiac,Merrimack,1,7,"Andover, MA / Warrior Baseball Diamond / Box Score",2026,WN2026

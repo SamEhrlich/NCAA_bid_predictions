@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,West Georgia,Central Michigan,11,3,0,0,W,West Georgia,West-Georgia,Central-Michigan,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+02/13/2026,West Georgia,Central Michigan,6,18,0,0,L,West Georgia,West-Georgia,Central-Michigan,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+02/14/2026,West Georgia,Central Michigan,6,15,0,0,L,West Georgia,West-Georgia,Central-Michigan,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+02/14/2026,West Georgia,Central Michigan,1,6,0,0,L,West Georgia,West-Georgia,Central-Michigan,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+02/17/2026,Kennesaw State,West Georgia,9,4,0,0,L,West Georgia,West-Georgia,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+02/20/2026,Little Rock,West Georgia,6,5,0,0,L,West Georgia,West-Georgia,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+02/21/2026,Little Rock,West Georgia,4,3,0,0,L,West Georgia,West-Georgia,Little-Rock,1,11,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+02/22/2026,Little Rock,West Georgia,6,1,0,0,L,West Georgia,West-Georgia,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+02/25/2026,Auburn,West Georgia,4,3,0,0,L,West Georgia,West-Georgia,Auburn,1,9,"Auburn, AL / Plainsman Park",2026,WN2026
+02/27/2026,South Alabama,West Georgia,7,4,0,0,L,West Georgia,West-Georgia,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+02/28/2026,South Alabama,West Georgia,21,6,0,0,L,West Georgia,West-Georgia,South-Alabama,1,7,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+03/01/2026,South Alabama,West Georgia,2,1,0,0,L,West Georgia,West-Georgia,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+03/06/2026,Wichita State,West Georgia,22,4,0,0,L,West Georgia,West-Georgia,Wichita-State,1,7,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/07/2026,Wichita State,West Georgia,4,5,0,0,W,West Georgia,West-Georgia,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/07/2026,Wichita State,West Georgia,12,7,0,0,L,West Georgia,West-Georgia,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/08/2026,Wichita State,West Georgia,11,13,0,0,W,West Georgia,West-Georgia,Wichita-State,1,8,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/10/2026,Georgia Tech,West Georgia,14,0,0,0,L,West Georgia,West-Georgia,Georgia-Tech,1,7,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+03/13/2026,West Georgia,Jacksonville,8,7,0,0,W,West Georgia,West-Georgia,Jacksonville,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+03/14/2026,West Georgia,Jacksonville,4,1,0,0,W,West Georgia,West-Georgia,Jacksonville,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+03/15/2026,West Georgia,Jacksonville,5,10,0,0,L,West Georgia,West-Georgia,Jacksonville,0,10,"Carrollton, GA / Cole Field",2026,WN2026
+03/17/2026,West Georgia,Georgia State,2,8,0,0,L,West Georgia,West-Georgia,Georgia-State,0,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+03/20/2026,Stetson,West Georgia,4,3,0,0,L,West Georgia,West-Georgia,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/21/2026,Stetson,West Georgia,3,7,0,0,W,West Georgia,West-Georgia,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/22/2026,Stetson,West Georgia,10,6,0,0,L,West Georgia,West-Georgia,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/24/2026,West Georgia,Mercer,9,13,0,0,L,West Georgia,West-Georgia,Mercer,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+03/27/2026,Queens,West Georgia,9,10,0,0,W,West Georgia,West-Georgia,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/28/2026,Queens,West Georgia,1,7,0,0,W,West Georgia,West-Georgia,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/29/2026,Queens,West Georgia,9,8,0,0,L,West Georgia,West-Georgia,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/31/2026,West Georgia,Samford,1,16,0,0,L,West Georgia,West-Georgia,Samford,0,8,"Carrollton, GA / Cole Field",2026,WN2026
+04/02/2026,West Georgia,FGCU,9,4,0,0,W,West Georgia,West-Georgia,FGCU,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/03/2026,West Georgia,FGCU,9,6,0,0,W,West Georgia,West-Georgia,FGCU,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/04/2026,West Georgia,FGCU,2,6,0,0,L,West Georgia,West-Georgia,FGCU,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/07/2026,Mercer,West Georgia,12,1,0,0,L,West Georgia,West-Georgia,Mercer,1,7,"Macon, GA / Claude Smith Field",2026,WN2026
+04/10/2026,West Georgia,North Florida,3,7,0,0,L,West Georgia,West-Georgia,North-Florida,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/11/2026,West Georgia,North Florida,3,5,0,0,L,West Georgia,West-Georgia,North-Florida,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/12/2026,West Georgia,North Florida,7,2,0,0,W,West Georgia,West-Georgia,North-Florida,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/14/2026,Georgia State,West Georgia,5,2,0,0,L,West Georgia,West-Georgia,Georgia-State,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/17/2026,Jacksonville,West Georgia,13,7,0,0,L,West Georgia,West-Georgia,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/18/2026,Jacksonville,West Georgia,13,7,0,0,L,West Georgia,West-Georgia,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/19/2026,Jacksonville,West Georgia,9,8,0,0,L,West Georgia,West-Georgia,Jacksonville,1,10,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/21/2026,West Georgia,Kennesaw State,2,3,0,0,L,West Georgia,West-Georgia,Kennesaw-State,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/24/2026,West Georgia,Stetson,10,13,0,0,L,West Georgia,West-Georgia,Stetson,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/25/2026,West Georgia,Stetson,10,13,0,0,L,West Georgia,West-Georgia,Stetson,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/26/2026,West Georgia,Stetson,11,13,0,0,L,West Georgia,West-Georgia,Stetson,0,10,"Carrollton, GA / Cole Field",2026,WN2026
+04/28/2026,Tennessee,West Georgia,13,0,0,0,L,West Georgia,West-Georgia,Tennessee,1,7,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+05/01/2026,West Georgia,Queens,14,9,0,0,W,West Georgia,West-Georgia,Queens,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+05/02/2026,West Georgia,Queens,2,7,0,0,L,West Georgia,West-Georgia,Queens,0,9,"Carrollton, GA / Cole Field",2026,WN2026
+05/03/2026,West Georgia,Queens,14,4,0,0,W,West Georgia,West-Georgia,Queens,0,7,"Carrollton, GA / Cole Field",2026,WN2026
+05/08/2026,FGCU,West Georgia,7,6,0,0,L,West Georgia,West-Georgia,FGCU,1,9,"Fort Myers, FL / Swanson Stadium / Box Score",2026,WN2026
+05/09/2026,FGCU,West Georgia,10,5,0,0,L,West Georgia,West-Georgia,FGCU,1,9,"Fort Myers, FL / Swanson Stadium / Box Score",2026,WN2026
+05/10/2026,FGCU,West Georgia,5,2,0,0,L,West Georgia,West-Georgia,FGCU,1,9,"Fort Myers, FL / Swanson Stadium / Box Score",2026,WN2026
+05/14/2026,North Florida,West Georgia,6,5,0,0,L,West Georgia,West-Georgia,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium / Box Score",2026,WN2026
+05/15/2026,North Florida,West Georgia,4,1,0,0,L,West Georgia,West-Georgia,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium / Box Score",2026,WN2026
+05/16/2026,North Florida,West Georgia,5,1,0,0,L,West Georgia,West-Georgia,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium / Box Score",2026,WN2026

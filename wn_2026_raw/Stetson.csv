@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Stetson,Minnesota,5,11,0,0,L,Stetson,Stetson,Minnesota,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/14/2026,Stetson,Ball State,2,5,0,0,L,Stetson,Stetson,Ball-State,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/15/2026,Stetson,Saint John's,7,11,0,0,L,Stetson,Stetson,Saint-Johns,0,8,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/17/2026,Stetson,Florida,2,12,0,0,L,Stetson,Stetson,Florida,0,7,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/18/2026,Florida,Stetson,9,3,0,0,L,Stetson,Stetson,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/20/2026,Stetson,North Dakota State,8,4,0,0,W,Stetson,Stetson,North-Dakota-State,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/21/2026,Stetson,Virginia,6,5,0,0,W,Stetson,Stetson,Virginia,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/22/2026,Stetson,Monmouth,14,8,0,0,W,Stetson,Stetson,Monmouth,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/25/2026,Stetson,South Carolina Upstate,1,2,0,0,L,Stetson,Stetson,South-Carolina-Upstate,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/28/2026,Stetson,Fordham,13,7,0,0,W,Stetson,Stetson,Fordham,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/28/2026,Stetson,Fordham,6,7,0,0,L,Stetson,Stetson,Fordham,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/01/2026,Stetson,Fordham,7,3,0,0,W,Stetson,Stetson,Fordham,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/03/2026,South Florida,Stetson,12,4,0,0,L,Stetson,Stetson,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/06/2026,Arkansas,Stetson,7,1,0,0,L,Stetson,Stetson,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+03/07/2026,Arkansas,Stetson,13,1,0,0,L,Stetson,Stetson,Arkansas,1,7,"Fayetteville, AR / Baum Stadium",2026,WN2026
+03/08/2026,Arkansas,Stetson,1,4,0,0,W,Stetson,Stetson,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+03/09/2026,Arkansas,Stetson,4,6,0,0,W,Stetson,Stetson,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+03/11/2026,Stetson,Prairie View A&M,16,6,0,0,W,Stetson,Stetson,Prairie-View-AM,0,8,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/13/2026,Stetson,North Florida,7,2,0,0,W,Stetson,Stetson,North-Florida,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/14/2026,Stetson,North Florida,1,12,0,0,L,Stetson,Stetson,North-Florida,0,7,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/15/2026,Stetson,North Florida,1,4,0,0,L,Stetson,Stetson,North-Florida,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/17/2026,Florida,Stetson,10,1,0,0,L,Stetson,Stetson,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/20/2026,Stetson,West Georgia,4,3,0,0,W,Stetson,Stetson,West-Georgia,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/21/2026,Stetson,West Georgia,3,7,0,0,L,Stetson,Stetson,West-Georgia,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/22/2026,Stetson,West Georgia,10,6,0,0,W,Stetson,Stetson,West-Georgia,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/24/2026,Stetson,UCF,8,4,0,0,W,Stetson,Stetson,UCF,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/27/2026,FGCU,Stetson,5,4,0,0,L,Stetson,Stetson,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/29/2026,FGCU,Stetson,10,6,0,0,L,Stetson,Stetson,FGCU,1,7,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/31/2026,Stetson,Florida State,3,6,0,0,L,Stetson,Stetson,Florida-State,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+04/02/2026,Jacksonville,Stetson,5,1,0,0,L,Stetson,Stetson,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/03/2026,Jacksonville,Stetson,4,3,0,0,L,Stetson,Stetson,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/04/2026,Jacksonville,Stetson,0,3,0,0,W,Stetson,Stetson,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/10/2026,Stetson,Queens,0,2,0,0,L,Stetson,Stetson,Queens,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+04/11/2026,Stetson,Queens,2,8,0,0,L,Stetson,Stetson,Queens,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+04/12/2026,Stetson,Queens,13,3,0,0,W,Stetson,Stetson,Queens,0,8,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+04/14/2026,Florida State,Stetson,9,2,0,0,L,Stetson,Stetson,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+04/17/2026,North Florida,Stetson,3,1,0,0,L,Stetson,Stetson,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/18/2026,North Florida,Stetson,2,1,0,0,L,Stetson,Stetson,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/19/2026,North Florida,Stetson,3,7,0,0,W,Stetson,Stetson,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/21/2026,Stetson,South Florida,5,6,0,0,L,Stetson,Stetson,South-Florida,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+04/24/2026,West Georgia,Stetson,10,13,0,0,W,Stetson,Stetson,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/25/2026,West Georgia,Stetson,10,13,0,0,W,Stetson,Stetson,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/26/2026,West Georgia,Stetson,11,13,0,0,W,Stetson,Stetson,West-Georgia,1,10,"Carrollton, GA / Cole Field",2026,WN2026
+04/29/2026,UCF,Stetson,6,5,0,1,L,Stetson,Stetson,UCF,0,9,"Lakeland, FL / Publix Field",2026,WN2026
+05/01/2026,Stetson,FGCU,1,8,0,0,L,Stetson,Stetson,FGCU,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+05/02/2026,Stetson,FGCU,2,6,0,0,L,Stetson,Stetson,FGCU,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+05/03/2026,Stetson,FGCU,1,2,0,0,L,Stetson,Stetson,FGCU,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+05/05/2026,Stetson,Bethune-Cookman,15,2,0,0,W,Stetson,Stetson,Bethune-Cookman,0,7,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+05/09/2026,Stetson,Jacksonville,4,5,0,0,L,Stetson,Stetson,Jacksonville,0,9,"DeLand, FL / Melching Field at Conrad Park / Box Score",2026,WN2026
+05/09/2026,Stetson,Jacksonville,16,6,0,0,W,Stetson,Stetson,Jacksonville,0,7,"DeLand, FL / Melching Field at Conrad Park / Box Score",2026,WN2026
+05/10/2026,Stetson,Jacksonville,9,6,0,0,W,Stetson,Stetson,Jacksonville,0,9,"DeLand, FL / Melching Field at Conrad Park / Box Score",2026,WN2026
+05/14/2026,Queens,Stetson,0,2,0,0,W,Stetson,Stetson,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields / Box Score",2026,WN2026
+05/15/2026,Queens,Stetson,4,5,0,0,W,Stetson,Stetson,Queens,1,14,"Charlotte, NC / Tuckaseegee Dream Fields / Box Score",2026,WN2026
+05/16/2026,Queens,Stetson,12,2,0,0,L,Stetson,Stetson,Queens,1,8,"Charlotte, NC / Tuckaseegee Dream Fields / Box Score",2026,WN2026
+05/19/2026,Central Arkansas,Stetson,6,4,0,1,L,Stetson,Stetson,Central-Arkansas,0,9,"DeLand, FL / Melching Field at Conrad Park / Recap",2026,WN2026

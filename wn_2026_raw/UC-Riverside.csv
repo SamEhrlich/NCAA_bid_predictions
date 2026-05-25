@@ -1,0 +1,53 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UC Riverside,Utah Tech,5,12,0,0,L,UC Riverside,UC-Riverside,Utah-Tech,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/14/2026,UC Riverside,Utah Tech,3,4,0,0,L,UC Riverside,UC-Riverside,Utah-Tech,0,7,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/14/2026,UC Riverside,Utah Tech,8,12,0,0,L,UC Riverside,UC-Riverside,Utah-Tech,0,7,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/15/2026,UC Riverside,Utah Tech,1,8,0,0,L,UC Riverside,UC-Riverside,Utah-Tech,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/20/2026,UC Riverside,Wagner,8,5,0,0,W,UC Riverside,UC-Riverside,Wagner,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/21/2026,UC Riverside,Wagner,7,2,0,0,W,UC Riverside,UC-Riverside,Wagner,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/22/2026,UC Riverside,Wagner,4,6,0,0,L,UC Riverside,UC-Riverside,Wagner,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/23/2026,UC Riverside,BYU,3,11,0,0,L,UC Riverside,UC-Riverside,BYU,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+02/27/2026,Utah Valley,UC Riverside,9,10,0,0,W,UC Riverside,UC-Riverside,Utah-Valley,1,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+02/28/2026,Utah Valley,UC Riverside,11,3,0,0,L,UC Riverside,UC-Riverside,Utah-Valley,1,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+02/28/2026,Utah Valley,UC Riverside,7,2,0,0,L,UC Riverside,UC-Riverside,Utah-Valley,1,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+03/01/2026,Utah Valley,UC Riverside,13,2,0,0,L,UC Riverside,UC-Riverside,Utah-Valley,1,7,"Orem, UT / UCCU Ballpark",2026,WN2026
+03/03/2026,California Baptist,UC Riverside,5,3,0,0,L,UC Riverside,UC-Riverside,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/06/2026,UC Riverside,UC Davis,2,4,0,0,L,UC Riverside,UC-Riverside,UC-Davis,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+03/07/2026,UC Riverside,UC Davis,6,3,0,0,W,UC Riverside,UC-Riverside,UC-Davis,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+03/08/2026,UC Riverside,UC Davis,3,7,0,0,L,UC Riverside,UC-Riverside,UC-Davis,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+03/10/2026,UNLV,UC Riverside,11,10,0,0,L,UC Riverside,UC-Riverside,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+03/13/2026,UC Riverside,San Francisco,7,3,0,0,W,UC Riverside,UC-Riverside,San-Francisco,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+03/14/2026,UC Riverside,San Francisco,4,6,0,0,L,UC Riverside,UC-Riverside,San-Francisco,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+03/15/2026,UC Riverside,San Francisco,6,5,0,0,W,UC Riverside,UC-Riverside,San-Francisco,0,10,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+03/20/2026,UC San Diego,UC Riverside,12,6,0,0,L,UC Riverside,UC-Riverside,UC-San-Diego,1,9,"La Jolla, CA / Triton Park",2026,WN2026
+03/21/2026,UC San Diego,UC Riverside,4,9,0,0,W,UC Riverside,UC-Riverside,UC-San-Diego,1,9,"La Jolla, CA / Triton Park",2026,WN2026
+03/22/2026,UC San Diego,UC Riverside,14,10,0,0,L,UC Riverside,UC-Riverside,UC-San-Diego,1,9,"La Jolla, CA / Triton Park",2026,WN2026
+03/24/2026,California Baptist,UC Riverside,12,1,0,0,L,UC Riverside,UC-Riverside,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/27/2026,UC Riverside,Cal Poly,4,22,0,0,L,UC Riverside,UC-Riverside,Cal-Poly,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+03/28/2026,UC Riverside,Cal Poly,10,4,0,0,W,UC Riverside,UC-Riverside,Cal-Poly,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+03/29/2026,UC Riverside,Cal Poly,8,12,0,0,L,UC Riverside,UC-Riverside,Cal-Poly,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+04/02/2026,Cal State Fullerton,UC Riverside,9,1,0,0,L,UC Riverside,UC-Riverside,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+04/03/2026,Cal State Fullerton,UC Riverside,5,2,0,0,L,UC Riverside,UC-Riverside,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+04/04/2026,Cal State Fullerton,UC Riverside,9,3,0,0,L,UC Riverside,UC-Riverside,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+04/07/2026,San Diego State,UC Riverside,1,0,0,0,L,UC Riverside,UC-Riverside,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+04/09/2026,UC Riverside,Cal State Northridge,6,9,0,0,L,UC Riverside,UC-Riverside,Cal-State-Northridge,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+04/10/2026,UC Riverside,Cal State Northridge,3,1,0,0,W,UC Riverside,UC-Riverside,Cal-State-Northridge,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+04/11/2026,UC Riverside,Cal State Northridge,9,8,0,0,W,UC Riverside,UC-Riverside,Cal-State-Northridge,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+04/14/2026,UC Riverside,California Baptist,4,19,0,0,L,UC Riverside,UC-Riverside,California-Baptist,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+04/17/2026,Long Beach State,UC Riverside,3,5,0,0,W,UC Riverside,UC-Riverside,Long-Beach-State,1,11,"Long Beach, CA / Blair Field",2026,WN2026
+04/18/2026,Long Beach State,UC Riverside,1,4,0,0,W,UC Riverside,UC-Riverside,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/19/2026,Long Beach State,UC Riverside,2,7,0,0,W,UC Riverside,UC-Riverside,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/21/2026,Loyola-Marymount,UC Riverside,4,2,0,0,L,UC Riverside,UC-Riverside,Loyola-Marymount,1,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+04/24/2026,UC Riverside,Cal State Bakersfield,11,5,0,0,W,UC Riverside,UC-Riverside,Cal-State-Bakersfield,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+04/25/2026,UC Riverside,Cal State Bakersfield,0,10,0,0,L,UC Riverside,UC-Riverside,Cal-State-Bakersfield,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+04/26/2026,UC Riverside,Cal State Bakersfield,1,14,0,0,L,UC Riverside,UC-Riverside,Cal-State-Bakersfield,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+04/28/2026,UC Riverside,California Baptist,6,18,0,0,L,UC Riverside,UC-Riverside,California-Baptist,0,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+05/01/2026,Hawaii,UC Riverside,1,0,0,0,L,UC Riverside,UC-Riverside,Hawaii,1,9,"Manoa, HI",2026,WN2026
+05/02/2026,Hawaii,UC Riverside,9,1,0,0,L,UC Riverside,UC-Riverside,Hawaii,1,9,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+05/03/2026,Hawaii,UC Riverside,10,5,0,0,L,UC Riverside,UC-Riverside,Hawaii,1,9,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+05/08/2026,UC Riverside,UC Irvine,5,17,0,0,L,UC Riverside,UC-Riverside,UC-Irvine,0,9,"Riverside, CA / Riverside Sports Complex / Box Score",2026,WN2026
+05/09/2026,UC Riverside,UC Irvine,3,15,0,0,L,UC Riverside,UC-Riverside,UC-Irvine,0,9,"Riverside, CA / Riverside Sports Complex / Box Score",2026,WN2026
+05/10/2026,UC Riverside,UC Irvine,5,3,0,0,W,UC Riverside,UC-Riverside,UC-Irvine,0,9,"Riverside, CA / Riverside Sports Complex / Box Score",2026,WN2026
+05/14/2026,UC Santa Barbara,UC Riverside,1,0,0,0,L,UC Riverside,UC-Riverside,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium / Box Score",2026,WN2026
+05/15/2026,UC Santa Barbara,UC Riverside,15,5,0,0,L,UC Riverside,UC-Riverside,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium / Box Score",2026,WN2026
+05/16/2026,UC Santa Barbara,UC Riverside,5,3,0,0,L,UC Riverside,UC-Riverside,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium / Box Score",2026,WN2026

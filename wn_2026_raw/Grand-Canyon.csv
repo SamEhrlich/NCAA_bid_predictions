@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Grand Canyon,Northeastern,10,0,0,0,W,Grand Canyon,Grand-Canyon,Northeastern,0,7,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+02/14/2026,Penn State,Grand Canyon,9,3,0,1,L,Grand Canyon,Grand-Canyon,Penn-State,0,9,"Scottsdale, AZ / Salt River Fields",2026,WN2026
+02/15/2026,Nebraska,Grand Canyon,9,1,0,1,L,Grand Canyon,Grand-Canyon,Nebraska,0,9,"Mesa, AZ / Sloan Park",2026,WN2026
+02/19/2026,Grand Canyon,Oklahoma State,12,8,0,0,W,Grand Canyon,Grand-Canyon,Oklahoma-State,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+02/20/2026,Grand Canyon,Oklahoma State,1,9,0,0,L,Grand Canyon,Grand-Canyon,Oklahoma-State,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+02/21/2026,Grand Canyon,Oklahoma State,7,10,0,0,L,Grand Canyon,Grand-Canyon,Oklahoma-State,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+02/22/2026,Grand Canyon,Oklahoma State,2,13,0,0,L,Grand Canyon,Grand-Canyon,Oklahoma-State,0,7,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+02/24/2026,UC Irvine,Grand Canyon,3,0,0,0,L,Grand Canyon,Grand-Canyon,UC-Irvine,1,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+02/25/2026,UC Irvine,Grand Canyon,4,9,0,0,W,Grand Canyon,Grand-Canyon,UC-Irvine,1,10,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+02/27/2026,Grand Canyon,Pacific,5,4,0,0,W,Grand Canyon,Grand-Canyon,Pacific,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+02/28/2026,Grand Canyon,Pacific,2,3,0,0,L,Grand Canyon,Grand-Canyon,Pacific,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/01/2026,Grand Canyon,Pacific,11,10,0,0,W,Grand Canyon,Grand-Canyon,Pacific,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/03/2026,Arizona,Grand Canyon,5,7,0,0,W,Grand Canyon,Grand-Canyon,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/06/2026,Utah,Grand Canyon,9,0,0,0,L,Grand Canyon,Grand-Canyon,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/07/2026,Utah,Grand Canyon,1,0,0,0,L,Grand Canyon,Grand-Canyon,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/08/2026,Utah,Grand Canyon,4,0,0,0,L,Grand Canyon,Grand-Canyon,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/09/2026,Utah,Grand Canyon,7,2,0,0,L,Grand Canyon,Grand-Canyon,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/13/2026,Grand Canyon,Rice,5,16,0,0,L,Grand Canyon,Grand-Canyon,Rice,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/14/2026,Grand Canyon,Rice,2,13,0,0,L,Grand Canyon,Grand-Canyon,Rice,0,7,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/14/2026,Grand Canyon,Saint Mary's College,9,8,0,0,W,Grand Canyon,Grand-Canyon,Saint-Marys-College,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/15/2026,Grand Canyon,Saint Mary's College,6,3,0,0,W,Grand Canyon,Grand-Canyon,Saint-Marys-College,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/17/2026,Arizona State,Grand Canyon,4,3,0,0,L,Grand Canyon,Grand-Canyon,Arizona-State,1,10,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/20/2026,Washington State,Grand Canyon,7,3,0,0,L,Grand Canyon,Grand-Canyon,Washington-State,1,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+03/21/2026,Washington State,Grand Canyon,6,5,0,0,L,Grand Canyon,Grand-Canyon,Washington-State,1,10,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+03/22/2026,Washington State,Grand Canyon,6,2,0,0,L,Grand Canyon,Grand-Canyon,Washington-State,1,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+03/24/2026,Arizona,Grand Canyon,5,4,0,0,L,Grand Canyon,Grand-Canyon,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/27/2026,Grand Canyon,San Diego State,9,3,0,0,W,Grand Canyon,Grand-Canyon,San-Diego-State,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/28/2026,Grand Canyon,San Diego State,11,12,0,0,L,Grand Canyon,Grand-Canyon,San-Diego-State,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/29/2026,Grand Canyon,San Diego State,2,7,0,0,L,Grand Canyon,Grand-Canyon,San-Diego-State,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/02/2026,Fresno State,Grand Canyon,10,8,0,0,L,Grand Canyon,Grand-Canyon,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/03/2026,Fresno State,Grand Canyon,0,3,0,0,W,Grand Canyon,Grand-Canyon,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/04/2026,Fresno State,Grand Canyon,5,7,0,0,W,Grand Canyon,Grand-Canyon,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/07/2026,Grand Canyon,Arizona State,8,12,0,0,L,Grand Canyon,Grand-Canyon,Arizona-State,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/10/2026,Grand Canyon,UNLV,8,13,0,0,L,Grand Canyon,Grand-Canyon,UNLV,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/11/2026,Grand Canyon,UNLV,6,1,0,0,W,Grand Canyon,Grand-Canyon,UNLV,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/12/2026,Grand Canyon,UNLV,8,14,0,0,L,Grand Canyon,Grand-Canyon,UNLV,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/17/2026,Grand Canyon,Air Force,8,1,0,0,W,Grand Canyon,Grand-Canyon,Air-Force,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/18/2026,Grand Canyon,Air Force,4,5,0,0,L,Grand Canyon,Grand-Canyon,Air-Force,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/19/2026,Grand Canyon,Air Force,16,12,0,0,W,Grand Canyon,Grand-Canyon,Air-Force,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/21/2026,Grand Canyon,Kansas State,3,8,0,0,L,Grand Canyon,Grand-Canyon,Kansas-State,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/27/2026,Grand Canyon,BYU,10,3,0,0,W,Grand Canyon,Grand-Canyon,BYU,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/28/2026,Grand Canyon,Arizona,9,8,0,0,W,Grand Canyon,Grand-Canyon,Arizona,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+05/01/2026,San Jose State,Grand Canyon,8,3,0,0,L,Grand Canyon,Grand-Canyon,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+05/02/2026,San Jose State,Grand Canyon,4,5,0,0,W,Grand Canyon,Grand-Canyon,San-Jose-State,1,14,"San Jose, CA / Excite Ballpark",2026,WN2026
+05/03/2026,San Jose State,Grand Canyon,6,1,0,0,L,Grand Canyon,Grand-Canyon,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+05/08/2026,Grand Canyon,New Mexico,6,5,0,0,W,Grand Canyon,Grand-Canyon,New-Mexico,0,10,"Phoenix, AZ / Brazell Field at GCU Ballpark / Box Score",2026,WN2026
+05/09/2026,Grand Canyon,New Mexico,4,3,0,0,W,Grand Canyon,Grand-Canyon,New-Mexico,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark / Box Score",2026,WN2026
+05/10/2026,Grand Canyon,New Mexico,9,11,0,0,L,Grand Canyon,Grand-Canyon,New-Mexico,0,9,"Phoenix, AZ / Brazell Field at GCU Ballpark / Box Score",2026,WN2026
+05/14/2026,Nevada,Grand Canyon,13,9,0,0,L,Grand Canyon,Grand-Canyon,Nevada,1,9,"Reno, NV / William Peccole Park / Box Score",2026,WN2026
+05/15/2026,Nevada,Grand Canyon,7,12,0,0,W,Grand Canyon,Grand-Canyon,Nevada,1,9,"Reno, NV / William Peccole Park / Box Score",2026,WN2026
+05/16/2026,Nevada,Grand Canyon,3,9,0,0,W,Grand Canyon,Grand-Canyon,Nevada,1,9,"Reno, NV / William Peccole Park / Box Score",2026,WN2026

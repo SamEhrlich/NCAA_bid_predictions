@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Samford,Belmont,7,3,0,0,W,Samford,Samford,Belmont,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+02/13/2026,Samford,Belmont,4,14,0,0,L,Samford,Samford,Belmont,0,7,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+02/14/2026,Samford,Belmont,10,1,0,0,W,Samford,Samford,Belmont,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+02/17/2026,Samford,Alabama,2,3,0,0,L,Samford,Samford,Alabama,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+02/20/2026,Georgia,Samford,11,1,0,0,L,Samford,Samford,Georgia,1,7,"Athens, GA / Foley Field",2026,WN2026
+02/21/2026,Georgia,Samford,12,4,0,0,L,Samford,Samford,Georgia,1,9,"Athens, GA / Foley Field",2026,WN2026
+02/22/2026,Georgia,Samford,22,0,0,0,L,Samford,Samford,Georgia,1,7,"Athens, GA / Foley Field",2026,WN2026
+02/24/2026,Samford,North Alabama,6,5,0,0,W,Samford,Samford,North-Alabama,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+02/27/2026,Samford,Bowling Green,1,7,0,0,L,Samford,Samford,Bowling-Green,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+02/28/2026,Samford,Bowling Green,7,4,0,0,W,Samford,Samford,Bowling-Green,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+03/01/2026,Samford,Bowling Green,11,2,0,0,W,Samford,Samford,Bowling-Green,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+03/03/2026,Auburn,Samford,6,2,0,0,L,Samford,Samford,Auburn,1,9,"Auburn, AL / Plainsman Park",2026,WN2026
+03/07/2026,Kennesaw State,Samford,8,3,0,0,L,Samford,Samford,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/07/2026,Kennesaw State,Samford,9,8,0,0,L,Samford,Samford,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/10/2026,Samford,Alabama A&M,6,4,0,0,W,Samford,Samford,Alabama-AM,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+03/13/2026,Samford,Little Rock,5,4,0,0,W,Samford,Samford,Little-Rock,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+03/14/2026,Samford,Little Rock,1,5,0,0,L,Samford,Samford,Little-Rock,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+03/15/2026,Samford,Little Rock,2,12,0,0,L,Samford,Samford,Little-Rock,0,7,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+03/17/2026,Jacksonville State,Samford,6,7,0,0,W,Samford,Samford,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+03/20/2026,Western Carolina,Samford,0,11,0,0,W,Samford,Samford,Western-Carolina,1,7,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/21/2026,Western Carolina,Samford,11,9,0,0,L,Samford,Samford,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/22/2026,Western Carolina,Samford,10,9,0,0,L,Samford,Samford,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/24/2026,Troy,Samford,2,7,0,0,W,Samford,Samford,Troy,1,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+03/27/2026,Samford,Presbyterian College,5,7,0,0,L,Samford,Samford,Presbyterian-College,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+03/28/2026,Samford,Presbyterian College,7,4,0,0,W,Samford,Samford,Presbyterian-College,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+03/29/2026,Samford,Presbyterian College,5,0,0,0,W,Samford,Samford,Presbyterian-College,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+03/31/2026,West Georgia,Samford,1,16,0,0,W,Samford,Samford,West-Georgia,1,8,"Carrollton, GA / Cole Field",2026,WN2026
+04/02/2026,Samford,East Tennessee State,13,7,0,0,W,Samford,Samford,East-Tennessee-State,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/03/2026,Samford,East Tennessee State,3,4,0,0,L,Samford,Samford,East-Tennessee-State,0,10,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/04/2026,Samford,East Tennessee State,4,6,0,0,L,Samford,Samford,East-Tennessee-State,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/07/2026,Alabama,Samford,16,2,0,0,L,Samford,Samford,Alabama,1,7,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+04/10/2026,Samford,VMI,10,4,0,0,W,Samford,Samford,VMI,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/11/2026,Samford,VMI,8,3,0,0,W,Samford,Samford,VMI,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/12/2026,Samford,VMI,5,3,0,0,W,Samford,Samford,VMI,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/14/2026,Samford,Mississippi State,1,11,0,0,L,Samford,Samford,Mississippi-State,0,7,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/17/2026,UNCG,Samford,5,11,0,0,W,Samford,Samford,UNCG,1,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+04/18/2026,UNCG,Samford,4,9,0,0,W,Samford,Samford,UNCG,1,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+04/19/2026,UNCG,Samford,1,14,0,0,W,Samford,Samford,UNCG,1,7,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+04/21/2026,Auburn,Samford,14,2,0,1,L,Samford,Samford,Auburn,0,7,"Hoover, AL / Hoover Met",2026,WN2026
+04/24/2026,Samford,South Carolina Upstate,7,5,0,0,W,Samford,Samford,South-Carolina-Upstate,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/24/2026,Samford,South Carolina Upstate,6,1,0,0,W,Samford,Samford,South-Carolina-Upstate,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/26/2026,Samford,South Carolina Upstate,9,6,0,0,W,Samford,Samford,South-Carolina-Upstate,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+05/01/2026,Samford,Mercer,3,6,0,0,L,Samford,Samford,Mercer,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+05/02/2026,Samford,Mercer,8,16,0,0,L,Samford,Samford,Mercer,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+05/03/2026,Samford,Mercer,5,0,0,0,W,Samford,Samford,Mercer,0,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+05/05/2026,North Alabama,Samford,2,8,0,0,W,Samford,Samford,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+05/08/2026,The Citadel,Samford,10,4,0,0,L,Samford,Samford,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park / Box Score",2026,WN2026
+05/08/2026,The Citadel,Samford,8,0,0,0,L,Samford,Samford,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park / Box Score",2026,WN2026
+05/09/2026,The Citadel,Samford,4,5,0,0,W,Samford,Samford,The-Citadel,1,10,"Charleston, SC / Joseph P. Riley Jr. Park / Box Score",2026,WN2026
+05/14/2026,Samford,Wofford,7,6,0,0,W,Samford,Samford,Wofford,0,9,"Homewood, AL / Joe Lee Griffin Stadium / Box Score",2026,WN2026
+05/15/2026,Samford,Wofford,6,8,0,0,L,Samford,Samford,Wofford,0,9,"Homewood, AL / Joe Lee Griffin Stadium / Box Score",2026,WN2026
+05/16/2026,Samford,Wofford,13,3,0,0,W,Samford,Samford,Wofford,0,7,"Homewood, AL / Joe Lee Griffin Stadium / Box Score",2026,WN2026
+05/20/2026,UNCG,Samford,1,13,0,1,W,Samford,Samford,UNCG,0,7,"Greenville, SC / Fluor Field / Recap",2026,WN2026
+05/21/2026,Western Carolina,Samford,5,9,0,1,W,Samford,Samford,Western-Carolina,0,9,"Greenville, SC / Fluor Field / Recap",2026,WN2026
+05/22/2026,Western Carolina,Samford,1,5,0,1,W,Samford,Samford,Western-Carolina,0,13,"Greenville, SC / Fluor Field",2026,WN2026
+05/23/2026,The Citadel,Samford,3,1,0,1,L,Samford,Samford,The-Citadel,0,9,"Greenville, SC / Fluor Field",2026,WN2026

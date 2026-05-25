@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Baylor,New Mexico State,15,2,0,0,W,Baylor,Baylor,New-Mexico-State,0,7,"Waco, TX / Baylor Ballpark",2026,WN2026
+02/14/2026,Baylor,New Mexico State,5,2,0,0,W,Baylor,Baylor,New-Mexico-State,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+02/15/2026,Baylor,New Mexico State,7,3,0,0,W,Baylor,Baylor,New-Mexico-State,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+02/17/2026,Baylor,Texas State,14,4,0,0,W,Baylor,Baylor,Texas-State,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+02/20/2026,Oregon State,Baylor,3,1,0,1,L,Baylor,Baylor,Oregon-State,0,9,"Round Rock, TX / Dell Diamond",2026,WN2026
+02/21/2026,Purdue,Baylor,6,5,0,1,L,Baylor,Baylor,Purdue,0,9,"Round Rock, TX / Dell Diamond",2026,WN2026
+02/22/2026,Southern Miss,Baylor,5,1,0,1,L,Baylor,Baylor,Southern-Miss,0,9,"Round Rock, TX / Dell Diamond",2026,WN2026
+02/24/2026,Baylor,Stephen F. Austin,9,8,0,0,W,Baylor,Baylor,Stephen-F-Austin,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+02/27/2026,Ole Miss,Baylor,5,6,0,1,W,Baylor,Baylor,Ole-Miss,0,10,"Houston, TX / Daikin Park",2026,WN2026
+02/28/2026,Texas,Baylor,5,2,0,1,L,Baylor,Baylor,Texas,0,9,"Houston, TX / Daikin Park",2026,WN2026
+03/01/2026,UTSA,Baylor,11,6,0,1,L,Baylor,Baylor,UTSA,0,9,"Houston, TX / Daikin Park",2026,WN2026
+03/03/2026,Tarleton State,Baylor,6,5,0,0,L,Baylor,Baylor,Tarleton-State,1,9,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+03/06/2026,Baylor,Air Force,7,0,0,0,W,Baylor,Baylor,Air-Force,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+03/08/2026,Baylor,Air Force,5,4,0,0,W,Baylor,Baylor,Air-Force,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+03/08/2026,Baylor,Air Force,6,1,0,0,W,Baylor,Baylor,Air-Force,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+03/10/2026,Baylor,Sam Houston State,13,5,0,0,W,Baylor,Baylor,Sam-Houston-State,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+03/13/2026,Baylor,West Virginia,7,6,0,0,W,Baylor,Baylor,West-Virginia,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+03/14/2026,Baylor,West Virginia,2,13,0,0,L,Baylor,Baylor,West-Virginia,0,7,"Waco, TX / Baylor Ballpark",2026,WN2026
+03/15/2026,Baylor,West Virginia,0,8,0,0,L,Baylor,Baylor,West-Virginia,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+03/17/2026,Baylor,Kansas State,3,13,0,0,L,Baylor,Baylor,Kansas-State,0,7,"Waco, TX / Baylor Ballpark",2026,WN2026
+03/20/2026,Oklahoma State,Baylor,4,6,0,0,W,Baylor,Baylor,Oklahoma-State,1,9,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+03/21/2026,Oklahoma State,Baylor,5,3,0,0,L,Baylor,Baylor,Oklahoma-State,1,9,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+03/22/2026,Oklahoma State,Baylor,13,6,0,0,L,Baylor,Baylor,Oklahoma-State,1,9,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+03/24/2026,Baylor,Incarnate Word,16,7,0,0,W,Baylor,Baylor,Incarnate-Word,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+03/27/2026,Houston,Baylor,2,6,0,0,W,Baylor,Baylor,Houston,1,9,"Houston, TX / Schroeder Park",2026,WN2026
+03/28/2026,Houston,Baylor,3,10,0,0,W,Baylor,Baylor,Houston,1,9,"Houston, TX / Schroeder Park",2026,WN2026
+03/29/2026,Houston,Baylor,7,14,0,0,W,Baylor,Baylor,Houston,1,9,"Houston, TX / Schroeder Park",2026,WN2026
+03/31/2026,Baylor,Tarleton State,1,5,0,0,L,Baylor,Baylor,Tarleton-State,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/02/2026,Baylor,BYU,12,5,0,0,W,Baylor,Baylor,BYU,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/03/2026,Baylor,BYU,4,10,0,0,L,Baylor,Baylor,BYU,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/04/2026,Baylor,BYU,3,1,0,0,W,Baylor,Baylor,BYU,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/07/2026,UTA,Baylor,2,5,0,0,W,Baylor,Baylor,UTA,1,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+04/10/2026,Cincinnati,Baylor,11,1,0,0,L,Baylor,Baylor,Cincinnati,1,8,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+04/11/2026,Cincinnati,Baylor,8,0,0,0,L,Baylor,Baylor,Cincinnati,1,9,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+04/12/2026,Cincinnati,Baylor,3,8,0,0,W,Baylor,Baylor,Cincinnati,1,9,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+04/14/2026,Baylor,UTSA,10,9,0,0,W,Baylor,Baylor,UTSA,0,12,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/17/2026,Baylor,TCU,11,4,0,0,W,Baylor,Baylor,TCU,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/19/2026,Baylor,TCU,4,5,0,0,L,Baylor,Baylor,TCU,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/19/2026,Baylor,TCU,2,10,0,0,L,Baylor,Baylor,TCU,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/21/2026,Sam Houston State,Baylor,7,5,0,0,L,Baylor,Baylor,Sam-Houston-State,1,9,"Huntsville, TX / Don Sanders Stadium",2026,WN2026
+04/24/2026,Arizona State,Baylor,11,2,0,0,L,Baylor,Baylor,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/25/2026,Arizona State,Baylor,4,2,0,0,L,Baylor,Baylor,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/26/2026,Arizona State,Baylor,11,4,0,0,L,Baylor,Baylor,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/28/2026,Baylor,UTA,6,2,0,0,W,Baylor,Baylor,UTA,0,6,"Waco, TX / Baylor Ballpark",2026,WN2026
+05/02/2026,Baylor,Texas Tech,8,1,0,0,W,Baylor,Baylor,Texas-Tech,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+05/02/2026,Baylor,Texas Tech,10,9,0,0,W,Baylor,Baylor,Texas-Tech,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+05/03/2026,Baylor,Texas Tech,3,8,0,0,L,Baylor,Baylor,Texas-Tech,0,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+05/05/2026,Texas State,Baylor,9,6,0,0,L,Baylor,Baylor,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+05/08/2026,Baylor,UCF,0,8,0,0,L,Baylor,Baylor,UCF,0,9,"Waco, TX / Baylor Ballpark / Box Score",2026,WN2026
+05/09/2026,Baylor,UCF,3,19,0,0,L,Baylor,Baylor,UCF,0,7,"Waco, TX / Baylor Ballpark / Box Score",2026,WN2026
+05/10/2026,Baylor,UCF,8,7,0,0,W,Baylor,Baylor,UCF,0,9,"Waco, TX / Baylor Ballpark / Box Score",2026,WN2026
+05/14/2026,Utah,Baylor,8,7,0,0,L,Baylor,Baylor,Utah,1,9,"Salt Lake City, UT / America First Ballpark / Box Score",2026,WN2026
+05/15/2026,Utah,Baylor,3,10,0,0,W,Baylor,Baylor,Utah,1,9,"Salt Lake City, UT / America First Ballpark / Box Score",2026,WN2026
+05/16/2026,Utah,Baylor,10,11,0,0,W,Baylor,Baylor,Utah,1,9,"Salt Lake City, UT / America First Ballpark / Box Score",2026,WN2026
+05/20/2026,BYU,Baylor,9,13,0,1,W,Baylor,Baylor,BYU,0,9,"Surprize, AZ / Surprise Stadium / Recap",2026,WN2026
+05/21/2026,Kansas,Baylor,8,7,0,1,L,Baylor,Baylor,Kansas,0,10,"Surprize, AZ / Surprise Stadium / Recap",2026,WN2026

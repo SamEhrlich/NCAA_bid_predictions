@@ -1,0 +1,51 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Gardner-Webb,Valparaiso,7,6,0,0,L,Valparaiso,Valparaiso,Gardner-Webb,1,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+02/13/2026,Gardner-Webb,Valparaiso,7,3,0,0,L,Valparaiso,Valparaiso,Gardner-Webb,1,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+02/14/2026,Gardner-Webb,Valparaiso,10,11,0,0,W,Valparaiso,Valparaiso,Gardner-Webb,1,7,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+02/14/2026,Gardner-Webb,Valparaiso,12,1,0,0,L,Valparaiso,Valparaiso,Gardner-Webb,1,7,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+02/20/2026,Wofford,Valparaiso,15,9,0,0,L,Valparaiso,Valparaiso,Wofford,1,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/21/2026,South Carolina Upstate,Valparaiso,5,10,0,0,W,Valparaiso,Valparaiso,South-Carolina-Upstate,1,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/22/2026,Presbyterian College,Valparaiso,9,21,0,0,W,Valparaiso,Valparaiso,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+02/27/2026,Alabama State,Valparaiso,6,1,0,0,L,Valparaiso,Valparaiso,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+02/28/2026,Alabama State,Valparaiso,0,9,0,0,W,Valparaiso,Valparaiso,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/01/2026,Alabama State,Valparaiso,1,3,0,0,W,Valparaiso,Valparaiso,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/06/2026,Jacksonville State,Valparaiso,3,2,0,0,L,Valparaiso,Valparaiso,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+03/07/2026,Jacksonville State,Valparaiso,17,3,0,0,L,Valparaiso,Valparaiso,Jacksonville-State,1,7,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+03/07/2026,Jacksonville State,Valparaiso,13,2,0,0,L,Valparaiso,Valparaiso,Jacksonville-State,1,7,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+03/13/2026,SIUE,Valparaiso,13,3,0,0,L,Valparaiso,Valparaiso,SIUE,1,7,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/14/2026,SIUE,Valparaiso,3,2,0,0,L,Valparaiso,Valparaiso,SIUE,1,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/15/2026,SIUE,Valparaiso,9,13,0,0,W,Valparaiso,Valparaiso,SIUE,1,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/20/2026,Murray State,Valparaiso,9,4,0,1,L,Valparaiso,Valparaiso,Murray-State,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/21/2026,Murray State,Valparaiso,3,1,0,1,L,Valparaiso,Valparaiso,Murray-State,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/22/2026,Murray State,Valparaiso,13,12,0,1,L,Valparaiso,Valparaiso,Murray-State,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/24/2026,Purdue,Valparaiso,3,2,0,0,L,Valparaiso,Valparaiso,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+03/28/2026,Valparaiso,Indiana State,2,18,0,0,L,Valparaiso,Valparaiso,Indiana-State,0,7,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+03/29/2026,Valparaiso,Indiana State,10,1,0,0,W,Valparaiso,Valparaiso,Indiana-State,0,9,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+03/30/2026,Valparaiso,Indiana State,1,10,0,0,L,Valparaiso,Valparaiso,Indiana-State,0,9,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+03/31/2026,Northwestern,Valparaiso,13,9,0,0,L,Valparaiso,Valparaiso,Northwestern,1,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/02/2026,Washington,Valparaiso,6,3,0,0,L,Valparaiso,Valparaiso,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/03/2026,Washington,Valparaiso,6,0,0,0,L,Valparaiso,Valparaiso,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/04/2026,Washington,Valparaiso,2,4,0,0,W,Valparaiso,Valparaiso,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+04/07/2026,Western Michigan,Valparaiso,5,4,0,0,L,Valparaiso,Valparaiso,Western-Michigan,1,9,"Kalamazoo, MI / Hyames Field",2026,WN2026
+04/10/2026,Valparaiso,Bradley,9,2,0,0,W,Valparaiso,Valparaiso,Bradley,0,9,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+04/11/2026,Valparaiso,Bradley,6,9,0,0,L,Valparaiso,Valparaiso,Bradley,0,9,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+04/12/2026,Valparaiso,Bradley,10,11,0,0,L,Valparaiso,Valparaiso,Bradley,0,9,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+04/14/2026,Notre Dame,Valparaiso,6,1,0,0,L,Valparaiso,Valparaiso,Notre-Dame,1,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+04/17/2026,UIC,Valparaiso,4,3,0,0,L,Valparaiso,Valparaiso,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/18/2026,UIC,Valparaiso,10,0,0,0,L,Valparaiso,Valparaiso,UIC,1,7,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/19/2026,UIC,Valparaiso,5,4,0,0,L,Valparaiso,Valparaiso,UIC,1,12,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/21/2026,Valparaiso,Western Michigan,8,13,0,0,L,Valparaiso,Valparaiso,Western-Michigan,0,6,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+04/24/2026,Valparaiso,Belmont,7,8,0,0,L,Valparaiso,Valparaiso,Belmont,0,9,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+04/25/2026,Valparaiso,Belmont,0,2,0,0,L,Valparaiso,Valparaiso,Belmont,0,9,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+04/26/2026,Valparaiso,Belmont,5,2,0,0,W,Valparaiso,Valparaiso,Belmont,0,9,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+04/28/2026,Northern Illinois,Valparaiso,11,5,0,0,L,Valparaiso,Valparaiso,Northern-Illinois,1,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+05/01/2026,Illinois State,Valparaiso,6,5,0,0,L,Valparaiso,Valparaiso,Illinois-State,1,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+05/02/2026,Illinois State,Valparaiso,14,2,0,0,L,Valparaiso,Valparaiso,Illinois-State,1,8,"Normal, IL / Duffy Bass Field",2026,WN2026
+05/03/2026,Illinois State,Valparaiso,9,4,0,0,L,Valparaiso,Valparaiso,Illinois-State,1,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+05/05/2026,Milwaukee,Valparaiso,6,4,0,0,L,Valparaiso,Valparaiso,Milwaukee,1,9,"Franklin, WI / Franklin Field",2026,WN2026
+05/08/2026,Valparaiso,Evansville,6,5,0,0,W,Valparaiso,Valparaiso,Evansville,0,9,"Valparaiso, IN / Emory G. Bauer Field / Box Score",2026,WN2026
+05/09/2026,Valparaiso,Evansville,5,6,0,0,L,Valparaiso,Valparaiso,Evansville,0,9,"Valparaiso, IN / Emory G. Bauer Field / Box Score",2026,WN2026
+05/10/2026,Valparaiso,Evansville,0,11,0,0,L,Valparaiso,Valparaiso,Evansville,0,9,"Valparaiso, IN / Emory G. Bauer Field / Box Score",2026,WN2026
+05/14/2026,Southern Illinois,Valparaiso,6,4,0,0,L,Valparaiso,Valparaiso,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+05/15/2026,Southern Illinois,Valparaiso,4,9,0,0,W,Valparaiso,Valparaiso,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+05/16/2026,Southern Illinois,Valparaiso,13,3,0,0,L,Valparaiso,Valparaiso,Southern-Illinois,1,8,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026

@@ -1,0 +1,44 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/20/2026,Miami (OH),Brown,11,8,0,1,L,Brown,Brown,Miami-OH,0,9,"Port Charlotte, FL. / Centennial Park",2026,WN2026
+02/21/2026,Illinois State,Brown,9,7,0,1,L,Brown,Brown,Illinois-State,0,9,"Port Charlotte, FL. / Centennial Park",2026,WN2026
+02/21/2026,Indiana State,Brown,12,16,0,1,W,Brown,Brown,Indiana-State,0,9,"Port Charlotte, FL. / Centennial Park",2026,WN2026
+02/28/2026,Charleston Southern,Brown,13,8,0,0,L,Brown,Brown,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+02/28/2026,Charleston Southern,Brown,11,1,0,0,L,Brown,Brown,Charleston-Southern,1,8,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+03/01/2026,Charleston Southern,Brown,10,4,0,0,L,Brown,Brown,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+03/07/2026,Brown,Rhode Island,3,2,0,0,W,Brown,Brown,Rhode-Island,0,9,"Providence, RI / Murray Stadium",2026,WN2026
+03/07/2026,Brown,Rhode Island,7,5,0,0,W,Brown,Brown,Rhode-Island,0,7,"Providence, RI / Murray Stadium",2026,WN2026
+03/08/2026,Brown,Rhode Island,9,19,0,0,L,Brown,Brown,Rhode-Island,0,7,"Providence, RI / Murray Stadium",2026,WN2026
+03/10/2026,Brown,Quinnipiac,4,1,0,0,W,Brown,Brown,Quinnipiac,0,9,"Providence, RI / Murray Stadium",2026,WN2026
+03/13/2026,Seton Hall,Brown,5,2,0,0,L,Brown,Brown,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+03/14/2026,Seton Hall,Brown,6,9,0,0,W,Brown,Brown,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+03/15/2026,Seton Hall,Brown,3,1,0,0,L,Brown,Brown,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+03/18/2026,Brown,Northeastern,3,7,0,0,L,Brown,Brown,Northeastern,0,9,"Providence, RI / Murray Stadium",2026,WN2026
+03/21/2026,Yale,Brown,14,7,0,0,L,Brown,Brown,Yale,1,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/21/2026,Yale,Brown,1,2,0,0,W,Brown,Brown,Yale,1,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/22/2026,Yale,Brown,0,8,0,0,W,Brown,Brown,Yale,1,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/24/2026,Brown,Stonehill,0,6,0,0,L,Brown,Brown,Stonehill,0,9,"Providence, RI / Murray Stadium",2026,WN2026
+03/28/2026,Brown,Princeton,4,0,0,0,W,Brown,Brown,Princeton,0,9,"Providence, RI / Murray Stadium",2026,WN2026
+03/28/2026,Brown,Princeton,14,1,0,0,W,Brown,Brown,Princeton,0,9,"Providence, RI / Murray Stadium",2026,WN2026
+03/29/2026,Brown,Princeton,4,0,0,0,W,Brown,Brown,Princeton,0,9,"Providence, RI / Murray Stadium",2026,WN2026
+03/31/2026,Brown,Bryant,10,0,0,0,W,Brown,Brown,Bryant,0,8,"Providence, RI / Murray Stadium",2026,WN2026
+04/04/2026,Harvard,Brown,2,1,0,0,L,Brown,Brown,Harvard,1,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/04/2026,Harvard,Brown,0,4,0,0,W,Brown,Brown,Harvard,1,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/08/2026,Brown,Merrimack,10,0,0,0,W,Brown,Brown,Merrimack,0,8,"Providence, RI / Murray Stadium",2026,WN2026
+04/11/2026,Dartmouth,Brown,4,0,0,0,L,Brown,Brown,Dartmouth,1,9,"Hanover, NH / Red Rolfe Field at Biondi Park",2026,WN2026
+04/11/2026,Dartmouth,Brown,3,13,0,0,W,Brown,Brown,Dartmouth,1,9,"Hanover, NH / Red Rolfe Field at Biondi Park",2026,WN2026
+04/12/2026,Dartmouth,Brown,5,7,0,0,W,Brown,Brown,Dartmouth,1,9,"Hanover, NH / Red Rolfe Field at Biondi Park",2026,WN2026
+04/14/2026,Brown,Holy Cross,9,1,0,0,W,Brown,Brown,Holy-Cross,0,9,"Providence, RI / Murray Stadium",2026,WN2026
+04/18/2026,Brown,Columbia,6,1,0,0,W,Brown,Brown,Columbia,0,9,"Providence, RI / Murray Stadium",2026,WN2026
+04/18/2026,Brown,Columbia,2,11,0,0,L,Brown,Brown,Columbia,0,9,"Providence, RI / Murray Stadium",2026,WN2026
+04/21/2026,Harvard,Brown,3,6,0,0,W,Brown,Brown,Harvard,1,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/25/2026,Brown,Cornell,16,4,0,0,W,Brown,Brown,Cornell,0,9,"Providence, RI / Murray Stadium",2026,WN2026
+04/26/2026,Brown,Cornell,1,2,0,0,L,Brown,Brown,Cornell,0,13,"Providence, RI / Murray Stadium",2026,WN2026
+04/26/2026,Brown,Cornell,3,8,0,0,L,Brown,Brown,Cornell,0,9,"Providence, RI / Murray Stadium",2026,WN2026
+04/29/2026,Brown,Columbia,16,8,0,0,W,Brown,Brown,Columbia,0,9,"Providence, RI / Murray Stadium",2026,WN2026
+05/01/2026,Penn,Brown,9,13,0,0,W,Brown,Brown,Penn,1,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+05/02/2026,Penn,Brown,11,3,0,0,L,Brown,Brown,Penn,1,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+05/02/2026,Penn,Brown,7,3,0,0,L,Brown,Brown,Penn,1,9,"Philadelphia, PA / Meiklejohn Stadium",2026,WN2026
+05/15/2026,Penn,Brown,4,7,0,1,W,Brown,Brown,Penn,0,9,"West Haven, CT / George H.W. Bush 48 Field / Box Score / Recap",2026,WN2026
+05/16/2026,Yale,Brown,5,2,0,1,L,Brown,Brown,Yale,0,9,"West Haven, CT / George H.W. Bush 48 Field / Box Score",2026,WN2026
+05/17/2026,Columbia,Brown,2,4,0,1,W,Brown,Brown,Columbia,0,9,"West Haven, CT / George H.W. Bush 48 Field / Box Score",2026,WN2026
+05/17/2026,Yale,Brown,7,5,0,1,L,Brown,Brown,Yale,0,9,"West Haven, CT / George H.W. Bush 48 Field / Box Score",2026,WN2026

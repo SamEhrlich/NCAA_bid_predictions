@@ -1,0 +1,38 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/20/2026,Tulane,Harvard,7,3,0,0,L,Harvard,Harvard,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+02/21/2026,Tulane,Harvard,11,9,0,0,L,Harvard,Harvard,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+02/22/2026,Tulane,Harvard,11,1,0,0,L,Harvard,Harvard,Tulane,1,7,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+02/27/2026,Rice,Harvard,11,7,0,0,L,Harvard,Harvard,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+02/28/2026,Rice,Harvard,2,1,0,0,L,Harvard,Harvard,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+03/01/2026,Rice,Harvard,9,0,0,0,L,Harvard,Harvard,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+03/06/2026,Liberty,Harvard,9,3,0,0,L,Harvard,Harvard,Liberty,1,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/07/2026,Liberty,Harvard,11,7,0,0,L,Harvard,Harvard,Liberty,1,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/08/2026,Liberty,Harvard,5,4,0,0,L,Harvard,Harvard,Liberty,1,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/13/2026,California Baptist,Harvard,5,1,0,0,L,Harvard,Harvard,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/14/2026,California Baptist,Harvard,11,4,0,0,L,Harvard,Harvard,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/15/2026,California Baptist,Harvard,3,2,0,0,L,Harvard,Harvard,California-Baptist,1,10,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/16/2026,California Baptist,Harvard,12,14,0,0,W,Harvard,Harvard,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/21/2026,Columbia,Harvard,1,4,0,0,W,Harvard,Harvard,Columbia,1,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+03/21/2026,Columbia,Harvard,5,3,0,0,L,Harvard,Harvard,Columbia,1,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+03/22/2026,Columbia,Harvard,8,3,0,0,L,Harvard,Harvard,Columbia,1,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+03/29/2026,Cornell,Harvard,1,2,0,0,W,Harvard,Harvard,Cornell,1,9,"Ithaca, NY / Booth Field",2026,WN2026
+03/29/2026,Cornell,Harvard,9,4,0,0,L,Harvard,Harvard,Cornell,1,9,"Ithaca, NY / Booth Field",2026,WN2026
+03/30/2026,Cornell,Harvard,3,16,0,0,W,Harvard,Harvard,Cornell,1,9,"Ithaca, NY / Booth Field",2026,WN2026
+04/04/2026,Harvard,Brown,2,1,0,0,W,Harvard,Harvard,Brown,0,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/04/2026,Harvard,Brown,0,4,0,0,L,Harvard,Harvard,Brown,0,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/08/2026,Harvard,Northeastern,1,4,0,0,L,Harvard,Harvard,Northeastern,0,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/11/2026,Yale,Harvard,3,5,0,0,W,Harvard,Harvard,Yale,1,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+04/11/2026,Yale,Harvard,9,6,0,0,L,Harvard,Harvard,Yale,1,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+04/12/2026,Yale,Harvard,5,2,0,0,L,Harvard,Harvard,Yale,1,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+04/14/2026,UMass,Harvard,12,17,0,1,W,Harvard,Harvard,UMass,0,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/17/2026,Harvard,Dartmouth,3,5,0,0,L,Harvard,Harvard,Dartmouth,0,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/18/2026,Harvard,Dartmouth,4,6,0,0,L,Harvard,Harvard,Dartmouth,0,12,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/18/2026,Harvard,Dartmouth,7,6,0,0,W,Harvard,Harvard,Dartmouth,0,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/21/2026,Harvard,Brown,3,6,0,0,L,Harvard,Harvard,Brown,0,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/25/2026,Harvard,Penn,7,13,0,0,L,Harvard,Harvard,Penn,0,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/25/2026,Harvard,Penn,2,10,0,0,L,Harvard,Harvard,Penn,0,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/26/2026,Harvard,Penn,6,7,0,0,L,Harvard,Harvard,Penn,0,9,"Allston, MA / Joseph J. O'Donnell Field",2026,WN2026
+04/28/2026,Holy Cross,Harvard,12,9,0,0,L,Harvard,Harvard,Holy-Cross,1,9,"Worcester, MA / Hanover Insurance Park at Fitton Field",2026,WN2026
+05/02/2026,Princeton,Harvard,3,10,0,0,W,Harvard,Harvard,Princeton,1,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+05/02/2026,Princeton,Harvard,5,7,0,0,W,Harvard,Harvard,Princeton,1,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026
+05/03/2026,Princeton,Harvard,6,11,0,0,W,Harvard,Harvard,Princeton,1,9,"Princeton, NJ / Bill Clarke Field",2026,WN2026

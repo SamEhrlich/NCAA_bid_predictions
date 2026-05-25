@@ -1,0 +1,60 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Saint Mary's College,Creighton,3,11,0,0,L,Saint Mary's College,Saint-Marys-College,Creighton,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/14/2026,Saint Mary's College,Creighton,7,2,0,0,W,Saint Mary's College,Saint-Marys-College,Creighton,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/14/2026,Saint Mary's College,Creighton,8,9,0,0,L,Saint Mary's College,Saint-Marys-College,Creighton,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/20/2026,Saint Mary's College,Cal State Northridge,8,0,0,0,W,Saint Mary's College,Saint-Marys-College,Cal-State-Northridge,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/21/2026,Saint Mary's College,Cal State Northridge,7,12,0,0,L,Saint Mary's College,Saint-Marys-College,Cal-State-Northridge,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/22/2026,Saint Mary's College,Cal State Northridge,12,0,0,0,W,Saint Mary's College,Saint-Marys-College,Cal-State-Northridge,0,7,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/24/2026,Cal State Bakersfield,Saint Mary's College,8,10,0,0,W,Saint Mary's College,Saint-Marys-College,Cal-State-Bakersfield,1,12,"Bakersfield, CA / Hardt Field",2026,WN2026
+02/27/2026,Saint Mary's College,San Jose State,5,4,0,0,W,Saint Mary's College,Saint-Marys-College,San-Jose-State,0,13,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/27/2026,Saint Mary's College,San Jose State,15,5,0,0,W,Saint Mary's College,Saint-Marys-College,San-Jose-State,0,7,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/28/2026,San Jose State,Saint Mary's College,8,0,0,0,L,Saint Mary's College,Saint-Marys-College,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/01/2026,San Jose State,Saint Mary's College,4,13,0,0,W,Saint Mary's College,Saint-Marys-College,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/03/2026,Saint Mary's College,UC Davis,7,2,0,0,W,Saint Mary's College,Saint-Marys-College,UC-Davis,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+03/06/2026,San Diego State,Saint Mary's College,3,2,0,0,L,Saint Mary's College,Saint-Marys-College,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/07/2026,San Diego State,Saint Mary's College,9,12,0,0,W,Saint Mary's College,Saint-Marys-College,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/08/2026,San Diego State,Saint Mary's College,6,9,0,0,W,Saint Mary's College,Saint-Marys-College,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/10/2026,UC Santa Barbara,Saint Mary's College,13,3,0,0,L,Saint Mary's College,Saint-Marys-College,UC-Santa-Barbara,1,7,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+03/13/2026,Rice,Saint Mary's College,6,5,0,1,L,Saint Mary's College,Saint-Marys-College,Rice,0,9,"Phoenix, AZ",2026,WN2026
+03/14/2026,Grand Canyon,Saint Mary's College,9,8,0,0,L,Saint Mary's College,Saint-Marys-College,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/15/2026,Grand Canyon,Saint Mary's College,6,3,0,0,L,Saint Mary's College,Saint-Marys-College,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/15/2026,Rice,Saint Mary's College,8,11,0,1,W,Saint Mary's College,Saint-Marys-College,Rice,0,8,"Phoenix, AZ",2026,WN2026
+03/20/2026,Saint Mary's College,Pepperdine,9,8,0,0,W,Saint Mary's College,Saint-Marys-College,Pepperdine,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+03/21/2026,Saint Mary's College,Pepperdine,5,9,0,0,L,Saint Mary's College,Saint-Marys-College,Pepperdine,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+03/22/2026,Saint Mary's College,Pepperdine,1,7,0,0,L,Saint Mary's College,Saint-Marys-College,Pepperdine,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+03/24/2026,Saint Mary's College,UC Santa Barbara,10,4,0,0,W,Saint Mary's College,Saint-Marys-College,UC-Santa-Barbara,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+03/27/2026,Portland,Saint Mary's College,0,3,0,0,W,Saint Mary's College,Saint-Marys-College,Portland,1,9,"Portland, OR / Joe Etzel Field",2026,WN2026
+03/28/2026,Portland,Saint Mary's College,8,5,0,0,L,Saint Mary's College,Saint-Marys-College,Portland,1,9,"Portland, OR / Joe Etzel Field",2026,WN2026
+03/29/2026,Portland,Saint Mary's College,6,1,0,0,L,Saint Mary's College,Saint-Marys-College,Portland,1,9,"Portland, OR / Joe Etzel Field",2026,WN2026
+04/03/2026,Saint Mary's College,Pacific,11,4,0,0,W,Saint Mary's College,Saint-Marys-College,Pacific,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/03/2026,Saint Mary's College,Pacific,6,4,0,0,W,Saint Mary's College,Saint-Marys-College,Pacific,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/04/2026,Saint Mary's College,Pacific,2,1,0,0,W,Saint Mary's College,Saint-Marys-College,Pacific,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/06/2026,UC Davis,Saint Mary's College,4,1,0,0,L,Saint Mary's College,Saint-Marys-College,UC-Davis,1,9,"Davis, CA / Dobbins Stadium",2026,WN2026
+04/08/2026,Saint Mary's College,Cal State Bakersfield,14,4,0,0,W,Saint Mary's College,Saint-Marys-College,Cal-State-Bakersfield,0,7,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/10/2026,Santa Clara,Saint Mary's College,1,8,0,0,W,Saint Mary's College,Saint-Marys-College,Santa-Clara,1,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+04/11/2026,Santa Clara,Saint Mary's College,4,8,0,0,W,Saint Mary's College,Saint-Marys-College,Santa-Clara,1,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+04/12/2026,Santa Clara,Saint Mary's College,11,15,0,0,W,Saint Mary's College,Saint-Marys-College,Santa-Clara,1,13,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+04/13/2026,Saint Mary's College,Nevada,16,10,0,0,W,Saint Mary's College,Saint-Marys-College,Nevada,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/17/2026,Saint Mary's College,Gonzaga,2,7,0,0,L,Saint Mary's College,Saint-Marys-College,Gonzaga,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/18/2026,Saint Mary's College,Gonzaga,4,14,0,0,L,Saint Mary's College,Saint-Marys-College,Gonzaga,0,8,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/19/2026,Saint Mary's College,Gonzaga,5,6,0,0,L,Saint Mary's College,Saint-Marys-College,Gonzaga,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+04/21/2026,Nevada,Saint Mary's College,5,11,0,0,W,Saint Mary's College,Saint-Marys-College,Nevada,1,9,"Reno, NV / William Peccole Park",2026,WN2026
+04/24/2026,San Diego,Saint Mary's College,4,10,0,0,W,Saint Mary's College,Saint-Marys-College,San-Diego,1,9,"San Diego, CA / Fowler Park",2026,WN2026
+04/25/2026,San Diego,Saint Mary's College,3,14,0,0,W,Saint Mary's College,Saint-Marys-College,San-Diego,1,7,"San Diego, CA / Fowler Park",2026,WN2026
+04/26/2026,San Diego,Saint Mary's College,16,6,0,0,L,Saint Mary's College,Saint-Marys-College,San-Diego,1,8,"San Diego, CA / Fowler Park",2026,WN2026
+04/28/2026,Saint Mary's College,California,5,6,0,0,L,Saint Mary's College,Saint-Marys-College,California,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+05/01/2026,Saint Mary's College,Seattle University,11,1,0,0,W,Saint Mary's College,Saint-Marys-College,Seattle-University,0,8,"Moraga, CA / Louis Guisto Field",2026,WN2026
+05/02/2026,Saint Mary's College,Seattle University,7,8,0,0,L,Saint Mary's College,Saint-Marys-College,Seattle-University,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+05/03/2026,Saint Mary's College,Seattle University,4,5,0,0,L,Saint Mary's College,Saint-Marys-College,Seattle-University,0,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+05/08/2026,Loyola-Marymount,Saint Mary's College,4,17,0,0,W,Saint Mary's College,Saint-Marys-College,Loyola-Marymount,1,8,"Los Angeles, CA / George C. Page Stadium / Box Score",2026,WN2026
+05/09/2026,Loyola-Marymount,Saint Mary's College,6,8,0,0,W,Saint Mary's College,Saint-Marys-College,Loyola-Marymount,1,9,"Los Angeles, CA / George C. Page Stadium / Box Score",2026,WN2026
+05/10/2026,Loyola-Marymount,Saint Mary's College,3,6,0,0,W,Saint Mary's College,Saint-Marys-College,Loyola-Marymount,1,9,"Los Angeles, CA / George C. Page Stadium / Box Score",2026,WN2026
+05/12/2026,Stanford,Saint Mary's College,7,6,0,0,L,Saint Mary's College,Saint-Marys-College,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+05/14/2026,Saint Mary's College,San Francisco,6,9,0,0,L,Saint Mary's College,Saint-Marys-College,San-Francisco,0,9,"Moraga, CA / Louis Guisto Field / Box Score",2026,WN2026
+05/15/2026,Saint Mary's College,San Francisco,3,10,0,0,L,Saint Mary's College,Saint-Marys-College,San-Francisco,0,9,"Moraga, CA / Louis Guisto Field / Box Score",2026,WN2026
+05/16/2026,Saint Mary's College,San Francisco,6,4,0,0,W,Saint Mary's College,Saint-Marys-College,San-Francisco,0,9,"Moraga, CA / Louis Guisto Field / Box Score",2026,WN2026
+05/20/2026,Pepperdine,Saint Mary's College,2,9,0,1,W,Saint Mary's College,Saint-Marys-College,Pepperdine,0,9,"Scottsdale, AZ / Scottsdale Stadium / Box Score / Recap",2026,WN2026
+05/21/2026,Gonzaga,Saint Mary's College,4,13,0,1,W,Saint Mary's College,Saint-Marys-College,Gonzaga,0,9,"Scottsdale, AZ / Scottsdale Stadium / Recap",2026,WN2026
+05/22/2026,Pacific,Saint Mary's College,7,10,0,1,W,Saint Mary's College,Saint-Marys-College,Pacific,0,9,"Scottsdale, AZ / Scottsdale Stadium",2026,WN2026
+05/23/2026,San Francisco,Saint Mary's College,9,8,0,1,L,Saint Mary's College,Saint-Marys-College,San-Francisco,0,9,"Scottsdale, AZ / Scottsdale Stadium",2026,WN2026
+05/23/2026,San Francisco,Saint Mary's College,6,7,0,1,W,Saint Mary's College,Saint-Marys-College,San-Francisco,0,9,"Scottsdale, AZ / Scottsdale Stadium",2026,WN2026

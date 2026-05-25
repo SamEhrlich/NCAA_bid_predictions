@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Ole Miss,Nevada,11,3,0,0,W,Ole Miss,Ole-Miss,Nevada,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+02/14/2026,Ole Miss,Nevada,5,1,0,0,W,Ole Miss,Ole-Miss,Nevada,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+02/15/2026,Ole Miss,Nevada,13,2,0,0,W,Ole Miss,Ole-Miss,Nevada,0,7,"Oxford, MS / Swayze Field",2026,WN2026
+02/17/2026,Ole Miss,Arkansas State,7,6,0,0,W,Ole Miss,Ole-Miss,Arkansas-State,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+02/18/2026,Ole Miss,Jackson State,18,3,0,0,W,Ole Miss,Ole-Miss,Jackson-State,0,7,"Oxford, MS / Swayze Field",2026,WN2026
+02/20/2026,Ole Miss,Missouri State,11,6,0,0,W,Ole Miss,Ole-Miss,Missouri-State,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+02/21/2026,Ole Miss,Missouri State,6,3,0,0,W,Ole Miss,Ole-Miss,Missouri-State,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+02/22/2026,Ole Miss,Missouri State,3,2,0,0,W,Ole Miss,Ole-Miss,Missouri-State,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+02/24/2026,Ole Miss,Southeast Missouri,13,3,0,0,W,Ole Miss,Ole-Miss,Southeast-Missouri,0,7,"Oxford, MS / Swayze Field",2026,WN2026
+02/27/2026,Baylor,Ole Miss,6,5,0,1,L,Ole Miss,Ole-Miss,Baylor,0,10,"Houston, TX / Daikin Park",2026,WN2026
+02/28/2026,Ohio State,Ole Miss,0,8,0,1,W,Ole Miss,Ole-Miss,Ohio-State,0,9,"Houston, TX / Daikin Park",2026,WN2026
+03/01/2026,Coastal Carolina,Ole Miss,9,2,0,1,L,Ole Miss,Ole-Miss,Coastal-Carolina,0,9,"Houston, TX / Daikin Park",2026,WN2026
+03/03/2026,Ole Miss,Memphis,7,1,0,0,W,Ole Miss,Ole-Miss,Memphis,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/04/2026,Ole Miss,North Alabama,8,5,0,0,W,Ole Miss,Ole-Miss,North-Alabama,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/06/2026,Ole Miss,Evansville,7,2,0,0,W,Ole Miss,Ole-Miss,Evansville,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/06/2026,Ole Miss,Evansville,14,2,0,0,W,Ole Miss,Ole-Miss,Evansville,0,7,"Oxford, MS / Swayze Field",2026,WN2026
+03/08/2026,Ole Miss,Evansville,8,3,0,0,W,Ole Miss,Ole-Miss,Evansville,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/10/2026,Southern Miss,Ole Miss,2,1,0,0,L,Ole Miss,Ole-Miss,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+03/13/2026,Texas,Ole Miss,8,9,0,0,W,Ole Miss,Ole-Miss,Texas,1,11,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/14/2026,Texas,Ole Miss,11,2,0,0,L,Ole Miss,Ole-Miss,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/15/2026,Texas,Ole Miss,8,2,0,0,L,Ole Miss,Ole-Miss,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/17/2026,Ole Miss,Austin Peay,9,5,0,0,W,Ole Miss,Ole-Miss,Austin-Peay,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/19/2026,Ole Miss,Kentucky,5,0,0,0,W,Ole Miss,Ole-Miss,Kentucky,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/20/2026,Ole Miss,Kentucky,1,3,0,0,L,Ole Miss,Ole-Miss,Kentucky,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/21/2026,Ole Miss,Kentucky,12,9,0,0,W,Ole Miss,Ole-Miss,Kentucky,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/24/2026,Memphis,Ole Miss,6,2,0,0,L,Ole Miss,Ole-Miss,Memphis,1,9,"Memphis, TN / FedExPark",2026,WN2026
+03/27/2026,Ole Miss,Mississippi State,4,5,0,0,L,Ole Miss,Ole-Miss,Mississippi-State,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/28/2026,Ole Miss,Mississippi State,1,6,0,0,L,Ole Miss,Ole-Miss,Mississippi-State,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/29/2026,Ole Miss,Mississippi State,1,7,0,0,L,Ole Miss,Ole-Miss,Mississippi-State,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/31/2026,Ole Miss,Little Rock,7,4,0,0,W,Ole Miss,Ole-Miss,Little-Rock,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+04/02/2026,Florida,Ole Miss,4,6,0,0,W,Ole Miss,Ole-Miss,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/03/2026,Florida,Ole Miss,2,0,0,0,L,Ole Miss,Ole-Miss,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/04/2026,Florida,Ole Miss,2,5,0,0,W,Ole Miss,Ole-Miss,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/07/2026,Ole Miss,Alcorn State,11,1,0,0,W,Ole Miss,Ole-Miss,Alcorn-State,0,7,"Oxford, MS / Swayze Field",2026,WN2026
+04/10/2026,Ole Miss,LSU,6,3,0,0,W,Ole Miss,Ole-Miss,LSU,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+04/11/2026,Ole Miss,LSU,12,2,0,0,W,Ole Miss,Ole-Miss,LSU,0,7,"Oxford, MS / Swayze Field",2026,WN2026
+04/12/2026,Ole Miss,LSU,8,7,0,0,W,Ole Miss,Ole-Miss,LSU,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+04/14/2026,Southern Miss,Ole Miss,3,10,0,1,W,Ole Miss,Ole-Miss,Southern-Miss,0,9,"Pearl, MS / Trustmark Park",2026,WN2026
+04/17/2026,Tennessee,Ole Miss,4,7,0,0,W,Ole Miss,Ole-Miss,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/18/2026,Tennessee,Ole Miss,1,8,0,0,W,Ole Miss,Ole-Miss,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/19/2026,Tennessee,Ole Miss,13,5,0,0,L,Ole Miss,Ole-Miss,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/21/2026,Ole Miss,Murray State,19,2,0,0,W,Ole Miss,Ole-Miss,Murray-State,0,7,"Oxford, MS / Swayze Field",2026,WN2026
+04/25/2026,Ole Miss,Georgia,10,8,0,0,W,Ole Miss,Ole-Miss,Georgia,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+04/25/2026,Ole Miss,Georgia,7,9,0,0,L,Ole Miss,Ole-Miss,Georgia,0,14,"Oxford, MS / Swayze Field",2026,WN2026
+04/26/2026,Ole Miss,Georgia,1,5,0,0,L,Ole Miss,Ole-Miss,Georgia,0,9,"Oxford, MS / Swayze Field",2026,WN2026
+04/28/2026,Mississippi State,Ole Miss,7,3,0,1,L,Ole Miss,Ole-Miss,Mississippi-State,0,9,"Pearl, MS / Trustmark Park",2026,WN2026
+05/01/2026,Arkansas,Ole Miss,12,2,0,0,L,Ole Miss,Ole-Miss,Arkansas,1,7,"Fayetteville, AR / Baum Stadium",2026,WN2026
+05/02/2026,Arkansas,Ole Miss,4,11,0,0,W,Ole Miss,Ole-Miss,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+05/03/2026,Arkansas,Ole Miss,5,4,0,0,L,Ole Miss,Ole-Miss,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+05/08/2026,Ole Miss,Texas A&M,5,3,0,0,W,Ole Miss,Ole-Miss,Texas-AM,0,9,"Oxford, MS / Swayze Field / Box Score",2026,WN2026
+05/09/2026,Ole Miss,Texas A&M,5,18,0,0,L,Ole Miss,Ole-Miss,Texas-AM,0,7,"Oxford, MS / Swayze Field / Box Score",2026,WN2026
+05/09/2026,Ole Miss,Texas A&M,6,5,0,0,W,Ole Miss,Ole-Miss,Texas-AM,0,9,"Oxford, MS / Swayze Field / Box Score",2026,WN2026
+05/12/2026,Ole Miss,Tennessee-Martin,17,6,0,0,W,Ole Miss,Ole-Miss,Tennessee-Martin,0,7,"Oxford, MS / Swayze Field",2026,WN2026
+05/14/2026,Alabama,Ole Miss,5,4,0,0,L,Ole Miss,Ole-Miss,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium / Box Score",2026,WN2026
+05/15/2026,Alabama,Ole Miss,0,9,0,0,W,Ole Miss,Ole-Miss,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium / Box Score",2026,WN2026
+05/16/2026,Alabama,Ole Miss,6,2,0,0,L,Ole Miss,Ole-Miss,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium / Box Score",2026,WN2026
+05/19/2026,Missouri,Ole Miss,10,8,0,1,L,Ole Miss,Ole-Miss,Missouri,0,9,"Hoover, AL / Hoover Metropolitan Stadium / Box Score / Recap",2026,WN2026

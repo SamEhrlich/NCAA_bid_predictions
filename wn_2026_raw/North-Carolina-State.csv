@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Washington,North Carolina State,0,13,0,1,W,North Carolina State,North-Carolina-State,Washington,0,7,"Ponce, PR",2026,WN2026
+02/14/2026,Indiana State,North Carolina State,4,10,0,1,W,North Carolina State,North-Carolina-State,Indiana-State,0,9,"Ponce, PR",2026,WN2026
+02/18/2026,North Carolina State,Winthrop,7,3,0,0,W,North Carolina State,North-Carolina-State,Winthrop,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+02/20/2026,North Carolina State,Princeton,6,4,0,0,W,North Carolina State,North-Carolina-State,Princeton,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+02/21/2026,North Carolina State,Princeton,16,1,0,0,W,North Carolina State,North-Carolina-State,Princeton,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+02/21/2026,North Carolina State,Princeton,0,1,0,0,L,North Carolina State,North-Carolina-State,Princeton,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+02/24/2026,North Carolina State,Richmond,27,0,0,0,W,North Carolina State,North-Carolina-State,Richmond,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+02/25/2026,North Carolina State,Akron,18,3,0,0,W,North Carolina State,North-Carolina-State,Akron,0,7,"Raleigh, NC / Doak Field",2026,WN2026
+02/27/2026,North Carolina State,Sacred Heart,17,4,0,0,W,North Carolina State,North-Carolina-State,Sacred-Heart,0,7,"Raleigh, NC / Doak Field",2026,WN2026
+02/28/2026,North Carolina State,Sacred Heart,15,5,0,0,W,North Carolina State,North-Carolina-State,Sacred-Heart,0,7,"Raleigh, NC / Doak Field",2026,WN2026
+03/01/2026,North Carolina State,Sacred Heart,13,0,0,0,W,North Carolina State,North-Carolina-State,Sacred-Heart,0,7,"Raleigh, NC / Doak Field",2026,WN2026
+03/03/2026,North Carolina State,Coastal Carolina,6,4,0,0,W,North Carolina State,North-Carolina-State,Coastal-Carolina,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+03/04/2026,North Carolina State,Queens,9,2,0,0,W,North Carolina State,North-Carolina-State,Queens,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+03/06/2026,North Carolina State,Lafayette,6,11,0,0,L,North Carolina State,North-Carolina-State,Lafayette,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+03/07/2026,North Carolina State,Lafayette,10,4,0,0,W,North Carolina State,North-Carolina-State,Lafayette,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+03/08/2026,North Carolina State,Lafayette,14,4,0,0,W,North Carolina State,North-Carolina-State,Lafayette,0,7,"Raleigh, NC / Doak Field",2026,WN2026
+03/10/2026,North Carolina State,Elon,0,2,0,0,L,North Carolina State,North-Carolina-State,Elon,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+03/13/2026,North Carolina State,Boston College,4,2,0,0,W,North Carolina State,North-Carolina-State,Boston-College,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+03/14/2026,North Carolina State,Boston College,5,12,0,0,L,North Carolina State,North-Carolina-State,Boston-College,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+03/15/2026,North Carolina State,Boston College,5,1,0,0,W,North Carolina State,North-Carolina-State,Boston-College,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+03/17/2026,UNCW,North Carolina State,2,14,0,0,W,North Carolina State,North-Carolina-State,UNCW,1,7,"Wilmington, NC / Brooks Field",2026,WN2026
+03/20/2026,Florida State,North Carolina State,4,6,0,0,W,North Carolina State,North-Carolina-State,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/21/2026,Florida State,North Carolina State,11,5,0,0,L,North Carolina State,North-Carolina-State,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/22/2026,Florida State,North Carolina State,15,5,0,0,L,North Carolina State,North-Carolina-State,Florida-State,1,7,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/24/2026,North Carolina State,Campbell,2,7,0,0,L,North Carolina State,North-Carolina-State,Campbell,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+03/27/2026,Georgia Tech,North Carolina State,3,1,0,0,L,North Carolina State,North-Carolina-State,Georgia-Tech,1,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+03/28/2026,Georgia Tech,North Carolina State,6,4,0,0,L,North Carolina State,North-Carolina-State,Georgia-Tech,1,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+03/29/2026,Georgia Tech,North Carolina State,10,0,0,0,L,North Carolina State,North-Carolina-State,Georgia-Tech,1,8,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+03/31/2026,North Carolina State,Liberty,5,7,0,0,L,North Carolina State,North-Carolina-State,Liberty,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+04/02/2026,North Carolina State,Notre Dame,7,3,0,0,W,North Carolina State,North-Carolina-State,Notre-Dame,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+04/03/2026,North Carolina State,Notre Dame,7,3,0,0,W,North Carolina State,North-Carolina-State,Notre-Dame,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+04/04/2026,North Carolina State,Notre Dame,7,6,0,0,W,North Carolina State,North-Carolina-State,Notre-Dame,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+04/07/2026,North Carolina State,UNCW,7,4,0,0,W,North Carolina State,North-Carolina-State,UNCW,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+04/10/2026,North Carolina State,Duke,10,4,0,0,W,North Carolina State,North-Carolina-State,Duke,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+04/11/2026,North Carolina State,Duke,18,5,0,0,W,North Carolina State,North-Carolina-State,Duke,0,7,"Raleigh, NC / Doak Field",2026,WN2026
+04/12/2026,North Carolina State,Duke,2,3,0,0,L,North Carolina State,North-Carolina-State,Duke,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+04/14/2026,East Carolina,North Carolina State,3,10,0,0,W,North Carolina State,North-Carolina-State,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+04/17/2026,Wake Forest,North Carolina State,22,1,0,0,L,North Carolina State,North-Carolina-State,Wake-Forest,1,7,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+04/18/2026,Wake Forest,North Carolina State,18,7,0,0,L,North Carolina State,North-Carolina-State,Wake-Forest,1,7,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+04/19/2026,Wake Forest,North Carolina State,5,6,0,0,W,North Carolina State,North-Carolina-State,Wake-Forest,1,10,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+04/24/2026,Virginia Tech,North Carolina State,4,0,0,0,L,North Carolina State,North-Carolina-State,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+04/25/2026,Virginia Tech,North Carolina State,7,14,0,0,W,North Carolina State,North-Carolina-State,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+04/26/2026,Virginia Tech,North Carolina State,5,4,0,0,L,North Carolina State,North-Carolina-State,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+04/28/2026,North Carolina State,East Carolina,12,2,0,0,W,North Carolina State,North-Carolina-State,East-Carolina,0,8,"Raleigh, NC / Doak Field",2026,WN2026
+05/01/2026,North Carolina State,Miami (FL),9,12,0,0,L,North Carolina State,North-Carolina-State,Miami-FL,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+05/01/2026,North Carolina State,Miami (FL),13,6,0,0,W,North Carolina State,North-Carolina-State,Miami-FL,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+05/02/2026,North Carolina State,Miami (FL),12,7,0,0,W,North Carolina State,North-Carolina-State,Miami-FL,0,9,"Raleigh, NC / Doak Field",2026,WN2026
+05/08/2026,Stanford,North Carolina State,6,5,0,0,L,North Carolina State,North-Carolina-State,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond / Box Score",2026,WN2026
+05/09/2026,Stanford,North Carolina State,7,12,0,0,W,North Carolina State,North-Carolina-State,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond / Box Score",2026,WN2026
+05/10/2026,Stanford,North Carolina State,9,5,0,0,L,North Carolina State,North-Carolina-State,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond / Box Score",2026,WN2026
+05/14/2026,North Carolina State,North Carolina,4,9,0,0,L,North Carolina State,North-Carolina-State,North-Carolina,0,9,"Raleigh, NC / Doak Field / Box Score",2026,WN2026
+05/15/2026,North Carolina State,North Carolina,7,17,0,0,L,North Carolina State,North-Carolina-State,North-Carolina,0,7,"Raleigh, NC / Doak Field / Box Score",2026,WN2026
+05/16/2026,North Carolina State,North Carolina,7,2,0,0,W,North Carolina State,North-Carolina-State,North-Carolina,0,9,"Raleigh, NC / Doak Field / Box Score",2026,WN2026
+05/19/2026,Duke,North Carolina State,21,12,0,1,L,North Carolina State,North-Carolina-State,Duke,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026

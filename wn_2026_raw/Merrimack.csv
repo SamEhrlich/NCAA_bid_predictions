@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/18/2026,UNCW,Merrimack,10,0,0,0,L,Merrimack,Merrimack,UNCW,1,7,"Wilmington, NC / Brooks Field",2026,WN2026
+02/20/2026,Ball State,Merrimack,5,9,0,1,W,Merrimack,Merrimack,Ball-State,0,9,"Charleston, SC / Shipyard Park",2026,WN2026
+02/21/2026,Seton Hall,Merrimack,11,10,0,1,L,Merrimack,Merrimack,Seton-Hall,0,11,"Charleston, SC / Shipyard Park",2026,WN2026
+02/22/2026,Ball State,Merrimack,14,6,0,1,L,Merrimack,Merrimack,Ball-State,0,9,"Charleston, SC / Shipyard Park",2026,WN2026
+02/27/2026,Bucknell,Merrimack,2,24,0,0,W,Merrimack,Merrimack,Bucknell,1,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+02/28/2026,Bucknell,Merrimack,6,5,0,0,L,Merrimack,Merrimack,Bucknell,1,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+02/28/2026,Bucknell,Merrimack,3,2,0,0,L,Merrimack,Merrimack,Bucknell,1,7,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+03/07/2026,Merrimack,Niagara,8,7,0,0,W,Merrimack,Merrimack,Niagara,0,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+03/07/2026,Merrimack,Niagara,0,4,0,0,L,Merrimack,Merrimack,Niagara,0,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+03/08/2026,Merrimack,Niagara,6,4,0,0,W,Merrimack,Merrimack,Niagara,0,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+03/10/2026,Army,Merrimack,10,9,0,0,L,Merrimack,Merrimack,Army,1,9,"West Point, NY / Doubleday Field",2026,WN2026
+03/11/2026,Army,Merrimack,4,8,0,0,W,Merrimack,Merrimack,Army,1,9,"West Point, NY / Doubleday Field",2026,WN2026
+03/13/2026,Iona,Merrimack,3,4,0,0,W,Merrimack,Merrimack,Iona,1,9,"New Rochelle, NY / City Park",2026,WN2026
+03/14/2026,Iona,Merrimack,4,7,0,0,W,Merrimack,Merrimack,Iona,1,9,"New Rochelle, NY / City Park",2026,WN2026
+03/15/2026,Iona,Merrimack,15,11,0,0,L,Merrimack,Merrimack,Iona,1,9,"New Rochelle, NY / City Park",2026,WN2026
+03/17/2026,Northeastern,Merrimack,3,4,0,0,W,Merrimack,Merrimack,Northeastern,1,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+03/20/2026,Canisius,Merrimack,2,4,0,0,W,Merrimack,Merrimack,Canisius,1,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+03/21/2026,Canisius,Merrimack,14,3,0,0,L,Merrimack,Merrimack,Canisius,1,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+03/21/2026,Canisius,Merrimack,5,3,0,0,L,Merrimack,Merrimack,Canisius,1,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+03/24/2026,Merrimack,UMass-Lowell,11,4,0,0,W,Merrimack,Merrimack,UMass-Lowell,0,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+03/25/2026,Boston College,Merrimack,12,2,0,0,L,Merrimack,Merrimack,Boston-College,1,7,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+03/27/2026,Merrimack,Manhattan,3,10,0,0,L,Merrimack,Merrimack,Manhattan,0,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+03/28/2026,Merrimack,Manhattan,14,0,0,0,W,Merrimack,Merrimack,Manhattan,0,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+03/29/2026,Merrimack,Manhattan,13,1,0,0,W,Merrimack,Merrimack,Manhattan,0,7,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+03/31/2026,Merrimack,Holy Cross,13,15,0,0,L,Merrimack,Merrimack,Holy-Cross,0,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+04/02/2026,Merrimack,Fairfield,6,7,0,0,L,Merrimack,Merrimack,Fairfield,0,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+04/03/2026,Merrimack,Fairfield,4,1,0,0,W,Merrimack,Merrimack,Fairfield,0,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+04/04/2026,Merrimack,Fairfield,6,7,0,0,L,Merrimack,Merrimack,Fairfield,0,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+04/08/2026,Brown,Merrimack,10,0,0,0,L,Merrimack,Merrimack,Brown,1,8,"Providence, RI / Murray Stadium",2026,WN2026
+04/10/2026,Northeastern,Merrimack,11,10,0,0,L,Merrimack,Merrimack,Northeastern,1,12,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/11/2026,Northeastern,Merrimack,9,2,0,0,L,Merrimack,Merrimack,Northeastern,1,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/12/2026,Maine,Merrimack,10,4,0,1,L,Merrimack,Merrimack,Maine,0,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/15/2026,Rhode Island,Merrimack,2,5,0,0,W,Merrimack,Merrimack,Rhode-Island,1,9,"Kingston, RI / Bill Beck Field",2026,WN2026
+04/17/2026,Sacred Heart,Merrimack,3,2,0,0,L,Merrimack,Merrimack,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/17/2026,Sacred Heart,Merrimack,6,1,0,0,L,Merrimack,Merrimack,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/18/2026,Sacred Heart,Merrimack,2,7,0,0,W,Merrimack,Merrimack,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/22/2026,UMass-Lowell,Merrimack,10,8,0,0,L,Merrimack,Merrimack,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/24/2026,Merrimack,Marist,8,0,0,0,W,Merrimack,Merrimack,Marist,0,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+04/25/2026,Merrimack,Marist,3,18,0,0,L,Merrimack,Merrimack,Marist,0,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+04/26/2026,Merrimack,Marist,13,7,0,0,W,Merrimack,Merrimack,Marist,0,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+04/28/2026,Merrimack,Stonehill,9,14,0,0,L,Merrimack,Merrimack,Stonehill,0,9,"Lawrence, MA / Greater Lawrence Tech",2026,WN2026
+04/29/2026,Dartmouth,Merrimack,4,3,0,0,L,Merrimack,Merrimack,Dartmouth,1,9,"Hanover, NH / Red Rolfe Field at Biondi Park",2026,WN2026
+05/01/2026,Mount Saint Mary's,Merrimack,2,4,0,0,W,Merrimack,Merrimack,Mount-Saint-Marys,1,10,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+05/02/2026,Mount Saint Mary's,Merrimack,4,12,0,0,W,Merrimack,Merrimack,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+05/03/2026,Mount Saint Mary's,Merrimack,6,16,0,0,W,Merrimack,Merrimack,Mount-Saint-Marys,1,8,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+05/05/2026,Merrimack,Bryant,10,20,0,0,L,Merrimack,Merrimack,Bryant,0,8,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+05/08/2026,Saint Peter's,Merrimack,5,16,0,0,W,Merrimack,Merrimack,Saint-Peters,1,9,"Jersey City, NJ / Joseph J. Jaroschak Field / Box Score",2026,WN2026
+05/10/2026,Saint Peter's,Merrimack,3,11,0,0,W,Merrimack,Merrimack,Saint-Peters,1,9,"Jersey City, NJ / Joseph J. Jaroschak Field / Box Score",2026,WN2026
+05/10/2026,Saint Peter's,Merrimack,6,11,0,0,W,Merrimack,Merrimack,Saint-Peters,1,9,"Jersey City, NJ / Joseph J. Jaroschak Field / Box Score",2026,WN2026
+05/12/2026,Maine,Merrimack,14,4,0,0,L,Merrimack,Merrimack,Maine,1,8,"Orono, ME / Mahaney Diamond",2026,WN2026
+05/15/2026,Merrimack,Quinnipiac,12,11,0,0,W,Merrimack,Merrimack,Quinnipiac,0,9,"Andover, MA / Warrior Baseball Diamond / Box Score",2026,WN2026
+05/16/2026,Merrimack,Quinnipiac,12,6,0,0,W,Merrimack,Merrimack,Quinnipiac,0,9,"Andover, MA / Warrior Baseball Diamond / Box Score",2026,WN2026
+05/16/2026,Merrimack,Quinnipiac,14,4,0,0,W,Merrimack,Merrimack,Quinnipiac,0,7,"Andover, MA / Warrior Baseball Diamond / Box Score",2026,WN2026
+05/20/2026,Canisius,Merrimack,0,7,0,1,W,Merrimack,Merrimack,Canisius,0,9,"Wappingers Falls, NY / Heritage Financial Park / Box Score / Recap",2026,WN2026
+05/21/2026,Rider,Merrimack,8,2,0,1,L,Merrimack,Merrimack,Rider,0,9,"Wappingers Falls, NY / Heritage Financial Park / Recap",2026,WN2026
+05/21/2026,Marist,Merrimack,13,8,0,1,L,Merrimack,Merrimack,Marist,0,9,"Wappingers Falls, NY / Heritage Financial Park",2026,WN2026

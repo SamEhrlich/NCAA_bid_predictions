@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Duke,Maine,8,3,0,0,W,Duke,Duke,Maine,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/13/2026,Duke,Maine,3,4,0,0,L,Duke,Duke,Maine,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/14/2026,Duke,Maine,3,0,0,0,W,Duke,Duke,Maine,0,7,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/14/2026,Duke,Maine,7,1,0,0,W,Duke,Duke,Maine,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/17/2026,Duke,Appalachian State,10,5,0,0,W,Duke,Duke,Appalachian-State,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/20/2026,Duke,Milwaukee,20,3,0,0,W,Duke,Duke,Milwaukee,0,7,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/21/2026,Duke,Milwaukee,10,8,0,0,W,Duke,Duke,Milwaukee,0,7,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/21/2026,Duke,Milwaukee,6,9,0,0,L,Duke,Duke,Milwaukee,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/22/2026,Duke,Milwaukee,6,1,0,0,W,Duke,Duke,Milwaukee,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/24/2026,UNCW,Duke,3,6,0,0,W,Duke,Duke,UNCW,1,9,"Wilmington, NC / Brooks Field",2026,WN2026
+02/27/2026,Duke,Princeton,6,2,0,0,W,Duke,Duke,Princeton,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/28/2026,Duke,Princeton,9,2,0,0,W,Duke,Duke,Princeton,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/28/2026,Duke,Princeton,14,4,0,0,W,Duke,Duke,Princeton,0,7,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/01/2026,Duke,Princeton,7,8,0,0,L,Duke,Duke,Princeton,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/03/2026,Duke,Gardner-Webb,15,3,0,0,W,Duke,Duke,Gardner-Webb,0,7,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/06/2026,Duke,Notre Dame,4,10,0,0,L,Duke,Duke,Notre-Dame,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/07/2026,Duke,Notre Dame,6,5,0,0,W,Duke,Duke,Notre-Dame,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/08/2026,Duke,Notre Dame,0,2,0,0,L,Duke,Duke,Notre-Dame,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/10/2026,High Point,Duke,12,6,0,0,L,Duke,Duke,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+03/13/2026,Duke,Miami (FL),4,0,0,0,W,Duke,Duke,Miami-FL,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/14/2026,Duke,Miami (FL),0,9,0,0,L,Duke,Duke,Miami-FL,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/15/2026,Duke,Miami (FL),20,10,0,0,W,Duke,Duke,Miami-FL,0,7,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/17/2026,Campbell,Duke,13,3,0,0,L,Duke,Duke,Campbell,1,8,"Buies Creek, NC / Jim Perry Stadium",2026,WN2026
+03/20/2026,Virginia Tech,Duke,7,1,0,0,L,Duke,Duke,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+03/21/2026,Virginia Tech,Duke,6,8,0,0,W,Duke,Duke,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+03/22/2026,Virginia Tech,Duke,7,6,0,0,L,Duke,Duke,Virginia-Tech,1,10,"Blacksburg, VA / English Field",2026,WN2026
+03/24/2026,Duke,East Carolina,9,8,0,0,W,Duke,Duke,East-Carolina,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+03/27/2026,Florida State,Duke,3,1,0,0,L,Duke,Duke,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/28/2026,Florida State,Duke,12,11,0,0,L,Duke,Duke,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/29/2026,Florida State,Duke,4,11,0,0,W,Duke,Duke,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/31/2026,Duke,Davidson,14,9,0,0,W,Duke,Duke,Davidson,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+04/02/2026,Duke,Louisville,6,3,0,0,W,Duke,Duke,Louisville,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+04/03/2026,Duke,Louisville,10,8,0,0,W,Duke,Duke,Louisville,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+04/04/2026,Duke,Louisville,4,9,0,0,L,Duke,Duke,Louisville,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+04/07/2026,East Carolina,Duke,8,6,0,0,L,Duke,Duke,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+04/10/2026,North Carolina State,Duke,10,4,0,0,L,Duke,Duke,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+04/11/2026,North Carolina State,Duke,18,5,0,0,L,Duke,Duke,North-Carolina-State,1,7,"Raleigh, NC / Doak Field",2026,WN2026
+04/12/2026,North Carolina State,Duke,2,3,0,0,W,Duke,Duke,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+04/14/2026,Duke,Liberty,7,17,0,0,L,Duke,Duke,Liberty,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+04/17/2026,Boston College,Duke,11,1,0,0,L,Duke,Duke,Boston-College,1,7,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/18/2026,Boston College,Duke,4,2,0,0,L,Duke,Duke,Boston-College,1,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/18/2026,Boston College,Duke,14,6,0,0,L,Duke,Duke,Boston-College,1,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/21/2026,Liberty,Duke,13,10,0,0,L,Duke,Duke,Liberty,1,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+04/23/2026,Duke,North Carolina,1,3,0,0,L,Duke,Duke,North-Carolina,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+04/24/2026,Duke,North Carolina,3,1,0,0,W,Duke,Duke,North-Carolina,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+04/25/2026,Duke,North Carolina,5,22,0,0,L,Duke,Duke,North-Carolina,0,7,"Durham, NC / Jack Coombs Field",2026,WN2026
+05/03/2026,North Carolina,Duke,13,0,0,0,L,Duke,Duke,North-Carolina,1,7,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+05/05/2026,Duke,Queens,7,11,0,0,L,Duke,Duke,Queens,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+05/08/2026,Georgia Tech,Duke,10,9,0,0,L,Duke,Duke,Georgia-Tech,1,10,"Atlanta, GA / Russ Chandler Stadium / Box Score",2026,WN2026
+05/09/2026,Georgia Tech,Duke,15,2,0,0,L,Duke,Duke,Georgia-Tech,1,7,"Atlanta, GA / Russ Chandler Stadium / Box Score",2026,WN2026
+05/10/2026,Georgia Tech,Duke,14,1,0,0,L,Duke,Duke,Georgia-Tech,1,7,"Atlanta, GA / Russ Chandler Stadium / Box Score",2026,WN2026
+05/12/2026,Duke,William & Mary,14,9,0,0,W,Duke,Duke,William-Mary,0,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+05/14/2026,Duke,Wake Forest,2,7,0,0,L,Duke,Duke,Wake-Forest,0,9,"Durham, NC / Jack Coombs Field / Box Score",2026,WN2026
+05/15/2026,Duke,Wake Forest,2,7,0,0,L,Duke,Duke,Wake-Forest,0,9,"Durham, NC / Jack Coombs Field / Box Score",2026,WN2026
+05/16/2026,Duke,Wake Forest,7,3,0,0,W,Duke,Duke,Wake-Forest,0,9,"Durham, NC / Jack Coombs Field / Box Score",2026,WN2026
+05/19/2026,North Carolina State,Duke,12,21,0,1,W,Duke,Duke,North-Carolina-State,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026
+05/20/2026,Virginia,Duke,6,4,0,1,L,Duke,Duke,Virginia,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026

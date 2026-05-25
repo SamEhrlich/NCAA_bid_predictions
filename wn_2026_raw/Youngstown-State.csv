@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Auburn,Youngstown State,2,1,0,0,L,Youngstown State,Youngstown-State,Auburn,1,9,"Auburn, AL / Plainsman Park",2026,WN2026
+02/14/2026,Auburn,Youngstown State,2,1,0,0,L,Youngstown State,Youngstown-State,Auburn,1,10,"Auburn, AL / Plainsman Park",2026,WN2026
+02/14/2026,Auburn,Youngstown State,17,2,0,0,L,Youngstown State,Youngstown-State,Auburn,1,7,"Auburn, AL / Plainsman Park",2026,WN2026
+02/19/2026,Oregon,Youngstown State,18,1,0,0,L,Youngstown State,Youngstown-State,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+02/20/2026,Oregon,Youngstown State,3,0,0,0,L,Youngstown State,Youngstown-State,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+02/21/2026,Oregon,Youngstown State,7,0,0,0,L,Youngstown State,Youngstown-State,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+02/22/2026,Oregon,Youngstown State,15,6,0,0,L,Youngstown State,Youngstown-State,Oregon,1,9,"Eugene, OR / PK Park",2026,WN2026
+02/27/2026,Longwood,Youngstown State,1,2,0,0,W,Youngstown State,Youngstown-State,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+02/28/2026,Longwood,Youngstown State,9,3,0,0,L,Youngstown State,Youngstown-State,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+02/28/2026,Longwood,Youngstown State,6,3,0,0,L,Youngstown State,Youngstown-State,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+03/01/2026,Longwood,Youngstown State,6,4,0,0,L,Youngstown State,Youngstown-State,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+03/06/2026,Southern Indiana,Youngstown State,5,2,0,0,L,Youngstown State,Youngstown-State,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+03/08/2026,Southern Indiana,Youngstown State,10,1,0,0,L,Youngstown State,Youngstown-State,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+03/08/2026,Southern Indiana,Youngstown State,4,1,0,0,L,Youngstown State,Youngstown-State,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+03/13/2026,Youngstown State,Oakland,6,5,0,0,W,Youngstown State,Youngstown-State,Oakland,0,9,"Niles, OH / Eastwood Field",2026,WN2026
+03/14/2026,Youngstown State,Oakland,6,12,0,0,L,Youngstown State,Youngstown-State,Oakland,0,9,"Niles, OH / Eastwood Field",2026,WN2026
+03/15/2026,Youngstown State,Oakland,3,4,0,0,L,Youngstown State,Youngstown-State,Oakland,0,9,"Niles, OH / Eastwood Field",2026,WN2026
+03/20/2026,Georgetown,Youngstown State,2,3,0,0,W,Youngstown State,Youngstown-State,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/21/2026,Georgetown,Youngstown State,7,2,0,0,L,Youngstown State,Youngstown-State,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/22/2026,Georgetown,Youngstown State,6,3,0,0,L,Youngstown State,Youngstown-State,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+03/24/2026,Eastern Michigan,Youngstown State,8,7,0,0,L,Youngstown State,Youngstown-State,Eastern-Michigan,1,9,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+03/25/2026,Pittsburgh,Youngstown State,8,7,0,0,L,Youngstown State,Youngstown-State,Pittsburgh,1,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+03/27/2026,Northern Kentucky,Youngstown State,7,6,0,0,L,Youngstown State,Youngstown-State,Northern-Kentucky,1,10,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/28/2026,Northern Kentucky,Youngstown State,5,4,0,0,L,Youngstown State,Youngstown-State,Northern-Kentucky,1,10,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/29/2026,Northern Kentucky,Youngstown State,5,4,0,0,L,Youngstown State,Youngstown-State,Northern-Kentucky,1,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/31/2026,Akron,Youngstown State,11,10,0,0,L,Youngstown State,Youngstown-State,Akron,1,9,"Akron, OH / Skeeles Field",2026,WN2026
+04/03/2026,Milwaukee,Youngstown State,3,5,0,0,W,Youngstown State,Youngstown-State,Milwaukee,1,9,"Franklin, WI / Franklin Field",2026,WN2026
+04/03/2026,Milwaukee,Youngstown State,4,7,0,0,W,Youngstown State,Youngstown-State,Milwaukee,1,9,"Franklin, WI / Franklin Field",2026,WN2026
+04/04/2026,Milwaukee,Youngstown State,5,1,0,0,L,Youngstown State,Youngstown-State,Milwaukee,1,9,"Franklin, WI / Franklin Field",2026,WN2026
+04/08/2026,Pittsburgh,Youngstown State,12,2,0,0,L,Youngstown State,Youngstown-State,Pittsburgh,1,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/10/2026,Youngstown State,Wright State,4,15,0,0,L,Youngstown State,Youngstown-State,Wright-State,0,9,"Niles, OH / Eastwood Field",2026,WN2026
+04/11/2026,Youngstown State,Wright State,5,8,0,0,L,Youngstown State,Youngstown-State,Wright-State,0,10,"Niles, OH / Eastwood Field",2026,WN2026
+04/12/2026,Youngstown State,Wright State,8,20,0,0,L,Youngstown State,Youngstown-State,Wright-State,0,9,"Niles, OH / Eastwood Field",2026,WN2026
+04/14/2026,Akron,Youngstown State,11,1,0,0,L,Youngstown State,Youngstown-State,Akron,1,7,"Akron, OH / Skeeles Field",2026,WN2026
+04/15/2026,Central Michigan,Youngstown State,12,2,0,0,L,Youngstown State,Youngstown-State,Central-Michigan,1,8,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+04/17/2026,Oakland,Youngstown State,12,13,0,0,W,Youngstown State,Youngstown-State,Oakland,1,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/17/2026,Oakland,Youngstown State,2,16,0,0,W,Youngstown State,Youngstown-State,Oakland,1,7,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/18/2026,Oakland,Youngstown State,4,6,0,0,W,Youngstown State,Youngstown-State,Oakland,1,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/21/2026,Toledo,Youngstown State,10,11,0,0,W,Youngstown State,Youngstown-State,Toledo,1,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+04/22/2026,Youngstown State,Toledo,0,21,0,0,L,Youngstown State,Youngstown-State,Toledo,0,8,"Niles, OH / Eastwood Field",2026,WN2026
+04/24/2026,UIC,Youngstown State,10,7,0,0,L,Youngstown State,Youngstown-State,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/25/2026,UIC,Youngstown State,6,3,0,0,L,Youngstown State,Youngstown-State,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/26/2026,UIC,Youngstown State,5,0,0,0,L,Youngstown State,Youngstown-State,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+05/01/2026,Youngstown State,Northern Kentucky,11,6,0,0,W,Youngstown State,Youngstown-State,Northern-Kentucky,0,9,"Niles, OH / Eastwood Field",2026,WN2026
+05/02/2026,Youngstown State,Northern Kentucky,1,13,0,0,L,Youngstown State,Youngstown-State,Northern-Kentucky,0,9,"Niles, OH / Eastwood Field",2026,WN2026
+05/03/2026,Youngstown State,Northern Kentucky,4,7,0,0,L,Youngstown State,Youngstown-State,Northern-Kentucky,0,9,"Niles, OH / Eastwood Field",2026,WN2026
+05/06/2026,Youngstown State,Eastern Michigan,5,15,0,0,L,Youngstown State,Youngstown-State,Eastern-Michigan,0,9,"Niles, OH / Eastwood Field",2026,WN2026
+05/08/2026,Youngstown State,Milwaukee,13,11,0,0,W,Youngstown State,Youngstown-State,Milwaukee,0,9,"Niles, OH / Eastwood Field / Box Score",2026,WN2026
+05/09/2026,Youngstown State,Milwaukee,4,3,0,0,W,Youngstown State,Youngstown-State,Milwaukee,0,9,"Niles, OH / Eastwood Field / Box Score",2026,WN2026
+05/10/2026,Youngstown State,Milwaukee,8,12,0,0,L,Youngstown State,Youngstown-State,Milwaukee,0,9,"Niles, OH / Eastwood Field / Box Score",2026,WN2026
+05/14/2026,Wright State,Youngstown State,2,5,0,0,W,Youngstown State,Youngstown-State,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium / Box Score",2026,WN2026
+05/15/2026,Wright State,Youngstown State,6,8,0,0,W,Youngstown State,Youngstown-State,Wright-State,1,10,"Dayton, OH / Nischwitz Stadium / Box Score",2026,WN2026
+05/15/2026,Wright State,Youngstown State,2,8,0,0,W,Youngstown State,Youngstown-State,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium / Box Score",2026,WN2026
+05/20/2026,Oakland,Youngstown State,10,2,0,1,L,Youngstown State,Youngstown-State,Oakland,0,9,"Dayton, OH / Nischwitz Stadium / Box Score / Recap",2026,WN2026

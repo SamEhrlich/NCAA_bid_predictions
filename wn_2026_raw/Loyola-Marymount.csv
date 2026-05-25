@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Loyola-Marymount,Tulane,3,12,0,0,L,Loyola-Marymount,Loyola-Marymount,Tulane,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+02/14/2026,Loyola-Marymount,Tulane,6,4,0,0,W,Loyola-Marymount,Loyola-Marymount,Tulane,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+02/15/2026,Loyola-Marymount,Tulane,2,6,0,0,L,Loyola-Marymount,Loyola-Marymount,Tulane,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+02/18/2026,USC,Loyola-Marymount,14,4,0,0,L,Loyola-Marymount,Loyola-Marymount,USC,1,7,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+02/20/2026,Loyola-Marymount,Washington,3,8,0,0,L,Loyola-Marymount,Loyola-Marymount,Washington,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+02/21/2026,Loyola-Marymount,Washington,7,1,0,0,W,Loyola-Marymount,Loyola-Marymount,Washington,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+02/22/2026,Loyola-Marymount,Washington,7,6,0,0,W,Loyola-Marymount,Loyola-Marymount,Washington,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+02/23/2026,Loyola-Marymount,TCU,7,17,0,0,L,Loyola-Marymount,Loyola-Marymount,TCU,0,7,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+02/24/2026,Loyola-Marymount,UC Santa Barbara,3,5,0,0,L,Loyola-Marymount,Loyola-Marymount,UC-Santa-Barbara,0,11,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+02/27/2026,Wake Forest,Loyola-Marymount,12,2,0,0,L,Loyola-Marymount,Loyola-Marymount,Wake-Forest,1,8,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+02/28/2026,Davidson,Loyola-Marymount,1,11,0,1,W,Loyola-Marymount,Loyola-Marymount,Davidson,0,7,"Winston-Salem, NC",2026,WN2026
+02/28/2026,Wake Forest,Loyola-Marymount,15,4,0,0,L,Loyola-Marymount,Loyola-Marymount,Wake-Forest,1,7,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+03/01/2026,Davidson,Loyola-Marymount,1,11,0,1,W,Loyola-Marymount,Loyola-Marymount,Davidson,0,8,"Winston-Salem, NC",2026,WN2026
+03/02/2026,Loyola-Marymount,Utah,4,13,0,0,L,Loyola-Marymount,Loyola-Marymount,Utah,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+03/03/2026,UC Santa Barbara,Loyola-Marymount,11,1,0,0,L,Loyola-Marymount,Loyola-Marymount,UC-Santa-Barbara,1,8,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+03/06/2026,Arizona State,Loyola-Marymount,12,4,0,0,L,Loyola-Marymount,Loyola-Marymount,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/07/2026,Arizona State,Loyola-Marymount,9,1,0,0,L,Loyola-Marymount,Loyola-Marymount,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/08/2026,Arizona State,Loyola-Marymount,29,4,0,0,L,Loyola-Marymount,Loyola-Marymount,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/10/2026,Loyola-Marymount,California Baptist,7,2,0,0,W,Loyola-Marymount,Loyola-Marymount,California-Baptist,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+03/13/2026,Abilene Christian,Loyola-Marymount,0,3,0,0,W,Loyola-Marymount,Loyola-Marymount,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/14/2026,Abilene Christian,Loyola-Marymount,11,5,0,0,L,Loyola-Marymount,Loyola-Marymount,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/15/2026,Abilene Christian,Loyola-Marymount,22,11,0,0,L,Loyola-Marymount,Loyola-Marymount,Abilene-Christian,1,7,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+03/17/2026,Long Beach State,Loyola-Marymount,16,7,0,0,L,Loyola-Marymount,Loyola-Marymount,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+03/20/2026,Loyola-Marymount,Portland,3,5,0,0,L,Loyola-Marymount,Loyola-Marymount,Portland,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+03/21/2026,Loyola-Marymount,Portland,4,13,0,0,L,Loyola-Marymount,Loyola-Marymount,Portland,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+03/22/2026,Loyola-Marymount,Portland,3,4,0,0,L,Loyola-Marymount,Loyola-Marymount,Portland,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+03/24/2026,UCLA,Loyola-Marymount,6,2,0,0,L,Loyola-Marymount,Loyola-Marymount,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/25/2026,Loyola-Marymount,Cal Poly,8,7,0,0,W,Loyola-Marymount,Loyola-Marymount,Cal-Poly,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+03/27/2026,Santa Clara,Loyola-Marymount,17,2,0,0,L,Loyola-Marymount,Loyola-Marymount,Santa-Clara,1,7,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/28/2026,Santa Clara,Loyola-Marymount,4,2,0,0,L,Loyola-Marymount,Loyola-Marymount,Santa-Clara,1,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+03/29/2026,Santa Clara,Loyola-Marymount,10,5,0,0,L,Loyola-Marymount,Loyola-Marymount,Santa-Clara,1,9,"Santa Clara, CA / Stephen Schott Stadium",2026,WN2026
+04/02/2026,Loyola-Marymount,San Francisco,12,10,0,0,W,Loyola-Marymount,Loyola-Marymount,San-Francisco,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+04/03/2026,Loyola-Marymount,San Francisco,4,6,0,0,L,Loyola-Marymount,Loyola-Marymount,San-Francisco,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+04/04/2026,Loyola-Marymount,San Francisco,10,7,0,0,W,Loyola-Marymount,Loyola-Marymount,San-Francisco,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+04/10/2026,Seattle University,Loyola-Marymount,5,4,0,0,L,Loyola-Marymount,Loyola-Marymount,Seattle-University,1,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+04/11/2026,Seattle University,Loyola-Marymount,8,6,0,0,L,Loyola-Marymount,Loyola-Marymount,Seattle-University,1,9,"Bellevue, WA / Bannerwood Park",2026,WN2026
+04/12/2026,Seattle University,Loyola-Marymount,7,6,0,0,L,Loyola-Marymount,Loyola-Marymount,Seattle-University,1,12,"Bellevue, WA / Bannerwood Park",2026,WN2026
+04/14/2026,Cal State Northridge,Loyola-Marymount,12,7,0,0,L,Loyola-Marymount,Loyola-Marymount,Cal-State-Northridge,1,9,"Northridge, CA / Matador Field",2026,WN2026
+04/17/2026,Loyola-Marymount,Pepperdine,3,14,0,0,L,Loyola-Marymount,Loyola-Marymount,Pepperdine,0,8,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+04/18/2026,Loyola-Marymount,Pepperdine,7,10,0,0,L,Loyola-Marymount,Loyola-Marymount,Pepperdine,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+04/19/2026,Loyola-Marymount,Pepperdine,13,6,0,0,W,Loyola-Marymount,Loyola-Marymount,Pepperdine,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+04/21/2026,Loyola-Marymount,UC Riverside,4,2,0,0,W,Loyola-Marymount,Loyola-Marymount,UC-Riverside,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+04/24/2026,Gonzaga,Loyola-Marymount,4,3,0,0,L,Loyola-Marymount,Loyola-Marymount,Gonzaga,1,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+04/25/2026,Gonzaga,Loyola-Marymount,7,1,0,0,L,Loyola-Marymount,Loyola-Marymount,Gonzaga,1,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+04/26/2026,Gonzaga,Loyola-Marymount,14,8,0,0,L,Loyola-Marymount,Loyola-Marymount,Gonzaga,1,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+04/28/2026,UC San Diego,Loyola-Marymount,10,0,0,0,L,Loyola-Marymount,Loyola-Marymount,UC-San-Diego,1,7,"La Jolla, CA / Triton Park",2026,WN2026
+05/01/2026,Pacific,Loyola-Marymount,8,0,0,0,L,Loyola-Marymount,Loyola-Marymount,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+05/02/2026,Pacific,Loyola-Marymount,15,9,0,0,L,Loyola-Marymount,Loyola-Marymount,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+05/03/2026,Pacific,Loyola-Marymount,6,4,0,0,L,Loyola-Marymount,Loyola-Marymount,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+05/05/2026,Loyola-Marymount,UCLA,4,8,0,0,L,Loyola-Marymount,Loyola-Marymount,UCLA,0,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+05/08/2026,Loyola-Marymount,Saint Mary's College,4,17,0,0,L,Loyola-Marymount,Loyola-Marymount,Saint-Marys-College,0,8,"Los Angeles, CA / George C. Page Stadium / Box Score",2026,WN2026
+05/09/2026,Loyola-Marymount,Saint Mary's College,6,8,0,0,L,Loyola-Marymount,Loyola-Marymount,Saint-Marys-College,0,9,"Los Angeles, CA / George C. Page Stadium / Box Score",2026,WN2026
+05/10/2026,Loyola-Marymount,Saint Mary's College,3,6,0,0,L,Loyola-Marymount,Loyola-Marymount,Saint-Marys-College,0,9,"Los Angeles, CA / George C. Page Stadium / Box Score",2026,WN2026
+05/14/2026,San Diego,Loyola-Marymount,17,8,0,0,L,Loyola-Marymount,Loyola-Marymount,San-Diego,1,9,"San Diego, CA / Fowler Park / Box Score",2026,WN2026
+05/15/2026,San Diego,Loyola-Marymount,7,3,0,0,L,Loyola-Marymount,Loyola-Marymount,San-Diego,1,9,"San Diego, CA / Fowler Park / Box Score",2026,WN2026
+05/16/2026,San Diego,Loyola-Marymount,9,8,0,0,L,Loyola-Marymount,Loyola-Marymount,San-Diego,1,10,"San Diego, CA / Fowler Park / Box Score",2026,WN2026

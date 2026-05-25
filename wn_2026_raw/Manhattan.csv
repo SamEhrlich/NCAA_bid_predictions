@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Indiana State,Manhattan,10,3,0,1,L,Manhattan,Manhattan,Indiana-State,0,9,"Caguas, PR",2026,WN2026
+02/14/2026,Seton Hall,Manhattan,7,2,0,1,L,Manhattan,Manhattan,Seton-Hall,0,9,"Ponce, PR",2026,WN2026
+02/15/2026,Houston,Manhattan,4,2,0,1,L,Manhattan,Manhattan,Houston,0,9,"Ponce, PR",2026,WN2026
+02/18/2026,Old Dominion,Manhattan,7,10,0,0,W,Manhattan,Manhattan,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+02/20/2026,Norfolk State,Manhattan,10,16,0,0,W,Manhattan,Manhattan,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+02/21/2026,Norfolk State,Manhattan,4,13,0,0,W,Manhattan,Manhattan,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+02/21/2026,Norfolk State,Manhattan,11,10,0,0,L,Manhattan,Manhattan,Norfolk-State,1,7,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+02/28/2026,Maryland Eastern Shore,Manhattan,5,15,0,0,W,Manhattan,Manhattan,Maryland-Eastern-Shore,1,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/01/2026,Maryland Eastern Shore,Manhattan,4,6,0,0,W,Manhattan,Manhattan,Maryland-Eastern-Shore,1,10,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/01/2026,Maryland Eastern Shore,Manhattan,8,2,0,0,L,Manhattan,Manhattan,Maryland-Eastern-Shore,1,7,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/06/2026,Marist,Manhattan,10,12,0,0,W,Manhattan,Manhattan,Marist,1,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/07/2026,Marist,Manhattan,17,5,0,0,L,Manhattan,Manhattan,Marist,1,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/08/2026,Marist,Manhattan,14,7,0,0,L,Manhattan,Manhattan,Marist,1,9,"Wappinger Falls, NY / Heritage Financial Park",2026,WN2026
+03/10/2026,Fairleigh Dickinson,Manhattan,15,12,0,0,L,Manhattan,Manhattan,Fairleigh-Dickinson,1,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+03/13/2026,Fairfield,Manhattan,11,2,0,0,L,Manhattan,Manhattan,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+03/14/2026,Fairfield,Manhattan,4,3,0,0,L,Manhattan,Manhattan,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+03/15/2026,Fairfield,Manhattan,7,3,0,0,L,Manhattan,Manhattan,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+03/20/2026,Manhattan,Quinnipiac,6,5,0,0,W,Manhattan,Manhattan,Quinnipiac,0,9,"Pomona, NY / Clover Stadium",2026,WN2026
+03/21/2026,Manhattan,Quinnipiac,2,1,0,0,W,Manhattan,Manhattan,Quinnipiac,0,9,"Pomona, NY / Clover Stadium",2026,WN2026
+03/22/2026,Manhattan,Quinnipiac,3,9,0,0,L,Manhattan,Manhattan,Quinnipiac,0,9,"Pomona, NY / Clover Stadium",2026,WN2026
+03/25/2026,Columbia,Manhattan,9,17,0,0,W,Manhattan,Manhattan,Columbia,1,9,"New York, NY / Robertson Field at Satow Stadium",2026,WN2026
+03/27/2026,Merrimack,Manhattan,3,10,0,0,W,Manhattan,Manhattan,Merrimack,1,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+03/28/2026,Merrimack,Manhattan,14,0,0,0,L,Manhattan,Manhattan,Merrimack,1,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+03/29/2026,Merrimack,Manhattan,13,1,0,0,L,Manhattan,Manhattan,Merrimack,1,7,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+04/01/2026,Lafayette,Manhattan,6,5,0,0,L,Manhattan,Manhattan,Lafayette,1,9,"Forks Township, PA / Kamine Stadium",2026,WN2026
+04/03/2026,Manhattan,Sacred Heart,7,8,0,0,L,Manhattan,Manhattan,Sacred-Heart,0,9,"Pomona, NY / Clover Stadium",2026,WN2026
+04/03/2026,Manhattan,Sacred Heart,7,22,0,0,L,Manhattan,Manhattan,Sacred-Heart,0,9,"Pomona, NY / Clover Stadium",2026,WN2026
+04/04/2026,Manhattan,Sacred Heart,3,4,0,0,L,Manhattan,Manhattan,Sacred-Heart,0,9,"Pomona, NY / Clover Stadium",2026,WN2026
+04/07/2026,Fordham,Manhattan,8,12,0,0,W,Manhattan,Manhattan,Fordham,1,9,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+04/10/2026,Manhattan,Siena,3,5,0,0,L,Manhattan,Manhattan,Siena,0,9,"Pomona, NY / Clover Stadium",2026,WN2026
+04/11/2026,Manhattan,Siena,8,5,0,0,W,Manhattan,Manhattan,Siena,0,9,"Pomona, NY / Clover Stadium",2026,WN2026
+04/12/2026,Manhattan,Siena,16,2,0,0,W,Manhattan,Manhattan,Siena,0,7,"Pomona, NY / Clover Stadium",2026,WN2026
+04/14/2026,Stony Brook,Manhattan,12,1,0,0,L,Manhattan,Manhattan,Stony-Brook,1,7,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+04/17/2026,Rider,Manhattan,8,2,0,0,L,Manhattan,Manhattan,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+04/18/2026,Rider,Manhattan,4,6,0,0,W,Manhattan,Manhattan,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+04/18/2026,Rider,Manhattan,13,9,0,0,L,Manhattan,Manhattan,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+04/21/2026,La Salle,Manhattan,14,4,0,0,L,Manhattan,Manhattan,La-Salle,1,8,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/24/2026,Manhattan,Canisius,4,5,0,0,L,Manhattan,Manhattan,Canisius,0,9,"Pomona, NY / Clover Stadium",2026,WN2026
+04/24/2026,Manhattan,Canisius,7,5,0,0,W,Manhattan,Manhattan,Canisius,0,9,"Pomona, NY / Clover Stadium",2026,WN2026
+04/26/2026,Manhattan,Canisius,5,8,0,0,L,Manhattan,Manhattan,Canisius,0,9,"Pomona, NY / Clover Stadium",2026,WN2026
+05/02/2026,Dartmouth,Manhattan,3,11,0,0,W,Manhattan,Manhattan,Dartmouth,1,9,"Hanover, NH / Red Rolfe Field at Biondi Park",2026,WN2026
+05/02/2026,Dartmouth,Manhattan,13,2,0,0,L,Manhattan,Manhattan,Dartmouth,1,7,"Hanover, NH / Red Rolfe Field at Biondi Park",2026,WN2026
+05/03/2026,Dartmouth,Manhattan,1,0,0,0,L,Manhattan,Manhattan,Dartmouth,1,9,"Hanover, NH / Red Rolfe Field at Biondi Park",2026,WN2026
+05/05/2026,NJIT,Manhattan,2,7,0,0,W,Manhattan,Manhattan,NJIT,1,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+05/08/2026,Manhattan,Niagara,11,15,0,0,L,Manhattan,Manhattan,Niagara,0,10,"Pomona, NY / Clover Stadium / Box Score",2026,WN2026
+05/10/2026,Manhattan,Niagara,9,14,0,0,L,Manhattan,Manhattan,Niagara,0,9,"Pomona, NY / Clover Stadium / Box Score",2026,WN2026
+05/10/2026,Manhattan,Niagara,14,3,0,0,W,Manhattan,Manhattan,Niagara,0,7,"Pomona, NY / Clover Stadium / Box Score",2026,WN2026
+05/12/2026,Long Island,Manhattan,1,11,0,0,W,Manhattan,Manhattan,Long-Island,1,7,"Brooklyn, NY / Long Island University Field",2026,WN2026
+05/14/2026,Iona,Manhattan,7,2,0,0,L,Manhattan,Manhattan,Iona,1,9,"New Rochelle, NY / City Park / Box Score",2026,WN2026
+05/15/2026,Iona,Manhattan,3,6,0,0,W,Manhattan,Manhattan,Iona,1,9,"New Rochelle, NY / City Park / Box Score",2026,WN2026
+05/16/2026,Iona,Manhattan,8,7,0,0,L,Manhattan,Manhattan,Iona,1,9,"New Rochelle, NY / City Park / Box Score",2026,WN2026

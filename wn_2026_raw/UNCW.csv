@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UNCW,Maryland,3,5,0,0,L,UNCW,UNCW,Maryland,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+02/14/2026,UNCW,Maryland,8,4,0,0,W,UNCW,UNCW,Maryland,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+02/14/2026,UNCW,Maryland,1,5,0,0,L,UNCW,UNCW,Maryland,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+02/18/2026,UNCW,Merrimack,10,0,0,0,W,UNCW,UNCW,Merrimack,0,7,"Wilmington, NC / Brooks Field",2026,WN2026
+02/20/2026,UNCW,Fordham,1,3,0,0,L,UNCW,UNCW,Fordham,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+02/21/2026,UNCW,Fordham,19,0,0,0,W,UNCW,UNCW,Fordham,0,7,"Wilmington, NC / Brooks Field",2026,WN2026
+02/22/2026,UNCW,Fordham,7,0,0,0,W,UNCW,UNCW,Fordham,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+02/24/2026,UNCW,Duke,3,6,0,0,L,UNCW,UNCW,Duke,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+02/25/2026,Charleston Southern,UNCW,10,11,0,0,W,UNCW,UNCW,Charleston-Southern,1,11,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+02/27/2026,UNCW,Connecticut,2,5,0,0,L,UNCW,UNCW,Connecticut,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+02/28/2026,UNCW,Connecticut,2,1,0,0,W,UNCW,UNCW,Connecticut,0,12,"Wilmington, NC / Brooks Field",2026,WN2026
+03/01/2026,UNCW,Connecticut,7,2,0,0,W,UNCW,UNCW,Connecticut,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+03/04/2026,UNCW,East Carolina,3,5,0,0,L,UNCW,UNCW,East-Carolina,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+03/06/2026,Jacksonville,UNCW,3,8,0,0,W,UNCW,UNCW,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/07/2026,Jacksonville,UNCW,4,9,0,0,W,UNCW,UNCW,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/08/2026,Jacksonville,UNCW,2,7,0,0,W,UNCW,UNCW,Jacksonville,1,5,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/10/2026,UNCW,Charleston Southern,18,2,0,0,W,UNCW,UNCW,Charleston-Southern,0,7,"Wilmington, NC / Brooks Field",2026,WN2026
+03/13/2026,UNCW,Elon,8,7,0,0,W,UNCW,UNCW,Elon,0,16,"Wilmington, NC / Brooks Field",2026,WN2026
+03/14/2026,UNCW,Elon,8,0,0,0,W,UNCW,UNCW,Elon,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+03/15/2026,UNCW,Elon,11,0,0,0,W,UNCW,UNCW,Elon,0,7,"Wilmington, NC / Brooks Field",2026,WN2026
+03/17/2026,UNCW,North Carolina State,2,14,0,0,L,UNCW,UNCW,North-Carolina-State,0,7,"Wilmington, NC / Brooks Field",2026,WN2026
+03/20/2026,Charleston,UNCW,1,2,0,0,W,UNCW,UNCW,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+03/21/2026,Charleston,UNCW,1,8,0,0,W,UNCW,UNCW,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+03/22/2026,Charleston,UNCW,6,3,0,0,L,UNCW,UNCW,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+03/27/2026,UNCW,William & Mary,5,3,0,0,W,UNCW,UNCW,William-Mary,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+03/28/2026,UNCW,William & Mary,22,1,0,0,W,UNCW,UNCW,William-Mary,0,7,"Wilmington, NC / Brooks Field",2026,WN2026
+03/29/2026,UNCW,William & Mary,8,9,0,0,L,UNCW,UNCW,William-Mary,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+03/31/2026,East Carolina,UNCW,14,8,0,0,L,UNCW,UNCW,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+04/02/2026,Stony Brook,UNCW,7,6,0,0,L,UNCW,UNCW,Stony-Brook,1,10,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+04/03/2026,Stony Brook,UNCW,4,2,0,0,L,UNCW,UNCW,Stony-Brook,1,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+04/04/2026,Stony Brook,UNCW,6,8,0,0,W,UNCW,UNCW,Stony-Brook,1,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+04/07/2026,North Carolina State,UNCW,7,4,0,0,L,UNCW,UNCW,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+04/10/2026,Campbell,UNCW,3,5,0,0,W,UNCW,UNCW,Campbell,1,9,"Buies Creek, NC / Jim Perry Stadium",2026,WN2026
+04/11/2026,Campbell,UNCW,7,3,0,0,L,UNCW,UNCW,Campbell,1,9,"Buies Creek, NC / Jim Perry Stadium",2026,WN2026
+04/12/2026,Campbell,UNCW,7,5,0,0,L,UNCW,UNCW,Campbell,1,9,"Buies Creek, NC / Jim Perry Stadium",2026,WN2026
+04/14/2026,North Carolina,UNCW,14,5,0,0,L,UNCW,UNCW,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/17/2026,UNCW,Hofstra,1,10,0,0,L,UNCW,UNCW,Hofstra,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+04/18/2026,UNCW,Hofstra,12,0,0,0,W,UNCW,UNCW,Hofstra,0,8,"Wilmington, NC / Brooks Field",2026,WN2026
+04/19/2026,UNCW,Hofstra,5,6,0,0,L,UNCW,UNCW,Hofstra,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+04/21/2026,UNCW,Coastal Carolina,2,1,0,0,W,UNCW,UNCW,Coastal-Carolina,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+04/24/2026,Elon,UNCW,8,9,0,0,W,UNCW,UNCW,Elon,1,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+04/25/2026,Elon,UNCW,1,5,0,0,W,UNCW,UNCW,Elon,1,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+04/26/2026,Elon,UNCW,1,8,0,0,W,UNCW,UNCW,Elon,1,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+05/01/2026,UNCW,Charleston,2,6,0,0,L,UNCW,UNCW,Charleston,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+05/02/2026,UNCW,Charleston,7,5,0,0,W,UNCW,UNCW,Charleston,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+05/03/2026,UNCW,Charleston,0,5,0,0,L,UNCW,UNCW,Charleston,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+05/05/2026,UNCW,High Point,1,2,0,0,L,UNCW,UNCW,High-Point,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+05/08/2026,North Carolina A&T,UNCW,2,18,0,0,W,UNCW,UNCW,North-Carolina-AT,1,7,"Greensboro, NC / World War Memorial Stadium / Box Score",2026,WN2026
+05/09/2026,North Carolina A&T,UNCW,7,10,0,0,W,UNCW,UNCW,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium / Box Score",2026,WN2026
+05/10/2026,North Carolina A&T,UNCW,7,2,0,0,L,UNCW,UNCW,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium / Box Score",2026,WN2026
+05/12/2026,UNCW,North Carolina,7,13,0,0,L,UNCW,UNCW,North-Carolina,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+05/14/2026,UNCW,Campbell,12,16,0,0,L,UNCW,UNCW,Campbell,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+05/15/2026,UNCW,Campbell,3,6,0,0,L,UNCW,UNCW,Campbell,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+05/16/2026,UNCW,Campbell,4,12,0,0,L,UNCW,UNCW,Campbell,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+05/20/2026,Monmouth,UNCW,0,5,0,1,W,UNCW,UNCW,Monmouth,0,9,"Wilmington, NC / Brooks Field / Box Score / Recap",2026,WN2026
+05/21/2026,Campbell,UNCW,3,1,0,1,L,UNCW,UNCW,Campbell,0,9,"Wilmington, NC / Brooks Field / Recap",2026,WN2026
+05/22/2026,Monmouth,UNCW,1,6,0,1,W,UNCW,UNCW,Monmouth,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+05/22/2026,Northeastern,UNCW,7,3,0,1,L,UNCW,UNCW,Northeastern,0,9,"Wilmington, NC / Brooks Field",2026,WN2026

@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Cal State Northridge,Seattle University,10,5,0,0,W,Cal State Northridge,Cal-State-Northridge,Seattle-University,0,9,"Northridge, CA / Matador Field",2026,WN2026
+02/14/2026,Cal State Northridge,Seattle University,4,3,0,0,W,Cal State Northridge,Cal-State-Northridge,Seattle-University,0,9,"Northridge, CA / Matador Field",2026,WN2026
+02/15/2026,Cal State Northridge,Seattle University,15,6,0,0,W,Cal State Northridge,Cal-State-Northridge,Seattle-University,0,9,"Northridge, CA / Matador Field",2026,WN2026
+02/18/2026,Cal State Northridge,Portland,4,5,0,0,L,Cal State Northridge,Cal-State-Northridge,Portland,0,9,"Northridge, CA / Matador Field",2026,WN2026
+02/20/2026,Saint Mary's College,Cal State Northridge,8,0,0,0,L,Cal State Northridge,Cal-State-Northridge,Saint-Marys-College,1,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/21/2026,Saint Mary's College,Cal State Northridge,7,12,0,0,W,Cal State Northridge,Cal-State-Northridge,Saint-Marys-College,1,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/22/2026,Saint Mary's College,Cal State Northridge,12,0,0,0,L,Cal State Northridge,Cal-State-Northridge,Saint-Marys-College,1,7,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/24/2026,California Baptist,Cal State Northridge,5,7,0,0,W,Cal State Northridge,Cal-State-Northridge,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+02/27/2026,Cal State Northridge,Western Michigan,1,11,0,0,L,Cal State Northridge,Cal-State-Northridge,Western-Michigan,0,9,"Northridge, CA / Matador Field",2026,WN2026
+02/28/2026,Cal State Northridge,Western Michigan,11,4,0,0,W,Cal State Northridge,Cal-State-Northridge,Western-Michigan,0,9,"Northridge, CA / Matador Field",2026,WN2026
+03/01/2026,Cal State Northridge,Western Michigan,5,10,0,0,L,Cal State Northridge,Cal-State-Northridge,Western-Michigan,0,9,"Northridge, CA / Matador Field",2026,WN2026
+03/03/2026,Cal State Northridge,Michigan,9,8,0,0,W,Cal State Northridge,Cal-State-Northridge,Michigan,0,12,"Northridge, CA / Matador Field",2026,WN2026
+03/06/2026,UC Irvine,Cal State Northridge,4,5,0,0,W,Cal State Northridge,Cal-State-Northridge,UC-Irvine,1,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+03/07/2026,UC Irvine,Cal State Northridge,4,2,0,0,L,Cal State Northridge,Cal-State-Northridge,UC-Irvine,1,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+03/08/2026,UC Irvine,Cal State Northridge,2,9,0,0,W,Cal State Northridge,Cal-State-Northridge,UC-Irvine,1,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+03/09/2026,Cal State Northridge,Pepperdine,12,1,0,0,W,Cal State Northridge,Cal-State-Northridge,Pepperdine,0,7,"Northridge, CA / Matador Field",2026,WN2026
+03/13/2026,Cal State Northridge,UC San Diego,16,17,0,0,L,Cal State Northridge,Cal-State-Northridge,UC-San-Diego,0,9,"Northridge, CA / Matador Field",2026,WN2026
+03/14/2026,Cal State Northridge,UC San Diego,4,6,0,0,L,Cal State Northridge,Cal-State-Northridge,UC-San-Diego,0,9,"Northridge, CA / Matador Field",2026,WN2026
+03/15/2026,Cal State Northridge,UC San Diego,4,12,0,0,L,Cal State Northridge,Cal-State-Northridge,UC-San-Diego,0,9,"Northridge, CA / Matador Field",2026,WN2026
+03/17/2026,Fresno State,Cal State Northridge,9,11,0,0,W,Cal State Northridge,Cal-State-Northridge,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+03/20/2026,Cal State Fullerton,Cal State Northridge,3,5,0,0,W,Cal State Northridge,Cal-State-Northridge,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/21/2026,Cal State Fullerton,Cal State Northridge,2,6,0,0,W,Cal State Northridge,Cal-State-Northridge,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/22/2026,Cal State Fullerton,Cal State Northridge,1,4,0,0,W,Cal State Northridge,Cal-State-Northridge,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/27/2026,Cal State Northridge,Cal State Bakersfield,3,11,0,0,L,Cal State Northridge,Cal-State-Northridge,Cal-State-Bakersfield,0,9,"Northridge, CA / Matador Field",2026,WN2026
+03/28/2026,Cal State Northridge,Cal State Bakersfield,6,8,0,0,L,Cal State Northridge,Cal-State-Northridge,Cal-State-Bakersfield,0,10,"Northridge, CA / Matador Field",2026,WN2026
+03/29/2026,Cal State Northridge,Cal State Bakersfield,9,5,0,0,W,Cal State Northridge,Cal-State-Northridge,Cal-State-Bakersfield,0,9,"Northridge, CA / Matador Field",2026,WN2026
+03/31/2026,Pepperdine,Cal State Northridge,6,5,0,0,L,Cal State Northridge,Cal-State-Northridge,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+04/02/2026,Cal State Northridge,Long Beach State,7,2,0,0,W,Cal State Northridge,Cal-State-Northridge,Long-Beach-State,0,9,"Northridge, CA / Matador Field",2026,WN2026
+04/03/2026,Cal State Northridge,Long Beach State,4,17,0,0,L,Cal State Northridge,Cal-State-Northridge,Long-Beach-State,0,9,"Northridge, CA / Matador Field",2026,WN2026
+04/04/2026,Cal State Northridge,Long Beach State,18,4,0,0,W,Cal State Northridge,Cal-State-Northridge,Long-Beach-State,0,9,"Northridge, CA / Matador Field",2026,WN2026
+04/07/2026,Cal State Northridge,Pepperdine,4,2,0,0,W,Cal State Northridge,Cal-State-Northridge,Pepperdine,0,9,"Northridge, CA / Matador Field",2026,WN2026
+04/09/2026,UC Riverside,Cal State Northridge,6,9,0,0,W,Cal State Northridge,Cal-State-Northridge,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+04/10/2026,UC Riverside,Cal State Northridge,3,1,0,0,L,Cal State Northridge,Cal-State-Northridge,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+04/11/2026,UC Riverside,Cal State Northridge,9,8,0,0,L,Cal State Northridge,Cal-State-Northridge,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex",2026,WN2026
+04/14/2026,Cal State Northridge,Loyola-Marymount,12,7,0,0,W,Cal State Northridge,Cal-State-Northridge,Loyola-Marymount,0,9,"Northridge, CA / Matador Field",2026,WN2026
+04/17/2026,Cal State Northridge,UC Davis,3,11,0,0,L,Cal State Northridge,Cal-State-Northridge,UC-Davis,0,9,"Northridge, CA / Matador Field",2026,WN2026
+04/18/2026,Cal State Northridge,UC Davis,11,2,0,0,W,Cal State Northridge,Cal-State-Northridge,UC-Davis,0,9,"Northridge, CA / Matador Field",2026,WN2026
+04/19/2026,Cal State Northridge,UC Davis,5,3,0,0,W,Cal State Northridge,Cal-State-Northridge,UC-Davis,0,9,"Northridge, CA / Matador Field",2026,WN2026
+04/21/2026,Cal State Northridge,San Diego State,3,4,0,0,L,Cal State Northridge,Cal-State-Northridge,San-Diego-State,0,9,"Northridge, CA / Matador Field",2026,WN2026
+04/24/2026,Cal Poly,Cal State Northridge,8,5,0,0,L,Cal State Northridge,Cal-State-Northridge,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+04/25/2026,Cal Poly,Cal State Northridge,5,4,0,0,L,Cal State Northridge,Cal-State-Northridge,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+04/26/2026,Cal Poly,Cal State Northridge,5,2,0,0,L,Cal State Northridge,Cal-State-Northridge,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+04/29/2026,Cal State Northridge,Fresno State,7,4,0,0,W,Cal State Northridge,Cal-State-Northridge,Fresno-State,0,9,"Northridge, CA / Matador Field",2026,WN2026
+05/01/2026,Oregon State,Cal State Northridge,6,8,0,0,W,Cal State Northridge,Cal-State-Northridge,Oregon-State,1,10,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+05/02/2026,Oregon State,Cal State Northridge,6,5,0,0,L,Cal State Northridge,Cal-State-Northridge,Oregon-State,1,11,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+05/03/2026,Oregon State,Cal State Northridge,5,2,0,0,L,Cal State Northridge,Cal-State-Northridge,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+05/05/2026,Cal State Northridge,California Baptist,7,9,0,0,L,Cal State Northridge,Cal-State-Northridge,California-Baptist,0,11,"Northridge, CA / Matador Field",2026,WN2026
+05/08/2026,Cal State Northridge,UC Santa Barbara,4,8,0,0,L,Cal State Northridge,Cal-State-Northridge,UC-Santa-Barbara,0,9,"Northridge, CA / Matador Field / Box Score",2026,WN2026
+05/09/2026,Cal State Northridge,UC Santa Barbara,4,5,0,0,L,Cal State Northridge,Cal-State-Northridge,UC-Santa-Barbara,0,9,"Northridge, CA / Matador Field / Box Score",2026,WN2026
+05/10/2026,Cal State Northridge,UC Santa Barbara,2,4,0,0,L,Cal State Northridge,Cal-State-Northridge,UC-Santa-Barbara,0,9,"Northridge, CA / Matador Field / Box Score",2026,WN2026
+05/13/2026,Hawaii,Cal State Northridge,4,0,0,0,L,Cal State Northridge,Cal-State-Northridge,Hawaii,1,9,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+05/14/2026,Hawaii,Cal State Northridge,7,0,0,0,L,Cal State Northridge,Cal-State-Northridge,Hawaii,1,9,"Honolulu, HI / Les Murakami Stadium / Box Score",2026,WN2026
+05/15/2026,Hawaii,Cal State Northridge,1,8,0,0,W,Cal State Northridge,Cal-State-Northridge,Hawaii,1,9,"Honolulu, HI / Les Murakami Stadium / Box Score",2026,WN2026

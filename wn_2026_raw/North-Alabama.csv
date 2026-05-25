@@ -1,0 +1,60 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,North Alabama,SIUE,3,1,0,0,W,North Alabama,North-Alabama,SIUE,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/13/2026,North Alabama,SIUE,8,1,0,0,W,North Alabama,North-Alabama,SIUE,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/14/2026,North Alabama,SIUE,1,2,0,0,L,North Alabama,North-Alabama,SIUE,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/17/2026,North Alabama,UAB,3,15,0,0,L,North Alabama,North-Alabama,UAB,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/18/2026,North Alabama,Murray State,15,5,0,0,W,North Alabama,North-Alabama,Murray-State,0,7,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/20/2026,North Alabama,Saint Louis,7,4,0,0,W,North Alabama,North-Alabama,Saint-Louis,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/21/2026,North Alabama,Saint Louis,12,2,0,0,W,North Alabama,North-Alabama,Saint-Louis,0,7,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/22/2026,North Alabama,Saint Louis,8,6,0,0,W,North Alabama,North-Alabama,Saint-Louis,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/24/2026,Samford,North Alabama,6,5,0,0,L,North Alabama,North-Alabama,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+02/27/2026,North Alabama,Southern Indiana,1,20,0,0,L,North Alabama,North-Alabama,Southern-Indiana,0,7,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/28/2026,North Alabama,Southern Indiana,0,8,0,0,L,North Alabama,North-Alabama,Southern-Indiana,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+03/01/2026,North Alabama,Southern Indiana,7,3,0,0,W,North Alabama,North-Alabama,Southern-Indiana,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+03/04/2026,Ole Miss,North Alabama,8,5,0,0,L,North Alabama,North-Alabama,Ole-Miss,1,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/06/2026,Southern Miss,North Alabama,9,4,0,0,L,North Alabama,North-Alabama,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+03/07/2026,Southern Miss,North Alabama,6,1,0,0,L,North Alabama,North-Alabama,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+03/08/2026,Southern Miss,North Alabama,9,2,0,0,L,North Alabama,North-Alabama,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+03/10/2026,North Alabama,Jacksonville State,3,8,0,0,L,North Alabama,North-Alabama,Jacksonville-State,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+03/13/2026,Lipscomb,North Alabama,6,3,0,0,L,North Alabama,North-Alabama,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/14/2026,Lipscomb,North Alabama,7,5,0,0,L,North Alabama,North-Alabama,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/15/2026,Lipscomb,North Alabama,7,13,0,0,W,North Alabama,North-Alabama,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/17/2026,North Alabama,Tennessee Tech,9,10,0,0,L,North Alabama,North-Alabama,Tennessee-Tech,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+03/20/2026,North Alabama,Eastern Kentucky,7,5,0,0,W,North Alabama,North-Alabama,Eastern-Kentucky,0,10,"Florence, AL / Mike D. Lane Field",2026,WN2026
+03/21/2026,North Alabama,Eastern Kentucky,8,5,0,0,W,North Alabama,North-Alabama,Eastern-Kentucky,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+03/22/2026,North Alabama,Eastern Kentucky,7,5,0,0,W,North Alabama,North-Alabama,Eastern-Kentucky,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+03/27/2026,Bellarmine,North Alabama,16,6,0,0,L,North Alabama,North-Alabama,Bellarmine,1,9,"Louisville, KY / Knights Field",2026,WN2026
+03/28/2026,Bellarmine,North Alabama,4,7,0,0,W,North Alabama,North-Alabama,Bellarmine,1,9,"Louisville, KY / Knights Field",2026,WN2026
+03/29/2026,Bellarmine,North Alabama,12,9,0,0,L,North Alabama,North-Alabama,Bellarmine,1,9,"Louisville, KY / Knights Field",2026,WN2026
+03/31/2026,UAB,North Alabama,10,0,0,0,L,North Alabama,North-Alabama,UAB,1,7,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+04/02/2026,North Alabama,Central Arkansas,4,3,0,0,W,North Alabama,North-Alabama,Central-Arkansas,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+04/03/2026,North Alabama,Central Arkansas,2,4,0,0,L,North Alabama,North-Alabama,Central-Arkansas,0,11,"Florence, AL / Mike D. Lane Field",2026,WN2026
+04/04/2026,North Alabama,Central Arkansas,16,9,0,0,W,North Alabama,North-Alabama,Central-Arkansas,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+04/07/2026,North Alabama,Tennessee-Martin,5,6,0,0,L,North Alabama,North-Alabama,Tennessee-Martin,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+04/10/2026,Austin Peay,North Alabama,3,9,0,0,W,North Alabama,North-Alabama,Austin-Peay,1,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+04/11/2026,Austin Peay,North Alabama,12,13,0,0,W,North Alabama,North-Alabama,Austin-Peay,1,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+04/12/2026,Austin Peay,North Alabama,5,15,0,0,W,North Alabama,North-Alabama,Austin-Peay,1,8,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+04/14/2026,Tennessee-Martin,North Alabama,3,21,0,0,W,North Alabama,North-Alabama,Tennessee-Martin,1,7,"Martin, TN / Skyhawk Park",2026,WN2026
+04/17/2026,North Alabama,Lipscomb,4,6,0,0,L,North Alabama,North-Alabama,Lipscomb,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+04/18/2026,North Alabama,Lipscomb,6,2,0,0,W,North Alabama,North-Alabama,Lipscomb,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+04/19/2026,North Alabama,Lipscomb,0,6,0,0,L,North Alabama,North-Alabama,Lipscomb,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+04/22/2026,Tennessee Tech,North Alabama,7,10,0,0,W,North Alabama,North-Alabama,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/24/2026,Eastern Kentucky,North Alabama,6,10,0,0,W,North Alabama,North-Alabama,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/25/2026,Eastern Kentucky,North Alabama,8,11,0,0,W,North Alabama,North-Alabama,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/26/2026,Eastern Kentucky,North Alabama,3,15,0,0,W,North Alabama,North-Alabama,Eastern-Kentucky,1,7,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+05/01/2026,North Alabama,Bellarmine,13,3,0,0,W,North Alabama,North-Alabama,Bellarmine,0,7,"Florence, AL / Mike D. Lane Field",2026,WN2026
+05/02/2026,North Alabama,Bellarmine,8,15,0,0,L,North Alabama,North-Alabama,Bellarmine,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+05/03/2026,North Alabama,Bellarmine,6,9,0,0,L,North Alabama,North-Alabama,Bellarmine,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+05/05/2026,North Alabama,Samford,2,8,0,0,L,North Alabama,North-Alabama,Samford,0,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+05/08/2026,Central Arkansas,North Alabama,11,6,0,0,L,North Alabama,North-Alabama,Central-Arkansas,1,9,"Conway, AR / Bear Stadium / Box Score",2026,WN2026
+05/09/2026,Central Arkansas,North Alabama,4,12,0,0,W,North Alabama,North-Alabama,Central-Arkansas,1,9,"Conway, AR / Bear Stadium / Box Score",2026,WN2026
+05/09/2026,Central Arkansas,North Alabama,4,3,0,0,L,North Alabama,North-Alabama,Central-Arkansas,1,10,"Conway, AR / Bear Stadium / Box Score",2026,WN2026
+05/12/2026,Murray State,North Alabama,9,5,0,0,L,North Alabama,North-Alabama,Murray-State,1,9,"Murray, KY / Reagan Field",2026,WN2026
+05/14/2026,North Alabama,Austin Peay,9,2,0,0,W,North Alabama,North-Alabama,Austin-Peay,0,9,"Florence, AL / Mike D. Lane Field / Box Score",2026,WN2026
+05/15/2026,North Alabama,Austin Peay,6,1,0,0,W,North Alabama,North-Alabama,Austin-Peay,0,9,"Florence, AL / Mike D. Lane Field / Box Score",2026,WN2026
+05/16/2026,North Alabama,Austin Peay,8,4,0,0,W,North Alabama,North-Alabama,Austin-Peay,0,9,"Florence, AL / Mike D. Lane Field / Box Score",2026,WN2026
+05/20/2026,Jacksonville,North Alabama,0,5,0,1,W,North Alabama,North-Alabama,Jacksonville,0,9,"DeLand, FL / Melching Field at Conrad Park / Recap",2026,WN2026
+05/21/2026,North Florida,North Alabama,4,11,0,1,W,North Alabama,North-Alabama,North-Florida,0,9,"DeLand, FL / Melching Field at Conrad Park / Recap",2026,WN2026
+05/22/2026,Lipscomb,North Alabama,4,3,0,1,L,North Alabama,North-Alabama,Lipscomb,0,14,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+05/23/2026,FGCU,North Alabama,5,6,0,1,W,North Alabama,North-Alabama,FGCU,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+05/23/2026,Lipscomb,North Alabama,5,4,0,1,L,North Alabama,North-Alabama,Lipscomb,0,10,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026

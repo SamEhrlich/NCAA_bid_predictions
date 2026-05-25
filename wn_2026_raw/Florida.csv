@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Florida,UAB,7,9,0,0,L,Florida,Florida,UAB,0,10,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/14/2026,Florida,UAB,11,0,0,0,W,Florida,Florida,UAB,0,7,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/14/2026,Florida,UAB,6,1,0,0,W,Florida,Florida,UAB,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/17/2026,Stetson,Florida,2,12,0,0,W,Florida,Florida,Stetson,1,7,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/18/2026,Florida,Stetson,9,3,0,0,W,Florida,Florida,Stetson,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/20/2026,Florida,Kennesaw State,9,3,0,0,W,Florida,Florida,Kennesaw-State,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/21/2026,Florida,Kennesaw State,11,0,0,0,W,Florida,Florida,Kennesaw-State,0,7,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/22/2026,Florida,Kennesaw State,12,9,0,0,W,Florida,Florida,Kennesaw-State,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/24/2026,Florida,FIU,17,11,0,0,W,Florida,Florida,FIU,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/25/2026,Florida,FIU,11,4,0,0,W,Florida,Florida,FIU,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/27/2026,Miami (FL),Florida,2,7,0,0,W,Florida,Florida,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/28/2026,Miami (FL),Florida,4,8,0,0,W,Florida,Florida,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/03/2026,Florida,FAU,4,0,0,0,W,Florida,Florida,FAU,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/04/2026,Florida,Florida A&M,7,5,0,0,W,Florida,Florida,Florida-AM,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/06/2026,Florida,High Point,2,7,0,0,L,Florida,Florida,High-Point,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/07/2026,Florida,High Point,2,6,0,0,L,Florida,Florida,High-Point,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/08/2026,Florida,High Point,12,11,0,0,W,Florida,Florida,High-Point,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/10/2026,Florida,Florida State,6,3,0,0,W,Florida,Florida,Florida-State,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/13/2026,Florida,South Carolina,1,0,0,0,W,Florida,Florida,South-Carolina,0,10,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/14/2026,Florida,South Carolina,3,0,0,0,W,Florida,Florida,South-Carolina,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/15/2026,Florida,South Carolina,13,3,0,0,W,Florida,Florida,South-Carolina,0,7,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/17/2026,Florida,Stetson,10,1,0,0,W,Florida,Florida,Stetson,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+03/20/2026,Alabama,Florida,6,0,0,0,L,Florida,Florida,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/21/2026,Alabama,Florida,8,4,0,0,L,Florida,Florida,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/22/2026,Alabama,Florida,14,7,0,0,L,Florida,Florida,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/24/2026,Florida State,Florida,0,5,0,1,W,Florida,Florida,Florida-State,0,9,"Jacksonville, FL / VyStar Ballpark",2026,WN2026
+03/27/2026,Arkansas,Florida,4,9,0,0,W,Florida,Florida,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+03/28/2026,Arkansas,Florida,4,7,0,0,W,Florida,Florida,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+03/29/2026,Arkansas,Florida,6,7,0,0,W,Florida,Florida,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+03/31/2026,Florida,Jacksonville,3,4,0,0,L,Florida,Florida,Jacksonville,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/02/2026,Florida,Ole Miss,4,6,0,0,L,Florida,Florida,Ole-Miss,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/03/2026,Florida,Ole Miss,2,0,0,0,W,Florida,Florida,Ole-Miss,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/04/2026,Florida,Ole Miss,2,5,0,0,L,Florida,Florida,Ole-Miss,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/07/2026,Florida State,Florida,3,4,0,0,W,Florida,Florida,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+04/10/2026,Georgia,Florida,2,8,0,0,W,Florida,Florida,Georgia,1,9,"Athens, GA / Foley Field",2026,WN2026
+04/11/2026,Georgia,Florida,5,1,0,0,L,Florida,Florida,Georgia,1,9,"Athens, GA / Foley Field",2026,WN2026
+04/12/2026,Georgia,Florida,7,13,0,0,W,Florida,Florida,Georgia,1,9,"Athens, GA / Foley Field",2026,WN2026
+04/14/2026,Florida,Bethune-Cookman,7,13,0,0,L,Florida,Florida,Bethune-Cookman,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/16/2026,Florida,Auburn,6,3,0,0,W,Florida,Florida,Auburn,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/17/2026,Florida,Auburn,3,5,0,0,L,Florida,Florida,Auburn,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/18/2026,Florida,Auburn,5,8,0,0,L,Florida,Florida,Auburn,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/21/2026,Florida,Jacksonville,5,7,0,0,L,Florida,Florida,Jacksonville,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/24/2026,Florida,Texas A&M,9,2,0,0,W,Florida,Florida,Texas-AM,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/25/2026,Florida,Texas A&M,4,8,0,0,L,Florida,Florida,Texas-AM,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/26/2026,Florida,Texas A&M,1,5,0,0,L,Florida,Florida,Texas-AM,0,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+05/01/2026,Oklahoma,Florida,4,3,0,0,L,Florida,Florida,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+05/02/2026,Oklahoma,Florida,5,10,0,0,W,Florida,Florida,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+05/03/2026,Oklahoma,Florida,2,13,0,0,W,Florida,Florida,Oklahoma,1,8,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+05/05/2026,Florida,North Florida,11,1,0,0,W,Florida,Florida,North-Florida,0,7,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+05/08/2026,Florida,Kentucky,7,6,0,0,W,Florida,Florida,Kentucky,0,9,"Gainesville, FL / Condron Family Ballpark / Box Score",2026,WN2026
+05/09/2026,Florida,Kentucky,2,4,0,0,L,Florida,Florida,Kentucky,0,9,"Gainesville, FL / Condron Family Ballpark / Box Score",2026,WN2026
+05/10/2026,Florida,Kentucky,9,6,0,0,W,Florida,Florida,Kentucky,0,9,"Gainesville, FL / Condron Family Ballpark / Box Score",2026,WN2026
+05/14/2026,LSU,Florida,8,11,0,0,W,Florida,Florida,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium / Box Score",2026,WN2026
+05/15/2026,LSU,Florida,1,11,0,0,W,Florida,Florida,LSU,1,7,"Baton Rouge, LA / Alex Box Stadium / Box Score",2026,WN2026
+05/16/2026,LSU,Florida,11,15,0,0,W,Florida,Florida,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium / Box Score",2026,WN2026
+05/20/2026,Vanderbilt,Florida,3,8,0,1,W,Florida,Florida,Vanderbilt,0,9,"Hoover, AL / Hoover Metropolitan Stadium / Recap",2026,WN2026
+05/21/2026,Alabama,Florida,3,13,0,1,W,Florida,Florida,Alabama,0,8,"Hoover, AL / Hoover Metropolitan Stadium / Recap",2026,WN2026
+05/23/2026,Georgia,Florida,8,7,0,1,L,Florida,Florida,Georgia,0,9,"Hoover, AL / Hoover Metropolitan Stadium",2026,WN2026

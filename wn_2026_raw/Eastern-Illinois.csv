@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Florida A&M,Eastern Illinois,4,13,0,0,W,Eastern Illinois,Eastern-Illinois,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+02/14/2026,Florida A&M,Eastern Illinois,7,6,0,0,L,Eastern Illinois,Eastern-Illinois,Florida-AM,1,7,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+02/14/2026,Florida A&M,Eastern Illinois,0,2,0,0,W,Eastern Illinois,Eastern-Illinois,Florida-AM,1,7,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+02/20/2026,Arkansas State,Eastern Illinois,2,3,0,0,W,Eastern Illinois,Eastern-Illinois,Arkansas-State,1,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+02/21/2026,Arkansas State,Eastern Illinois,11,3,0,0,L,Eastern Illinois,Eastern-Illinois,Arkansas-State,1,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+02/22/2026,Arkansas State,Eastern Illinois,9,2,0,0,L,Eastern Illinois,Eastern-Illinois,Arkansas-State,1,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+02/27/2026,Northern Kentucky,Eastern Illinois,3,1,0,0,L,Eastern Illinois,Eastern-Illinois,Northern-Kentucky,1,10,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+02/28/2026,Northern Kentucky,Eastern Illinois,8,7,0,0,L,Eastern Illinois,Eastern-Illinois,Northern-Kentucky,1,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/01/2026,Northern Kentucky,Eastern Illinois,20,15,0,0,L,Eastern Illinois,Eastern-Illinois,Northern-Kentucky,1,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/06/2026,Bellarmine,Eastern Illinois,4,11,0,1,W,Eastern Illinois,Eastern-Illinois,Bellarmine,0,9,"Marion, IL / Mountain Dew Park",2026,WN2026
+03/06/2026,Butler,Eastern Illinois,12,15,0,0,W,Eastern Illinois,Eastern-Illinois,Butler,1,9,"Westfield, IN / Grand Park",2026,WN2026
+03/07/2026,Bellarmine,Eastern Illinois,2,4,0,1,W,Eastern Illinois,Eastern-Illinois,Bellarmine,0,9,"Marion, IL / Mountain Dew Park",2026,WN2026
+03/07/2026,Bellarmine,Eastern Illinois,8,2,0,1,L,Eastern Illinois,Eastern-Illinois,Bellarmine,0,9,"Marion, IL / Mountain Dew Park",2026,WN2026
+03/13/2026,Memphis,Eastern Illinois,14,2,0,0,L,Eastern Illinois,Eastern-Illinois,Memphis,1,7,"Memphis, TN / FedExPark",2026,WN2026
+03/14/2026,Memphis,Eastern Illinois,7,12,0,0,W,Eastern Illinois,Eastern-Illinois,Memphis,1,9,"Memphis, TN / FedExPark",2026,WN2026
+03/15/2026,Memphis,Eastern Illinois,14,25,0,0,W,Eastern Illinois,Eastern-Illinois,Memphis,1,9,"Memphis, TN / FedExPark",2026,WN2026
+03/17/2026,Arkansas-Pine Bluff,Eastern Illinois,0,2,0,0,W,Eastern Illinois,Eastern-Illinois,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+03/18/2026,Arkansas-Pine Bluff,Eastern Illinois,3,13,0,0,W,Eastern Illinois,Eastern-Illinois,Arkansas-Pine-Bluff,1,8,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+03/20/2026,Lindenwood,Eastern Illinois,1,6,0,0,W,Eastern Illinois,Eastern-Illinois,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/21/2026,Lindenwood,Eastern Illinois,4,5,0,0,W,Eastern Illinois,Eastern-Illinois,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/22/2026,Lindenwood,Eastern Illinois,6,9,0,0,W,Eastern Illinois,Eastern-Illinois,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/24/2026,Eastern Illinois,Northern Illinois,4,5,0,0,L,Eastern Illinois,Eastern-Illinois,Northern-Illinois,0,10,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+03/27/2026,Eastern Illinois,Morehead State,16,9,0,0,W,Eastern Illinois,Eastern-Illinois,Morehead-State,0,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+03/28/2026,Eastern Illinois,Morehead State,7,2,0,0,W,Eastern Illinois,Eastern-Illinois,Morehead-State,0,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+03/29/2026,Eastern Illinois,Morehead State,5,8,0,0,L,Eastern Illinois,Eastern-Illinois,Morehead-State,0,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+04/02/2026,Tennessee Tech,Eastern Illinois,21,6,0,0,L,Eastern Illinois,Eastern-Illinois,Tennessee-Tech,1,7,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/03/2026,Tennessee Tech,Eastern Illinois,1,13,0,0,W,Eastern Illinois,Eastern-Illinois,Tennessee-Tech,1,8,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/04/2026,Tennessee Tech,Eastern Illinois,6,9,0,0,W,Eastern Illinois,Eastern-Illinois,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+04/07/2026,Northern Illinois,Eastern Illinois,9,11,0,0,W,Eastern Illinois,Eastern-Illinois,Northern-Illinois,1,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+04/10/2026,Eastern Illinois,Southern Indiana,13,3,0,0,W,Eastern Illinois,Eastern-Illinois,Southern-Indiana,0,7,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+04/11/2026,Eastern Illinois,Southern Indiana,3,1,0,0,W,Eastern Illinois,Eastern-Illinois,Southern-Indiana,0,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+04/12/2026,Eastern Illinois,Southern Indiana,9,6,0,0,W,Eastern Illinois,Eastern-Illinois,Southern-Indiana,0,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+04/17/2026,Little Rock,Eastern Illinois,7,6,0,0,L,Eastern Illinois,Eastern-Illinois,Little-Rock,1,14,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+04/18/2026,Little Rock,Eastern Illinois,11,7,0,0,L,Eastern Illinois,Eastern-Illinois,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+04/19/2026,Little Rock,Eastern Illinois,11,1,0,0,L,Eastern Illinois,Eastern-Illinois,Little-Rock,1,7,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+04/21/2026,Eastern Illinois,Butler,11,6,0,0,W,Eastern Illinois,Eastern-Illinois,Butler,0,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+04/24/2026,Tennessee-Martin,Eastern Illinois,7,9,0,0,W,Eastern Illinois,Eastern-Illinois,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+04/25/2026,Tennessee-Martin,Eastern Illinois,6,10,0,0,W,Eastern Illinois,Eastern-Illinois,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+04/26/2026,Tennessee-Martin,Eastern Illinois,11,8,0,0,L,Eastern Illinois,Eastern-Illinois,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+04/29/2026,Bradley,Eastern Illinois,4,12,0,0,W,Eastern Illinois,Eastern-Illinois,Bradley,1,9,"Peoria, IL / Dozer Park",2026,WN2026
+05/01/2026,Eastern Illinois,Southeast Missouri,5,3,0,0,W,Eastern Illinois,Eastern-Illinois,Southeast-Missouri,0,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+05/02/2026,Eastern Illinois,Southeast Missouri,11,1,0,0,W,Eastern Illinois,Eastern-Illinois,Southeast-Missouri,0,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+05/03/2026,Eastern Illinois,Southeast Missouri,8,3,0,0,W,Eastern Illinois,Eastern-Illinois,Southeast-Missouri,0,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+05/08/2026,Eastern Illinois,SIUE,2,3,0,0,L,Eastern Illinois,Eastern-Illinois,SIUE,0,9,"Charleston, IL / Coaches Stadium at Monier Field / Box Score",2026,WN2026
+05/09/2026,Eastern Illinois,SIUE,4,16,0,0,L,Eastern Illinois,Eastern-Illinois,SIUE,0,9,"Charleston, IL / Coaches Stadium at Monier Field / Box Score",2026,WN2026
+05/10/2026,Eastern Illinois,SIUE,9,20,0,0,L,Eastern Illinois,Eastern-Illinois,SIUE,0,9,"Charleston, IL / Coaches Stadium at Monier Field / Box Score",2026,WN2026
+05/12/2026,Illinois State,Eastern Illinois,15,4,0,0,L,Eastern Illinois,Eastern-Illinois,Illinois-State,1,7,"Normal, IL / Duffy Bass Field",2026,WN2026
+05/14/2026,Western Illinois,Eastern Illinois,1,7,0,0,W,Eastern Illinois,Eastern-Illinois,Western-Illinois,1,9,"Macomb, IL / Alfred D. Boyer Stadium / Box Score",2026,WN2026
+05/15/2026,Western Illinois,Eastern Illinois,8,9,0,0,W,Eastern Illinois,Eastern-Illinois,Western-Illinois,1,9,"Macomb, IL / Alfred D. Boyer Stadium / Box Score",2026,WN2026
+05/16/2026,Western Illinois,Eastern Illinois,9,13,0,0,W,Eastern Illinois,Eastern-Illinois,Western-Illinois,1,9,"Macomb, IL / Alfred D. Boyer Stadium / Box Score",2026,WN2026
+05/21/2026,Southeast Missouri,Eastern Illinois,2,3,0,1,W,Eastern Illinois,Eastern-Illinois,Southeast-Missouri,0,9,"Marion, IL / Mtn Dew Park / Recap",2026,WN2026
+05/22/2026,SIUE,Eastern Illinois,2,3,0,1,W,Eastern Illinois,Eastern-Illinois,SIUE,0,10,"Marion, IL / Mtn Dew Park",2026,WN2026
+05/23/2026,Little Rock,Eastern Illinois,4,3,0,1,L,Eastern Illinois,Eastern-Illinois,Little-Rock,0,9,"Marion, IL / Mtn Dew Park",2026,WN2026
+05/24/2026,Little Rock,Eastern Illinois,10,6,0,1,L,Eastern Illinois,Eastern-Illinois,Little-Rock,0,9,"Marion, IL / Mtn Dew Park",2026,WN2026

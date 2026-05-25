@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Arkansas State,Stony Brook,9,8,0,0,W,Arkansas State,Arkansas-State,Stony-Brook,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+02/13/2026,Arkansas State,Stony Brook,4,0,0,0,W,Arkansas State,Arkansas-State,Stony-Brook,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+02/15/2026,Arkansas State,Stony Brook,12,5,0,0,W,Arkansas State,Arkansas-State,Stony-Brook,0,8,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+02/17/2026,Ole Miss,Arkansas State,7,6,0,0,L,Arkansas State,Arkansas-State,Ole-Miss,1,9,"Oxford, MS / Swayze Field",2026,WN2026
+02/20/2026,Arkansas State,Eastern Illinois,2,3,0,0,L,Arkansas State,Arkansas-State,Eastern-Illinois,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+02/21/2026,Arkansas State,Eastern Illinois,11,3,0,0,W,Arkansas State,Arkansas-State,Eastern-Illinois,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+02/22/2026,Arkansas State,Eastern Illinois,9,2,0,0,W,Arkansas State,Arkansas-State,Eastern-Illinois,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+02/24/2026,Arkansas,Arkansas State,4,12,0,0,W,Arkansas State,Arkansas-State,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+02/25/2026,Arkansas,Arkansas State,1,0,0,0,L,Arkansas State,Arkansas-State,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+02/27/2026,Arkansas State,Arkansas-Pine Bluff,11,3,0,0,W,Arkansas State,Arkansas-State,Arkansas-Pine-Bluff,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+02/28/2026,Arkansas State,Arkansas-Pine Bluff,10,0,0,0,W,Arkansas State,Arkansas-State,Arkansas-Pine-Bluff,0,7,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+03/01/2026,Arkansas State,Arkansas-Pine Bluff,7,2,0,0,W,Arkansas State,Arkansas-State,Arkansas-Pine-Bluff,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+03/03/2026,Louisiana Tech,Arkansas State,2,10,0,0,W,Arkansas State,Arkansas-State,Louisiana-Tech,1,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+03/04/2026,Louisiana Tech,Arkansas State,2,8,0,0,W,Arkansas State,Arkansas-State,Louisiana-Tech,1,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+03/07/2026,Oral Roberts,Arkansas State,3,2,0,0,L,Arkansas State,Arkansas-State,Oral-Roberts,1,14,"Tulsa, OK / Chapman Park",2026,WN2026
+03/07/2026,Oral Roberts,Arkansas State,4,3,0,0,L,Arkansas State,Arkansas-State,Oral-Roberts,1,9,"Tulsa, OK / Chapman Park",2026,WN2026
+03/08/2026,Oral Roberts,Arkansas State,0,7,0,0,W,Arkansas State,Arkansas-State,Oral-Roberts,1,9,"Tulsa, OK / Chapman Park",2026,WN2026
+03/10/2026,Little Rock,Arkansas State,5,12,0,0,W,Arkansas State,Arkansas-State,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+03/13/2026,Arkansas State,Southern Miss,8,5,0,0,W,Arkansas State,Arkansas-State,Southern-Miss,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+03/14/2026,Arkansas State,Southern Miss,1,7,0,0,L,Arkansas State,Arkansas-State,Southern-Miss,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+03/15/2026,Arkansas State,Southern Miss,5,2,0,0,W,Arkansas State,Arkansas-State,Southern-Miss,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+03/20/2026,Georgia State,Arkansas State,5,2,0,0,L,Arkansas State,Arkansas-State,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+03/21/2026,Georgia State,Arkansas State,5,13,0,0,W,Arkansas State,Arkansas-State,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+03/22/2026,Georgia State,Arkansas State,9,5,0,0,L,Arkansas State,Arkansas-State,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+03/27/2026,Arkansas State,James Madison,11,9,0,0,W,Arkansas State,Arkansas-State,James-Madison,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+03/28/2026,Arkansas State,James Madison,10,11,0,0,L,Arkansas State,Arkansas-State,James-Madison,0,11,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+03/29/2026,Arkansas State,James Madison,2,1,0,0,W,Arkansas State,Arkansas-State,James-Madison,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+03/31/2026,Memphis,Arkansas State,11,9,0,0,L,Arkansas State,Arkansas-State,Memphis,1,9,"Memphis, TN / FedExPark",2026,WN2026
+04/02/2026,Troy,Arkansas State,6,4,0,0,L,Arkansas State,Arkansas-State,Troy,1,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+04/03/2026,Troy,Arkansas State,4,6,0,0,W,Arkansas State,Arkansas-State,Troy,1,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+04/04/2026,Troy,Arkansas State,6,4,0,0,L,Arkansas State,Arkansas-State,Troy,1,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+04/07/2026,Arkansas State,Memphis,12,2,0,0,W,Arkansas State,Arkansas-State,Memphis,0,8,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+04/10/2026,Arkansas State,Coastal Carolina,7,10,0,0,L,Arkansas State,Arkansas-State,Coastal-Carolina,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+04/11/2026,Arkansas State,Coastal Carolina,3,4,0,0,L,Arkansas State,Arkansas-State,Coastal-Carolina,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+04/12/2026,Arkansas State,Coastal Carolina,6,3,0,0,W,Arkansas State,Arkansas-State,Coastal-Carolina,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+04/14/2026,Southern Illinois,Arkansas State,5,11,0,0,W,Arkansas State,Arkansas-State,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/17/2026,ULM,Arkansas State,2,3,0,0,W,Arkansas State,Arkansas-State,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/18/2026,ULM,Arkansas State,3,2,0,0,L,Arkansas State,Arkansas-State,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/19/2026,ULM,Arkansas State,1,4,0,0,W,Arkansas State,Arkansas-State,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/21/2026,Arkansas State,Central Arkansas,20,10,0,0,W,Arkansas State,Arkansas-State,Central-Arkansas,0,7,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+04/24/2026,Arkansas State,Louisiana,2,3,0,0,L,Arkansas State,Arkansas-State,Louisiana,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+04/25/2026,Arkansas State,Louisiana,5,11,0,0,L,Arkansas State,Arkansas-State,Louisiana,0,10,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+04/26/2026,Arkansas State,Louisiana,8,3,0,0,W,Arkansas State,Arkansas-State,Louisiana,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+05/01/2026,Old Dominion,Arkansas State,8,0,0,0,L,Arkansas State,Arkansas-State,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+05/01/2026,Old Dominion,Arkansas State,0,6,0,0,W,Arkansas State,Arkansas-State,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+05/03/2026,Old Dominion,Arkansas State,5,4,0,0,L,Arkansas State,Arkansas-State,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+05/05/2026,Little Rock,Arkansas State,0,12,0,0,W,Arkansas State,Arkansas-State,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+05/08/2026,Arkansas State,Texas State,2,6,0,0,L,Arkansas State,Arkansas-State,Texas-State,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field / Box Score",2026,WN2026
+05/09/2026,Arkansas State,Texas State,3,8,0,0,L,Arkansas State,Arkansas-State,Texas-State,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field / Box Score",2026,WN2026
+05/10/2026,Arkansas State,Texas State,9,15,0,0,L,Arkansas State,Arkansas-State,Texas-State,0,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field / Box Score",2026,WN2026
+05/14/2026,South Alabama,Arkansas State,0,10,0,0,W,Arkansas State,Arkansas-State,South-Alabama,1,7,"Mobile, AL / Eddie Stanky Field / Box Score",2026,WN2026
+05/15/2026,South Alabama,Arkansas State,7,2,0,0,L,Arkansas State,Arkansas-State,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field / Box Score",2026,WN2026
+05/16/2026,South Alabama,Arkansas State,6,2,0,0,L,Arkansas State,Arkansas-State,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field / Box Score",2026,WN2026

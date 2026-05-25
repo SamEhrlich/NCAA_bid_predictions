@@ -1,0 +1,53 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,New Mexico,Fordham,10,9,0,0,W,New Mexico,New-Mexico,Fordham,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+02/14/2026,New Mexico,Fordham,18,8,0,0,W,New Mexico,New-Mexico,Fordham,0,7,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+02/14/2026,New Mexico,Fordham,16,6,0,0,W,New Mexico,New-Mexico,Fordham,0,7,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+02/15/2026,New Mexico,Fordham,24,5,0,0,W,New Mexico,New-Mexico,Fordham,0,7,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+02/20/2026,New Mexico,Northern Colorado,16,5,0,0,W,New Mexico,New-Mexico,Northern-Colorado,0,7,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+02/21/2026,New Mexico,Northern Colorado,5,0,0,0,W,New Mexico,New-Mexico,Northern-Colorado,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+02/21/2026,New Mexico,Northern Colorado,6,5,0,0,W,New Mexico,New-Mexico,Northern-Colorado,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+02/22/2026,New Mexico,Northern Colorado,12,11,0,0,W,New Mexico,New-Mexico,Northern-Colorado,0,10,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+02/27/2026,New Mexico,Saint Thomas,11,6,0,0,W,New Mexico,New-Mexico,Saint-Thomas,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+02/28/2026,New Mexico,Saint Thomas,5,1,0,0,W,New Mexico,New-Mexico,Saint-Thomas,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+02/28/2026,New Mexico,Saint Thomas,4,3,0,0,W,New Mexico,New-Mexico,Saint-Thomas,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/01/2026,New Mexico,Saint Thomas,7,3,0,0,W,New Mexico,New-Mexico,Saint-Thomas,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/03/2026,New Mexico State,New Mexico,8,6,0,0,L,New Mexico,New-Mexico,New-Mexico-State,1,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/06/2026,New Mexico,Tarleton State,11,13,0,0,L,New Mexico,New-Mexico,Tarleton-State,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/07/2026,New Mexico,Tarleton State,3,7,0,0,L,New Mexico,New-Mexico,Tarleton-State,0,7,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/07/2026,New Mexico,Tarleton State,10,15,0,0,L,New Mexico,New-Mexico,Tarleton-State,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/08/2026,New Mexico,Tarleton State,7,9,0,0,L,New Mexico,New-Mexico,Tarleton-State,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/13/2026,San Jose State,New Mexico,1,0,0,0,L,New Mexico,New-Mexico,San-Jose-State,1,10,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/14/2026,San Jose State,New Mexico,7,8,0,0,W,New Mexico,New-Mexico,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/15/2026,San Jose State,New Mexico,3,0,0,0,L,New Mexico,New-Mexico,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/17/2026,Arizona,New Mexico,3,6,0,0,W,New Mexico,New-Mexico,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/20/2026,New Mexico,Abilene Christian,5,12,0,0,L,New Mexico,New-Mexico,Abilene-Christian,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/21/2026,New Mexico,Abilene Christian,7,11,0,0,L,New Mexico,New-Mexico,Abilene-Christian,0,10,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/22/2026,New Mexico,Abilene Christian,11,5,0,0,W,New Mexico,New-Mexico,Abilene-Christian,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/24/2026,Texas Tech,New Mexico,12,2,0,0,L,New Mexico,New-Mexico,Texas-Tech,1,8,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/28/2026,New Mexico,Fresno State,9,8,0,0,W,New Mexico,New-Mexico,Fresno-State,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/28/2026,New Mexico,Fresno State,5,2,0,0,W,New Mexico,New-Mexico,Fresno-State,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+04/02/2026,UNLV,New Mexico,15,10,0,0,L,New Mexico,New-Mexico,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+04/03/2026,UNLV,New Mexico,6,7,0,0,W,New Mexico,New-Mexico,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+04/04/2026,UNLV,New Mexico,2,12,0,0,W,New Mexico,New-Mexico,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+04/07/2026,New Mexico,Texas Tech,5,10,0,0,L,New Mexico,New-Mexico,Texas-Tech,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+04/10/2026,New Mexico,San Diego State,5,3,0,0,W,New Mexico,New-Mexico,San-Diego-State,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+04/11/2026,New Mexico,San Diego State,11,3,0,0,W,New Mexico,New-Mexico,San-Diego-State,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+04/12/2026,New Mexico,San Diego State,12,8,0,0,W,New Mexico,New-Mexico,San-Diego-State,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+04/14/2026,New Mexico State,New Mexico,6,1,0,0,L,New Mexico,New-Mexico,New-Mexico-State,1,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+04/17/2026,New Mexico,Nevada,2,3,0,0,L,New Mexico,New-Mexico,Nevada,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+04/18/2026,New Mexico,Nevada,2,15,0,0,L,New Mexico,New-Mexico,Nevada,0,8,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+04/19/2026,New Mexico,Nevada,9,7,0,0,W,New Mexico,New-Mexico,Nevada,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+04/24/2026,Washington State,New Mexico,10,3,0,0,L,New Mexico,New-Mexico,Washington-State,1,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/25/2026,Washington State,New Mexico,3,4,0,0,W,New Mexico,New-Mexico,Washington-State,1,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/26/2026,Washington State,New Mexico,13,3,0,0,L,New Mexico,New-Mexico,Washington-State,1,8,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/28/2026,New Mexico,New Mexico State,15,16,0,0,L,New Mexico,New-Mexico,New-Mexico-State,0,10,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+05/01/2026,New Mexico,Air Force,9,7,0,0,W,New Mexico,New-Mexico,Air-Force,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+05/02/2026,New Mexico,Air Force,1,11,0,0,L,New Mexico,New-Mexico,Air-Force,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+05/03/2026,New Mexico,Air Force,4,8,0,0,L,New Mexico,New-Mexico,Air-Force,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+05/08/2026,Grand Canyon,New Mexico,6,5,0,0,L,New Mexico,New-Mexico,Grand-Canyon,1,10,"Phoenix, AZ / Brazell Field at GCU Ballpark / Box Score",2026,WN2026
+05/09/2026,Grand Canyon,New Mexico,4,3,0,0,L,New Mexico,New-Mexico,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark / Box Score",2026,WN2026
+05/10/2026,Grand Canyon,New Mexico,9,11,0,0,W,New Mexico,New-Mexico,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark / Box Score",2026,WN2026
+05/12/2026,New Mexico,New Mexico State,12,6,0,0,W,New Mexico,New-Mexico,New-Mexico-State,0,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+05/21/2026,Nevada,New Mexico,4,13,0,1,W,New Mexico,New-Mexico,Nevada,0,9,"Mesa, AZ / Sloan Park / Box Score / Recap",2026,WN2026
+05/22/2026,San Diego State,New Mexico,11,6,0,1,L,New Mexico,New-Mexico,San-Diego-State,0,9,"Mesa, AZ / Sloan Park / Recap",2026,WN2026
+05/23/2026,Air Force,New Mexico,11,1,0,1,L,New Mexico,New-Mexico,Air-Force,0,8,"Mesa, AZ / Sloan Park",2026,WN2026

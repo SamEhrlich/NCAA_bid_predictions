@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Southeast Missouri,Illinois State,1,12,0,0,W,Illinois State,Illinois-State,Southeast-Missouri,1,7,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/13/2026,Southeast Missouri,Illinois State,6,7,0,0,W,Illinois State,Illinois-State,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/15/2026,Southeast Missouri,Illinois State,10,1,0,0,L,Illinois State,Illinois-State,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/17/2026,SIUE,Illinois State,5,9,0,0,W,Illinois State,Illinois-State,SIUE,1,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+02/20/2026,UMass-Lowell,Illinois State,1,12,0,1,W,Illinois State,Illinois-State,UMass-Lowell,0,9,"Port Charlotte, FL. / Centennial Park",2026,WN2026
+02/21/2026,Brown,Illinois State,7,9,0,1,W,Illinois State,Illinois-State,Brown,0,9,"Port Charlotte, FL. / Centennial Park",2026,WN2026
+02/22/2026,Miami (OH),Illinois State,5,3,0,1,L,Illinois State,Illinois-State,Miami-OH,0,9,"Port Charlotte, FL / Centennial Park",2026,WN2026
+02/25/2026,Alabama A&M,Illinois State,2,14,0,0,W,Illinois State,Illinois-State,Alabama-AM,1,8,"Huntsville, AL / Bulldog Field",2026,WN2026
+02/27/2026,Middle Tennessee,Illinois State,13,3,0,0,L,Illinois State,Illinois-State,Middle-Tennessee,1,7,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/28/2026,Middle Tennessee,Illinois State,8,2,0,0,L,Illinois State,Illinois-State,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/01/2026,Middle Tennessee,Illinois State,7,14,0,0,W,Illinois State,Illinois-State,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/03/2026,Southern Indiana,Illinois State,12,5,0,0,L,Illinois State,Illinois-State,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+03/06/2026,Eastern Kentucky,Illinois State,2,7,0,0,W,Illinois State,Illinois-State,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+03/07/2026,Eastern Kentucky,Illinois State,8,4,0,0,L,Illinois State,Illinois-State,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+03/08/2026,Eastern Kentucky,Illinois State,10,5,0,0,L,Illinois State,Illinois-State,Eastern-Kentucky,1,8,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+03/10/2026,Saint Louis,Illinois State,5,8,0,0,W,Illinois State,Illinois-State,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/12/2026,Illinois State,Western Illinois,7,6,0,0,W,Illinois State,Illinois-State,Western-Illinois,0,11,"Normal, IL / Duffy Bass Field",2026,WN2026
+03/13/2026,Western Illinois,Illinois State,7,10,0,0,W,Illinois State,Illinois-State,Western-Illinois,1,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+03/13/2026,Western Illinois,Illinois State,1,7,0,0,W,Illinois State,Illinois-State,Western-Illinois,1,7,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+03/14/2026,Illinois State,Western Illinois,7,6,0,0,W,Illinois State,Illinois-State,Western-Illinois,0,15,"Normal, IL / Duffy Bass Field",2026,WN2026
+03/18/2026,Illinois State,SIUE,6,5,0,0,W,Illinois State,Illinois-State,SIUE,0,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+03/20/2026,Illinois State,Belmont,9,4,0,0,W,Illinois State,Illinois-State,Belmont,0,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+03/21/2026,Illinois State,Belmont,10,4,0,0,W,Illinois State,Illinois-State,Belmont,0,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+03/22/2026,Illinois State,Belmont,9,3,0,0,W,Illinois State,Illinois-State,Belmont,0,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+03/24/2026,Illinois State,Iowa,0,11,0,0,L,Illinois State,Illinois-State,Iowa,0,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+03/27/2026,Evansville,Illinois State,5,2,0,0,L,Illinois State,Illinois-State,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/28/2026,Evansville,Illinois State,4,0,0,0,L,Illinois State,Illinois-State,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/29/2026,Evansville,Illinois State,9,15,0,0,W,Illinois State,Illinois-State,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/31/2026,Illinois State,Illinois,4,1,0,0,W,Illinois State,Illinois-State,Illinois,0,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/03/2026,Southern Illinois,Illinois State,4,3,0,0,L,Illinois State,Illinois-State,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/04/2026,Southern Illinois,Illinois State,9,1,0,0,L,Illinois State,Illinois-State,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/05/2026,Southern Illinois,Illinois State,4,10,0,0,W,Illinois State,Illinois-State,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/07/2026,Illinois State,Saint Louis,5,4,0,0,W,Illinois State,Illinois-State,Saint-Louis,0,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/10/2026,Illinois State,Indiana State,1,11,0,0,L,Illinois State,Illinois-State,Indiana-State,0,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/11/2026,Illinois State,Indiana State,6,4,0,0,W,Illinois State,Illinois-State,Indiana-State,0,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/12/2026,Illinois State,Indiana State,1,6,0,0,L,Illinois State,Illinois-State,Indiana-State,0,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/18/2026,Murray State,Illinois State,6,1,0,0,L,Illinois State,Illinois-State,Murray-State,1,9,"Murray, KY / Reagan Field",2026,WN2026
+04/18/2026,Murray State,Illinois State,1,0,0,0,L,Illinois State,Illinois-State,Murray-State,1,9,"Murray, KY / Reagan Field",2026,WN2026
+04/19/2026,Murray State,Illinois State,6,5,0,0,L,Illinois State,Illinois-State,Murray-State,1,9,"Murray, KY / Reagan Field",2026,WN2026
+04/21/2026,Illinois,Illinois State,6,13,0,0,W,Illinois State,Illinois-State,Illinois,1,9,"Champaign, IL / Illinois Field",2026,WN2026
+04/24/2026,Illinois State,Bradley,16,6,0,0,W,Illinois State,Illinois-State,Bradley,0,8,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/25/2026,Illinois State,Bradley,1,0,0,0,W,Illinois State,Illinois-State,Bradley,0,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/26/2026,Illinois State,Bradley,8,5,0,0,W,Illinois State,Illinois-State,Bradley,0,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/28/2026,Iowa,Illinois State,6,13,0,0,W,Illinois State,Illinois-State,Iowa,1,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+05/01/2026,Illinois State,Valparaiso,6,5,0,0,W,Illinois State,Illinois-State,Valparaiso,0,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+05/02/2026,Illinois State,Valparaiso,14,2,0,0,W,Illinois State,Illinois-State,Valparaiso,0,8,"Normal, IL / Duffy Bass Field",2026,WN2026
+05/03/2026,Illinois State,Valparaiso,9,4,0,0,W,Illinois State,Illinois-State,Valparaiso,0,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+05/05/2026,Northwestern,Illinois State,7,1,0,0,L,Illinois State,Illinois-State,Northwestern,1,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+05/08/2026,UIC,Illinois State,10,2,0,0,L,Illinois State,Illinois-State,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium / Box Score",2026,WN2026
+05/09/2026,UIC,Illinois State,9,8,0,0,L,Illinois State,Illinois-State,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium / Box Score",2026,WN2026
+05/10/2026,UIC,Illinois State,6,7,0,0,W,Illinois State,Illinois-State,UIC,1,10,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium / Box Score",2026,WN2026
+05/12/2026,Illinois State,Eastern Illinois,15,4,0,0,W,Illinois State,Illinois-State,Eastern-Illinois,0,7,"Normal, IL / Duffy Bass Field",2026,WN2026
+05/14/2026,Michigan State,Illinois State,10,0,0,0,L,Illinois State,Illinois-State,Michigan-State,1,7,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/15/2026,Michigan State,Illinois State,3,6,0,0,W,Illinois State,Illinois-State,Michigan-State,1,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/16/2026,Michigan State,Illinois State,18,8,0,0,L,Illinois State,Illinois-State,Michigan-State,1,8,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/20/2026,Murray State,Illinois State,6,4,0,1,L,Illinois State,Illinois-State,Murray-State,0,9,"Murray, KY / Reagan Field / Box Score / Recap",2026,WN2026
+05/21/2026,Evansville,Illinois State,6,3,0,1,L,Illinois State,Illinois-State,Evansville,0,9,"Murray, KY / Reagan Field",2026,WN2026

@@ -1,0 +1,60 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Oral Roberts,Southern Illinois,2,4,0,0,W,Southern Illinois,Southern-Illinois,Oral-Roberts,1,9,"Tulsa, OK / Chapman Park",2026,WN2026
+02/14/2026,Oral Roberts,Southern Illinois,1,0,0,0,L,Southern Illinois,Southern-Illinois,Oral-Roberts,1,9,"Tulsa, OK / Chapman Park",2026,WN2026
+02/15/2026,Oral Roberts,Southern Illinois,6,2,0,0,L,Southern Illinois,Southern-Illinois,Oral-Roberts,1,9,"Tulsa, OK / Chapman Park",2026,WN2026
+02/20/2026,Queens,Southern Illinois,2,0,0,0,L,Southern Illinois,Southern-Illinois,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+02/21/2026,Queens,Southern Illinois,9,8,0,0,L,Southern Illinois,Southern-Illinois,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+02/22/2026,Appalachian State,Southern Illinois,9,8,0,0,L,Southern Illinois,Southern-Illinois,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+02/25/2026,Southern Illinois,Miami (OH),0,11,0,0,L,Southern Illinois,Southern-Illinois,Miami-OH,0,7,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+02/27/2026,Southern Illinois,Seton Hall,5,3,0,0,W,Southern Illinois,Southern-Illinois,Seton-Hall,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+02/28/2026,Southern Illinois,Seton Hall,7,4,0,0,W,Southern Illinois,Southern-Illinois,Seton-Hall,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/01/2026,Southern Illinois,Seton Hall,2,4,0,0,L,Southern Illinois,Southern-Illinois,Seton-Hall,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/03/2026,Southern Illinois,North Dakota State,9,4,0,0,W,Southern Illinois,Southern-Illinois,North-Dakota-State,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/06/2026,Omaha,Southern Illinois,1,9,0,1,W,Southern Illinois,Southern-Illinois,Omaha,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/07/2026,UNLV,Southern Illinois,16,8,0,1,L,Southern Illinois,Southern-Illinois,UNLV,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/08/2026,South Dakota State,Southern Illinois,4,5,0,1,W,Southern Illinois,Southern-Illinois,South-Dakota-State,0,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/10/2026,SIUE,Southern Illinois,16,6,0,0,L,Southern Illinois,Southern-Illinois,SIUE,1,8,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/13/2026,Southern Illinois,Southern Indiana,10,7,0,0,W,Southern Illinois,Southern-Illinois,Southern-Indiana,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/14/2026,Southern Illinois,Southern Indiana,7,4,0,0,W,Southern Illinois,Southern-Illinois,Southern-Indiana,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/14/2026,Southern Illinois,Southern Indiana,3,6,0,0,L,Southern Illinois,Southern-Illinois,Southern-Indiana,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/18/2026,Southern Illinois,Tennessee-Martin,6,7,0,0,L,Southern Illinois,Southern-Illinois,Tennessee-Martin,0,10,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/20/2026,UIC,Southern Illinois,4,5,0,0,W,Southern Illinois,Southern-Illinois,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+03/21/2026,UIC,Southern Illinois,10,9,0,0,L,Southern Illinois,Southern-Illinois,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+03/21/2026,UIC,Southern Illinois,6,5,0,0,L,Southern Illinois,Southern-Illinois,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+03/24/2026,Tennessee-Martin,Southern Illinois,8,2,0,0,L,Southern Illinois,Southern-Illinois,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/27/2026,Southern Illinois,Utah Tech,10,0,0,0,W,Southern Illinois,Southern-Illinois,Utah-Tech,0,7,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/28/2026,Southern Illinois,Utah Tech,4,9,0,0,L,Southern Illinois,Southern-Illinois,Utah-Tech,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/29/2026,Southern Illinois,Utah Tech,4,12,0,0,L,Southern Illinois,Southern-Illinois,Utah-Tech,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/31/2026,Southern Illinois,Lindenwood,1,3,0,0,L,Southern Illinois,Southern-Illinois,Lindenwood,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/03/2026,Southern Illinois,Illinois State,4,3,0,0,W,Southern Illinois,Southern-Illinois,Illinois-State,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/04/2026,Southern Illinois,Illinois State,9,1,0,0,W,Southern Illinois,Southern-Illinois,Illinois-State,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/05/2026,Southern Illinois,Illinois State,4,10,0,0,L,Southern Illinois,Southern-Illinois,Illinois-State,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/07/2026,Southern Illinois,Southeast Missouri,5,6,0,0,L,Southern Illinois,Southern-Illinois,Southeast-Missouri,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/10/2026,Evansville,Southern Illinois,6,5,0,0,L,Southern Illinois,Southern-Illinois,Evansville,1,10,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+04/11/2026,Evansville,Southern Illinois,7,3,0,0,L,Southern Illinois,Southern-Illinois,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+04/12/2026,Evansville,Southern Illinois,3,16,0,0,W,Southern Illinois,Southern-Illinois,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+04/14/2026,Southern Illinois,Arkansas State,5,11,0,0,L,Southern Illinois,Southern-Illinois,Arkansas-State,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/18/2026,Bradley,Southern Illinois,1,10,0,0,W,Southern Illinois,Southern-Illinois,Bradley,1,9,"Peoria, IL / Dozer Park",2026,WN2026
+04/18/2026,Bradley,Southern Illinois,2,6,0,0,W,Southern Illinois,Southern-Illinois,Bradley,1,9,"Peoria, IL / Dozer Park",2026,WN2026
+04/19/2026,Bradley,Southern Illinois,5,13,0,0,W,Southern Illinois,Southern-Illinois,Bradley,1,9,"Peoria, IL / Dozer Park",2026,WN2026
+04/21/2026,Southeast Missouri,Southern Illinois,5,1,0,0,L,Southern Illinois,Southern-Illinois,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+04/24/2026,Southern Illinois,Murray State,1,13,0,0,L,Southern Illinois,Southern-Illinois,Murray-State,0,8,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/25/2026,Southern Illinois,Murray State,7,6,0,0,W,Southern Illinois,Southern-Illinois,Murray-State,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/26/2026,Southern Illinois,Murray State,5,7,0,0,L,Southern Illinois,Southern-Illinois,Murray-State,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/28/2026,Lindenwood,Southern Illinois,12,2,0,0,L,Southern Illinois,Southern-Illinois,Lindenwood,1,7,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+05/01/2026,Southern Illinois,Indiana State,5,8,0,0,L,Southern Illinois,Southern-Illinois,Indiana-State,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+05/02/2026,Southern Illinois,Indiana State,2,1,0,0,W,Southern Illinois,Southern-Illinois,Indiana-State,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+05/03/2026,Southern Illinois,Indiana State,3,14,0,0,L,Southern Illinois,Southern-Illinois,Indiana-State,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+05/08/2026,Belmont,Southern Illinois,3,8,0,0,W,Southern Illinois,Southern-Illinois,Belmont,1,9,"Nashville, TN / E. S. Rose Park / Box Score",2026,WN2026
+05/09/2026,Belmont,Southern Illinois,4,9,0,0,W,Southern Illinois,Southern-Illinois,Belmont,1,9,"Nashville, TN / E. S. Rose Park / Box Score",2026,WN2026
+05/10/2026,Belmont,Southern Illinois,4,13,0,0,W,Southern Illinois,Southern-Illinois,Belmont,1,9,"Nashville, TN / E. S. Rose Park / Box Score",2026,WN2026
+05/12/2026,Southern Illinois,SIUE,7,9,0,0,L,Southern Illinois,Southern-Illinois,SIUE,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+05/14/2026,Southern Illinois,Valparaiso,6,4,0,0,W,Southern Illinois,Southern-Illinois,Valparaiso,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+05/15/2026,Southern Illinois,Valparaiso,4,9,0,0,L,Southern Illinois,Southern-Illinois,Valparaiso,0,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+05/16/2026,Southern Illinois,Valparaiso,13,3,0,0,W,Southern Illinois,Southern-Illinois,Valparaiso,0,8,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+05/20/2026,Evansville,Southern Illinois,4,8,0,1,W,Southern Illinois,Southern-Illinois,Evansville,0,9,"Murray, KY / Reagan Field / Box Score / Recap",2026,WN2026
+05/21/2026,UIC,Southern Illinois,11,1,0,1,L,Southern Illinois,Southern-Illinois,UIC,0,7,"Murray, KY / Reagan Field / Recap",2026,WN2026
+05/21/2026,Evansville,Southern Illinois,2,3,0,1,W,Southern Illinois,Southern-Illinois,Evansville,0,9,"Murray, KY / Reagan Field",2026,WN2026
+05/23/2026,Indiana State,Southern Illinois,5,7,0,1,W,Southern Illinois,Southern-Illinois,Indiana-State,0,9,"Murray, KY / Reagan Field",2026,WN2026
+05/23/2026,Murray State,Southern Illinois,7,9,0,1,W,Southern Illinois,Southern-Illinois,Murray-State,0,9,"Murray, KY / Reagan Field",2026,WN2026
+05/24/2026,UIC,Southern Illinois,7,2,0,1,L,Southern Illinois,Southern-Illinois,UIC,0,9,"Murray, KY / Reagan Field",2026,WN2026

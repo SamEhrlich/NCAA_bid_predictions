@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UCLA,UC San Diego,8,4,0,0,W,UCLA,UCLA,UC-San-Diego,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/14/2026,UCLA,UC San Diego,7,2,0,0,W,UCLA,UCLA,UC-San-Diego,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/15/2026,UCLA,UC San Diego,7,8,0,0,L,UCLA,UCLA,UC-San-Diego,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/17/2026,UCLA,Tulane,13,5,0,0,W,UCLA,UCLA,Tulane,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/20/2026,UCLA,TCU,10,2,0,0,W,UCLA,UCLA,TCU,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/21/2026,UCLA,TCU,5,1,0,0,W,UCLA,UCLA,TCU,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/22/2026,UCLA,TCU,15,5,0,0,W,UCLA,UCLA,TCU,0,8,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/24/2026,UCLA,San Diego State,3,4,0,0,L,UCLA,UCLA,San-Diego-State,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/27/2026,Tennessee,UCLA,5,12,0,1,W,UCLA,UCLA,Tennessee,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/28/2026,Texas A&M,UCLA,1,11,0,1,W,UCLA,UCLA,Texas-AM,0,7,"Arlington, TX / Globe Life Field",2026,WN2026
+03/01/2026,Mississippi State,UCLA,7,8,0,1,W,UCLA,UCLA,Mississippi-State,0,10,"Arlington, TX / Globe Life Field",2026,WN2026
+03/03/2026,UCLA,Cal State Fullerton,4,3,0,0,W,UCLA,UCLA,Cal-State-Fullerton,0,10,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/06/2026,Ohio State,UCLA,1,11,0,0,W,UCLA,UCLA,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/07/2026,Ohio State,UCLA,6,19,0,0,W,UCLA,UCLA,Ohio-State,1,8,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/08/2026,Ohio State,UCLA,7,10,0,0,W,UCLA,UCLA,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+03/10/2026,UCLA,UC Irvine,11,1,0,0,W,UCLA,UCLA,UC-Irvine,0,7,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/13/2026,UCLA,Michigan,10,5,0,0,W,UCLA,UCLA,Michigan,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/14/2026,UCLA,Michigan,2,0,0,0,W,UCLA,UCLA,Michigan,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/15/2026,UCLA,Michigan,7,2,0,0,W,UCLA,UCLA,Michigan,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/17/2026,UCLA,Pepperdine,5,4,0,0,W,UCLA,UCLA,Pepperdine,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/20/2026,UCLA,Maryland,12,2,0,0,W,UCLA,UCLA,Maryland,0,7,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/21/2026,UCLA,Maryland,8,3,0,0,W,UCLA,UCLA,Maryland,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/22/2026,UCLA,Maryland,14,4,0,0,W,UCLA,UCLA,Maryland,0,8,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/24/2026,UCLA,Loyola-Marymount,6,2,0,0,W,UCLA,UCLA,Loyola-Marymount,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/27/2026,Iowa,UCLA,2,5,0,0,W,UCLA,UCLA,Iowa,1,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+03/28/2026,Iowa,UCLA,0,19,0,0,W,UCLA,UCLA,Iowa,1,7,"Iowa City, IA / Duane Banks Field",2026,WN2026
+03/29/2026,Iowa,UCLA,6,14,0,0,W,UCLA,UCLA,Iowa,1,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+03/31/2026,UC Irvine,UCLA,1,9,0,0,W,UCLA,UCLA,UC-Irvine,1,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+04/03/2026,UCLA,USC,12,4,0,0,W,UCLA,UCLA,USC,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/04/2026,UCLA,USC,9,8,0,0,W,UCLA,UCLA,USC,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/05/2026,UCLA,USC,10,4,0,0,W,UCLA,UCLA,USC,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/07/2026,Cal State Fullerton,UCLA,3,7,0,0,W,UCLA,UCLA,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+04/10/2026,Rutgers,UCLA,1,4,0,0,W,UCLA,UCLA,Rutgers,1,14,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/11/2026,Rutgers,UCLA,1,7,0,0,W,UCLA,UCLA,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/12/2026,Rutgers,UCLA,2,9,0,0,W,UCLA,UCLA,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/14/2026,UCLA,UC Santa Barbara,0,4,0,0,L,UCLA,UCLA,UC-Santa-Barbara,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/17/2026,UCLA,Minnesota,4,2,0,0,W,UCLA,UCLA,Minnesota,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/18/2026,UCLA,Minnesota,6,4,0,0,W,UCLA,UCLA,Minnesota,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/19/2026,UCLA,Minnesota,5,2,0,0,W,UCLA,UCLA,Minnesota,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/21/2026,UCLA,Hawaii,12,7,0,0,W,UCLA,UCLA,Hawaii,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/24/2026,UCLA,Sacramento State,6,5,0,0,W,UCLA,UCLA,Sacramento-State,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/25/2026,UCLA,Sacramento State,5,3,0,0,W,UCLA,UCLA,Sacramento-State,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/26/2026,UCLA,Sacramento State,6,9,0,0,L,UCLA,UCLA,Sacramento-State,0,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+04/28/2026,UC Santa Barbara,UCLA,3,15,0,0,W,UCLA,UCLA,UC-Santa-Barbara,1,7,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+05/01/2026,Michigan State,UCLA,1,4,0,0,W,UCLA,UCLA,Michigan-State,1,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/02/2026,Michigan State,UCLA,3,4,0,0,W,UCLA,UCLA,Michigan-State,1,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/03/2026,Michigan State,UCLA,11,13,0,0,W,UCLA,UCLA,Michigan-State,1,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+05/05/2026,Loyola-Marymount,UCLA,4,8,0,0,W,UCLA,UCLA,Loyola-Marymount,1,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+05/08/2026,UCLA,Oregon,11,1,0,0,W,UCLA,UCLA,Oregon,0,7,"Los Angeles, CA / Jackie Robinson Stadium / Box Score",2026,WN2026
+05/09/2026,UCLA,Oregon,6,9,0,0,L,UCLA,UCLA,Oregon,0,9,"Los Angeles, CA / Jackie Robinson Stadium / Box Score",2026,WN2026
+05/10/2026,UCLA,Oregon,9,6,0,0,W,UCLA,UCLA,Oregon,0,9,"Los Angeles, CA / Jackie Robinson Stadium / Box Score",2026,WN2026
+05/14/2026,Washington,UCLA,8,0,0,0,L,UCLA,UCLA,Washington,1,9,"Seattle, WA / Husky Ballpark / Box Score",2026,WN2026
+05/15/2026,Washington,UCLA,5,6,0,0,W,UCLA,UCLA,Washington,1,9,"Seattle, WA / Husky Ballpark / Box Score",2026,WN2026
+05/16/2026,Washington,UCLA,1,6,0,0,W,UCLA,UCLA,Washington,1,9,"Seattle, WA / Husky Ballpark / Box Score",2026,WN2026
+05/22/2026,Purdue,UCLA,3,4,0,1,W,UCLA,UCLA,Purdue,0,9,"Omaha, NE / Charles Schwab Field Omaha / Recap",2026,WN2026
+05/23/2026,USC,UCLA,5,7,0,1,W,UCLA,UCLA,USC,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+05/24/2026,Oregon,UCLA,2,3,0,1,W,UCLA,UCLA,Oregon,0,11,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026

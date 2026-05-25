@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Louisiana Tech,Houston Christian,17,5,0,0,W,Louisiana Tech,Louisiana-Tech,Houston-Christian,0,7,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+02/14/2026,Louisiana Tech,Houston Christian,5,3,0,0,W,Louisiana Tech,Louisiana-Tech,Houston-Christian,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+02/14/2026,Louisiana Tech,Houston Christian,6,4,0,0,W,Louisiana Tech,Louisiana-Tech,Houston-Christian,0,7,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+02/15/2026,Louisiana Tech,Houston Christian,11,0,0,0,W,Louisiana Tech,Louisiana-Tech,Houston-Christian,0,7,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+02/18/2026,Louisiana Tech,McNeese,3,8,0,0,L,Louisiana Tech,Louisiana-Tech,McNeese,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+02/20/2026,Ohio State,Louisiana Tech,0,6,0,1,W,Louisiana Tech,Louisiana-Tech,Ohio-State,0,9,"Memphis, TN",2026,WN2026
+02/21/2026,Ohio State,Louisiana Tech,3,9,0,1,W,Louisiana Tech,Louisiana-Tech,Ohio-State,0,9,"Memphis, TN",2026,WN2026
+02/21/2026,Memphis,Louisiana Tech,5,8,0,0,W,Louisiana Tech,Louisiana-Tech,Memphis,1,9,"Memphis, TN / FedExPark",2026,WN2026
+02/24/2026,Louisiana Tech,Northwestern State,5,2,0,0,W,Louisiana Tech,Louisiana-Tech,Northwestern-State,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+02/27/2026,Louisiana Tech,Southern Miss,3,8,0,0,L,Louisiana Tech,Louisiana-Tech,Southern-Miss,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+02/28/2026,Louisiana Tech,Southern Miss,0,11,0,0,L,Louisiana Tech,Louisiana-Tech,Southern-Miss,0,7,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+03/01/2026,Louisiana Tech,Southern Miss,2,6,0,0,L,Louisiana Tech,Louisiana-Tech,Southern-Miss,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+03/03/2026,Louisiana Tech,Arkansas State,2,10,0,0,L,Louisiana Tech,Louisiana-Tech,Arkansas-State,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+03/04/2026,Louisiana Tech,Arkansas State,2,8,0,0,L,Louisiana Tech,Louisiana-Tech,Arkansas-State,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+03/06/2026,South Alabama,Louisiana Tech,9,3,0,0,L,Louisiana Tech,Louisiana-Tech,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+03/07/2026,South Alabama,Louisiana Tech,2,6,0,0,W,Louisiana Tech,Louisiana-Tech,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+03/08/2026,South Alabama,Louisiana Tech,1,6,0,0,W,Louisiana Tech,Louisiana-Tech,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+03/10/2026,Louisiana Tech,Lamar,0,6,0,0,L,Louisiana Tech,Louisiana-Tech,Lamar,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+03/13/2026,Louisiana Tech,Delaware,5,0,0,0,W,Louisiana Tech,Louisiana-Tech,Delaware,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+03/14/2026,Louisiana Tech,Delaware,9,3,0,0,W,Louisiana Tech,Louisiana-Tech,Delaware,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+03/15/2026,Louisiana Tech,Delaware,17,4,0,0,W,Louisiana Tech,Louisiana-Tech,Delaware,0,8,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+03/17/2026,Louisiana Tech,Central Arkansas,5,4,0,0,W,Louisiana Tech,Louisiana-Tech,Central-Arkansas,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+03/20/2026,New Mexico State,Louisiana Tech,8,13,0,0,W,Louisiana Tech,Louisiana-Tech,New-Mexico-State,1,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/21/2026,New Mexico State,Louisiana Tech,13,10,0,0,L,Louisiana Tech,Louisiana-Tech,New-Mexico-State,1,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/22/2026,New Mexico State,Louisiana Tech,8,6,0,0,L,Louisiana Tech,Louisiana-Tech,New-Mexico-State,1,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/24/2026,LSU,Louisiana Tech,15,5,0,0,L,Louisiana Tech,Louisiana-Tech,LSU,1,8,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/27/2026,Louisiana Tech,Jacksonville State,0,4,0,0,L,Louisiana Tech,Louisiana-Tech,Jacksonville-State,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+03/28/2026,Louisiana Tech,Jacksonville State,3,5,0,0,L,Louisiana Tech,Louisiana-Tech,Jacksonville-State,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+03/29/2026,Louisiana Tech,Jacksonville State,4,7,0,0,L,Louisiana Tech,Louisiana-Tech,Jacksonville-State,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+03/31/2026,Louisiana Tech,ULM,3,14,0,0,L,Louisiana Tech,Louisiana-Tech,ULM,0,7,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+04/02/2026,FIU,Louisiana Tech,7,4,0,0,L,Louisiana Tech,Louisiana-Tech,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+04/03/2026,FIU,Louisiana Tech,2,6,0,0,W,Louisiana Tech,Louisiana-Tech,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+04/04/2026,FIU,Louisiana Tech,3,4,0,0,W,Louisiana Tech,Louisiana-Tech,FIU,1,10,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+04/07/2026,Northwestern State,Louisiana Tech,0,7,0,0,W,Louisiana Tech,Louisiana-Tech,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+04/10/2026,Louisiana Tech,Middle Tennessee,8,1,0,0,W,Louisiana Tech,Louisiana-Tech,Middle-Tennessee,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+04/11/2026,Louisiana Tech,Middle Tennessee,8,2,0,0,W,Louisiana Tech,Louisiana-Tech,Middle-Tennessee,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+04/12/2026,Louisiana Tech,Middle Tennessee,5,3,0,0,W,Louisiana Tech,Louisiana-Tech,Middle-Tennessee,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+04/14/2026,Louisiana Tech,Little Rock,9,3,0,0,W,Louisiana Tech,Louisiana-Tech,Little-Rock,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+04/17/2026,Kennesaw State,Louisiana Tech,3,6,0,0,W,Louisiana Tech,Louisiana-Tech,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+04/18/2026,Kennesaw State,Louisiana Tech,6,5,0,0,L,Louisiana Tech,Louisiana-Tech,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+04/19/2026,Kennesaw State,Louisiana Tech,3,4,0,0,W,Louisiana Tech,Louisiana-Tech,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+04/21/2026,McNeese,Louisiana Tech,4,3,0,0,L,Louisiana Tech,Louisiana-Tech,McNeese,1,9,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+04/25/2026,Louisiana Tech,Missouri State,9,2,0,0,W,Louisiana Tech,Louisiana-Tech,Missouri-State,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+04/25/2026,Louisiana Tech,Missouri State,6,5,0,0,W,Louisiana Tech,Louisiana-Tech,Missouri-State,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+04/26/2026,Louisiana Tech,Missouri State,9,8,0,0,W,Louisiana Tech,Louisiana-Tech,Missouri-State,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+04/28/2026,ULM,Louisiana Tech,16,5,0,0,L,Louisiana Tech,Louisiana-Tech,ULM,1,7,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+05/01/2026,Dallas Baptist,Louisiana Tech,4,1,0,0,L,Louisiana Tech,Louisiana-Tech,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+05/02/2026,Dallas Baptist,Louisiana Tech,4,5,0,0,W,Louisiana Tech,Louisiana-Tech,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+05/03/2026,Dallas Baptist,Louisiana Tech,9,7,0,0,L,Louisiana Tech,Louisiana-Tech,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+05/05/2026,Louisiana Tech,Northwestern State,12,1,0,0,W,Louisiana Tech,Louisiana-Tech,Northwestern-State,0,7,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+05/08/2026,Liberty,Louisiana Tech,3,9,0,0,W,Louisiana Tech,Louisiana-Tech,Liberty,1,9,"Lynchburg, VA / Liberty Baseball Stadium / Box Score",2026,WN2026
+05/09/2026,Liberty,Louisiana Tech,6,9,0,0,W,Louisiana Tech,Louisiana-Tech,Liberty,1,9,"Lynchburg, VA / Liberty Baseball Stadium / Box Score",2026,WN2026
+05/10/2026,Liberty,Louisiana Tech,3,2,0,0,L,Louisiana Tech,Louisiana-Tech,Liberty,1,9,"Lynchburg, VA / Liberty Baseball Stadium / Box Score",2026,WN2026
+05/14/2026,Louisiana Tech,Sam Houston State,2,1,0,0,W,Louisiana Tech,Louisiana-Tech,Sam-Houston-State,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park / Box Score",2026,WN2026
+05/15/2026,Louisiana Tech,Sam Houston State,8,2,0,0,W,Louisiana Tech,Louisiana-Tech,Sam-Houston-State,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park / Box Score",2026,WN2026
+05/16/2026,Louisiana Tech,Sam Houston State,0,6,0,0,L,Louisiana Tech,Louisiana-Tech,Sam-Houston-State,0,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park / Box Score",2026,WN2026
+05/20/2026,Sam Houston State,Louisiana Tech,14,13,0,1,L,Louisiana Tech,Louisiana-Tech,Sam-Houston-State,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+05/22/2026,Liberty,Louisiana Tech,6,0,0,1,L,Louisiana Tech,Louisiana-Tech,Liberty,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026

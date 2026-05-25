@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Radford,Iona,2,0,0,0,W,Radford,Radford,Iona,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+02/14/2026,Radford,Iona,8,9,0,0,L,Radford,Radford,Iona,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+02/14/2026,Radford,Iona,6,3,0,0,W,Radford,Radford,Iona,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+02/17/2026,Queens,Radford,2,11,0,0,W,Radford,Radford,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+02/20/2026,Radford,Bucknell,7,1,0,0,W,Radford,Radford,Bucknell,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+02/21/2026,Radford,Bucknell,11,9,0,0,W,Radford,Radford,Bucknell,0,10,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+02/21/2026,Radford,Bucknell,1,4,0,0,L,Radford,Radford,Bucknell,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+02/27/2026,Radford,Bryant,5,4,0,0,W,Radford,Radford,Bryant,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+02/28/2026,Radford,Bryant,2,15,0,0,L,Radford,Radford,Bryant,0,7,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+03/01/2026,Radford,Bryant,6,12,0,0,L,Radford,Radford,Bryant,0,10,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+03/06/2026,Charlotte,Radford,7,1,0,0,L,Radford,Radford,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/06/2026,Western Carolina,Radford,1,7,0,1,W,Radford,Radford,Western-Carolina,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/07/2026,Western Carolina,Radford,10,0,0,1,L,Radford,Radford,Western-Carolina,0,7,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/10/2026,Radford,James Madison,4,2,0,0,W,Radford,Radford,James-Madison,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+03/13/2026,Winthrop,Radford,10,9,0,0,L,Radford,Radford,Winthrop,1,14,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/14/2026,Winthrop,Radford,6,5,0,0,L,Radford,Radford,Winthrop,1,10,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/15/2026,Winthrop,Radford,9,7,0,0,L,Radford,Radford,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/20/2026,Radford,VMI,9,4,0,0,W,Radford,Radford,VMI,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+03/21/2026,VMI,Radford,11,6,0,0,L,Radford,Radford,VMI,1,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+03/22/2026,Radford,VMI,1,9,0,0,L,Radford,Radford,VMI,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+03/24/2026,James Madison,Radford,6,10,0,0,W,Radford,Radford,James-Madison,1,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+03/27/2026,Radford,Longwood,4,3,0,0,W,Radford,Radford,Longwood,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+03/28/2026,Radford,Longwood,10,2,0,0,W,Radford,Radford,Longwood,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+03/29/2026,Radford,Longwood,5,6,0,0,L,Radford,Radford,Longwood,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+03/31/2026,Radford,Virginia Tech,5,13,0,0,L,Radford,Radford,Virginia-Tech,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+04/02/2026,Radford,South Carolina Upstate,6,4,0,0,W,Radford,Radford,South-Carolina-Upstate,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+04/03/2026,Radford,South Carolina Upstate,9,13,0,0,L,Radford,Radford,South-Carolina-Upstate,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+04/04/2026,Radford,South Carolina Upstate,10,5,0,0,W,Radford,Radford,South-Carolina-Upstate,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+04/07/2026,Radford,East Tennessee State,4,3,0,0,W,Radford,Radford,East-Tennessee-State,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+04/10/2026,High Point,Radford,6,7,0,0,W,Radford,Radford,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+04/11/2026,High Point,Radford,6,2,0,0,L,Radford,Radford,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+04/12/2026,High Point,Radford,4,1,0,0,L,Radford,Radford,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+04/14/2026,Virginia Tech,Radford,14,0,0,0,L,Radford,Radford,Virginia-Tech,1,7,"Blacksburg, VA / English Field",2026,WN2026
+04/17/2026,Radford,Gardner-Webb,8,4,0,0,W,Radford,Radford,Gardner-Webb,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+04/18/2026,Radford,Gardner-Webb,10,15,0,0,L,Radford,Radford,Gardner-Webb,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+04/19/2026,Radford,Gardner-Webb,3,0,0,0,W,Radford,Radford,Gardner-Webb,0,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+04/21/2026,Davidson,Radford,2,18,0,0,W,Radford,Radford,Davidson,1,8,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+04/24/2026,Presbyterian College,Radford,6,5,0,0,L,Radford,Radford,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+04/25/2026,Presbyterian College,Radford,2,21,0,0,W,Radford,Radford,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+04/26/2026,Presbyterian College,Radford,6,10,0,0,W,Radford,Radford,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+05/03/2026,Virginia,Radford,11,1,0,0,L,Radford,Radford,Virginia,1,7,"Charlottesville, VA / Davenport Field",2026,WN2026
+05/03/2026,Virginia,Radford,14,5,0,0,L,Radford,Radford,Virginia,1,9,"Charlottesville, VA / Davenport Field",2026,WN2026
+05/05/2026,East Tennessee State,Radford,10,12,0,0,W,Radford,Radford,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+05/08/2026,Radford,UNC Asheville,9,5,0,0,W,Radford,Radford,UNC-Asheville,0,9,"Radford, VA / Sherman Carter Memorial Stadium / Box Score",2026,WN2026
+05/09/2026,Radford,UNC Asheville,2,4,0,0,L,Radford,Radford,UNC-Asheville,0,9,"Radford, VA / Sherman Carter Memorial Stadium / Box Score",2026,WN2026
+05/10/2026,Radford,UNC Asheville,4,6,0,0,L,Radford,Radford,UNC-Asheville,0,9,"Radford, VA / Sherman Carter Memorial Stadium / Box Score",2026,WN2026
+05/14/2026,Charleston Southern,Radford,3,4,0,0,W,Radford,Radford,Charleston-Southern,1,10,"North Charleston, SC / Buccaneer Ballpark / Box Score",2026,WN2026
+05/15/2026,Charleston Southern,Radford,6,12,0,0,W,Radford,Radford,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark / Box Score",2026,WN2026
+05/16/2026,Charleston Southern,Radford,10,7,0,0,L,Radford,Radford,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark / Box Score",2026,WN2026
+05/20/2026,Charleston Southern,Radford,8,5,0,1,L,Radford,Radford,Charleston-Southern,0,9,"Asheville, NC / Hoemtrust Park / Box Score / Recap",2026,WN2026
+05/21/2026,Longwood,Radford,17,7,0,1,L,Radford,Radford,Longwood,0,9,"Asheville, NC / Hoemtrust Park",2026,WN2026

@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Tennessee-Martin,Butler,7,10,0,0,L,Tennessee-Martin,Tennessee-Martin,Butler,0,10,"Martin, TN / Skyhawk Park",2026,WN2026
+02/13/2026,Tennessee-Martin,Butler,9,8,0,0,W,Tennessee-Martin,Tennessee-Martin,Butler,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+02/14/2026,Tennessee-Martin,Butler,13,11,0,0,W,Tennessee-Martin,Tennessee-Martin,Butler,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+02/20/2026,Nicholls,Tennessee-Martin,3,6,0,0,W,Tennessee-Martin,Tennessee-Martin,Nicholls,1,12,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+02/21/2026,Nicholls,Tennessee-Martin,9,8,0,0,L,Tennessee-Martin,Tennessee-Martin,Nicholls,1,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+02/21/2026,Nicholls,Tennessee-Martin,13,5,0,0,L,Tennessee-Martin,Tennessee-Martin,Nicholls,1,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+02/22/2026,Nicholls,Tennessee-Martin,15,8,0,0,L,Tennessee-Martin,Tennessee-Martin,Nicholls,1,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+02/24/2026,Tennessee-Martin,Murray State,5,7,0,0,L,Tennessee-Martin,Tennessee-Martin,Murray-State,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+02/27/2026,Tennessee-Martin,Bradley,17,2,0,0,W,Tennessee-Martin,Tennessee-Martin,Bradley,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+02/28/2026,Tennessee-Martin,Bradley,9,13,0,0,L,Tennessee-Martin,Tennessee-Martin,Bradley,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/01/2026,Tennessee-Martin,Bradley,8,11,0,0,L,Tennessee-Martin,Tennessee-Martin,Bradley,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/06/2026,Tennessee-Martin,Mississippi Valley State,12,1,0,0,W,Tennessee-Martin,Tennessee-Martin,Mississippi-Valley-State,0,7,"Martin, TN / Skyhawk Park",2026,WN2026
+03/06/2026,Tennessee-Martin,Mississippi Valley State,8,7,0,0,W,Tennessee-Martin,Tennessee-Martin,Mississippi-Valley-State,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/07/2026,Tennessee-Martin,Mississippi Valley State,9,1,0,0,W,Tennessee-Martin,Tennessee-Martin,Mississippi-Valley-State,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/08/2026,Tennessee-Martin,Mississippi Valley State,3,5,0,0,L,Tennessee-Martin,Tennessee-Martin,Mississippi-Valley-State,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/13/2026,Tennessee-Martin,The Citadel,3,2,0,0,W,Tennessee-Martin,Tennessee-Martin,The-Citadel,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/14/2026,Tennessee-Martin,The Citadel,3,22,0,0,L,Tennessee-Martin,Tennessee-Martin,The-Citadel,0,7,"Martin, TN / Skyhawk Park",2026,WN2026
+03/15/2026,Tennessee-Martin,The Citadel,4,8,0,0,L,Tennessee-Martin,Tennessee-Martin,The-Citadel,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/18/2026,Southern Illinois,Tennessee-Martin,6,7,0,0,W,Tennessee-Martin,Tennessee-Martin,Southern-Illinois,1,10,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+03/20/2026,Southeast Missouri,Tennessee-Martin,8,6,0,0,L,Tennessee-Martin,Tennessee-Martin,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/21/2026,Southeast Missouri,Tennessee-Martin,11,4,0,0,L,Tennessee-Martin,Tennessee-Martin,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/22/2026,Southeast Missouri,Tennessee-Martin,7,5,0,0,L,Tennessee-Martin,Tennessee-Martin,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/24/2026,Tennessee-Martin,Southern Illinois,8,2,0,0,W,Tennessee-Martin,Tennessee-Martin,Southern-Illinois,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/27/2026,Tennessee-Martin,Lindenwood,7,2,0,0,W,Tennessee-Martin,Tennessee-Martin,Lindenwood,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/28/2026,Tennessee-Martin,Lindenwood,10,1,0,0,W,Tennessee-Martin,Tennessee-Martin,Lindenwood,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/29/2026,Tennessee-Martin,Lindenwood,15,7,0,0,W,Tennessee-Martin,Tennessee-Martin,Lindenwood,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/31/2026,Tennessee-Martin,Alabama A&M,22,4,0,0,W,Tennessee-Martin,Tennessee-Martin,Alabama-AM,0,7,"Martin, TN / Skyhawk Park",2026,WN2026
+04/02/2026,Morehead State,Tennessee-Martin,12,8,0,0,L,Tennessee-Martin,Tennessee-Martin,Morehead-State,1,9,"Morehead, KY / Allen Field",2026,WN2026
+04/03/2026,Morehead State,Tennessee-Martin,13,4,0,0,L,Tennessee-Martin,Tennessee-Martin,Morehead-State,1,9,"Morehead, KY / Allen Field",2026,WN2026
+04/04/2026,Morehead State,Tennessee-Martin,12,8,0,0,L,Tennessee-Martin,Tennessee-Martin,Morehead-State,1,9,"Morehead, KY / Allen Field",2026,WN2026
+04/07/2026,North Alabama,Tennessee-Martin,5,6,0,0,W,Tennessee-Martin,Tennessee-Martin,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+04/10/2026,Tennessee-Martin,Tennessee Tech,11,6,0,0,W,Tennessee-Martin,Tennessee-Martin,Tennessee-Tech,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+04/11/2026,Tennessee-Martin,Tennessee Tech,8,4,0,0,W,Tennessee-Martin,Tennessee-Martin,Tennessee-Tech,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+04/12/2026,Tennessee-Martin,Tennessee Tech,16,18,0,0,L,Tennessee-Martin,Tennessee-Martin,Tennessee-Tech,0,10,"Martin, TN / Skyhawk Park",2026,WN2026
+04/14/2026,Tennessee-Martin,North Alabama,3,21,0,0,L,Tennessee-Martin,Tennessee-Martin,North-Alabama,0,7,"Martin, TN / Skyhawk Park",2026,WN2026
+04/17/2026,Southern Indiana,Tennessee-Martin,1,10,0,0,W,Tennessee-Martin,Tennessee-Martin,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/18/2026,Southern Indiana,Tennessee-Martin,4,2,0,0,L,Tennessee-Martin,Tennessee-Martin,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/19/2026,Southern Indiana,Tennessee-Martin,10,3,0,0,L,Tennessee-Martin,Tennessee-Martin,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/21/2026,Tennessee-Martin,Belmont,9,8,0,0,W,Tennessee-Martin,Tennessee-Martin,Belmont,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+04/24/2026,Tennessee-Martin,Eastern Illinois,7,9,0,0,L,Tennessee-Martin,Tennessee-Martin,Eastern-Illinois,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+04/25/2026,Tennessee-Martin,Eastern Illinois,6,10,0,0,L,Tennessee-Martin,Tennessee-Martin,Eastern-Illinois,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+04/26/2026,Tennessee-Martin,Eastern Illinois,11,8,0,0,W,Tennessee-Martin,Tennessee-Martin,Eastern-Illinois,0,9,"Martin, TN / Skyhawk Park",2026,WN2026
+04/28/2026,Belmont,Tennessee-Martin,8,5,0,0,L,Tennessee-Martin,Tennessee-Martin,Belmont,1,6,"Nashville, TN / E. S. Rose Park",2026,WN2026
+05/01/2026,Western Illinois,Tennessee-Martin,9,3,0,0,L,Tennessee-Martin,Tennessee-Martin,Western-Illinois,1,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+05/02/2026,Western Illinois,Tennessee-Martin,2,14,0,0,W,Tennessee-Martin,Tennessee-Martin,Western-Illinois,1,7,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+05/03/2026,Western Illinois,Tennessee-Martin,10,19,0,0,W,Tennessee-Martin,Tennessee-Martin,Western-Illinois,1,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+05/06/2026,Murray State,Tennessee-Martin,1,5,0,0,W,Tennessee-Martin,Tennessee-Martin,Murray-State,1,9,"Murray, KY / Reagan Field",2026,WN2026
+05/08/2026,Tennessee-Martin,Little Rock,4,15,0,0,L,Tennessee-Martin,Tennessee-Martin,Little-Rock,0,8,"Martin, TN / Skyhawk Park / Box Score",2026,WN2026
+05/09/2026,Tennessee-Martin,Little Rock,6,5,0,0,W,Tennessee-Martin,Tennessee-Martin,Little-Rock,0,9,"Martin, TN / Skyhawk Park / Box Score",2026,WN2026
+05/10/2026,Tennessee-Martin,Little Rock,14,16,0,0,L,Tennessee-Martin,Tennessee-Martin,Little-Rock,0,9,"Martin, TN / Skyhawk Park / Box Score",2026,WN2026
+05/12/2026,Ole Miss,Tennessee-Martin,17,6,0,0,L,Tennessee-Martin,Tennessee-Martin,Ole-Miss,1,7,"Oxford, MS / Swayze Field",2026,WN2026
+05/14/2026,SIUE,Tennessee-Martin,8,2,0,0,L,Tennessee-Martin,Tennessee-Martin,SIUE,1,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex / Box Score",2026,WN2026
+05/15/2026,SIUE,Tennessee-Martin,7,8,0,0,W,Tennessee-Martin,Tennessee-Martin,SIUE,1,11,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex / Box Score",2026,WN2026
+05/19/2026,Lindenwood,Tennessee-Martin,7,4,0,1,L,Tennessee-Martin,Tennessee-Martin,Lindenwood,0,9,"Marion, IL / Mtn Dew Park / Recap",2026,WN2026

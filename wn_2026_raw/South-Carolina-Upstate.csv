@@ -1,0 +1,62 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,South Alabama,South Carolina Upstate,16,7,0,0,L,South Carolina Upstate,South-Carolina-Upstate,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+02/14/2026,South Alabama,South Carolina Upstate,7,10,0,0,W,South Carolina Upstate,South-Carolina-Upstate,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+02/15/2026,South Alabama,South Carolina Upstate,7,3,0,0,L,South Carolina Upstate,South-Carolina-Upstate,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+02/17/2026,South Carolina Upstate,Western Carolina,17,0,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Western-Carolina,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/18/2026,Georgia,South Carolina Upstate,12,6,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Georgia,1,9,"Athens, GA / Foley Field",2026,WN2026
+02/20/2026,South Carolina Upstate,Northern Illinois,8,5,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Northern-Illinois,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/21/2026,South Carolina Upstate,Valparaiso,5,10,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Valparaiso,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/22/2026,South Carolina Upstate,NJIT,17,1,0,0,W,South Carolina Upstate,South-Carolina-Upstate,NJIT,0,7,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/24/2026,North Florida,South Carolina Upstate,3,7,0,0,W,South Carolina Upstate,South-Carolina-Upstate,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/25/2026,Stetson,South Carolina Upstate,1,2,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+02/28/2026,Georgia Southern,South Carolina Upstate,4,3,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Georgia-Southern,1,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+02/28/2026,Georgia Southern,South Carolina Upstate,2,8,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Georgia-Southern,1,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/01/2026,Georgia Southern,South Carolina Upstate,9,8,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Georgia-Southern,1,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+03/03/2026,South Carolina,South Carolina Upstate,12,3,0,0,L,South Carolina Upstate,South-Carolina-Upstate,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+03/06/2026,Texas,South Carolina Upstate,14,2,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Texas,1,8,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/07/2026,Texas,South Carolina Upstate,11,9,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/08/2026,Texas,South Carolina Upstate,13,3,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Texas,1,8,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/10/2026,Wofford,South Carolina Upstate,2,5,0,1,W,South Carolina Upstate,South-Carolina-Upstate,Wofford,0,9,"Spartanburg, SC / Fifth Third Park",2026,WN2026
+03/13/2026,South Carolina Upstate,High Point,9,7,0,0,W,South Carolina Upstate,South-Carolina-Upstate,High-Point,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+03/14/2026,South Carolina Upstate,High Point,12,7,0,0,W,South Carolina Upstate,South-Carolina-Upstate,High-Point,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+03/15/2026,South Carolina Upstate,High Point,5,7,0,0,L,South Carolina Upstate,South-Carolina-Upstate,High-Point,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+03/18/2026,Charlotte,South Carolina Upstate,10,11,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/20/2026,Longwood,South Carolina Upstate,4,5,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+03/21/2026,Longwood,South Carolina Upstate,5,4,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Longwood,1,10,"Farmville, VA / Bolding Stadium",2026,WN2026
+03/22/2026,Longwood,South Carolina Upstate,12,11,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+03/24/2026,Tennessee,South Carolina Upstate,4,2,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+03/27/2026,South Carolina Upstate,UNC Asheville,11,10,0,0,W,South Carolina Upstate,South-Carolina-Upstate,UNC-Asheville,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+03/28/2026,South Carolina Upstate,UNC Asheville,14,1,0,0,W,South Carolina Upstate,South-Carolina-Upstate,UNC-Asheville,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+03/29/2026,South Carolina Upstate,UNC Asheville,3,5,0,0,L,South Carolina Upstate,South-Carolina-Upstate,UNC-Asheville,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+03/31/2026,George Mason,South Carolina Upstate,10,14,0,0,W,South Carolina Upstate,South-Carolina-Upstate,George-Mason,1,9,"Fairfax, VA / Spuhler Field",2026,WN2026
+04/02/2026,Radford,South Carolina Upstate,6,4,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+04/03/2026,Radford,South Carolina Upstate,9,13,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+04/04/2026,Radford,South Carolina Upstate,10,5,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+04/07/2026,Western Carolina,South Carolina Upstate,11,18,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/10/2026,South Carolina Upstate,Charleston Southern,9,1,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Charleston-Southern,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+04/11/2026,South Carolina Upstate,Charleston Southern,15,9,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Charleston-Southern,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+04/12/2026,South Carolina Upstate,Charleston Southern,3,11,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Charleston-Southern,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+04/14/2026,Charleston,South Carolina Upstate,6,0,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+04/17/2026,Winthrop,South Carolina Upstate,3,1,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/18/2026,Winthrop,South Carolina Upstate,4,3,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/19/2026,Winthrop,South Carolina Upstate,6,5,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Winthrop,1,10,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+04/21/2026,Clemson,South Carolina Upstate,7,2,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+04/24/2026,Samford,South Carolina Upstate,7,5,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/24/2026,Samford,South Carolina Upstate,6,1,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+04/26/2026,Samford,South Carolina Upstate,9,6,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+05/01/2026,South Carolina Upstate,Gardner-Webb,16,8,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Gardner-Webb,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+05/02/2026,South Carolina Upstate,Gardner-Webb,12,4,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Gardner-Webb,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+05/03/2026,South Carolina Upstate,Gardner-Webb,13,2,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Gardner-Webb,0,7,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+05/05/2026,Elon,South Carolina Upstate,4,18,0,1,W,South Carolina Upstate,South-Carolina-Upstate,Elon,0,7,"Greenville, SC / Fluor Field",2026,WN2026
+05/08/2026,Presbyterian College,South Carolina Upstate,6,5,0,0,L,South Carolina Upstate,South-Carolina-Upstate,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex / Box Score",2026,WN2026
+05/09/2026,Presbyterian College,South Carolina Upstate,1,7,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex / Box Score",2026,WN2026
+05/10/2026,Presbyterian College,South Carolina Upstate,4,13,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex / Box Score",2026,WN2026
+05/12/2026,South Carolina Upstate,Clemson,6,3,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Clemson,0,9,"Spartanburg, SC / Fifth Third Park",2026,WN2026
+05/14/2026,South Carolina Upstate,Elon,7,6,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Elon,0,10,"Spartanburg, SC / Cleveland S. Harley Baseball Park / Box Score",2026,WN2026
+05/15/2026,South Carolina Upstate,Northern Kentucky,8,7,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Northern-Kentucky,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park / Box Score",2026,WN2026
+05/16/2026,South Carolina Upstate,Northern Kentucky,10,9,0,0,W,South Carolina Upstate,South-Carolina-Upstate,Northern-Kentucky,0,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park / Box Score",2026,WN2026
+05/20/2026,Longwood,South Carolina Upstate,8,11,0,1,W,South Carolina Upstate,South-Carolina-Upstate,Longwood,0,9,"Asheville, NC / Hoemtrust Park / Box Score / Recap",2026,WN2026
+05/21/2026,Winthrop,South Carolina Upstate,6,18,0,1,W,South Carolina Upstate,South-Carolina-Upstate,Winthrop,0,7,"Asheville, NC / Hoemtrust Park / Recap",2026,WN2026
+05/23/2026,High Point,South Carolina Upstate,0,5,0,1,W,South Carolina Upstate,South-Carolina-Upstate,High-Point,0,9,"Asheville, NC / Hoemtrust Park",2026,WN2026
+05/24/2026,Longwood,South Carolina Upstate,4,1,0,1,L,South Carolina Upstate,South-Carolina-Upstate,Longwood,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+05/24/2026,Longwood,South Carolina Upstate,1,8,0,1,W,South Carolina Upstate,South-Carolina-Upstate,Longwood,0,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026

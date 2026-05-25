@@ -1,0 +1,53 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Baylor,New Mexico State,15,2,0,0,L,New Mexico State,New-Mexico-State,Baylor,1,7,"Waco, TX / Baylor Ballpark",2026,WN2026
+02/14/2026,Baylor,New Mexico State,5,2,0,0,L,New Mexico State,New-Mexico-State,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+02/15/2026,Baylor,New Mexico State,7,3,0,0,L,New Mexico State,New-Mexico-State,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+02/16/2026,Oklahoma,New Mexico State,10,6,0,1,L,New Mexico State,New-Mexico-State,Oklahoma,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/20/2026,New Mexico State,Towson,7,8,0,0,L,New Mexico State,New-Mexico-State,Towson,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+02/21/2026,New Mexico State,Towson,9,3,0,0,W,New Mexico State,New-Mexico-State,Towson,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+02/22/2026,New Mexico State,Towson,6,8,0,0,L,New Mexico State,New-Mexico-State,Towson,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+02/27/2026,New Mexico State,Prairie View A&M,12,6,0,0,W,New Mexico State,New-Mexico-State,Prairie-View-AM,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+02/28/2026,New Mexico State,Prairie View A&M,7,2,0,0,W,New Mexico State,New-Mexico-State,Prairie-View-AM,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/01/2026,New Mexico State,Prairie View A&M,16,1,0,0,W,New Mexico State,New-Mexico-State,Prairie-View-AM,0,7,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/03/2026,New Mexico State,New Mexico,8,6,0,0,W,New Mexico State,New-Mexico-State,New-Mexico,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/06/2026,New Mexico State,UTSA,2,10,0,0,L,New Mexico State,New-Mexico-State,UTSA,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/07/2026,New Mexico State,UTSA,0,13,0,0,L,New Mexico State,New-Mexico-State,UTSA,0,8,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/08/2026,New Mexico State,UTSA,5,4,0,0,W,New Mexico State,New-Mexico-State,UTSA,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/13/2026,Dallas Baptist,New Mexico State,14,2,0,0,L,New Mexico State,New-Mexico-State,Dallas-Baptist,1,8,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/14/2026,Dallas Baptist,New Mexico State,14,17,0,0,W,New Mexico State,New-Mexico-State,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/15/2026,Dallas Baptist,New Mexico State,20,2,0,0,L,New Mexico State,New-Mexico-State,Dallas-Baptist,1,7,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/17/2026,TCU,New Mexico State,16,6,0,0,L,New Mexico State,New-Mexico-State,TCU,1,7,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/20/2026,New Mexico State,Louisiana Tech,8,13,0,0,L,New Mexico State,New-Mexico-State,Louisiana-Tech,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/21/2026,New Mexico State,Louisiana Tech,13,10,0,0,W,New Mexico State,New-Mexico-State,Louisiana-Tech,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/22/2026,New Mexico State,Louisiana Tech,8,6,0,0,W,New Mexico State,New-Mexico-State,Louisiana-Tech,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/25/2026,Arizona State,New Mexico State,10,4,0,0,L,New Mexico State,New-Mexico-State,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+03/27/2026,Middle Tennessee,New Mexico State,7,5,0,0,L,New Mexico State,New-Mexico-State,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/28/2026,Middle Tennessee,New Mexico State,8,7,0,0,L,New Mexico State,New-Mexico-State,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/29/2026,Middle Tennessee,New Mexico State,9,6,0,0,L,New Mexico State,New-Mexico-State,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+04/02/2026,New Mexico State,Delaware,11,6,0,0,W,New Mexico State,New-Mexico-State,Delaware,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+04/03/2026,New Mexico State,Delaware,15,9,0,0,W,New Mexico State,New-Mexico-State,Delaware,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+04/04/2026,New Mexico State,Delaware,7,2,0,0,W,New Mexico State,New-Mexico-State,Delaware,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+04/08/2026,Arizona,New Mexico State,13,3,0,0,L,New Mexico State,New-Mexico-State,Arizona,1,7,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+04/10/2026,Western Kentucky,New Mexico State,7,3,0,0,L,New Mexico State,New-Mexico-State,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+04/11/2026,Western Kentucky,New Mexico State,9,4,0,0,L,New Mexico State,New-Mexico-State,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+04/12/2026,Western Kentucky,New Mexico State,7,10,0,0,W,New Mexico State,New-Mexico-State,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+04/14/2026,New Mexico State,New Mexico,6,1,0,0,W,New Mexico State,New-Mexico-State,New-Mexico,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+04/17/2026,New Mexico State,Sam Houston State,7,8,0,0,L,New Mexico State,New-Mexico-State,Sam-Houston-State,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+04/18/2026,New Mexico State,Sam Houston State,3,4,0,0,L,New Mexico State,New-Mexico-State,Sam-Houston-State,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+04/19/2026,New Mexico State,Sam Houston State,10,12,0,0,L,New Mexico State,New-Mexico-State,Sam-Houston-State,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+04/22/2026,Arizona State,New Mexico State,9,10,0,0,W,New Mexico State,New-Mexico-State,Arizona-State,1,11,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/24/2026,Jacksonville State,New Mexico State,3,6,0,0,W,New Mexico State,New-Mexico-State,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+04/25/2026,Jacksonville State,New Mexico State,4,0,0,0,L,New Mexico State,New-Mexico-State,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+04/26/2026,Jacksonville State,New Mexico State,10,0,0,0,L,New Mexico State,New-Mexico-State,Jacksonville-State,1,7,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+04/28/2026,New Mexico,New Mexico State,15,16,0,0,W,New Mexico State,New-Mexico-State,New-Mexico,1,10,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+05/02/2026,New Mexico State,Liberty,4,15,0,0,L,New Mexico State,New-Mexico-State,Liberty,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+05/02/2026,New Mexico State,Liberty,7,9,0,0,L,New Mexico State,New-Mexico-State,Liberty,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+05/03/2026,New Mexico State,Liberty,4,7,0,0,L,New Mexico State,New-Mexico-State,Liberty,0,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+05/06/2026,Arizona,New Mexico State,8,6,0,0,L,New Mexico State,New-Mexico-State,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+05/08/2026,Missouri State,New Mexico State,14,8,0,0,L,New Mexico State,New-Mexico-State,Missouri-State,1,9,"Springfield, MO / Hammons Field / Box Score",2026,WN2026
+05/09/2026,Missouri State,New Mexico State,9,1,0,0,L,New Mexico State,New-Mexico-State,Missouri-State,1,9,"Springfield, MO / Hammons Field / Box Score",2026,WN2026
+05/10/2026,Missouri State,New Mexico State,7,6,0,0,L,New Mexico State,New-Mexico-State,Missouri-State,1,9,"Springfield, MO / Hammons Field / Box Score",2026,WN2026
+05/12/2026,New Mexico,New Mexico State,12,6,0,0,L,New Mexico State,New-Mexico-State,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+05/14/2026,New Mexico State,FIU,12,17,0,0,L,New Mexico State,New-Mexico-State,FIU,0,9,"Las Cruces, NM / Presley Askew Field / Box Score",2026,WN2026
+05/15/2026,New Mexico State,FIU,6,5,0,0,W,New Mexico State,New-Mexico-State,FIU,0,9,"Las Cruces, NM / Presley Askew Field / Box Score",2026,WN2026
+05/16/2026,New Mexico State,FIU,21,30,0,0,L,New Mexico State,New-Mexico-State,FIU,0,9,"Las Cruces, NM / Presley Askew Field / Box Score",2026,WN2026

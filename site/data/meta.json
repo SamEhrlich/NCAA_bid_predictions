@@ -1,0 +1,13 @@
+{
+  "generated_at":"2026-05-25T22:08:49",
+  "season":2026,
+  "n_games_fit":52085,
+  "elo_params":{
+    "k":29.0,
+    "hfa":40.0,
+    "regress":0.07
+  },
+  "n_sims":20000,
+  "n_teams":311,
+  "n_bracket_teams":64
+}

@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Dallas Baptist,Binghamton,13,2,0,0,L,Binghamton,Binghamton,Dallas-Baptist,1,7,"Dallas, TX / Horner Ballpark",2026,WN2026
+02/13/2026,Dallas Baptist,Binghamton,14,1,0,0,L,Binghamton,Binghamton,Dallas-Baptist,1,7,"Dallas, TX / Horner Ballpark",2026,WN2026
+02/15/2026,Dallas Baptist,Binghamton,6,3,0,0,L,Binghamton,Binghamton,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+02/20/2026,William & Mary,Binghamton,8,9,0,0,W,Binghamton,Binghamton,William-Mary,1,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+02/21/2026,William & Mary,Binghamton,10,5,0,0,L,Binghamton,Binghamton,William-Mary,1,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+02/21/2026,William & Mary,Binghamton,5,4,0,0,L,Binghamton,Binghamton,William-Mary,1,9,"Williamsburg, VA / Plumeri Park",2026,WN2026
+02/27/2026,High Point,Binghamton,7,9,0,0,W,Binghamton,Binghamton,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/28/2026,High Point,Binghamton,5,2,0,0,L,Binghamton,Binghamton,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+03/01/2026,High Point,Binghamton,4,3,0,0,L,Binghamton,Binghamton,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+03/06/2026,Richmond,Binghamton,2,5,0,0,W,Binghamton,Binghamton,Richmond,1,9,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+03/07/2026,Richmond,Binghamton,8,1,0,0,L,Binghamton,Binghamton,Richmond,1,9,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+03/08/2026,Richmond,Binghamton,3,4,0,0,W,Binghamton,Binghamton,Richmond,1,9,"Richmond, VA / Malcolm U. Pitt Field",2026,WN2026
+03/10/2026,Binghamton,Saint Bonaventure,15,9,0,0,W,Binghamton,Binghamton,Saint-Bonaventure,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+03/13/2026,Bryant,Binghamton,3,4,0,0,W,Binghamton,Binghamton,Bryant,1,10,"Smithfield, RI / Conaty Park",2026,WN2026
+03/14/2026,Bryant,Binghamton,5,3,0,0,L,Binghamton,Binghamton,Bryant,1,9,"Smithfield, RI / Conaty Park",2026,WN2026
+03/15/2026,Bryant,Binghamton,8,4,0,0,L,Binghamton,Binghamton,Bryant,1,9,"Smithfield, RI / Conaty Park",2026,WN2026
+03/20/2026,Binghamton,UMass-Lowell,5,7,0,0,L,Binghamton,Binghamton,UMass-Lowell,0,10,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+03/21/2026,Binghamton,UMass-Lowell,16,10,0,0,W,Binghamton,Binghamton,UMass-Lowell,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+03/22/2026,Binghamton,UMass-Lowell,14,10,0,0,W,Binghamton,Binghamton,UMass-Lowell,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+03/24/2026,Binghamton,Le Moyne,17,6,0,0,W,Binghamton,Binghamton,Le-Moyne,0,7,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+03/29/2026,Binghamton,Fairfield,12,6,0,0,W,Binghamton,Binghamton,Fairfield,0,7,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+03/29/2026,Binghamton,Fairfield,1,5,0,0,L,Binghamton,Binghamton,Fairfield,0,7,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+03/31/2026,Saint Bonaventure,Binghamton,7,3,0,0,L,Binghamton,Binghamton,Saint-Bonaventure,1,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/03/2026,NJIT,Binghamton,3,6,0,0,W,Binghamton,Binghamton,NJIT,1,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/04/2026,NJIT,Binghamton,6,8,0,0,W,Binghamton,Binghamton,NJIT,1,11,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/05/2026,NJIT,Binghamton,4,5,0,0,W,Binghamton,Binghamton,NJIT,1,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/08/2026,Binghamton,Siena,11,1,0,0,W,Binghamton,Binghamton,Siena,0,7,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/10/2026,Binghamton,UMBC,6,5,0,0,W,Binghamton,Binghamton,UMBC,0,10,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/11/2026,Binghamton,UMBC,4,3,0,0,W,Binghamton,Binghamton,UMBC,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/12/2026,Binghamton,UMBC,16,5,0,0,W,Binghamton,Binghamton,UMBC,0,8,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/14/2026,Cornell,Binghamton,4,11,0,0,W,Binghamton,Binghamton,Cornell,1,9,"Ithaca, NY / Booth Field",2026,WN2026
+04/17/2026,Binghamton,Bryant,4,2,0,0,W,Binghamton,Binghamton,Bryant,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/18/2026,Binghamton,Bryant,13,9,0,0,W,Binghamton,Binghamton,Bryant,0,7,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/18/2026,Binghamton,Bryant,8,7,0,0,W,Binghamton,Binghamton,Bryant,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/21/2026,Binghamton,Cornell,6,10,0,0,L,Binghamton,Binghamton,Cornell,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/24/2026,Binghamton,Longwood,3,7,0,0,L,Binghamton,Binghamton,Longwood,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/24/2026,Binghamton,Longwood,10,8,0,0,W,Binghamton,Binghamton,Longwood,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/26/2026,Binghamton,Longwood,7,9,0,0,L,Binghamton,Binghamton,Longwood,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+04/28/2026,Le Moyne,Binghamton,13,24,0,0,W,Binghamton,Binghamton,Le-Moyne,1,7,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+05/01/2026,Binghamton,Maine,2,9,0,0,L,Binghamton,Binghamton,Maine,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+05/02/2026,Binghamton,Maine,8,7,0,0,W,Binghamton,Binghamton,Maine,0,11,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+05/03/2026,Binghamton,Maine,3,7,0,0,L,Binghamton,Binghamton,Maine,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+05/08/2026,Albany,Binghamton,2,12,0,0,W,Binghamton,Binghamton,Albany,1,9,"Albany, NY / Varsity Field / Box Score",2026,WN2026
+05/10/2026,Albany,Binghamton,1,3,0,0,W,Binghamton,Binghamton,Albany,1,7,"Albany, NY / Varsity Field / Box Score",2026,WN2026
+05/10/2026,Albany,Binghamton,11,9,0,0,L,Binghamton,Binghamton,Albany,1,9,"Albany, NY / Varsity Field / Box Score",2026,WN2026
+05/15/2026,UMass-Lowell,Binghamton,4,8,0,0,W,Binghamton,Binghamton,UMass-Lowell,1,7,"Lowell, MA / Edward A. LeLacheur Park / Box Score",2026,WN2026
+05/15/2026,UMass-Lowell,Binghamton,8,4,0,0,L,Binghamton,Binghamton,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park / Box Score",2026,WN2026
+05/16/2026,UMass-Lowell,Binghamton,12,13,0,0,W,Binghamton,Binghamton,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park / Box Score",2026,WN2026
+05/21/2026,UMass-Lowell,Binghamton,0,3,0,1,W,Binghamton,Binghamton,UMass-Lowell,0,9,"Vestal, NY / Bearcats Baseball Complex / Recap",2026,WN2026
+05/22/2026,Maine,Binghamton,5,6,0,1,W,Binghamton,Binghamton,Maine,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+05/23/2026,Maine,Binghamton,3,7,0,1,W,Binghamton,Binghamton,Maine,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026

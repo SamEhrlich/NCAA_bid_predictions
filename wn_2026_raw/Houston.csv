@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Wake Forest,Houston,2,8,0,1,W,Houston,Houston,Wake-Forest,0,9,"Ponce, PR",2026,WN2026
+02/14/2026,Boston College,Houston,1,5,0,1,W,Houston,Houston,Boston-College,0,9,"Caguas, PR",2026,WN2026
+02/15/2026,Manhattan,Houston,2,4,0,1,W,Houston,Houston,Manhattan,0,9,"Ponce, PR",2026,WN2026
+02/16/2026,Washington,Houston,7,8,0,1,W,Houston,Houston,Washington,0,9,"Ponce, PR",2026,WN2026
+02/20/2026,Houston,UTRGV,11,3,0,0,W,Houston,Houston,UTRGV,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+02/21/2026,Houston,UTRGV,6,10,0,0,L,Houston,Houston,UTRGV,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+02/22/2026,Houston,UTRGV,4,8,0,0,L,Houston,Houston,UTRGV,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+02/24/2026,Sam Houston State,Houston,4,5,0,0,W,Houston,Houston,Sam-Houston-State,1,9,"Huntsville, TX / Don Sanders Stadium",2026,WN2026
+02/27/2026,Oregon State,Houston,2,1,0,1,L,Houston,Houston,Oregon-State,0,9,"Frisco, TX / Riders Field",2026,WN2026
+02/28/2026,Iowa,Houston,6,4,0,1,L,Houston,Houston,Iowa,0,9,"Frisco, TX / Riders Field",2026,WN2026
+03/01/2026,Alabama,Houston,2,8,0,1,W,Houston,Houston,Alabama,0,9,"Frisco, TX / Riders Field",2026,WN2026
+03/03/2026,Houston,Sam Houston State,2,5,0,0,L,Houston,Houston,Sam-Houston-State,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+03/06/2026,Houston,Arkansas-Pine Bluff,13,9,0,0,W,Houston,Houston,Arkansas-Pine-Bluff,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+03/07/2026,Houston,Arkansas-Pine Bluff,6,5,0,0,W,Houston,Houston,Arkansas-Pine-Bluff,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+03/08/2026,Houston,Arkansas-Pine Bluff,10,0,0,0,W,Houston,Houston,Arkansas-Pine-Bluff,0,7,"Houston, TX / Schroeder Park",2026,WN2026
+03/10/2026,Houston,Rice,13,1,0,0,W,Houston,Houston,Rice,0,8,"Houston, TX / Schroeder Park",2026,WN2026
+03/13/2026,Houston,Kansas State,8,20,0,0,L,Houston,Houston,Kansas-State,0,8,"Houston, TX / Schroeder Park",2026,WN2026
+03/14/2026,Houston,Kansas State,1,16,0,0,L,Houston,Houston,Kansas-State,0,7,"Houston, TX / Schroeder Park",2026,WN2026
+03/15/2026,Houston,Kansas State,16,6,0,0,W,Houston,Houston,Kansas-State,0,8,"Houston, TX / Schroeder Park",2026,WN2026
+03/18/2026,Houston,Louisiana,3,6,0,0,L,Houston,Houston,Louisiana,0,10,"Houston, TX / Schroeder Park",2026,WN2026
+03/20/2026,Kansas,Houston,12,10,0,0,L,Houston,Houston,Kansas,1,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/21/2026,Kansas,Houston,9,8,0,0,L,Houston,Houston,Kansas,1,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/22/2026,Kansas,Houston,8,4,0,0,L,Houston,Houston,Kansas,1,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+03/24/2026,Houston,Texas,9,7,0,0,W,Houston,Houston,Texas,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+03/27/2026,Houston,Baylor,2,6,0,0,L,Houston,Houston,Baylor,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+03/28/2026,Houston,Baylor,3,10,0,0,L,Houston,Houston,Baylor,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+03/29/2026,Houston,Baylor,7,14,0,0,L,Houston,Houston,Baylor,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+04/02/2026,Texas Tech,Houston,6,8,0,0,W,Houston,Houston,Texas-Tech,1,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/03/2026,Texas Tech,Houston,10,13,0,0,W,Houston,Houston,Texas-Tech,1,11,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/04/2026,Texas Tech,Houston,11,2,0,0,L,Houston,Houston,Texas-Tech,1,8,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+04/07/2026,Sam Houston State,Houston,4,5,0,0,W,Houston,Houston,Sam-Houston-State,1,9,"Huntsville, TX / Don Sanders Stadium",2026,WN2026
+04/09/2026,Houston,BYU,2,3,0,0,L,Houston,Houston,BYU,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+04/10/2026,Houston,BYU,2,6,0,0,L,Houston,Houston,BYU,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+04/11/2026,Houston,BYU,1,6,0,0,L,Houston,Houston,BYU,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+04/14/2026,Texas A&M,Houston,10,2,0,0,L,Houston,Houston,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+04/17/2026,West Virginia,Houston,7,10,0,0,W,Houston,Houston,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+04/18/2026,West Virginia,Houston,7,1,0,0,L,Houston,Houston,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+04/19/2026,West Virginia,Houston,7,3,0,0,L,Houston,Houston,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+04/21/2026,Rice,Houston,3,4,0,0,W,Houston,Houston,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+04/24/2026,TCU,Houston,8,3,0,0,L,Houston,Houston,TCU,1,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/25/2026,TCU,Houston,4,2,0,0,L,Houston,Houston,TCU,1,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/26/2026,TCU,Houston,14,2,0,0,L,Houston,Houston,TCU,1,7,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+04/28/2026,Stephen F. Austin,Houston,5,2,0,0,L,Houston,Houston,Stephen-F-Austin,1,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/29/2026,Houston,McNeese,4,2,0,0,W,Houston,Houston,McNeese,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+05/02/2026,Houston,Cincinnati,2,3,0,0,L,Houston,Houston,Cincinnati,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+05/02/2026,Houston,Cincinnati,1,8,0,0,L,Houston,Houston,Cincinnati,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+05/03/2026,Houston,Cincinnati,3,4,0,0,L,Houston,Houston,Cincinnati,0,11,"Houston, TX / Schroeder Park",2026,WN2026
+05/05/2026,Houston,Texas A&M-Corpus Christi,10,1,0,0,W,Houston,Houston,Texas-AM-Corpus-Christi,0,9,"Houston, TX / Schroeder Park",2026,WN2026
+05/08/2026,Arizona,Houston,4,7,0,0,W,Houston,Houston,Arizona,1,9,"Tucson, AZ / Hi Corbett Field / Box Score",2026,WN2026
+05/09/2026,Arizona,Houston,5,7,0,0,W,Houston,Houston,Arizona,1,13,"Tucson, AZ / Hi Corbett Field / Box Score",2026,WN2026
+05/10/2026,Arizona,Houston,6,5,0,0,L,Houston,Houston,Arizona,1,9,"Tucson, AZ / Hi Corbett Field / Box Score",2026,WN2026
+05/12/2026,Houston,Rice,14,3,0,0,W,Houston,Houston,Rice,0,7,"Houston, TX / Schroeder Park",2026,WN2026
+05/14/2026,Houston,Arizona State,3,4,0,0,L,Houston,Houston,Arizona-State,0,9,"Houston, TX / Schroeder Park / Box Score",2026,WN2026
+05/15/2026,Houston,Arizona State,5,3,0,0,W,Houston,Houston,Arizona-State,0,9,"Houston, TX / Schroeder Park / Box Score",2026,WN2026
+05/16/2026,Houston,Arizona State,3,8,0,0,L,Houston,Houston,Arizona-State,0,9,"Houston, TX / Schroeder Park / Box Score",2026,WN2026

@@ -1,0 +1,48 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Wofford,Mercyhurst,12,2,0,0,L,Mercyhurst,Mercyhurst,Wofford,1,7,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/14/2026,Wofford,Mercyhurst,10,0,0,0,L,Mercyhurst,Mercyhurst,Wofford,1,7,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/14/2026,Wofford,Mercyhurst,13,1,0,0,L,Mercyhurst,Mercyhurst,Wofford,1,7,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/27/2026,Murray State,Mercyhurst,12,4,0,1,L,Mercyhurst,Mercyhurst,Murray-State,0,9,"Nashville, TN / Jackson Field",2026,WN2026
+02/28/2026,Murray State,Mercyhurst,10,2,0,1,L,Mercyhurst,Mercyhurst,Murray-State,0,9,"Nashville, TN / Jackson Field",2026,WN2026
+02/28/2026,Murray State,Mercyhurst,6,5,0,1,L,Mercyhurst,Mercyhurst,Murray-State,0,7,"Nashville, TN / Jackson Field",2026,WN2026
+03/01/2026,Murray State,Mercyhurst,20,4,0,1,L,Mercyhurst,Mercyhurst,Murray-State,0,7,"Nashville, TN / Jackson Field",2026,WN2026
+03/06/2026,Coppin State,Mercyhurst,2,1,0,0,L,Mercyhurst,Mercyhurst,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/07/2026,Coppin State,Mercyhurst,14,4,0,0,L,Mercyhurst,Mercyhurst,Coppin-State,1,7,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/08/2026,Coppin State,Mercyhurst,7,12,0,0,W,Mercyhurst,Mercyhurst,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/10/2026,Mercyhurst,Central Michigan,14,18,0,0,L,Mercyhurst,Mercyhurst,Central-Michigan,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/13/2026,Mercyhurst,Delaware State,4,3,0,0,W,Mercyhurst,Mercyhurst,Delaware-State,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/14/2026,Mercyhurst,Delaware State,10,0,0,0,W,Mercyhurst,Mercyhurst,Delaware-State,0,7,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/15/2026,Mercyhurst,Delaware State,9,8,0,0,W,Mercyhurst,Mercyhurst,Delaware-State,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/20/2026,Stonehill,Mercyhurst,12,9,0,0,L,Mercyhurst,Mercyhurst,Stonehill,1,9,"Easton, MA / Lou Gorman Field",2026,WN2026
+03/22/2026,Stonehill,Mercyhurst,9,7,0,0,L,Mercyhurst,Mercyhurst,Stonehill,1,9,"Easton, MA / Lou Gorman Field",2026,WN2026
+03/22/2026,Stonehill,Mercyhurst,15,5,0,0,L,Mercyhurst,Mercyhurst,Stonehill,1,7,"Easton, MA / Lou Gorman Field",2026,WN2026
+03/24/2026,Mercyhurst,Akron,7,8,0,0,L,Mercyhurst,Mercyhurst,Akron,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/27/2026,Mercyhurst,Norfolk State,11,2,0,0,W,Mercyhurst,Mercyhurst,Norfolk-State,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/28/2026,Mercyhurst,Norfolk State,0,3,0,0,L,Mercyhurst,Mercyhurst,Norfolk-State,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/29/2026,Mercyhurst,Norfolk State,0,4,0,0,L,Mercyhurst,Mercyhurst,Norfolk-State,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/31/2026,Pittsburgh,Mercyhurst,27,3,0,0,L,Mercyhurst,Mercyhurst,Pittsburgh,1,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+04/02/2026,Mercyhurst,New Haven,12,3,0,0,W,Mercyhurst,Mercyhurst,New-Haven,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+04/03/2026,Mercyhurst,New Haven,12,2,0,0,W,Mercyhurst,Mercyhurst,New-Haven,0,8,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+04/03/2026,Mercyhurst,New Haven,4,3,0,0,W,Mercyhurst,Mercyhurst,New-Haven,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+04/08/2026,Mercyhurst,Niagara,12,5,0,0,W,Mercyhurst,Mercyhurst,Niagara,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+04/11/2026,Le Moyne,Mercyhurst,11,4,0,0,L,Mercyhurst,Mercyhurst,Le-Moyne,1,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+04/11/2026,Le Moyne,Mercyhurst,5,7,0,0,W,Mercyhurst,Mercyhurst,Le-Moyne,1,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+04/12/2026,Le Moyne,Mercyhurst,11,10,0,0,L,Mercyhurst,Mercyhurst,Le-Moyne,1,9,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+04/14/2026,Mercyhurst,Kent State,2,14,0,0,L,Mercyhurst,Mercyhurst,Kent-State,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+04/17/2026,Maryland Eastern Shore,Mercyhurst,0,14,0,0,W,Mercyhurst,Mercyhurst,Maryland-Eastern-Shore,1,7,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+04/18/2026,Maryland Eastern Shore,Mercyhurst,5,6,0,0,W,Mercyhurst,Mercyhurst,Maryland-Eastern-Shore,1,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+04/19/2026,Maryland Eastern Shore,Mercyhurst,1,14,0,0,W,Mercyhurst,Mercyhurst,Maryland-Eastern-Shore,1,7,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+04/22/2026,Kent State,Mercyhurst,13,2,0,0,L,Mercyhurst,Mercyhurst,Kent-State,1,7,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+04/24/2026,Mercyhurst,Fairleigh Dickinson,6,20,0,0,L,Mercyhurst,Mercyhurst,Fairleigh-Dickinson,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+04/25/2026,Mercyhurst,Fairleigh Dickinson,1,4,0,0,L,Mercyhurst,Mercyhurst,Fairleigh-Dickinson,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+04/26/2026,Mercyhurst,Fairleigh Dickinson,9,10,0,0,L,Mercyhurst,Mercyhurst,Fairleigh-Dickinson,0,11,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+05/01/2026,Mercyhurst,Long Island,3,13,0,0,L,Mercyhurst,Mercyhurst,Long-Island,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+05/02/2026,Mercyhurst,Long Island,5,6,0,0,L,Mercyhurst,Mercyhurst,Long-Island,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+05/03/2026,Mercyhurst,Long Island,2,4,0,0,L,Mercyhurst,Mercyhurst,Long-Island,0,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+05/08/2026,Mercyhurst,Central Connecticut,1,5,0,0,L,Mercyhurst,Mercyhurst,Central-Connecticut,0,9,"Erie, PA / Mercyhurst Baseball Field / Box Score",2026,WN2026
+05/09/2026,Mercyhurst,Central Connecticut,7,8,0,0,L,Mercyhurst,Mercyhurst,Central-Connecticut,0,10,"Erie, PA / Mercyhurst Baseball Field / Box Score",2026,WN2026
+05/10/2026,Mercyhurst,Central Connecticut,7,2,0,0,W,Mercyhurst,Mercyhurst,Central-Connecticut,0,9,"Erie, PA / Mercyhurst Baseball Field / Box Score",2026,WN2026
+05/12/2026,Niagara,Mercyhurst,7,5,0,0,L,Mercyhurst,Mercyhurst,Niagara,1,9,"Lewiston, NY / Bobo Field",2026,WN2026
+05/14/2026,Wagner,Mercyhurst,4,6,0,0,W,Mercyhurst,Mercyhurst,Wagner,1,9,"Staten Island, NY / SIUH Community Park / Box Score",2026,WN2026
+05/15/2026,Wagner,Mercyhurst,5,4,0,0,L,Mercyhurst,Mercyhurst,Wagner,1,9,"Staten Island, NY / SIUH Community Park / Box Score",2026,WN2026
+05/15/2026,Wagner,Mercyhurst,8,3,0,0,L,Mercyhurst,Mercyhurst,Wagner,1,9,"Staten Island, NY / SIUH Community Park / Box Score",2026,WN2026

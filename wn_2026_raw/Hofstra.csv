@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Mississippi State,Hofstra,6,5,0,0,L,Hofstra,Hofstra,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+02/14/2026,Mississippi State,Hofstra,6,1,0,0,L,Hofstra,Hofstra,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+02/14/2026,Mississippi State,Hofstra,7,5,0,0,L,Hofstra,Hofstra,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+02/27/2026,Liberty,Hofstra,7,2,0,0,L,Hofstra,Hofstra,Liberty,1,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+02/28/2026,Liberty,Hofstra,13,2,0,0,L,Hofstra,Hofstra,Liberty,1,7,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/01/2026,Liberty,Hofstra,10,7,0,0,L,Hofstra,Hofstra,Liberty,1,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/06/2026,Charleston,Hofstra,5,1,0,0,L,Hofstra,Hofstra,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+03/07/2026,Charleston,Hofstra,3,8,0,0,W,Hofstra,Hofstra,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+03/08/2026,Charleston,Hofstra,5,4,0,0,L,Hofstra,Hofstra,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+03/11/2026,Hofstra,Rider,16,6,0,0,W,Hofstra,Hofstra,Rider,0,8,"Hempstead, NY / University Field",2026,WN2026
+03/13/2026,Monmouth,Hofstra,5,4,0,0,L,Hofstra,Hofstra,Monmouth,1,9,"West Long Branch, NJ / Monmouth Baseball Field",2026,WN2026
+03/14/2026,Monmouth,Hofstra,4,5,0,0,W,Hofstra,Hofstra,Monmouth,1,9,"West Long Branch, NJ / Monmouth Baseball Field",2026,WN2026
+03/15/2026,Monmouth,Hofstra,19,9,0,0,L,Hofstra,Hofstra,Monmouth,1,7,"West Long Branch, NJ / Monmouth Baseball Field",2026,WN2026
+03/17/2026,Hofstra,New Haven,15,5,0,0,W,Hofstra,Hofstra,New-Haven,0,8,"Hempstead, NY / University Field",2026,WN2026
+03/18/2026,Fairfield,Hofstra,3,5,0,0,W,Hofstra,Hofstra,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+03/20/2026,Seton Hall,Hofstra,5,4,0,0,L,Hofstra,Hofstra,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+03/21/2026,Seton Hall,Hofstra,8,16,0,0,W,Hofstra,Hofstra,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+03/22/2026,Seton Hall,Hofstra,6,2,0,0,L,Hofstra,Hofstra,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+03/25/2026,Villanova,Hofstra,9,8,0,0,L,Hofstra,Hofstra,Villanova,1,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+03/27/2026,Hofstra,Northeastern,5,4,0,0,W,Hofstra,Hofstra,Northeastern,0,11,"Hempstead, NY / University Field",2026,WN2026
+03/28/2026,Hofstra,Northeastern,11,12,0,0,L,Hofstra,Hofstra,Northeastern,0,9,"Hempstead, NY / University Field",2026,WN2026
+03/29/2026,Hofstra,Northeastern,11,10,0,0,W,Hofstra,Hofstra,Northeastern,0,9,"Hempstead, NY / University Field",2026,WN2026
+03/31/2026,Rutgers,Hofstra,2,3,0,0,W,Hofstra,Hofstra,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/02/2026,Towson,Hofstra,9,6,0,0,L,Hofstra,Hofstra,Towson,1,9,"Towson, MD / John B. Schuerholz Park",2026,WN2026
+04/03/2026,Towson,Hofstra,6,9,0,0,W,Hofstra,Hofstra,Towson,1,9,"Towson, MD / John B. Schuerholz Park",2026,WN2026
+04/04/2026,Towson,Hofstra,8,6,0,0,L,Hofstra,Hofstra,Towson,1,9,"Towson, MD / John B. Schuerholz Park",2026,WN2026
+04/10/2026,Hofstra,Stony Brook,11,5,0,0,W,Hofstra,Hofstra,Stony-Brook,0,9,"Hempstead, NY / University Field",2026,WN2026
+04/11/2026,Hofstra,Stony Brook,0,5,0,0,L,Hofstra,Hofstra,Stony-Brook,0,9,"Hempstead, NY / University Field",2026,WN2026
+04/12/2026,Hofstra,Stony Brook,11,12,0,0,L,Hofstra,Hofstra,Stony-Brook,0,10,"Hempstead, NY / University Field",2026,WN2026
+04/14/2026,Saint John's,Hofstra,10,7,0,0,L,Hofstra,Hofstra,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+04/17/2026,UNCW,Hofstra,1,10,0,0,W,Hofstra,Hofstra,UNCW,1,9,"Wilmington, NC / Brooks Field",2026,WN2026
+04/18/2026,UNCW,Hofstra,12,0,0,0,L,Hofstra,Hofstra,UNCW,1,8,"Wilmington, NC / Brooks Field",2026,WN2026
+04/19/2026,UNCW,Hofstra,5,6,0,0,W,Hofstra,Hofstra,UNCW,1,9,"Wilmington, NC / Brooks Field",2026,WN2026
+04/21/2026,NJIT,Hofstra,5,11,0,0,W,Hofstra,Hofstra,NJIT,1,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/24/2026,Northeastern,Hofstra,8,0,0,0,L,Hofstra,Hofstra,Northeastern,1,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/25/2026,Northeastern,Hofstra,8,6,0,0,L,Hofstra,Hofstra,Northeastern,1,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/26/2026,Northeastern,Hofstra,2,13,0,0,W,Hofstra,Hofstra,Northeastern,1,7,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/28/2026,Hofstra,Saint John's,10,12,0,0,L,Hofstra,Hofstra,Saint-Johns,0,9,"Hempstead, NY / University Field",2026,WN2026
+05/01/2026,Hofstra,Towson,12,1,0,0,W,Hofstra,Hofstra,Towson,0,7,"Hempstead, NY / University Field",2026,WN2026
+05/02/2026,Hofstra,Towson,5,6,0,0,L,Hofstra,Hofstra,Towson,0,9,"Hempstead, NY / University Field",2026,WN2026
+05/03/2026,Hofstra,Towson,8,0,0,0,W,Hofstra,Hofstra,Towson,0,5,"Hempstead, NY / University Field",2026,WN2026
+05/08/2026,Hofstra,Monmouth,7,3,0,0,W,Hofstra,Hofstra,Monmouth,0,9,"Hempstead, NY / University Field / Box Score",2026,WN2026
+05/08/2026,Hofstra,Monmouth,2,5,0,0,L,Hofstra,Hofstra,Monmouth,0,9,"Hempstead, NY / University Field / Box Score",2026,WN2026
+05/10/2026,Hofstra,Monmouth,10,18,0,0,L,Hofstra,Hofstra,Monmouth,0,9,"Hempstead, NY / University Field / Box Score",2026,WN2026
+05/14/2026,Stony Brook,Hofstra,0,4,0,0,W,Hofstra,Hofstra,Stony-Brook,1,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+05/15/2026,Stony Brook,Hofstra,1,8,0,0,W,Hofstra,Hofstra,Stony-Brook,1,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+05/16/2026,Stony Brook,Hofstra,23,0,0,0,L,Hofstra,Hofstra,Stony-Brook,1,7,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+05/20/2026,Charleston,Hofstra,0,13,0,1,W,Hofstra,Hofstra,Charleston,0,7,"Wilmington, NC / Brooks Field / Box Score / Recap",2026,WN2026
+05/21/2026,Northeastern,Hofstra,0,6,0,1,W,Hofstra,Hofstra,Northeastern,0,9,"Wilmington, NC / Brooks Field / Recap",2026,WN2026
+05/23/2026,Campbell,Hofstra,5,3,0,1,L,Hofstra,Hofstra,Campbell,0,9,"Wilmington, NC / Brooks Field",2026,WN2026
+05/23/2026,Northeastern,Hofstra,5,4,0,1,L,Hofstra,Hofstra,Northeastern,0,9,"Wilmington, NC / Brooks Field",2026,WN2026

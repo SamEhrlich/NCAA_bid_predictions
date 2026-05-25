@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Appalachian State,Canisius,5,2,0,0,W,Appalachian State,Appalachian-State,Canisius,0,9,"Hickory, NC / L.P. Frans Stadium",2026,WN2026
+02/14/2026,Appalachian State,Canisius,13,3,0,0,W,Appalachian State,Appalachian-State,Canisius,0,7,"Hickory, NC / L.P. Frans Stadium",2026,WN2026
+02/14/2026,Appalachian State,Canisius,8,5,0,0,W,Appalachian State,Appalachian-State,Canisius,0,9,"Hickory, NC / L.P. Frans Stadium",2026,WN2026
+02/17/2026,Duke,Appalachian State,10,5,0,0,L,Appalachian State,Appalachian-State,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/20/2026,Appalachian State,North Carolina A&T,9,3,0,0,W,Appalachian State,Appalachian-State,North-Carolina-AT,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+02/21/2026,Appalachian State,North Carolina A&T,10,0,0,0,W,Appalachian State,Appalachian-State,North-Carolina-AT,0,7,"Hickory, NC / L.P. Frans Stadium",2026,WN2026
+02/22/2026,Appalachian State,Southern Illinois,9,8,0,0,W,Appalachian State,Appalachian-State,Southern-Illinois,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+02/25/2026,East Tennessee State,Appalachian State,5,8,0,0,W,Appalachian State,Appalachian-State,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/27/2026,Gardner-Webb,Appalachian State,7,6,0,0,L,Appalachian State,Appalachian-State,Gardner-Webb,1,12,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+02/28/2026,Gardner-Webb,Appalachian State,11,10,0,0,L,Appalachian State,Appalachian-State,Gardner-Webb,1,9,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+03/01/2026,Gardner-Webb,Appalachian State,8,7,0,0,L,Appalachian State,Appalachian-State,Gardner-Webb,1,11,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+03/04/2026,Appalachian State,Wake Forest,8,9,0,0,L,Appalachian State,Appalachian-State,Wake-Forest,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+03/06/2026,Presbyterian College,Appalachian State,5,7,0,0,W,Appalachian State,Appalachian-State,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+03/07/2026,Appalachian State,Presbyterian College,13,3,0,0,W,Appalachian State,Appalachian-State,Presbyterian-College,0,7,"Hickory, NC / L.P. Frans Stadium",2026,WN2026
+03/08/2026,Appalachian State,Presbyterian College,13,4,0,0,W,Appalachian State,Appalachian-State,Presbyterian-College,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+03/10/2026,Appalachian State,Western Carolina,3,13,0,0,L,Appalachian State,Appalachian-State,Western-Carolina,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+03/13/2026,Appalachian State,Coastal Carolina,6,10,0,0,L,Appalachian State,Appalachian-State,Coastal-Carolina,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+03/14/2026,Appalachian State,Coastal Carolina,4,7,0,0,L,Appalachian State,Appalachian-State,Coastal-Carolina,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+03/15/2026,Appalachian State,Coastal Carolina,7,8,0,0,L,Appalachian State,Appalachian-State,Coastal-Carolina,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+03/20/2026,Old Dominion,Appalachian State,13,7,0,0,L,Appalachian State,Appalachian-State,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+03/21/2026,Old Dominion,Appalachian State,3,10,0,0,W,Appalachian State,Appalachian-State,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+03/22/2026,Old Dominion,Appalachian State,6,10,0,0,W,Appalachian State,Appalachian-State,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+03/24/2026,Appalachian State,High Point,2,3,0,0,L,Appalachian State,Appalachian-State,High-Point,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+03/27/2026,Southern Miss,Appalachian State,6,5,0,0,L,Appalachian State,Appalachian-State,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+03/28/2026,Southern Miss,Appalachian State,2,6,0,0,W,Appalachian State,Appalachian-State,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+03/29/2026,Southern Miss,Appalachian State,13,4,0,0,L,Appalachian State,Appalachian-State,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+03/31/2026,Appalachian State,UNC Asheville,17,7,0,0,W,Appalachian State,Appalachian-State,UNC-Asheville,0,8,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/02/2026,Appalachian State,Marshall,6,12,0,0,L,Appalachian State,Appalachian-State,Marshall,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/03/2026,Appalachian State,Marshall,5,4,0,0,W,Appalachian State,Appalachian-State,Marshall,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/04/2026,Appalachian State,Marshall,10,4,0,0,W,Appalachian State,Appalachian-State,Marshall,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/07/2026,UNC Asheville,Appalachian State,5,18,0,0,W,Appalachian State,Appalachian-State,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+04/10/2026,Appalachian State,ULM,13,5,0,0,W,Appalachian State,Appalachian-State,ULM,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/11/2026,Appalachian State,ULM,9,14,0,0,L,Appalachian State,Appalachian-State,ULM,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/12/2026,Appalachian State,ULM,12,4,0,0,W,Appalachian State,Appalachian-State,ULM,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/14/2026,Western Carolina,Appalachian State,14,4,0,0,L,Appalachian State,Appalachian-State,Western-Carolina,1,7,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/17/2026,James Madison,Appalachian State,0,10,0,0,W,Appalachian State,Appalachian-State,James-Madison,1,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+04/18/2026,James Madison,Appalachian State,10,19,0,0,W,Appalachian State,Appalachian-State,James-Madison,1,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+04/19/2026,James Madison,Appalachian State,10,14,0,0,W,Appalachian State,Appalachian-State,James-Madison,1,9,"Harrisonburg, VA / Eagle Field at Veterans Memorial Park",2026,WN2026
+04/21/2026,Appalachian State,East Tennessee State,3,1,0,0,W,Appalachian State,Appalachian-State,East-Tennessee-State,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/24/2026,Appalachian State,Georgia Southern,16,3,0,0,W,Appalachian State,Appalachian-State,Georgia-Southern,0,7,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/25/2026,Appalachian State,Georgia Southern,11,5,0,0,W,Appalachian State,Appalachian-State,Georgia-Southern,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/26/2026,Appalachian State,Georgia Southern,7,3,0,0,W,Appalachian State,Appalachian-State,Georgia-Southern,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/28/2026,Wake Forest,Appalachian State,3,2,0,1,L,Appalachian State,Appalachian-State,Wake-Forest,0,9,"Shelby, NC / Keeter Stadium",2026,WN2026
+05/02/2026,Troy,Appalachian State,7,13,0,0,W,Appalachian State,Appalachian-State,Troy,1,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+05/02/2026,Troy,Appalachian State,0,5,0,0,W,Appalachian State,Appalachian-State,Troy,1,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+05/03/2026,Troy,Appalachian State,10,3,0,0,L,Appalachian State,Appalachian-State,Troy,1,9,"Troy, AL / Riddle-Pace Field",2026,WN2026
+05/08/2026,Appalachian State,Louisiana,4,5,0,0,L,Appalachian State,Appalachian-State,Louisiana,0,10,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium / Box Score",2026,WN2026
+05/09/2026,Appalachian State,Louisiana,7,2,0,0,W,Appalachian State,Appalachian-State,Louisiana,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium / Box Score",2026,WN2026
+05/10/2026,Appalachian State,Louisiana,3,12,0,0,L,Appalachian State,Appalachian-State,Louisiana,0,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium / Box Score",2026,WN2026
+05/14/2026,Georgia State,Appalachian State,2,12,0,0,W,Appalachian State,Appalachian-State,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex / Box Score",2026,WN2026
+05/15/2026,Georgia State,Appalachian State,4,2,0,0,L,Appalachian State,Appalachian-State,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex / Box Score",2026,WN2026
+05/16/2026,Georgia State,Appalachian State,3,2,0,0,L,Appalachian State,Appalachian-State,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex / Box Score",2026,WN2026
+05/20/2026,Texas State,Appalachian State,6,5,0,1,L,Appalachian State,Appalachian-State,Texas-State,0,9,"Montgomery, AL / Dabos Park / Box Score / Recap",2026,WN2026
+05/21/2026,Coastal Carolina,Appalachian State,8,2,0,1,L,Appalachian State,Appalachian-State,Coastal-Carolina,0,9,"Montgomery, AL / Dabos Park",2026,WN2026

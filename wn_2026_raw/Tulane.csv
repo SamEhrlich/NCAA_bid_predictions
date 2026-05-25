@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Loyola-Marymount,Tulane,3,12,0,0,W,Tulane,Tulane,Loyola-Marymount,1,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+02/14/2026,Loyola-Marymount,Tulane,6,4,0,0,L,Tulane,Tulane,Loyola-Marymount,1,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+02/15/2026,Loyola-Marymount,Tulane,2,6,0,0,W,Tulane,Tulane,Loyola-Marymount,1,9,"Los Angeles, CA / George C. Page Stadium",2026,WN2026
+02/17/2026,UCLA,Tulane,13,5,0,0,L,Tulane,Tulane,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/20/2026,Tulane,Harvard,7,3,0,0,W,Tulane,Tulane,Harvard,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+02/21/2026,Tulane,Harvard,11,9,0,0,W,Tulane,Tulane,Harvard,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+02/22/2026,Tulane,Harvard,11,1,0,0,W,Tulane,Tulane,Harvard,0,7,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+02/24/2026,New Orleans,Tulane,11,3,0,0,L,Tulane,Tulane,New-Orleans,1,9,"New Orleans, LA / Maestri Field",2026,WN2026
+02/25/2026,South Alabama,Tulane,2,15,0,0,W,Tulane,Tulane,South-Alabama,1,8,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+02/27/2026,Tulane,Eastern Kentucky,5,4,0,0,W,Tulane,Tulane,Eastern-Kentucky,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+02/28/2026,Tulane,Eastern Kentucky,3,6,0,0,L,Tulane,Tulane,Eastern-Kentucky,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/01/2026,Tulane,Eastern Kentucky,11,3,0,0,W,Tulane,Tulane,Eastern-Kentucky,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/03/2026,Nicholls,Tulane,6,5,0,0,L,Tulane,Tulane,Nicholls,1,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+03/06/2026,TCU,Tulane,10,2,0,0,L,Tulane,Tulane,TCU,1,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/08/2026,TCU,Tulane,4,8,0,0,W,Tulane,Tulane,TCU,1,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/08/2026,TCU,Tulane,4,3,0,0,L,Tulane,Tulane,TCU,1,7,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/10/2026,Mississippi State,Tulane,11,7,0,1,L,Tulane,Tulane,Mississippi-State,0,9,"Biloxi, MS / Keesler Federal Park",2026,WN2026
+03/13/2026,Tulane,Creighton,6,8,0,0,L,Tulane,Tulane,Creighton,0,12,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/14/2026,Tulane,Creighton,1,2,0,0,L,Tulane,Tulane,Creighton,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/15/2026,Tulane,Creighton,4,5,0,0,L,Tulane,Tulane,Creighton,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/17/2026,Tulane,New Orleans,5,2,0,0,W,Tulane,Tulane,New-Orleans,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/18/2026,Tulane,Northwestern State,2,0,0,0,W,Tulane,Tulane,Northwestern-State,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/20/2026,Tulane,Memphis,6,7,0,0,L,Tulane,Tulane,Memphis,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/21/2026,Tulane,Memphis,11,6,0,0,W,Tulane,Tulane,Memphis,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/22/2026,Tulane,Memphis,12,2,0,0,W,Tulane,Tulane,Memphis,0,8,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/25/2026,Tulane,Grambling State,15,5,0,0,W,Tulane,Tulane,Grambling-State,0,7,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/27/2026,UAB,Tulane,9,6,0,0,L,Tulane,Tulane,UAB,1,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/28/2026,UAB,Tulane,7,4,0,0,L,Tulane,Tulane,UAB,1,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/29/2026,UAB,Tulane,5,4,0,0,L,Tulane,Tulane,UAB,1,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/31/2026,Tulane,Nicholls,6,2,0,0,W,Tulane,Tulane,Nicholls,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+04/02/2026,Wichita State,Tulane,2,4,0,0,W,Tulane,Tulane,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+04/03/2026,Wichita State,Tulane,7,4,0,0,L,Tulane,Tulane,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+04/04/2026,Wichita State,Tulane,1,8,0,0,W,Tulane,Tulane,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+04/07/2026,Lamar,Tulane,9,5,0,0,L,Tulane,Tulane,Lamar,1,9,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+04/10/2026,Tulane,East Carolina,4,1,0,0,W,Tulane,Tulane,East-Carolina,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+04/11/2026,Tulane,East Carolina,6,9,0,0,L,Tulane,Tulane,East-Carolina,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+04/12/2026,Tulane,East Carolina,6,3,0,0,W,Tulane,Tulane,East-Carolina,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+04/14/2026,Tulane,Southeastern Louisiana,8,4,0,0,W,Tulane,Tulane,Southeastern-Louisiana,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+04/17/2026,FAU,Tulane,11,3,0,0,L,Tulane,Tulane,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/18/2026,FAU,Tulane,10,9,0,0,L,Tulane,Tulane,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/19/2026,FAU,Tulane,4,12,0,0,W,Tulane,Tulane,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/21/2026,Southern Miss,Tulane,5,4,0,0,L,Tulane,Tulane,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+04/24/2026,Tulane,UTSA,3,7,0,0,L,Tulane,Tulane,UTSA,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+04/25/2026,Tulane,UTSA,2,8,0,0,L,Tulane,Tulane,UTSA,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+04/26/2026,Tulane,UTSA,12,7,0,0,W,Tulane,Tulane,UTSA,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+04/28/2026,Tulane,Southern Miss,7,6,0,0,W,Tulane,Tulane,Southern-Miss,0,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+05/01/2026,Charlotte,Tulane,10,0,0,0,L,Tulane,Tulane,Charlotte,1,7,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+05/02/2026,Charlotte,Tulane,8,2,0,0,L,Tulane,Tulane,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+05/03/2026,Charlotte,Tulane,6,3,0,0,L,Tulane,Tulane,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+05/05/2026,LSU,Tulane,13,6,0,0,L,Tulane,Tulane,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+05/08/2026,Tulane,South Florida,6,16,0,0,L,Tulane,Tulane,South-Florida,0,9,"New Orleans, LA / Greer Field at Turchin Stadium / Box Score",2026,WN2026
+05/09/2026,Tulane,South Florida,9,8,0,0,W,Tulane,Tulane,South-Florida,0,9,"New Orleans, LA / Greer Field at Turchin Stadium / Box Score",2026,WN2026
+05/10/2026,Tulane,South Florida,9,5,0,0,W,Tulane,Tulane,South-Florida,0,9,"New Orleans, LA / Greer Field at Turchin Stadium / Box Score",2026,WN2026
+05/14/2026,Rice,Tulane,12,0,0,0,L,Tulane,Tulane,Rice,1,7,"Houston, TX / Reckling Park / Box Score",2026,WN2026
+05/15/2026,Rice,Tulane,10,6,0,0,L,Tulane,Tulane,Rice,1,9,"Houston, TX / Reckling Park / Box Score",2026,WN2026
+05/16/2026,Rice,Tulane,6,5,0,0,L,Tulane,Tulane,Rice,1,11,"Houston, TX / Reckling Park / Box Score",2026,WN2026

@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Memphis,Toledo,6,8,0,0,L,Memphis,Memphis,Toledo,0,9,"Memphis, TN / FedExPark",2026,WN2026
+02/14/2026,Memphis,Toledo,5,4,0,0,W,Memphis,Memphis,Toledo,0,10,"Memphis, TN / FedExPark",2026,WN2026
+02/15/2026,Memphis,Toledo,6,4,0,0,W,Memphis,Memphis,Toledo,0,9,"Memphis, TN / FedExPark",2026,WN2026
+02/17/2026,Memphis,Little Rock,11,12,0,0,L,Memphis,Memphis,Little-Rock,0,9,"Memphis, TN / FedExPark",2026,WN2026
+02/20/2026,Memphis,Ohio State,5,12,0,0,L,Memphis,Memphis,Ohio-State,0,9,"Memphis, TN / FedExPark",2026,WN2026
+02/21/2026,Memphis,Louisiana Tech,5,8,0,0,L,Memphis,Memphis,Louisiana-Tech,0,9,"Memphis, TN / FedExPark",2026,WN2026
+02/22/2026,Memphis,Ohio State,2,8,0,0,L,Memphis,Memphis,Ohio-State,0,9,"Memphis, TN / FedExPark",2026,WN2026
+02/24/2026,Little Rock,Memphis,5,24,0,0,W,Memphis,Memphis,Little-Rock,1,8,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+02/27/2026,Memphis,Jacksonville State,1,10,0,0,L,Memphis,Memphis,Jacksonville-State,0,9,"Memphis, TN / FedExPark",2026,WN2026
+02/28/2026,Memphis,Jacksonville State,4,9,0,0,L,Memphis,Memphis,Jacksonville-State,0,9,"Memphis, TN / FedExPark",2026,WN2026
+03/01/2026,Memphis,Jacksonville State,1,7,0,0,L,Memphis,Memphis,Jacksonville-State,0,9,"Memphis, TN / FedExPark",2026,WN2026
+03/03/2026,Ole Miss,Memphis,7,1,0,0,L,Memphis,Memphis,Ole-Miss,1,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/06/2026,Missouri State,Memphis,12,5,0,0,L,Memphis,Memphis,Missouri-State,1,9,"Springfield, MO / Hammons Field",2026,WN2026
+03/07/2026,Missouri State,Memphis,14,5,0,0,L,Memphis,Memphis,Missouri-State,1,9,"Springfield, MO / Hammons Field",2026,WN2026
+03/08/2026,Missouri State,Memphis,13,12,0,0,L,Memphis,Memphis,Missouri-State,1,9,"Springfield, MO / Hammons Field",2026,WN2026
+03/10/2026,Memphis,Lipscomb,5,2,0,0,W,Memphis,Memphis,Lipscomb,0,9,"Memphis, TN / FedExPark",2026,WN2026
+03/13/2026,Memphis,Eastern Illinois,14,2,0,0,W,Memphis,Memphis,Eastern-Illinois,0,7,"Memphis, TN / FedExPark",2026,WN2026
+03/14/2026,Memphis,Eastern Illinois,7,12,0,0,L,Memphis,Memphis,Eastern-Illinois,0,9,"Memphis, TN / FedExPark",2026,WN2026
+03/15/2026,Memphis,Eastern Illinois,14,25,0,0,L,Memphis,Memphis,Eastern-Illinois,0,9,"Memphis, TN / FedExPark",2026,WN2026
+03/20/2026,Tulane,Memphis,6,7,0,0,W,Memphis,Memphis,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/21/2026,Tulane,Memphis,11,6,0,0,L,Memphis,Memphis,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/22/2026,Tulane,Memphis,12,2,0,0,L,Memphis,Memphis,Tulane,1,8,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/24/2026,Memphis,Ole Miss,6,2,0,0,W,Memphis,Memphis,Ole-Miss,0,9,"Memphis, TN / FedExPark",2026,WN2026
+03/27/2026,Memphis,Wichita State,3,7,0,0,L,Memphis,Memphis,Wichita-State,0,9,"Memphis, TN / FedExPark",2026,WN2026
+03/28/2026,Memphis,Wichita State,11,1,0,0,W,Memphis,Memphis,Wichita-State,0,8,"Memphis, TN / FedExPark",2026,WN2026
+03/29/2026,Memphis,Wichita State,3,7,0,0,L,Memphis,Memphis,Wichita-State,0,9,"Memphis, TN / FedExPark",2026,WN2026
+03/31/2026,Memphis,Arkansas State,11,9,0,0,W,Memphis,Memphis,Arkansas-State,0,9,"Memphis, TN / FedExPark",2026,WN2026
+04/02/2026,South Florida,Memphis,10,1,0,0,L,Memphis,Memphis,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+04/03/2026,South Florida,Memphis,4,7,0,0,W,Memphis,Memphis,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+04/04/2026,South Florida,Memphis,5,0,0,0,L,Memphis,Memphis,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+04/07/2026,Arkansas State,Memphis,12,2,0,0,L,Memphis,Memphis,Arkansas-State,1,8,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+04/10/2026,Memphis,FAU,4,17,0,0,L,Memphis,Memphis,FAU,0,8,"Memphis, TN / FedExPark",2026,WN2026
+04/11/2026,Memphis,FAU,4,6,0,0,L,Memphis,Memphis,FAU,0,13,"Memphis, TN / FedExPark",2026,WN2026
+04/12/2026,Memphis,FAU,11,6,0,0,W,Memphis,Memphis,FAU,0,9,"Memphis, TN / FedExPark",2026,WN2026
+04/14/2026,Memphis,Mississippi Valley State,11,3,0,0,W,Memphis,Memphis,Mississippi-Valley-State,0,9,"Memphis, TN / FedExPark",2026,WN2026
+04/17/2026,Rice,Memphis,1,4,0,0,W,Memphis,Memphis,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+04/19/2026,Rice,Memphis,6,10,0,0,W,Memphis,Memphis,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+04/19/2026,Rice,Memphis,5,6,0,0,W,Memphis,Memphis,Rice,1,10,"Houston, TX / Reckling Park",2026,WN2026
+04/21/2026,Mississippi State,Memphis,6,2,0,0,L,Memphis,Memphis,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/24/2026,UAB,Memphis,7,6,0,0,L,Memphis,Memphis,UAB,1,11,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+04/25/2026,UAB,Memphis,9,13,0,0,W,Memphis,Memphis,UAB,1,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+04/26/2026,UAB,Memphis,11,2,0,0,L,Memphis,Memphis,UAB,1,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+04/28/2026,Murray State,Memphis,9,5,0,0,L,Memphis,Memphis,Murray-State,1,9,"Murray, KY / Reagan Field",2026,WN2026
+05/01/2026,Memphis,East Carolina,0,12,0,0,L,Memphis,Memphis,East-Carolina,0,8,"Memphis, TN / FedExPark",2026,WN2026
+05/02/2026,Memphis,East Carolina,5,3,0,0,W,Memphis,Memphis,East-Carolina,0,9,"Memphis, TN / FedExPark",2026,WN2026
+05/03/2026,Memphis,East Carolina,9,4,0,0,W,Memphis,Memphis,East-Carolina,0,9,"Memphis, TN / FedExPark",2026,WN2026
+05/05/2026,Memphis,Central Arkansas,8,3,0,0,W,Memphis,Memphis,Central-Arkansas,0,9,"Memphis, TN / FedExPark",2026,WN2026
+05/08/2026,Memphis,UTSA,6,4,0,0,W,Memphis,Memphis,UTSA,0,9,"Memphis, TN / FedExPark / Box Score",2026,WN2026
+05/09/2026,Memphis,UTSA,2,9,0,0,L,Memphis,Memphis,UTSA,0,9,"Memphis, TN / FedExPark / Box Score",2026,WN2026
+05/10/2026,Memphis,UTSA,10,5,0,0,W,Memphis,Memphis,UTSA,0,9,"Memphis, TN / FedExPark / Box Score",2026,WN2026
+05/12/2026,Middle Tennessee,Memphis,10,9,0,0,L,Memphis,Memphis,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+05/14/2026,Charlotte,Memphis,4,9,0,0,W,Memphis,Memphis,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium / Box Score",2026,WN2026
+05/15/2026,Charlotte,Memphis,8,2,0,0,L,Memphis,Memphis,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium / Box Score",2026,WN2026
+05/16/2026,Charlotte,Memphis,8,7,0,0,L,Memphis,Memphis,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium / Box Score",2026,WN2026
+05/20/2026,Charlotte,Memphis,9,13,0,1,W,Memphis,Memphis,Charlotte,0,9,"Clearwater, FL / BayCare Ballpark / Box Score / Recap",2026,WN2026
+05/21/2026,UAB,Memphis,3,7,0,1,W,Memphis,Memphis,UAB,0,9,"Clearwater, FL / BayCare Ballpark / Recap",2026,WN2026
+05/22/2026,UTSA,Memphis,4,0,0,1,L,Memphis,Memphis,UTSA,0,9,"Clearwater, FL / BayCare Ballpark / Recap",2026,WN2026
+05/22/2026,Wichita State,Memphis,6,4,0,1,L,Memphis,Memphis,Wichita-State,0,9,"Clearwater, FL / BayCare Ballpark",2026,WN2026

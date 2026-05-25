@@ -1,0 +1,48 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Appalachian State,Canisius,5,2,0,0,L,Canisius,Canisius,Appalachian-State,1,9,"Hickory, NC / L.P. Frans Stadium",2026,WN2026
+02/14/2026,Appalachian State,Canisius,13,3,0,0,L,Canisius,Canisius,Appalachian-State,1,7,"Hickory, NC / L.P. Frans Stadium",2026,WN2026
+02/14/2026,Appalachian State,Canisius,8,5,0,0,L,Canisius,Canisius,Appalachian-State,1,9,"Hickory, NC / L.P. Frans Stadium",2026,WN2026
+02/20/2026,UNCG,Canisius,3,1,0,0,L,Canisius,Canisius,UNCG,1,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+02/21/2026,UNCG,Canisius,7,3,0,0,L,Canisius,Canisius,UNCG,1,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+02/22/2026,UNCG,Canisius,12,2,0,0,L,Canisius,Canisius,UNCG,1,7,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+02/27/2026,Towson,Canisius,2,3,0,0,W,Canisius,Canisius,Towson,1,9,"Towson, MD / John B. Schuerholz Park",2026,WN2026
+02/28/2026,Towson,Canisius,2,4,0,0,W,Canisius,Canisius,Towson,1,9,"Towson, MD / John B. Schuerholz Park",2026,WN2026
+03/01/2026,Towson,Canisius,16,7,0,0,L,Canisius,Canisius,Towson,1,9,"Towson, MD / John B. Schuerholz Park",2026,WN2026
+03/06/2026,Delaware,Canisius,5,7,0,0,W,Canisius,Canisius,Delaware,1,9,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+03/07/2026,Delaware,Canisius,14,1,0,0,L,Canisius,Canisius,Delaware,1,7,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+03/08/2026,Delaware,Canisius,10,0,0,0,L,Canisius,Canisius,Delaware,1,7,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+03/13/2026,Mount Saint Mary's,Canisius,17,10,0,0,L,Canisius,Canisius,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/14/2026,Mount Saint Mary's,Canisius,10,9,0,0,L,Canisius,Canisius,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/15/2026,Mount Saint Mary's,Canisius,8,4,0,0,L,Canisius,Canisius,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/20/2026,Canisius,Merrimack,2,4,0,0,L,Canisius,Canisius,Merrimack,0,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+03/21/2026,Canisius,Merrimack,14,3,0,0,W,Canisius,Canisius,Merrimack,0,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+03/21/2026,Canisius,Merrimack,5,3,0,0,W,Canisius,Canisius,Merrimack,0,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+03/27/2026,Rider,Canisius,15,3,0,0,L,Canisius,Canisius,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+03/28/2026,Rider,Canisius,2,8,0,0,W,Canisius,Canisius,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+03/29/2026,Rider,Canisius,15,7,0,0,L,Canisius,Canisius,Rider,1,9,"Lawrenceville, NJ / Sonny Pittaro Field",2026,WN2026
+04/02/2026,Canisius,Saint Peter's,11,0,0,0,W,Canisius,Canisius,Saint-Peters,0,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+04/03/2026,Canisius,Saint Peter's,7,3,0,0,W,Canisius,Canisius,Saint-Peters,0,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+04/03/2026,Canisius,Saint Peter's,7,3,0,0,W,Canisius,Canisius,Saint-Peters,0,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+04/08/2026,Saint Bonaventure,Canisius,11,2,0,0,L,Canisius,Canisius,Saint-Bonaventure,1,9,"St. Bonaventure, NY / Fred Handler Park",2026,WN2026
+04/10/2026,Niagara,Canisius,3,4,0,0,W,Canisius,Canisius,Niagara,1,12,"Lewiston, NY / Bobo Field",2026,WN2026
+04/11/2026,Niagara,Canisius,6,4,0,0,L,Canisius,Canisius,Niagara,1,9,"Lewiston, NY / Bobo Field",2026,WN2026
+04/11/2026,Niagara,Canisius,6,5,0,0,L,Canisius,Canisius,Niagara,1,9,"Lewiston, NY / Bobo Field",2026,WN2026
+04/15/2026,Canisius,Bowling Green,3,9,0,0,L,Canisius,Canisius,Bowling-Green,0,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+04/17/2026,Canisius,Quinnipiac,10,3,0,0,W,Canisius,Canisius,Quinnipiac,0,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+04/17/2026,Canisius,Quinnipiac,0,3,0,0,L,Canisius,Canisius,Quinnipiac,0,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+04/19/2026,Canisius,Quinnipiac,2,12,0,0,L,Canisius,Canisius,Quinnipiac,0,7,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+04/21/2026,Le Moyne,Canisius,11,24,0,0,W,Canisius,Canisius,Le-Moyne,1,7,"Syracuse, NY / Dick Rockwell Field",2026,WN2026
+04/24/2026,Manhattan,Canisius,4,5,0,0,W,Canisius,Canisius,Manhattan,1,9,"Pomona, NY / Clover Stadium",2026,WN2026
+04/24/2026,Manhattan,Canisius,7,5,0,0,L,Canisius,Canisius,Manhattan,1,9,"Pomona, NY / Clover Stadium",2026,WN2026
+04/26/2026,Manhattan,Canisius,5,8,0,0,W,Canisius,Canisius,Manhattan,1,9,"Pomona, NY / Clover Stadium",2026,WN2026
+05/01/2026,Iona,Canisius,1,3,0,0,W,Canisius,Canisius,Iona,1,11,"New Rochelle, NY / City Park",2026,WN2026
+05/02/2026,Iona,Canisius,4,2,0,0,L,Canisius,Canisius,Iona,1,9,"New Rochelle, NY / City Park",2026,WN2026
+05/03/2026,Iona,Canisius,1,7,0,0,W,Canisius,Canisius,Iona,1,9,"New Rochelle, NY / City Park",2026,WN2026
+05/08/2026,Canisius,Sacred Heart,6,3,0,0,W,Canisius,Canisius,Sacred-Heart,0,9,"Buffalo, NY / Demske Sports Complex / Box Score",2026,WN2026
+05/09/2026,Canisius,Sacred Heart,5,3,0,0,W,Canisius,Canisius,Sacred-Heart,0,9,"Buffalo, NY / Demske Sports Complex / Box Score",2026,WN2026
+05/10/2026,Canisius,Sacred Heart,5,10,0,0,L,Canisius,Canisius,Sacred-Heart,0,9,"Buffalo, NY / Demske Sports Complex / Box Score",2026,WN2026
+05/13/2026,Canisius,Siena,15,2,0,0,W,Canisius,Canisius,Siena,0,9,"Buffalo, NY / Demske Sports Complex",2026,WN2026
+05/14/2026,Canisius,Siena,13,6,0,0,W,Canisius,Canisius,Siena,0,9,"Buffalo, NY / Demske Sports Complex / Box Score",2026,WN2026
+05/15/2026,Canisius,Siena,10,0,0,0,W,Canisius,Canisius,Siena,0,7,"Buffalo, NY / Demske Sports Complex / Box Score",2026,WN2026
+05/20/2026,Merrimack,Canisius,7,0,0,1,L,Canisius,Canisius,Merrimack,0,9,"Wappingers Falls, NY / Heritage Financial Park / Box Score / Recap",2026,WN2026
+05/20/2026,Marist,Canisius,10,8,0,1,L,Canisius,Canisius,Marist,0,9,"Wappingers Falls, NY / Heritage Financial Park",2026,WN2026

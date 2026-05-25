@@ -1,0 +1,48 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/20/2026,Mount Saint Mary's,UMass,4,6,0,0,W,UMass,UMass,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+02/21/2026,Mount Saint Mary's,UMass,6,10,0,0,W,UMass,UMass,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+02/21/2026,Mount Saint Mary's,UMass,5,7,0,0,W,UMass,UMass,Mount-Saint-Marys,1,8,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+02/27/2026,Siena,UMass,2,6,0,1,W,UMass,UMass,Siena,0,9,"Aberdeen, MD / Ripken Stadium",2026,WN2026
+02/28/2026,Siena,UMass,9,7,0,1,L,UMass,UMass,Siena,0,9,"Aberdeen, MD / Ripken Stadium",2026,WN2026
+03/01/2026,Siena,UMass,9,7,0,1,L,UMass,UMass,Siena,0,9,"Aberdeen, MD / Ripken Stadium",2026,WN2026
+03/06/2026,Toledo,UMass,5,0,0,0,L,UMass,UMass,Toledo,1,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+03/07/2026,Toledo,UMass,11,1,0,0,L,UMass,UMass,Toledo,1,7,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+03/08/2026,Toledo,UMass,16,11,0,0,L,UMass,UMass,Toledo,1,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+03/13/2026,Akron,UMass,12,2,0,0,L,UMass,UMass,Akron,1,7,"Akron, OH / Skeeles Field",2026,WN2026
+03/14/2026,Akron,UMass,4,5,0,0,W,UMass,UMass,Akron,1,9,"Akron, OH / Skeeles Field",2026,WN2026
+03/15/2026,Akron,UMass,18,17,0,0,L,UMass,UMass,Akron,1,9,"Akron, OH / Skeeles Field",2026,WN2026
+03/20/2026,UMass,Kent State,3,14,0,0,L,UMass,UMass,Kent-State,0,8,"Hartford, CT / Murren Family Field",2026,WN2026
+03/21/2026,UMass,Kent State,3,9,0,0,L,UMass,UMass,Kent-State,0,9,"Hartford, CT / Murren Family Field",2026,WN2026
+03/22/2026,UMass,Kent State,8,9,0,0,L,UMass,UMass,Kent-State,0,9,"Hartford, CT / Murren Family Field",2026,WN2026
+03/24/2026,Albany,UMass,4,3,0,0,L,UMass,UMass,Albany,1,9,"Albany, NY / Varsity Field",2026,WN2026
+03/27/2026,Western Michigan,UMass,6,2,0,0,L,UMass,UMass,Western-Michigan,1,9,"Kalamazoo, MI / Hyames Field",2026,WN2026
+03/28/2026,Western Michigan,UMass,3,2,0,0,L,UMass,UMass,Western-Michigan,1,9,"Kalamazoo, MI / Hyames Field",2026,WN2026
+03/29/2026,Western Michigan,UMass,13,4,0,0,L,UMass,UMass,Western-Michigan,1,9,"Kalamazoo, MI / Hyames Field",2026,WN2026
+03/31/2026,UMass,Quinnipiac,6,17,0,0,L,UMass,UMass,Quinnipiac,0,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/03/2026,UMass,Northern Illinois,4,0,0,0,W,UMass,UMass,Northern-Illinois,0,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/03/2026,UMass,Northern Illinois,4,6,0,0,L,UMass,UMass,Northern-Illinois,0,11,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/04/2026,UMass,Northern Illinois,0,6,0,0,L,UMass,UMass,Northern-Illinois,0,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/07/2026,Boston College,UMass,11,1,0,0,L,UMass,UMass,Boston-College,1,8,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/10/2026,Eastern Michigan,UMass,2,4,0,0,W,UMass,UMass,Eastern-Michigan,1,9,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+04/11/2026,Eastern Michigan,UMass,0,10,0,0,W,UMass,UMass,Eastern-Michigan,1,9,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+04/12/2026,Eastern Michigan,UMass,15,19,0,0,W,UMass,UMass,Eastern-Michigan,1,9,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+04/14/2026,Harvard,UMass,17,12,0,1,L,UMass,UMass,Harvard,0,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/17/2026,UMass,Bowling Green,5,4,0,0,W,UMass,UMass,Bowling-Green,0,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/18/2026,UMass,Bowling Green,6,5,0,0,W,UMass,UMass,Bowling-Green,0,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/18/2026,UMass,Bowling Green,2,1,0,0,W,UMass,UMass,Bowling-Green,0,11,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/21/2026,UMass,Central Connecticut,4,6,0,0,L,UMass,UMass,Central-Connecticut,0,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/22/2026,UMass,Stonehill,5,12,0,0,L,UMass,UMass,Stonehill,0,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/25/2026,Ball State,UMass,8,9,0,0,W,UMass,UMass,Ball-State,1,11,"Muncie, IN / Ball Diamond",2026,WN2026
+04/25/2026,Ball State,UMass,10,9,0,0,L,UMass,UMass,Ball-State,1,9,"Muncie, IN / Ball Diamond",2026,WN2026
+04/26/2026,Ball State,UMass,6,8,0,0,W,UMass,UMass,Ball-State,1,9,"Muncie, IN / Ball Diamond",2026,WN2026
+04/28/2026,Siena,UMass,7,4,0,0,L,UMass,UMass,Siena,1,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+05/01/2026,UMass,Ohio,3,5,0,0,L,UMass,UMass,Ohio,0,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+05/02/2026,UMass,Ohio,9,3,0,0,W,UMass,UMass,Ohio,0,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+05/03/2026,UMass,Ohio,1,0,0,0,W,UMass,UMass,Ohio,0,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+05/05/2026,UMass,UMass-Lowell,11,10,0,0,W,UMass,UMass,UMass-Lowell,0,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+05/08/2026,Miami (OH),UMass,9,8,0,0,L,UMass,UMass,Miami-OH,1,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park / Box Score",2026,WN2026
+05/09/2026,Miami (OH),UMass,10,8,0,0,L,UMass,UMass,Miami-OH,1,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park / Box Score",2026,WN2026
+05/10/2026,Miami (OH),UMass,8,7,0,0,L,UMass,UMass,Miami-OH,1,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park / Box Score",2026,WN2026
+05/15/2026,UMass,Central Michigan,3,5,0,0,L,UMass,UMass,Central-Michigan,0,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+05/16/2026,UMass,Central Michigan,13,9,0,0,W,UMass,UMass,Central-Michigan,0,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+05/16/2026,UMass,Central Michigan,10,14,0,0,L,UMass,UMass,Central-Michigan,0,9,"Amherst, MA / Earl Lorden Field",2026,WN2026

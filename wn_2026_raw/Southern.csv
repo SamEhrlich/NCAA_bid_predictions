@@ -1,0 +1,50 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Southern,Miami (OH),1,11,0,0,L,Southern,Southern,Miami-OH,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+02/14/2026,Southern,Miami (OH),3,10,0,0,L,Southern,Southern,Miami-OH,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+02/14/2026,Southern,Miami (OH),2,15,0,0,L,Southern,Southern,Miami-OH,0,8,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+02/18/2026,Southern,New Orleans,5,14,0,0,L,Southern,Southern,New-Orleans,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+02/20/2026,Grambling State,Southern,3,13,0,1,W,Southern,Southern,Grambling-State,0,8,"Vero Beach, FL / Jackie Robinson Training Complex",2026,WN2026
+02/21/2026,Texas Southern,Southern,15,12,0,1,L,Southern,Southern,Texas-Southern,0,9,"Vero Beach, FL / Jackie Robinson Training Complex",2026,WN2026
+02/25/2026,New Orleans,Southern,4,0,0,0,L,Southern,Southern,New-Orleans,1,9,"New Orleans, LA / Maestri Field",2026,WN2026
+02/27/2026,Southern,Morehead State,5,3,0,0,W,Southern,Southern,Morehead-State,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+02/28/2026,Southern,Morehead State,10,8,0,0,W,Southern,Southern,Morehead-State,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+03/01/2026,Southern,Morehead State,7,8,0,0,L,Southern,Southern,Morehead-State,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+03/03/2026,Southern,McNeese,5,14,0,0,L,Southern,Southern,McNeese,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+03/06/2026,South Florida,Southern,6,1,0,0,L,Southern,Southern,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/07/2026,South Florida,Southern,15,1,0,0,L,Southern,Southern,South-Florida,1,7,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/07/2026,South Florida,Southern,9,2,0,0,L,Southern,Southern,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/13/2026,Florida A&M,Southern,12,7,0,0,L,Southern,Southern,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/14/2026,Florida A&M,Southern,5,9,0,0,W,Southern,Southern,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/15/2026,Florida A&M,Southern,10,6,0,0,L,Southern,Southern,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/20/2026,Alabama State,Southern,6,18,0,0,W,Southern,Southern,Alabama-State,1,8,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/21/2026,Alabama State,Southern,7,5,0,0,L,Southern,Southern,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/22/2026,Alabama State,Southern,5,2,0,0,L,Southern,Southern,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/24/2026,McNeese,Southern,2,6,0,0,W,Southern,Southern,McNeese,1,9,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+03/27/2026,Southern,Prairie View A&M,9,1,0,0,W,Southern,Southern,Prairie-View-AM,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+03/28/2026,Southern,Prairie View A&M,3,6,0,0,L,Southern,Southern,Prairie-View-AM,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+03/29/2026,Southern,Prairie View A&M,9,8,0,0,W,Southern,Southern,Prairie-View-AM,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+03/31/2026,LSU,Southern,16,6,0,0,L,Southern,Southern,LSU,1,7,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+04/03/2026,Southern,Bethune-Cookman,7,3,0,0,W,Southern,Southern,Bethune-Cookman,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+04/04/2026,Southern,Bethune-Cookman,3,6,0,0,L,Southern,Southern,Bethune-Cookman,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+04/04/2026,Southern,Bethune-Cookman,7,12,0,0,L,Southern,Southern,Bethune-Cookman,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+04/08/2026,Northwestern State,Southern,9,3,0,0,L,Southern,Southern,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+04/10/2026,Grambling State,Southern,5,7,0,0,W,Southern,Southern,Grambling-State,1,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/11/2026,Grambling State,Southern,6,7,0,0,W,Southern,Southern,Grambling-State,1,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/12/2026,Grambling State,Southern,11,13,0,0,W,Southern,Southern,Grambling-State,1,10,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/17/2026,Alcorn State,Southern,4,8,0,0,W,Southern,Southern,Alcorn-State,1,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/18/2026,Alcorn State,Southern,5,17,0,0,W,Southern,Southern,Alcorn-State,1,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/19/2026,Alcorn State,Southern,5,14,0,0,W,Southern,Southern,Alcorn-State,1,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/24/2026,Southern,Arkansas-Pine Bluff,11,7,0,0,W,Southern,Southern,Arkansas-Pine-Bluff,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+04/25/2026,Southern,Arkansas-Pine Bluff,10,8,0,0,W,Southern,Southern,Arkansas-Pine-Bluff,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+04/26/2026,Southern,Arkansas-Pine Bluff,16,15,0,0,W,Southern,Southern,Arkansas-Pine-Bluff,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+04/28/2026,Louisiana,Southern,15,5,0,0,L,Southern,Southern,Louisiana,1,7,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+05/01/2026,Mississippi Valley State,Southern,2,12,0,0,W,Southern,Southern,Mississippi-Valley-State,1,9,"Itta Bena, MS / Magnolia Field",2026,WN2026
+05/02/2026,Mississippi Valley State,Southern,1,8,0,0,W,Southern,Southern,Mississippi-Valley-State,1,9,"Itta Bena, MS / Magnolia Field",2026,WN2026
+05/03/2026,Mississippi Valley State,Southern,8,12,0,0,W,Southern,Southern,Mississippi-Valley-State,1,9,"Itta Bena, MS / Magnolia Field",2026,WN2026
+05/14/2026,Southern,Alabama A&M,9,8,0,0,W,Southern,Southern,Alabama-AM,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+05/15/2026,Southern,Alabama A&M,13,7,0,0,W,Southern,Southern,Alabama-AM,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+05/16/2026,Southern,Alabama A&M,15,13,0,0,W,Southern,Southern,Alabama-AM,0,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+05/20/2026,Jackson State,Southern,3,4,0,1,W,Southern,Southern,Jackson-State,0,10,"Birmingham, AL / Rickwood Field / Box Score / Recap",2026,WN2026
+05/21/2026,Florida A&M,Southern,15,6,0,1,L,Southern,Southern,Florida-AM,0,9,"Birmingham, AL / Rickwood Field",2026,WN2026
+05/22/2026,Texas Southern,Southern,4,6,0,1,W,Southern,Southern,Texas-Southern,0,9,"Birmingham, AL / Rickwood Field",2026,WN2026
+05/23/2026,Florida A&M,Southern,5,1,0,1,L,Southern,Southern,Florida-AM,0,9,"Birmingham, AL / Rickwood Field",2026,WN2026

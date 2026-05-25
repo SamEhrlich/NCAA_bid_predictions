@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Wofford,Mercyhurst,12,2,0,0,W,Wofford,Wofford,Mercyhurst,0,7,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/14/2026,Wofford,Mercyhurst,10,0,0,0,W,Wofford,Wofford,Mercyhurst,0,7,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/14/2026,Wofford,Mercyhurst,13,1,0,0,W,Wofford,Wofford,Mercyhurst,0,7,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/17/2026,Wofford,South Carolina,2,8,0,0,L,Wofford,Wofford,South-Carolina,0,9,"Spartanburg, SC / Fifth Third Park",2026,WN2026
+02/20/2026,Wofford,Valparaiso,15,9,0,0,W,Wofford,Wofford,Valparaiso,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/21/2026,Wofford,NJIT,1,0,0,0,W,Wofford,Wofford,NJIT,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/22/2026,Wofford,Northern Illinois,6,9,0,0,L,Wofford,Wofford,Northern-Illinois,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/24/2026,Wofford,Davidson,12,8,0,0,W,Wofford,Wofford,Davidson,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/27/2026,Wofford,Saint Joseph's,12,2,0,0,W,Wofford,Wofford,Saint-Josephs,0,8,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/28/2026,Wofford,Saint Joseph's,10,6,0,0,W,Wofford,Wofford,Saint-Josephs,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/01/2026,Wofford,Saint Joseph's,6,10,0,0,L,Wofford,Wofford,Saint-Josephs,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/03/2026,UNC Asheville,Wofford,8,7,0,0,L,Wofford,Wofford,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+03/06/2026,Belmont,Wofford,8,11,0,0,W,Wofford,Wofford,Belmont,1,9,"Nashville, TN / E. S. Rose Park",2026,WN2026
+03/08/2026,Belmont,Wofford,3,2,0,0,L,Wofford,Wofford,Belmont,1,7,"Nashville, TN / E. S. Rose Park",2026,WN2026
+03/08/2026,Belmont,Wofford,1,11,0,0,W,Wofford,Wofford,Belmont,1,7,"Nashville, TN / E. S. Rose Park",2026,WN2026
+03/10/2026,South Carolina Upstate,Wofford,5,2,0,1,L,Wofford,Wofford,South-Carolina-Upstate,0,9,"Spartanburg, SC / Fifth Third Park",2026,WN2026
+03/11/2026,Wofford,Charleston,13,9,0,0,W,Wofford,Wofford,Charleston,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/13/2026,Wofford,Princeton,12,1,0,0,W,Wofford,Wofford,Princeton,0,7,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/14/2026,Wofford,Princeton,0,3,0,0,L,Wofford,Wofford,Princeton,0,7,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/14/2026,Wofford,Princeton,5,6,0,0,L,Wofford,Wofford,Princeton,0,11,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/15/2026,Wofford,Princeton,5,2,0,0,W,Wofford,Wofford,Princeton,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/17/2026,Presbyterian College,Wofford,2,9,0,0,W,Wofford,Wofford,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+03/20/2026,Xavier,Wofford,8,1,0,0,L,Wofford,Wofford,Xavier,1,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+03/21/2026,Xavier,Wofford,2,14,0,0,W,Wofford,Wofford,Xavier,1,7,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+03/22/2026,Xavier,Wofford,5,8,0,0,W,Wofford,Wofford,Xavier,1,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+03/27/2026,Wofford,UNCG,8,7,0,0,W,Wofford,Wofford,UNCG,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/28/2026,Wofford,UNCG,6,1,0,0,W,Wofford,Wofford,UNCG,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/29/2026,Wofford,UNCG,6,3,0,0,W,Wofford,Wofford,UNCG,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/31/2026,South Carolina,Wofford,11,1,0,0,L,Wofford,Wofford,South-Carolina,1,7,"Columbia, SC / Founders Park",2026,WN2026
+04/02/2026,VMI,Wofford,5,16,0,0,W,Wofford,Wofford,VMI,1,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+04/03/2026,VMI,Wofford,2,9,0,0,W,Wofford,Wofford,VMI,1,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+04/04/2026,VMI,Wofford,13,12,0,0,L,Wofford,Wofford,VMI,1,10,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+04/07/2026,Georgia State,Wofford,4,7,0,0,W,Wofford,Wofford,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+04/10/2026,Wofford,The Citadel,2,0,0,0,W,Wofford,Wofford,The-Citadel,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+04/11/2026,Wofford,The Citadel,6,5,0,0,W,Wofford,Wofford,The-Citadel,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+04/12/2026,Wofford,The Citadel,5,3,0,0,W,Wofford,Wofford,The-Citadel,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+04/14/2026,Wofford,Presbyterian College,11,2,0,0,W,Wofford,Wofford,Presbyterian-College,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+04/17/2026,UNC Asheville,Wofford,1,16,0,0,W,Wofford,Wofford,UNC-Asheville,1,7,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+04/18/2026,Wofford,UNC Asheville,11,0,0,0,W,Wofford,Wofford,UNC-Asheville,0,7,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+04/19/2026,Wofford,UNC Asheville,20,9,0,0,W,Wofford,Wofford,UNC-Asheville,0,8,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+04/21/2026,Wofford,Queens,20,1,0,0,W,Wofford,Wofford,Queens,0,7,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+04/24/2026,Mercer,Wofford,9,8,0,0,L,Wofford,Wofford,Mercer,1,11,"Macon, GA / Claude Smith Field",2026,WN2026
+04/25/2026,Mercer,Wofford,5,1,0,0,L,Wofford,Wofford,Mercer,1,9,"Macon, GA / Claude Smith Field",2026,WN2026
+04/26/2026,Mercer,Wofford,13,8,0,0,L,Wofford,Wofford,Mercer,1,9,"Macon, GA / Claude Smith Field",2026,WN2026
+04/28/2026,Wofford,Gardner-Webb,0,6,0,0,L,Wofford,Wofford,Gardner-Webb,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+05/01/2026,Wofford,Western Carolina,6,1,0,0,W,Wofford,Wofford,Western-Carolina,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+05/02/2026,Wofford,Western Carolina,2,3,0,0,L,Wofford,Wofford,Western-Carolina,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+05/03/2026,Wofford,Western Carolina,5,7,0,0,L,Wofford,Wofford,Western-Carolina,0,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+05/08/2026,Wofford,East Tennessee State,7,6,0,0,W,Wofford,Wofford,East-Tennessee-State,0,9,"Spartanburg, SC / Russell C. King Field / Box Score",2026,WN2026
+05/09/2026,Wofford,East Tennessee State,6,5,0,0,W,Wofford,Wofford,East-Tennessee-State,0,9,"Spartanburg, SC / Russell C. King Field / Box Score",2026,WN2026
+05/10/2026,Wofford,East Tennessee State,5,9,0,0,L,Wofford,Wofford,East-Tennessee-State,0,9,"Spartanburg, SC / Russell C. King Field / Box Score",2026,WN2026
+05/14/2026,Samford,Wofford,7,6,0,0,L,Wofford,Wofford,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium / Box Score",2026,WN2026
+05/15/2026,Samford,Wofford,6,8,0,0,W,Wofford,Wofford,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium / Box Score",2026,WN2026
+05/16/2026,Samford,Wofford,13,3,0,0,L,Wofford,Wofford,Samford,1,7,"Homewood, AL / Joe Lee Griffin Stadium / Box Score",2026,WN2026
+05/20/2026,The Citadel,Wofford,13,7,0,1,L,Wofford,Wofford,The-Citadel,0,9,"Greenville, SC / Fluor Field / Recap",2026,WN2026
+05/21/2026,Mercer,Wofford,9,8,0,1,L,Wofford,Wofford,Mercer,0,9,"Greenville, SC / Fluor Field",2026,WN2026

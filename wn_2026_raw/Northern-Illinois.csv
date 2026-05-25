@@ -1,0 +1,53 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,North Carolina A&T,Northern Illinois,2,10,0,0,W,Northern Illinois,Northern-Illinois,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+02/14/2026,North Carolina A&T,Northern Illinois,10,3,0,0,L,Northern Illinois,Northern-Illinois,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+02/16/2026,North Carolina A&T,Northern Illinois,5,6,0,0,W,Northern Illinois,Northern-Illinois,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+02/18/2026,East Carolina,Northern Illinois,11,5,0,0,L,Northern Illinois,Northern-Illinois,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+02/20/2026,South Carolina Upstate,Northern Illinois,8,5,0,0,L,Northern Illinois,Northern-Illinois,South-Carolina-Upstate,1,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park",2026,WN2026
+02/21/2026,Presbyterian College,Northern Illinois,1,3,0,0,W,Northern Illinois,Northern-Illinois,Presbyterian-College,1,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+02/22/2026,Wofford,Northern Illinois,6,9,0,0,W,Northern Illinois,Northern-Illinois,Wofford,1,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+02/27/2026,Lindenwood,Northern Illinois,13,3,0,0,L,Northern Illinois,Northern-Illinois,Lindenwood,1,7,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+02/28/2026,Lindenwood,Northern Illinois,1,5,0,0,W,Northern Illinois,Northern-Illinois,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+02/28/2026,Lindenwood,Northern Illinois,1,5,0,0,W,Northern Illinois,Northern-Illinois,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/01/2026,Lindenwood,Northern Illinois,8,14,0,0,W,Northern Illinois,Northern-Illinois,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/06/2026,Ohio,Northern Illinois,14,7,0,0,L,Northern Illinois,Northern-Illinois,Ohio,1,9,"Athens, OH / Bob Wren Stadium",2026,WN2026
+03/07/2026,Ohio,Northern Illinois,1,13,0,0,W,Northern Illinois,Northern-Illinois,Ohio,1,9,"Athens, OH / Bob Wren Stadium",2026,WN2026
+03/08/2026,Ohio,Northern Illinois,2,8,0,0,W,Northern Illinois,Northern-Illinois,Ohio,1,9,"Athens, OH / Bob Wren Stadium",2026,WN2026
+03/13/2026,Toledo,Northern Illinois,21,5,0,0,L,Northern Illinois,Northern-Illinois,Toledo,1,7,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+03/14/2026,Toledo,Northern Illinois,3,8,0,0,W,Northern Illinois,Northern-Illinois,Toledo,1,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+03/15/2026,Toledo,Northern Illinois,17,2,0,0,L,Northern Illinois,Northern-Illinois,Toledo,1,7,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+03/20/2026,Northern Illinois,Miami (OH),17,13,0,0,W,Northern Illinois,Northern-Illinois,Miami-OH,0,10,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+03/21/2026,Northern Illinois,Miami (OH),5,1,0,0,W,Northern Illinois,Northern-Illinois,Miami-OH,0,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+03/22/2026,Northern Illinois,Miami (OH),6,4,0,0,W,Northern Illinois,Northern-Illinois,Miami-OH,0,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+03/24/2026,Eastern Illinois,Northern Illinois,4,5,0,0,W,Northern Illinois,Northern-Illinois,Eastern-Illinois,1,10,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+03/27/2026,Northern Illinois,Bowling Green,4,5,0,0,L,Northern Illinois,Northern-Illinois,Bowling-Green,0,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+03/28/2026,Northern Illinois,Bowling Green,5,0,0,0,W,Northern Illinois,Northern-Illinois,Bowling-Green,0,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+03/29/2026,Northern Illinois,Bowling Green,12,8,0,0,W,Northern Illinois,Northern-Illinois,Bowling-Green,0,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+04/03/2026,UMass,Northern Illinois,4,0,0,0,L,Northern Illinois,Northern-Illinois,UMass,1,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/03/2026,UMass,Northern Illinois,4,6,0,0,W,Northern Illinois,Northern-Illinois,UMass,1,11,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/04/2026,UMass,Northern Illinois,0,6,0,0,W,Northern Illinois,Northern-Illinois,UMass,1,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/07/2026,Northern Illinois,Eastern Illinois,9,11,0,0,L,Northern Illinois,Northern-Illinois,Eastern-Illinois,0,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+04/10/2026,Northern Illinois,Kent State,12,2,0,0,W,Northern Illinois,Northern-Illinois,Kent-State,0,7,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+04/11/2026,Northern Illinois,Kent State,8,9,0,0,L,Northern Illinois,Northern-Illinois,Kent-State,0,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+04/12/2026,Northern Illinois,Kent State,5,2,0,0,W,Northern Illinois,Northern-Illinois,Kent-State,0,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+04/17/2026,Akron,Northern Illinois,8,10,0,0,W,Northern Illinois,Northern-Illinois,Akron,1,9,"Akron, OH / Skeeles Field",2026,WN2026
+04/18/2026,Akron,Northern Illinois,6,8,0,0,W,Northern Illinois,Northern-Illinois,Akron,1,9,"Akron, OH / Skeeles Field",2026,WN2026
+04/19/2026,Akron,Northern Illinois,4,3,0,0,L,Northern Illinois,Northern-Illinois,Akron,1,9,"Akron, OH / Skeeles Field",2026,WN2026
+04/21/2026,UIC,Northern Illinois,8,9,0,0,W,Northern Illinois,Northern-Illinois,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/24/2026,Northern Illinois,Eastern Michigan,15,9,0,0,W,Northern Illinois,Northern-Illinois,Eastern-Michigan,0,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+04/25/2026,Northern Illinois,Eastern Michigan,11,8,0,0,W,Northern Illinois,Northern-Illinois,Eastern-Michigan,0,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+04/26/2026,Northern Illinois,Eastern Michigan,7,9,0,0,L,Northern Illinois,Northern-Illinois,Eastern-Michigan,0,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+04/28/2026,Northern Illinois,Valparaiso,11,5,0,0,W,Northern Illinois,Northern-Illinois,Valparaiso,0,9,"DeKalb, IL / Ralph McKinzie Field",2026,WN2026
+05/01/2026,Central Michigan,Northern Illinois,1,12,0,0,W,Northern Illinois,Northern-Illinois,Central-Michigan,1,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+05/02/2026,Central Michigan,Northern Illinois,5,10,0,0,W,Northern Illinois,Northern-Illinois,Central-Michigan,1,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+05/03/2026,Central Michigan,Northern Illinois,2,8,0,0,W,Northern Illinois,Northern-Illinois,Central-Michigan,1,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+05/08/2026,Northern Illinois,Ball State,5,2,0,0,W,Northern Illinois,Northern-Illinois,Ball-State,0,9,"DeKalb, IL / Ralph McKinzie Field / Box Score",2026,WN2026
+05/09/2026,Northern Illinois,Ball State,11,1,0,0,W,Northern Illinois,Northern-Illinois,Ball-State,0,8,"DeKalb, IL / Ralph McKinzie Field / Box Score",2026,WN2026
+05/10/2026,Northern Illinois,Ball State,5,17,0,0,L,Northern Illinois,Northern-Illinois,Ball-State,0,9,"DeKalb, IL / Ralph McKinzie Field / Box Score",2026,WN2026
+05/14/2026,Western Michigan,Northern Illinois,8,6,0,0,L,Northern Illinois,Northern-Illinois,Western-Michigan,1,9,"Kalamazoo, MI / Hyames Field / Box Score",2026,WN2026
+05/15/2026,Western Michigan,Northern Illinois,12,2,0,0,L,Northern Illinois,Northern-Illinois,Western-Michigan,1,8,"Kalamazoo, MI / Hyames Field / Box Score",2026,WN2026
+05/16/2026,Western Michigan,Northern Illinois,7,6,0,0,L,Northern Illinois,Northern-Illinois,Western-Michigan,1,9,"Kalamazoo, MI / Hyames Field / Box Score",2026,WN2026
+05/20/2026,Western Michigan,Northern Illinois,0,11,0,1,W,Northern Illinois,Northern-Illinois,Western-Michigan,0,7,"Avon, OH / Mercy Health Stadium / Box Score / Recap",2026,WN2026
+05/21/2026,Miami (OH),Northern Illinois,5,6,0,1,W,Northern Illinois,Northern-Illinois,Miami-OH,0,15,"Avon, OH / Mercy Health Stadium / Recap",2026,WN2026
+05/22/2026,Toledo,Northern Illinois,3,10,0,1,W,Northern Illinois,Northern-Illinois,Toledo,0,9,"Avon, OH / Mercy Health Stadium",2026,WN2026
+05/23/2026,Toledo,Northern Illinois,1,5,0,1,W,Northern Illinois,Northern-Illinois,Toledo,0,9,"Avon, OH / Mercy Health Stadium",2026,WN2026

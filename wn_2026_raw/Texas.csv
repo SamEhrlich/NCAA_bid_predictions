@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Texas,UC Davis,12,2,0,0,W,Texas,Texas,UC-Davis,0,7,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+02/14/2026,Texas,UC Davis,6,4,0,0,W,Texas,Texas,UC-Davis,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+02/15/2026,Texas,UC Davis,9,1,0,0,W,Texas,Texas,UC-Davis,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+02/17/2026,Texas,Lamar,14,4,0,0,W,Texas,Texas,Lamar,0,7,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+02/20/2026,Texas,Michigan State,8,1,0,0,W,Texas,Texas,Michigan-State,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+02/21/2026,Texas,Michigan State,3,1,0,0,W,Texas,Texas,Michigan-State,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+02/22/2026,Texas,Michigan State,4,0,0,0,W,Texas,Texas,Michigan-State,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+02/24/2026,Texas,UTRGV,14,0,0,0,W,Texas,Texas,UTRGV,0,7,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+02/27/2026,Coastal Carolina,Texas,1,8,0,1,W,Texas,Texas,Coastal-Carolina,0,9,"Houston, TX / Daikin Park",2026,WN2026
+02/28/2026,Baylor,Texas,2,5,0,1,W,Texas,Texas,Baylor,0,9,"Houston, TX / Daikin Park",2026,WN2026
+03/01/2026,Ohio State,Texas,3,10,0,1,W,Texas,Texas,Ohio-State,0,9,"Houston, TX / Daikin Park",2026,WN2026
+03/03/2026,Texas,Houston Christian,16,3,0,0,W,Texas,Texas,Houston-Christian,0,7,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/06/2026,Texas,South Carolina Upstate,14,2,0,0,W,Texas,Texas,South-Carolina-Upstate,0,8,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/07/2026,Texas,South Carolina Upstate,11,9,0,0,W,Texas,Texas,South-Carolina-Upstate,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/08/2026,Texas,South Carolina Upstate,13,3,0,0,W,Texas,Texas,South-Carolina-Upstate,0,8,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/10/2026,Texas State,Texas,4,15,0,0,W,Texas,Texas,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+03/13/2026,Texas,Ole Miss,8,9,0,0,L,Texas,Texas,Ole-Miss,0,11,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/14/2026,Texas,Ole Miss,11,2,0,0,W,Texas,Texas,Ole-Miss,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/15/2026,Texas,Ole Miss,8,2,0,0,W,Texas,Texas,Ole-Miss,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/17/2026,Texas,Tarleton State,1,6,0,0,L,Texas,Texas,Tarleton-State,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/20/2026,Auburn,Texas,4,3,0,0,L,Texas,Texas,Auburn,1,9,"Auburn, AL / Plainsman Park",2026,WN2026
+03/21/2026,Auburn,Texas,6,7,0,0,W,Texas,Texas,Auburn,1,9,"Auburn, AL / Plainsman Park",2026,WN2026
+03/22/2026,Auburn,Texas,0,5,0,0,W,Texas,Texas,Auburn,1,9,"Auburn, AL / Plainsman Park",2026,WN2026
+03/24/2026,Houston,Texas,9,7,0,0,L,Texas,Texas,Houston,1,9,"Houston, TX / Schroeder Park",2026,WN2026
+03/26/2026,Texas,Oklahoma,14,0,0,0,W,Texas,Texas,Oklahoma,0,7,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/27/2026,Texas,Oklahoma,4,3,0,0,W,Texas,Texas,Oklahoma,0,10,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/28/2026,Texas,Oklahoma,5,4,0,0,W,Texas,Texas,Oklahoma,0,10,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/31/2026,Texas,Texas State,10,8,0,0,W,Texas,Texas,Texas-State,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+04/02/2026,South Carolina,Texas,9,1,0,0,L,Texas,Texas,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+04/03/2026,South Carolina,Texas,3,5,0,0,W,Texas,Texas,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+04/04/2026,South Carolina,Texas,1,4,0,0,W,Texas,Texas,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+04/07/2026,Texas,Incarnate Word,16,4,0,0,W,Texas,Texas,Incarnate-Word,0,7,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+04/10/2026,Texas A&M,Texas,9,8,0,0,L,Texas,Texas,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+04/11/2026,Texas A&M,Texas,11,4,0,0,L,Texas,Texas,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+04/14/2026,Texas,Texas A&M-Corpus Christi,14,7,0,0,W,Texas,Texas,Texas-AM-Corpus-Christi,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+04/17/2026,Texas,Alabama,10,2,0,0,W,Texas,Texas,Alabama,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+04/18/2026,Texas,Alabama,3,1,0,0,W,Texas,Texas,Alabama,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+04/19/2026,Texas,Alabama,1,2,0,0,L,Texas,Texas,Alabama,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+04/24/2026,Vanderbilt,Texas,4,11,0,0,W,Texas,Texas,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+04/25/2026,Vanderbilt,Texas,6,0,0,0,L,Texas,Texas,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+04/26/2026,Vanderbilt,Texas,3,4,0,0,W,Texas,Texas,Vanderbilt,1,10,"Nashville, TN / Hawkins Field",2026,WN2026
+04/28/2026,Texas,Sam Houston State,15,14,0,0,W,Texas,Texas,Sam-Houston-State,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+05/01/2026,Texas,Mississippi State,3,1,0,0,W,Texas,Texas,Mississippi-State,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+05/02/2026,Texas,Mississippi State,4,7,0,0,L,Texas,Texas,Mississippi-State,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+05/03/2026,Texas,Mississippi State,11,6,0,0,W,Texas,Texas,Mississippi-State,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+05/05/2026,Texas,UTSA,11,8,0,0,W,Texas,Texas,UTSA,0,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+05/08/2026,Tennessee,Texas,5,1,0,0,L,Texas,Texas,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium / Box Score",2026,WN2026
+05/09/2026,Tennessee,Texas,14,9,0,0,L,Texas,Texas,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium / Box Score",2026,WN2026
+05/10/2026,Tennessee,Texas,6,13,0,0,W,Texas,Texas,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium / Box Score",2026,WN2026
+05/14/2026,Texas,Missouri,6,3,0,0,W,Texas,Texas,Missouri,0,9,"Austin, TX / UFCU Disch-Falk Field / Box Score",2026,WN2026
+05/15/2026,Texas,Missouri,11,6,0,0,W,Texas,Texas,Missouri,0,9,"Austin, TX / UFCU Disch-Falk Field / Box Score",2026,WN2026
+05/16/2026,Texas,Missouri,12,7,0,0,W,Texas,Texas,Missouri,0,9,"Austin, TX / UFCU Disch-Falk Field / Box Score",2026,WN2026
+05/22/2026,Arkansas,Texas,8,1,0,1,L,Texas,Texas,Arkansas,0,9,"Hoover, AL / Hoover Metropolitan Stadium / Recap",2026,WN2026

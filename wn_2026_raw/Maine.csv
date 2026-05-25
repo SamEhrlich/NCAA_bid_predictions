@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Duke,Maine,8,3,0,0,L,Maine,Maine,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/13/2026,Duke,Maine,3,4,0,0,W,Maine,Maine,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/14/2026,Duke,Maine,3,0,0,0,L,Maine,Maine,Duke,1,7,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/14/2026,Duke,Maine,7,1,0,0,L,Maine,Maine,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/20/2026,High Point,Maine,5,7,0,0,W,Maine,Maine,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/21/2026,High Point,Maine,14,8,0,0,L,Maine,Maine,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/21/2026,High Point,Maine,6,3,0,0,L,Maine,Maine,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/22/2026,High Point,Maine,10,7,0,0,L,Maine,Maine,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+02/25/2026,Charlotte,Maine,9,4,0,0,L,Maine,Maine,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+02/27/2026,Winthrop,Maine,7,4,0,0,L,Maine,Maine,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/28/2026,Winthrop,Maine,7,2,0,0,L,Maine,Maine,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/01/2026,Winthrop,Maine,9,6,0,0,L,Maine,Maine,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+03/06/2026,Dayton,Maine,12,5,0,0,L,Maine,Maine,Dayton,1,9,"Dayton, OH / Woerner Field",2026,WN2026
+03/08/2026,Dayton,Maine,10,9,0,0,L,Maine,Maine,Dayton,1,9,"Dayton, OH / Woerner Field",2026,WN2026
+03/08/2026,Dayton,Maine,14,8,0,0,L,Maine,Maine,Dayton,1,9,"Dayton, OH / Woerner Field",2026,WN2026
+03/13/2026,Nebraska,Maine,6,5,0,0,L,Maine,Maine,Nebraska,1,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/14/2026,Nebraska,Maine,6,3,0,0,L,Maine,Maine,Nebraska,1,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/14/2026,Nebraska,Maine,8,7,0,0,L,Maine,Maine,Nebraska,1,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+03/18/2026,Navy,Maine,9,8,0,0,L,Maine,Maine,Navy,1,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/20/2026,UMBC,Maine,7,5,0,0,L,Maine,Maine,UMBC,1,9,"Catonsville, MD / Alumni Field",2026,WN2026
+03/21/2026,UMBC,Maine,11,5,0,0,L,Maine,Maine,UMBC,1,9,"Catonsville, MD / Alumni Field",2026,WN2026
+03/22/2026,UMBC,Maine,3,4,0,0,W,Maine,Maine,UMBC,1,9,"Catonsville, MD / Alumni Field",2026,WN2026
+03/27/2026,UMass-Lowell,Maine,10,1,0,0,L,Maine,Maine,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+03/28/2026,UMass-Lowell,Maine,5,9,0,0,W,Maine,Maine,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+03/29/2026,UMass-Lowell,Maine,6,10,0,0,W,Maine,Maine,UMass-Lowell,1,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+03/31/2026,Boston College,Maine,7,4,0,0,L,Maine,Maine,Boston-College,1,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/02/2026,Maine,Bryant,3,4,0,0,L,Maine,Maine,Bryant,0,9,"Orono, ME / Mahaney Diamond",2026,WN2026
+04/03/2026,Maine,Bryant,11,5,0,0,W,Maine,Maine,Bryant,0,9,"Orono, ME / Mahaney Diamond",2026,WN2026
+04/04/2026,Maine,Bryant,5,2,0,0,W,Maine,Maine,Bryant,0,9,"Orono, ME / Mahaney Diamond",2026,WN2026
+04/11/2026,Northeastern,Maine,0,5,0,0,W,Maine,Maine,Northeastern,1,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/12/2026,Merrimack,Maine,4,10,0,1,W,Maine,Maine,Merrimack,0,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/12/2026,Northeastern,Maine,13,5,0,0,L,Maine,Maine,Northeastern,1,9,"Brookline, MA / Friedman Diamond",2026,WN2026
+04/17/2026,NJIT,Maine,3,5,0,0,W,Maine,Maine,NJIT,1,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/18/2026,NJIT,Maine,6,3,0,0,L,Maine,Maine,NJIT,1,7,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/18/2026,NJIT,Maine,2,4,0,0,W,Maine,Maine,NJIT,1,9,"Little Falls, NJ / Yogi Berra Stadium",2026,WN2026
+04/21/2026,Boston College,Maine,4,6,0,0,W,Maine,Maine,Boston-College,1,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+04/24/2026,Maine,UMBC,2,3,0,0,L,Maine,Maine,UMBC,0,9,"Orono, ME / Mahaney Diamond",2026,WN2026
+04/25/2026,Maine,UMBC,8,5,0,0,W,Maine,Maine,UMBC,0,9,"Orono, ME / Mahaney Diamond",2026,WN2026
+04/26/2026,Maine,UMBC,11,1,0,0,W,Maine,Maine,UMBC,0,8,"Orono, ME / Mahaney Diamond",2026,WN2026
+04/29/2026,Maine,Northeastern,1,5,0,0,L,Maine,Maine,Northeastern,0,9,"Portland, ME / Hadlock Field",2026,WN2026
+05/01/2026,Binghamton,Maine,2,9,0,0,W,Maine,Maine,Binghamton,1,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+05/02/2026,Binghamton,Maine,8,7,0,0,L,Maine,Maine,Binghamton,1,11,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+05/03/2026,Binghamton,Maine,3,7,0,0,W,Maine,Maine,Binghamton,1,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+05/08/2026,Maine,UMass-Lowell,0,2,0,0,L,Maine,Maine,UMass-Lowell,0,9,"Lowell, MA / Edward A. LeLacheur Park / Box Score",2026,WN2026
+05/09/2026,Maine,UMass-Lowell,6,7,0,0,L,Maine,Maine,UMass-Lowell,0,9,"Lowell, MA / Edward A. LeLacheur Park / Box Score",2026,WN2026
+05/10/2026,Maine,UMass-Lowell,4,5,0,0,L,Maine,Maine,UMass-Lowell,0,9,"Lowell, MA / Edward A. LeLacheur Park / Box Score",2026,WN2026
+05/12/2026,Maine,Merrimack,14,4,0,0,W,Maine,Maine,Merrimack,0,8,"Orono, ME / Mahaney Diamond",2026,WN2026
+05/14/2026,Maine,Albany,12,1,0,0,W,Maine,Maine,Albany,0,7,"Orono, ME / Mahaney Diamond / Box Score",2026,WN2026
+05/15/2026,Maine,Albany,7,5,0,0,W,Maine,Maine,Albany,0,9,"Orono, ME / Mahaney Diamond / Box Score",2026,WN2026
+05/16/2026,Maine,Albany,11,6,0,0,W,Maine,Maine,Albany,0,9,"Orono, ME / Mahaney Diamond / Box Score",2026,WN2026
+05/20/2026,Albany,Maine,5,11,0,1,W,Maine,Maine,Albany,0,9,"Vestal, NY / Bearcats Baseball Complex / Box Score / Recap",2026,WN2026
+05/21/2026,UMBC,Maine,4,5,0,1,W,Maine,Maine,UMBC,0,9,"Vestal, NY / Bearcats Baseball Complex / Recap",2026,WN2026
+05/22/2026,Binghamton,Maine,6,5,0,1,L,Maine,Maine,Binghamton,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+05/22/2026,UMBC,Maine,6,11,0,1,W,Maine,Maine,UMBC,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+05/23/2026,Binghamton,Maine,7,3,0,1,L,Maine,Maine,Binghamton,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026

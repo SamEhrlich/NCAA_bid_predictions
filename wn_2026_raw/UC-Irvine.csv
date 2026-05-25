@@ -1,0 +1,53 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Sacramento State,UC Irvine,0,5,0,0,W,UC Irvine,UC-Irvine,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+02/14/2026,Sacramento State,UC Irvine,3,7,0,0,W,UC Irvine,UC-Irvine,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+02/14/2026,Sacramento State,UC Irvine,2,6,0,0,W,UC Irvine,UC-Irvine,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+02/18/2026,UC Irvine,San Diego State,5,2,0,0,W,UC Irvine,UC-Irvine,San-Diego-State,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+02/20/2026,UC Irvine,California,5,3,0,0,W,UC Irvine,UC-Irvine,California,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+02/21/2026,UC Irvine,California,2,11,0,0,L,UC Irvine,UC-Irvine,California,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+02/22/2026,UC Irvine,California,2,4,0,0,L,UC Irvine,UC-Irvine,California,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+02/24/2026,UC Irvine,Grand Canyon,3,0,0,0,W,UC Irvine,UC-Irvine,Grand-Canyon,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+02/25/2026,UC Irvine,Grand Canyon,4,9,0,0,L,UC Irvine,UC-Irvine,Grand-Canyon,0,10,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+02/27/2026,Vanderbilt,UC Irvine,4,9,0,1,W,UC Irvine,UC-Irvine,Vanderbilt,0,9,"Las Vegas, NV / Las Vegas Ballpark",2026,WN2026
+02/28/2026,Oregon,UC Irvine,6,8,0,1,W,UC Irvine,UC-Irvine,Oregon,0,9,"Las Vegas, NV / Las Vegas Ballpark",2026,WN2026
+03/01/2026,Arizona,UC Irvine,7,1,0,1,L,UC Irvine,UC-Irvine,Arizona,0,9,"Las Vegas, NV / Las Vegas Ballpark",2026,WN2026
+03/03/2026,USC,UC Irvine,6,4,0,0,L,UC Irvine,UC-Irvine,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/06/2026,UC Irvine,Cal State Northridge,4,5,0,0,L,UC Irvine,UC-Irvine,Cal-State-Northridge,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+03/07/2026,UC Irvine,Cal State Northridge,4,2,0,0,W,UC Irvine,UC-Irvine,Cal-State-Northridge,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+03/08/2026,UC Irvine,Cal State Northridge,2,9,0,0,L,UC Irvine,UC-Irvine,Cal-State-Northridge,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+03/10/2026,UCLA,UC Irvine,11,1,0,0,L,UC Irvine,UC-Irvine,UCLA,1,7,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/13/2026,Cal State Fullerton,UC Irvine,8,3,0,0,L,UC Irvine,UC-Irvine,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/14/2026,Cal State Fullerton,UC Irvine,9,5,0,0,L,UC Irvine,UC-Irvine,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/15/2026,Cal State Fullerton,UC Irvine,8,6,0,0,L,UC Irvine,UC-Irvine,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/20/2026,UC Irvine,Oregon State,1,5,0,0,L,UC Irvine,UC-Irvine,Oregon-State,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+03/21/2026,UC Irvine,Oregon State,3,5,0,0,L,UC Irvine,UC-Irvine,Oregon-State,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+03/22/2026,UC Irvine,Oregon State,5,9,0,0,L,UC Irvine,UC-Irvine,Oregon-State,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+03/24/2026,San Diego State,UC Irvine,8,4,0,0,L,UC Irvine,UC-Irvine,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/27/2026,Long Beach State,UC Irvine,10,2,0,0,L,UC Irvine,UC-Irvine,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+03/28/2026,Long Beach State,UC Irvine,9,12,0,0,W,UC Irvine,UC-Irvine,Long-Beach-State,1,11,"Long Beach, CA / Blair Field",2026,WN2026
+03/29/2026,Long Beach State,UC Irvine,1,7,0,0,W,UC Irvine,UC-Irvine,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+03/31/2026,UC Irvine,UCLA,1,9,0,0,L,UC Irvine,UC-Irvine,UCLA,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+04/02/2026,UC Irvine,UC Davis,4,1,0,0,W,UC Irvine,UC-Irvine,UC-Davis,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+04/03/2026,UC Irvine,UC Davis,7,2,0,0,W,UC Irvine,UC-Irvine,UC-Davis,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+04/04/2026,UC Irvine,UC Davis,8,4,0,0,W,UC Irvine,UC-Irvine,UC-Davis,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+04/07/2026,UC Irvine,San Diego,13,5,0,0,W,UC Irvine,UC-Irvine,San-Diego,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+04/10/2026,Hawaii,UC Irvine,14,6,0,0,L,UC Irvine,UC-Irvine,Hawaii,1,9,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+04/11/2026,Hawaii,UC Irvine,3,0,0,0,L,UC Irvine,UC-Irvine,Hawaii,1,9,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+04/12/2026,Hawaii,UC Irvine,1,5,0,0,W,UC Irvine,UC-Irvine,Hawaii,1,9,"Honolulu, HI / Les Murakami Stadium",2026,WN2026
+04/17/2026,UC Irvine,UC Santa Barbara,3,7,0,0,L,UC Irvine,UC-Irvine,UC-Santa-Barbara,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+04/18/2026,UC Irvine,UC Santa Barbara,6,3,0,0,W,UC Irvine,UC-Irvine,UC-Santa-Barbara,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+04/19/2026,UC Irvine,UC Santa Barbara,4,8,0,0,L,UC Irvine,UC-Irvine,UC-Santa-Barbara,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+04/24/2026,UC San Diego,UC Irvine,11,9,0,0,L,UC Irvine,UC-Irvine,UC-San-Diego,1,9,"La Jolla, CA / Triton Park",2026,WN2026
+04/25/2026,UC San Diego,UC Irvine,9,4,0,0,L,UC Irvine,UC-Irvine,UC-San-Diego,1,9,"La Jolla, CA / Triton Park",2026,WN2026
+04/26/2026,UC San Diego,UC Irvine,7,9,0,0,W,UC Irvine,UC-Irvine,UC-San-Diego,1,9,"La Jolla, CA / Triton Park",2026,WN2026
+04/28/2026,UC Irvine,USC,4,1,0,0,W,UC Irvine,UC-Irvine,USC,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+05/01/2026,UC Irvine,Cal Poly,11,4,0,0,W,UC Irvine,UC-Irvine,Cal-Poly,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+05/02/2026,UC Irvine,Cal Poly,2,11,0,0,L,UC Irvine,UC-Irvine,Cal-Poly,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+05/03/2026,UC Irvine,Cal Poly,6,8,0,0,L,UC Irvine,UC-Irvine,Cal-Poly,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+05/05/2026,San Diego,UC Irvine,4,9,0,0,W,UC Irvine,UC-Irvine,San-Diego,1,9,"San Diego, CA / Fowler Park",2026,WN2026
+05/08/2026,UC Riverside,UC Irvine,5,17,0,0,W,UC Irvine,UC-Irvine,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex / Box Score",2026,WN2026
+05/09/2026,UC Riverside,UC Irvine,3,15,0,0,W,UC Irvine,UC-Irvine,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex / Box Score",2026,WN2026
+05/10/2026,UC Riverside,UC Irvine,5,3,0,0,L,UC Irvine,UC-Irvine,UC-Riverside,1,9,"Riverside, CA / Riverside Sports Complex / Box Score",2026,WN2026
+05/14/2026,UC Irvine,Cal State Bakersfield,6,3,0,0,W,UC Irvine,UC-Irvine,Cal-State-Bakersfield,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark / Box Score",2026,WN2026
+05/15/2026,UC Irvine,Cal State Bakersfield,0,4,0,0,L,UC Irvine,UC-Irvine,Cal-State-Bakersfield,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark / Box Score",2026,WN2026
+05/16/2026,UC Irvine,Cal State Bakersfield,10,7,0,0,W,UC Irvine,UC-Irvine,Cal-State-Bakersfield,0,9,"Irvine, CA / Cicerone Field at Anteater Ballpark / Box Score",2026,WN2026

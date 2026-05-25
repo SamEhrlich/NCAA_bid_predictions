@@ -1,0 +1,61 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Texas State,Niagara,13,0,0,0,W,Texas State,Texas-State,Niagara,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+02/14/2026,Texas State,Niagara,11,3,0,0,W,Texas State,Texas-State,Niagara,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+02/15/2026,Texas State,Niagara,11,0,0,0,W,Texas State,Texas-State,Niagara,0,8,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+02/17/2026,Baylor,Texas State,14,4,0,0,L,Texas State,Texas-State,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+02/20/2026,Texas State,Gonzaga,8,6,0,0,W,Texas State,Texas-State,Gonzaga,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+02/21/2026,Texas State,Gonzaga,1,5,0,0,L,Texas State,Texas-State,Gonzaga,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+02/22/2026,Texas State,Gonzaga,5,0,0,0,W,Texas State,Texas-State,Gonzaga,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+02/24/2026,Texas State,UTSA,7,2,0,0,W,Texas State,Texas-State,UTSA,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+02/27/2026,Abilene Christian,Texas State,4,5,0,1,W,Texas State,Texas-State,Abilene-Christian,0,9,"Cleburne, TX / La Moderna Field",2026,WN2026
+02/28/2026,Tarleton State,Texas State,3,9,0,1,W,Texas State,Texas-State,Tarleton-State,0,9,"Cleburne, TX / La Moderna Field",2026,WN2026
+03/01/2026,Abilene Christian,Texas State,0,3,0,1,W,Texas State,Texas-State,Abilene-Christian,0,9,"Cleburne, TX / La Moderna Field",2026,WN2026
+03/05/2026,Texas State,Washington State,13,11,0,0,W,Texas State,Texas-State,Washington-State,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+03/06/2026,Texas State,Washington State,7,9,0,0,L,Texas State,Texas-State,Washington-State,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+03/06/2026,Texas State,Washington State,10,4,0,0,W,Texas State,Texas-State,Washington-State,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+03/08/2026,Texas State,Washington State,4,3,0,0,W,Texas State,Texas-State,Washington-State,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+03/10/2026,Texas State,Texas,4,15,0,0,L,Texas State,Texas-State,Texas,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+03/13/2026,ULM,Texas State,12,6,0,0,L,Texas State,Texas-State,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/14/2026,ULM,Texas State,8,5,0,0,L,Texas State,Texas-State,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/15/2026,ULM,Texas State,16,5,0,0,L,Texas State,Texas-State,ULM,1,7,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/17/2026,Texas A&M,Texas State,9,6,0,0,L,Texas State,Texas-State,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+03/20/2026,Texas State,Louisiana,4,1,0,0,W,Texas State,Texas-State,Louisiana,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+03/21/2026,Texas State,Louisiana,11,4,0,0,W,Texas State,Texas-State,Louisiana,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+03/22/2026,Texas State,Louisiana,16,6,0,0,W,Texas State,Texas-State,Louisiana,0,7,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+03/24/2026,Texas State,UTRGV,8,7,0,0,W,Texas State,Texas-State,UTRGV,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+03/27/2026,Georgia State,Texas State,6,18,0,0,W,Texas State,Texas-State,Georgia-State,1,7,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+03/28/2026,Georgia State,Texas State,0,1,0,0,W,Texas State,Texas-State,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+03/29/2026,Georgia State,Texas State,3,12,0,0,W,Texas State,Texas-State,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+03/31/2026,Texas,Texas State,10,8,0,0,L,Texas State,Texas-State,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+04/02/2026,Texas State,Georgia Southern,8,5,0,0,W,Texas State,Texas-State,Georgia-Southern,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/03/2026,Texas State,Georgia Southern,15,5,0,0,W,Texas State,Texas-State,Georgia-Southern,0,8,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/03/2026,Texas State,Georgia Southern,8,9,0,0,L,Texas State,Texas-State,Georgia-Southern,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/07/2026,Texas State,Texas A&M,9,8,0,0,W,Texas State,Texas-State,Texas-AM,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/08/2026,Texas State,Stephen F. Austin,10,0,0,0,W,Texas State,Texas-State,Stephen-F-Austin,0,7,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/10/2026,Texas State,Troy,8,5,0,0,W,Texas State,Texas-State,Troy,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/11/2026,Texas State,Troy,2,15,0,0,L,Texas State,Texas-State,Troy,0,7,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/11/2026,Texas State,Troy,11,12,0,0,L,Texas State,Texas-State,Troy,0,11,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/14/2026,Texas State,Houston Christian,4,3,0,0,W,Texas State,Texas-State,Houston-Christian,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/17/2026,Southern Miss,Texas State,8,2,0,0,L,Texas State,Texas-State,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+04/18/2026,Southern Miss,Texas State,6,3,0,0,L,Texas State,Texas-State,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+04/19/2026,Southern Miss,Texas State,5,4,0,0,L,Texas State,Texas-State,Southern-Miss,1,10,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+04/21/2026,Texas State,Incarnate Word,3,1,0,0,W,Texas State,Texas-State,Incarnate-Word,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+04/24/2026,Coastal Carolina,Texas State,6,2,0,0,L,Texas State,Texas-State,Coastal-Carolina,1,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+04/25/2026,Coastal Carolina,Texas State,2,1,0,0,L,Texas State,Texas-State,Coastal-Carolina,1,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+04/26/2026,Coastal Carolina,Texas State,6,10,0,0,W,Texas State,Texas-State,Coastal-Carolina,1,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+04/28/2026,Texas State,Texas A&M-Corpus Christi,2,7,0,0,L,Texas State,Texas-State,Texas-AM-Corpus-Christi,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+05/01/2026,Texas State,South Alabama,2,6,0,0,L,Texas State,Texas-State,South-Alabama,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+05/02/2026,Texas State,South Alabama,4,6,0,0,L,Texas State,Texas-State,South-Alabama,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+05/03/2026,Texas State,South Alabama,4,7,0,0,L,Texas State,Texas-State,South-Alabama,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+05/05/2026,Texas State,Baylor,9,6,0,0,W,Texas State,Texas-State,Baylor,0,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+05/08/2026,Arkansas State,Texas State,2,6,0,0,W,Texas State,Texas-State,Arkansas-State,1,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field / Box Score",2026,WN2026
+05/09/2026,Arkansas State,Texas State,3,8,0,0,W,Texas State,Texas-State,Arkansas-State,1,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field / Box Score",2026,WN2026
+05/10/2026,Arkansas State,Texas State,9,15,0,0,W,Texas State,Texas-State,Arkansas-State,1,9,"Jonesboro, AR / Tomlinson Stadium-Kell Field / Box Score",2026,WN2026
+05/12/2026,UTSA,Texas State,19,4,0,0,L,Texas State,Texas-State,UTSA,1,7,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/14/2026,Texas State,Marshall,5,0,0,0,W,Texas State,Texas-State,Marshall,0,9,"San Marcos, TX / Bobcat Ballpark / Box Score",2026,WN2026
+05/15/2026,Texas State,Marshall,12,9,0,0,W,Texas State,Texas-State,Marshall,0,9,"San Marcos, TX / Bobcat Ballpark / Box Score",2026,WN2026
+05/16/2026,Texas State,Marshall,5,4,0,0,W,Texas State,Texas-State,Marshall,0,10,"San Marcos, TX / Bobcat Ballpark / Box Score",2026,WN2026
+05/20/2026,Appalachian State,Texas State,5,6,0,1,W,Texas State,Texas-State,Appalachian-State,0,9,"Montgomery, AL / Dabos Park / Box Score / Recap",2026,WN2026
+05/21/2026,Louisiana,Texas State,3,4,0,1,W,Texas State,Texas-State,Louisiana,0,9,"Montgomery, AL / Dabos Park",2026,WN2026
+05/23/2026,Louisiana,Texas State,12,6,0,1,L,Texas State,Texas-State,Louisiana,0,9,"Montgomery, AL / Riddle-Pace Field",2026,WN2026
+05/23/2026,Louisiana,Texas State,7,4,0,1,L,Texas State,Texas-State,Louisiana,0,9,"Montgomery, AL / Riddle-Pace Field",2026,WN2026

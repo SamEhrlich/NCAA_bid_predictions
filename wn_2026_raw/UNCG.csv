@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UNCG,Kentucky,2,13,0,0,L,UNCG,UNCG,Kentucky,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+02/14/2026,UNCG,Kentucky,3,11,0,0,L,UNCG,UNCG,Kentucky,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+02/14/2026,UNCG,Kentucky,6,10,0,0,L,UNCG,UNCG,Kentucky,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+02/17/2026,Davidson,UNCG,7,4,0,0,L,UNCG,UNCG,Davidson,1,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+02/18/2026,UNCG,North Carolina A&T,4,3,0,0,W,UNCG,UNCG,North-Carolina-AT,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+02/20/2026,UNCG,Canisius,3,1,0,0,W,UNCG,UNCG,Canisius,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+02/21/2026,UNCG,Canisius,7,3,0,0,W,UNCG,UNCG,Canisius,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+02/22/2026,UNCG,Canisius,12,2,0,0,W,UNCG,UNCG,Canisius,0,7,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+02/24/2026,UNCG,Wake Forest,1,5,0,0,L,UNCG,UNCG,Wake-Forest,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+02/27/2026,Pittsburgh,UNCG,14,6,0,0,L,UNCG,UNCG,Pittsburgh,1,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+02/28/2026,Pittsburgh,UNCG,7,1,0,0,L,UNCG,UNCG,Pittsburgh,1,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+02/28/2026,Pittsburgh,UNCG,14,2,0,0,L,UNCG,UNCG,Pittsburgh,1,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+03/03/2026,North Carolina A&T,UNCG,1,13,0,1,W,UNCG,UNCG,North-Carolina-AT,0,8,"Greensboro, NC / First National Bank Field",2026,WN2026
+03/06/2026,UNCG,Quinnipiac,13,3,0,0,W,UNCG,UNCG,Quinnipiac,0,7,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+03/07/2026,UNCG,Quinnipiac,11,14,0,0,L,UNCG,UNCG,Quinnipiac,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+03/08/2026,UNCG,Quinnipiac,3,5,0,0,L,UNCG,UNCG,Quinnipiac,0,11,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+03/10/2026,UNCG,Liberty,10,12,0,0,L,UNCG,UNCG,Liberty,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+03/11/2026,North Carolina A&T,UNCG,7,9,0,0,W,UNCG,UNCG,North-Carolina-AT,1,9,"Greensboro, NC / World War Memorial Stadium",2026,WN2026
+03/13/2026,UIC,UNCG,5,9,0,0,W,UNCG,UNCG,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+03/14/2026,UIC,UNCG,5,6,0,0,W,UNCG,UNCG,UIC,1,10,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+03/15/2026,UIC,UNCG,2,9,0,0,W,UNCG,UNCG,UIC,1,7,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+03/18/2026,North Carolina,UNCG,8,2,0,0,L,UNCG,UNCG,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+03/20/2026,UNCG,East Tennessee State,6,3,0,0,W,UNCG,UNCG,East-Tennessee-State,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+03/21/2026,UNCG,East Tennessee State,2,8,0,0,L,UNCG,UNCG,East-Tennessee-State,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+03/22/2026,UNCG,East Tennessee State,8,15,0,0,L,UNCG,UNCG,East-Tennessee-State,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+03/24/2026,Liberty,UNCG,6,7,0,0,W,UNCG,UNCG,Liberty,1,9,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+03/27/2026,Wofford,UNCG,8,7,0,0,L,UNCG,UNCG,Wofford,1,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/28/2026,Wofford,UNCG,6,1,0,0,L,UNCG,UNCG,Wofford,1,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+03/29/2026,Wofford,UNCG,6,3,0,0,L,UNCG,UNCG,Wofford,1,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+04/02/2026,UNCG,Mercer,5,4,0,0,W,UNCG,UNCG,Mercer,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+04/03/2026,UNCG,Mercer,7,9,0,0,L,UNCG,UNCG,Mercer,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+04/04/2026,UNCG,Mercer,4,15,0,0,L,UNCG,UNCG,Mercer,0,7,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+04/07/2026,Campbell,UNCG,4,11,0,0,W,UNCG,UNCG,Campbell,1,9,"Buies Creek, NC / Jim Perry Stadium",2026,WN2026
+04/10/2026,Northern Kentucky,UNCG,14,8,0,0,L,UNCG,UNCG,Northern-Kentucky,1,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+04/11/2026,Northern Kentucky,UNCG,6,17,0,0,W,UNCG,UNCG,Northern-Kentucky,1,7,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+04/12/2026,Northern Kentucky,UNCG,4,3,0,0,L,UNCG,UNCG,Northern-Kentucky,1,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+04/14/2026,UNCG,Campbell,8,11,0,0,L,UNCG,UNCG,Campbell,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+04/17/2026,UNCG,Samford,5,11,0,0,L,UNCG,UNCG,Samford,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+04/18/2026,UNCG,Samford,4,9,0,0,L,UNCG,UNCG,Samford,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+04/19/2026,UNCG,Samford,1,14,0,0,L,UNCG,UNCG,Samford,0,7,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+04/21/2026,Wake Forest,UNCG,14,3,0,0,L,UNCG,UNCG,Wake-Forest,1,7,"Winston-Salem, NC / David F. Couch Ballpark",2026,WN2026
+04/24/2026,The Citadel,UNCG,2,1,0,0,L,UNCG,UNCG,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park",2026,WN2026
+04/25/2026,The Citadel,UNCG,10,1,0,0,L,UNCG,UNCG,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park",2026,WN2026
+04/26/2026,The Citadel,UNCG,4,9,0,0,W,UNCG,UNCG,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park",2026,WN2026
+04/28/2026,UNCG,Davidson,16,3,0,0,W,UNCG,UNCG,Davidson,0,7,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+05/01/2026,UNCG,VMI,7,6,0,0,W,UNCG,UNCG,VMI,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+05/02/2026,UNCG,VMI,9,6,0,0,W,UNCG,UNCG,VMI,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+05/03/2026,UNCG,VMI,7,4,0,0,W,UNCG,UNCG,VMI,0,9,"Greensboro, NC / UNCG Baseball Stadium",2026,WN2026
+05/09/2026,Virginia Tech,UNCG,13,18,0,0,W,UNCG,UNCG,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+05/10/2026,Virginia Tech,UNCG,11,9,0,0,L,UNCG,UNCG,Virginia-Tech,1,9,"Blacksburg, VA / English Field",2026,WN2026
+05/14/2026,Western Carolina,UNCG,1,2,0,0,W,UNCG,UNCG,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium / Box Score",2026,WN2026
+05/15/2026,Western Carolina,UNCG,4,1,0,0,L,UNCG,UNCG,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium / Box Score",2026,WN2026
+05/16/2026,Western Carolina,UNCG,7,2,0,0,L,UNCG,UNCG,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium / Box Score",2026,WN2026
+05/20/2026,East Tennessee State,UNCG,5,6,0,1,W,UNCG,UNCG,East-Tennessee-State,0,9,"Greenville, SC / Fluor Field / Box Score / Recap",2026,WN2026
+05/20/2026,Samford,UNCG,13,1,0,1,L,UNCG,UNCG,Samford,0,7,"Greenville, SC / Fluor Field / Recap",2026,WN2026
+05/21/2026,Western Carolina,UNCG,4,3,0,1,L,UNCG,UNCG,Western-Carolina,0,9,"Greenville, SC / Fluor Field",2026,WN2026

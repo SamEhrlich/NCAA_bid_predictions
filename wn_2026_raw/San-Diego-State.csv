@@ -1,0 +1,61 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,San Diego State,Long Island,12,11,0,0,W,San Diego State,San-Diego-State,Long-Island,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+02/14/2026,San Diego State,Long Island,12,5,0,0,W,San Diego State,San-Diego-State,Long-Island,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+02/15/2026,San Diego State,Long Island,6,5,0,0,W,San Diego State,San-Diego-State,Long-Island,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+02/18/2026,UC Irvine,San Diego State,5,2,0,0,L,San Diego State,San-Diego-State,UC-Irvine,1,9,"Irvine, CA / Cicerone Field at Anteater Ballpark",2026,WN2026
+02/20/2026,San Diego State,BYU,3,0,0,0,W,San Diego State,San-Diego-State,BYU,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+02/21/2026,San Diego State,Utah,0,7,0,0,L,San Diego State,San-Diego-State,Utah,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+02/22/2026,San Diego State,San Diego,4,15,0,0,L,San Diego State,San-Diego-State,San-Diego,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+02/24/2026,UCLA,San Diego State,3,4,0,0,W,San Diego State,San-Diego-State,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+02/27/2026,Washington,San Diego State,4,9,0,0,W,San Diego State,San-Diego-State,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+02/28/2026,Washington,San Diego State,2,3,0,0,W,San Diego State,San-Diego-State,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/01/2026,Washington,San Diego State,11,2,0,0,L,San Diego State,San-Diego-State,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/02/2026,Washington,San Diego State,4,1,0,0,L,San Diego State,San-Diego-State,Washington,1,9,"Seattle, WA / Husky Ballpark",2026,WN2026
+03/04/2026,San Diego State,Long Beach State,13,10,0,0,W,San Diego State,San-Diego-State,Long-Beach-State,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/06/2026,San Diego State,Saint Mary's College,3,2,0,0,W,San Diego State,San-Diego-State,Saint-Marys-College,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/07/2026,San Diego State,Saint Mary's College,9,12,0,0,L,San Diego State,San-Diego-State,Saint-Marys-College,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/08/2026,San Diego State,Saint Mary's College,6,9,0,0,L,San Diego State,San-Diego-State,Saint-Marys-College,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/10/2026,Cal State Fullerton,San Diego State,3,2,0,0,L,San Diego State,San-Diego-State,Cal-State-Fullerton,1,9,"Fullerton, CA / Goodwin Field",2026,WN2026
+03/13/2026,San Diego State,Washington State,14,4,0,0,W,San Diego State,San-Diego-State,Washington-State,0,8,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/14/2026,San Diego State,Washington State,2,7,0,0,L,San Diego State,San-Diego-State,Washington-State,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/15/2026,San Diego State,Washington State,15,10,0,0,W,San Diego State,San-Diego-State,Washington-State,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/17/2026,USC,San Diego State,7,4,0,0,L,San Diego State,San-Diego-State,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/20/2026,San Jose State,San Diego State,3,2,0,0,L,San Diego State,San-Diego-State,San-Jose-State,1,11,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/21/2026,Connecticut,San Diego State,4,6,0,1,W,San Diego State,San-Diego-State,Connecticut,0,9,"San Jose, CA",2026,WN2026
+03/21/2026,San Jose State,San Diego State,9,8,0,0,L,San Diego State,San-Diego-State,San-Jose-State,1,10,"San Jose, CA / Excite Ballpark",2026,WN2026
+03/22/2026,Connecticut,San Diego State,7,5,0,1,L,San Diego State,San-Diego-State,Connecticut,0,9,"San Jose, CA",2026,WN2026
+03/24/2026,San Diego State,UC Irvine,8,4,0,0,W,San Diego State,San-Diego-State,UC-Irvine,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/27/2026,Grand Canyon,San Diego State,9,3,0,0,L,San Diego State,San-Diego-State,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/28/2026,Grand Canyon,San Diego State,11,12,0,0,W,San Diego State,San-Diego-State,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/29/2026,Grand Canyon,San Diego State,2,7,0,0,W,San Diego State,San-Diego-State,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+03/30/2026,Arizona State,San Diego State,6,2,0,0,L,San Diego State,San-Diego-State,Arizona-State,1,9,"Phoenix, AZ / Phoenix Municipal Stadium",2026,WN2026
+04/02/2026,San Diego State,Air Force,9,2,0,0,W,San Diego State,San-Diego-State,Air-Force,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+04/03/2026,San Diego State,Air Force,11,2,0,0,W,San Diego State,San-Diego-State,Air-Force,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+04/04/2026,San Diego State,Air Force,12,9,0,0,W,San Diego State,San-Diego-State,Air-Force,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+04/07/2026,San Diego State,UC Riverside,1,0,0,0,W,San Diego State,San-Diego-State,UC-Riverside,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+04/10/2026,New Mexico,San Diego State,5,3,0,0,L,San Diego State,San-Diego-State,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+04/11/2026,New Mexico,San Diego State,11,3,0,0,L,San Diego State,San-Diego-State,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+04/12/2026,New Mexico,San Diego State,12,8,0,0,L,San Diego State,San-Diego-State,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+04/14/2026,San Diego State,UC San Diego,9,1,0,0,W,San Diego State,San-Diego-State,UC-San-Diego,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+04/15/2026,Long Beach State,San Diego State,5,7,0,0,W,San Diego State,San-Diego-State,Long-Beach-State,1,12,"Long Beach, CA / Blair Field",2026,WN2026
+04/20/2026,San Diego State,Seattle University,9,5,0,0,W,San Diego State,San-Diego-State,Seattle-University,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+04/21/2026,Cal State Northridge,San Diego State,3,4,0,0,W,San Diego State,San-Diego-State,Cal-State-Northridge,1,9,"Northridge, CA / Matador Field",2026,WN2026
+04/24/2026,Fresno State,San Diego State,3,4,0,0,W,San Diego State,San-Diego-State,Fresno-State,1,11,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/25/2026,Fresno State,San Diego State,5,8,0,0,W,San Diego State,San-Diego-State,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/26/2026,Fresno State,San Diego State,2,6,0,0,W,San Diego State,San-Diego-State,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/28/2026,San Diego State,Cal State Fullerton,5,3,0,0,W,San Diego State,San-Diego-State,Cal-State-Fullerton,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+05/01/2026,San Diego State,Nevada,7,3,0,0,W,San Diego State,San-Diego-State,Nevada,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+05/02/2026,San Diego State,Nevada,8,5,0,0,W,San Diego State,San-Diego-State,Nevada,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+05/03/2026,San Diego State,Nevada,8,2,0,0,W,San Diego State,San-Diego-State,Nevada,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+05/05/2026,UC San Diego,San Diego State,8,4,0,0,L,San Diego State,San-Diego-State,UC-San-Diego,1,9,"La Jolla, CA / Triton Park",2026,WN2026
+05/08/2026,San Diego State,San Jose State,11,1,0,0,W,San Diego State,San-Diego-State,San-Jose-State,0,7,"San Diego, CA / Tony Gwynn Stadium / Box Score",2026,WN2026
+05/09/2026,San Diego State,San Jose State,4,9,0,0,L,San Diego State,San-Diego-State,San-Jose-State,0,9,"San Diego, CA / Tony Gwynn Stadium / Box Score",2026,WN2026
+05/10/2026,San Diego State,San Jose State,4,1,0,0,W,San Diego State,San-Diego-State,San-Jose-State,0,9,"San Diego, CA / Tony Gwynn Stadium / Box Score",2026,WN2026
+05/14/2026,UNLV,San Diego State,1,15,0,0,W,San Diego State,San-Diego-State,UNLV,1,7,"Paradise, NV / Earl Wilson Stadium / Box Score",2026,WN2026
+05/15/2026,UNLV,San Diego State,3,1,0,0,L,San Diego State,San-Diego-State,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium / Box Score",2026,WN2026
+05/16/2026,UNLV,San Diego State,9,7,0,0,L,San Diego State,San-Diego-State,UNLV,1,10,"Paradise, NV / Earl Wilson Stadium / Box Score",2026,WN2026
+05/22/2026,New Mexico,San Diego State,6,11,0,1,W,San Diego State,San-Diego-State,New-Mexico,0,9,"Mesa, AZ / Sloan Park / Recap",2026,WN2026
+05/23/2026,Washington State,San Diego State,14,9,0,1,L,San Diego State,San-Diego-State,Washington-State,0,9,"Mesa, AZ / Sloan Park",2026,WN2026
+05/23/2026,Air Force,San Diego State,8,11,0,1,W,San Diego State,San-Diego-State,Air-Force,0,9,"Mesa, AZ / Sloan Park",2026,WN2026
+05/24/2026,Washington State,San Diego State,2,9,0,1,W,San Diego State,San-Diego-State,Washington-State,0,9,"Mesa, AZ / Sloan Park",2026,WN2026
+05/24/2026,Washington State,San Diego State,14,4,0,1,L,San Diego State,San-Diego-State,Washington-State,0,7,"Mesa, AZ / Sloan Park",2026,WN2026

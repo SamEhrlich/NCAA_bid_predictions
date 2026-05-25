@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Charlotte,San Diego,4,7,0,0,L,Charlotte,Charlotte,San-Diego,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+02/14/2026,Charlotte,San Diego,13,0,0,0,W,Charlotte,Charlotte,San-Diego,0,7,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+02/14/2026,Charlotte,San Diego,4,14,0,0,L,Charlotte,Charlotte,San-Diego,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+02/17/2026,Clemson,Charlotte,11,1,0,0,L,Charlotte,Charlotte,Clemson,1,7,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+02/20/2026,Charlotte,Wright State,10,3,0,0,W,Charlotte,Charlotte,Wright-State,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+02/21/2026,Charlotte,Wright State,5,4,0,0,W,Charlotte,Charlotte,Wright-State,0,10,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+02/22/2026,Charlotte,Wright State,9,2,0,0,W,Charlotte,Charlotte,Wright-State,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+02/25/2026,Charlotte,Maine,9,4,0,0,W,Charlotte,Charlotte,Maine,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+02/28/2026,Old Dominion,Charlotte,0,13,0,0,W,Charlotte,Charlotte,Old-Dominion,1,8,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+03/01/2026,Old Dominion,Charlotte,6,7,0,0,W,Charlotte,Charlotte,Old-Dominion,1,9,"Norfolk, VA / Bud Metheny Baseball Complex",2026,WN2026
+03/03/2026,Charlotte,Virginia,14,0,0,0,W,Charlotte,Charlotte,Virginia,0,7,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/04/2026,Virginia,Charlotte,8,1,0,1,L,Charlotte,Charlotte,Virginia,0,9,"Kannapolis, NC / Atrium Health Ballpark",2026,WN2026
+03/06/2026,Charlotte,Radford,7,1,0,0,W,Charlotte,Charlotte,Radford,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/07/2026,Charlotte,Western Carolina,4,0,0,0,W,Charlotte,Charlotte,Western-Carolina,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/08/2026,Charlotte,Western Carolina,7,4,0,0,W,Charlotte,Charlotte,Western-Carolina,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/10/2026,Campbell,Charlotte,5,13,0,0,W,Charlotte,Charlotte,Campbell,1,9,"Buies Creek, NC / Jim Perry Stadium",2026,WN2026
+03/13/2026,Charlotte,Saint John's,6,8,0,0,L,Charlotte,Charlotte,Saint-Johns,0,9,"Charlotte, NC / Mariam Hayes Stadium",2026,WN2026
+03/14/2026,Charlotte,Saint John's,2,3,0,0,L,Charlotte,Charlotte,Saint-Johns,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/15/2026,Charlotte,Saint John's,10,9,0,0,W,Charlotte,Charlotte,Saint-Johns,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/17/2026,South Carolina,Charlotte,8,11,0,0,W,Charlotte,Charlotte,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+03/18/2026,Charlotte,South Carolina Upstate,10,11,0,0,L,Charlotte,Charlotte,South-Carolina-Upstate,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/20/2026,Wichita State,Charlotte,8,3,0,0,L,Charlotte,Charlotte,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/21/2026,Wichita State,Charlotte,6,19,0,0,W,Charlotte,Charlotte,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/22/2026,Wichita State,Charlotte,7,2,0,0,L,Charlotte,Charlotte,Wichita-State,1,9,"Wichita, KS / Gene Stephenson Park",2026,WN2026
+03/24/2026,Charlotte,Queens,11,1,0,0,W,Charlotte,Charlotte,Queens,0,7,"Charlotte, NC / Hayes Stadium",2026,WN2026
+03/27/2026,Charlotte,South Florida,11,2,0,0,W,Charlotte,Charlotte,South-Florida,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/28/2026,Charlotte,South Florida,5,9,0,0,L,Charlotte,Charlotte,South-Florida,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/29/2026,Charlotte,South Florida,10,3,0,0,W,Charlotte,Charlotte,South-Florida,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+04/02/2026,East Carolina,Charlotte,12,2,0,0,L,Charlotte,Charlotte,East-Carolina,1,7,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+04/03/2026,East Carolina,Charlotte,12,9,0,0,L,Charlotte,Charlotte,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+04/04/2026,East Carolina,Charlotte,15,5,0,0,L,Charlotte,Charlotte,East-Carolina,1,7,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+04/07/2026,North Carolina,Charlotte,8,4,0,0,L,Charlotte,Charlotte,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/10/2026,Charlotte,Rice,5,7,0,0,L,Charlotte,Charlotte,Rice,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+04/11/2026,Charlotte,Rice,2,6,0,0,L,Charlotte,Charlotte,Rice,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+04/12/2026,Charlotte,Rice,2,3,0,0,L,Charlotte,Charlotte,Rice,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+04/14/2026,Charlotte,Clemson,3,7,0,0,L,Charlotte,Charlotte,Clemson,0,9,"Charlotte, NC / Truist Field",2026,WN2026
+04/17/2026,UTSA,Charlotte,11,5,0,0,L,Charlotte,Charlotte,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+04/18/2026,UTSA,Charlotte,8,3,0,0,L,Charlotte,Charlotte,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+04/19/2026,UTSA,Charlotte,5,7,0,0,W,Charlotte,Charlotte,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+04/21/2026,Charlotte,Campbell,4,5,0,0,L,Charlotte,Charlotte,Campbell,0,10,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+04/24/2026,FAU,Charlotte,3,1,0,0,L,Charlotte,Charlotte,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/25/2026,FAU,Charlotte,9,4,0,0,L,Charlotte,Charlotte,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/26/2026,FAU,Charlotte,4,5,0,0,W,Charlotte,Charlotte,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/28/2026,Liberty,Charlotte,12,2,0,0,L,Charlotte,Charlotte,Liberty,1,7,"Lynchburg, VA / Liberty Baseball Stadium",2026,WN2026
+05/01/2026,Charlotte,Tulane,10,0,0,0,W,Charlotte,Charlotte,Tulane,0,7,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+05/02/2026,Charlotte,Tulane,8,2,0,0,W,Charlotte,Charlotte,Tulane,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+05/03/2026,Charlotte,Tulane,6,3,0,0,W,Charlotte,Charlotte,Tulane,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+05/05/2026,Charlotte,Campbell,7,15,0,0,L,Charlotte,Charlotte,Campbell,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+05/08/2026,UAB,Charlotte,2,20,0,0,W,Charlotte,Charlotte,UAB,1,7,"Birmingham, AL / Jerry D. Young Memorial Field / Box Score",2026,WN2026
+05/09/2026,UAB,Charlotte,11,2,0,0,L,Charlotte,Charlotte,UAB,1,9,"Birmingham, AL / Jerry D. Young Memorial Field / Box Score",2026,WN2026
+05/10/2026,UAB,Charlotte,8,10,0,0,W,Charlotte,Charlotte,UAB,1,10,"Birmingham, AL / Jerry D. Young Memorial Field / Box Score",2026,WN2026
+05/12/2026,Charlotte,Gardner-Webb,11,1,0,0,W,Charlotte,Charlotte,Gardner-Webb,0,8,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+05/14/2026,Charlotte,Memphis,4,9,0,0,L,Charlotte,Charlotte,Memphis,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium / Box Score",2026,WN2026
+05/15/2026,Charlotte,Memphis,8,2,0,0,W,Charlotte,Charlotte,Memphis,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium / Box Score",2026,WN2026
+05/16/2026,Charlotte,Memphis,8,7,0,0,W,Charlotte,Charlotte,Memphis,0,9,"Charlotte, NC / Robert and Mariam Hayes Stadium / Box Score",2026,WN2026
+05/20/2026,Memphis,Charlotte,13,9,0,1,L,Charlotte,Charlotte,Memphis,0,9,"Clearwater, FL / BayCare Ballpark / Box Score / Recap",2026,WN2026

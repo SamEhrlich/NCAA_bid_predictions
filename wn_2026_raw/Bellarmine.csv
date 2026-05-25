@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Middle Tennessee,Bellarmine,8,2,0,0,L,Bellarmine,Bellarmine,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/14/2026,Middle Tennessee,Bellarmine,3,6,0,0,W,Bellarmine,Bellarmine,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/14/2026,Middle Tennessee,Bellarmine,15,5,0,0,L,Bellarmine,Bellarmine,Middle-Tennessee,1,8,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+02/17/2026,Belmont,Bellarmine,4,11,0,0,W,Bellarmine,Bellarmine,Belmont,1,9,"Nashville, TN / E. S. Rose Park",2026,WN2026
+02/20/2026,Georgia State,Bellarmine,14,1,0,0,L,Bellarmine,Bellarmine,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+02/21/2026,Georgia State,Bellarmine,9,3,0,0,L,Bellarmine,Bellarmine,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+02/22/2026,Georgia State,Bellarmine,18,8,0,0,L,Bellarmine,Bellarmine,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+02/24/2026,Tennessee,Bellarmine,8,3,0,0,L,Bellarmine,Bellarmine,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+02/27/2026,Saint Louis,Bellarmine,13,3,0,0,L,Bellarmine,Bellarmine,Saint-Louis,1,7,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+02/28/2026,Saint Louis,Bellarmine,6,4,0,0,L,Bellarmine,Bellarmine,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+02/28/2026,Saint Louis,Bellarmine,8,0,0,0,L,Bellarmine,Bellarmine,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/06/2026,Eastern Illinois,Bellarmine,11,4,0,1,L,Bellarmine,Bellarmine,Eastern-Illinois,0,9,"Marion, IL / Mountain Dew Park",2026,WN2026
+03/07/2026,Eastern Illinois,Bellarmine,4,2,0,1,L,Bellarmine,Bellarmine,Eastern-Illinois,0,9,"Marion, IL / Mountain Dew Park",2026,WN2026
+03/07/2026,Eastern Illinois,Bellarmine,2,8,0,1,W,Bellarmine,Bellarmine,Eastern-Illinois,0,9,"Marion, IL / Mountain Dew Park",2026,WN2026
+03/10/2026,Bellarmine,Butler,17,10,0,0,W,Bellarmine,Bellarmine,Butler,0,9,"Louisville, KY / Knights Field",2026,WN2026
+03/13/2026,Bellarmine,Austin Peay,9,15,0,0,L,Bellarmine,Bellarmine,Austin-Peay,0,9,"Louisville, KY / Knights Field",2026,WN2026
+03/14/2026,Bellarmine,Austin Peay,9,8,0,0,W,Bellarmine,Bellarmine,Austin-Peay,0,9,"Louisville, KY / Knights Field",2026,WN2026
+03/15/2026,Bellarmine,Austin Peay,3,12,0,0,L,Bellarmine,Bellarmine,Austin-Peay,0,9,"Louisville, KY / Knights Field",2026,WN2026
+03/18/2026,Bellarmine,Southern Indiana,3,2,0,0,W,Bellarmine,Bellarmine,Southern-Indiana,0,9,"Louisville, KY / Knights Field",2026,WN2026
+03/20/2026,Central Arkansas,Bellarmine,17,12,0,0,L,Bellarmine,Bellarmine,Central-Arkansas,1,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/21/2026,Central Arkansas,Bellarmine,2,5,0,0,W,Bellarmine,Bellarmine,Central-Arkansas,1,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/22/2026,Central Arkansas,Bellarmine,8,7,0,0,L,Bellarmine,Bellarmine,Central-Arkansas,1,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/24/2026,Bellarmine,Northern Kentucky,7,6,0,0,W,Bellarmine,Bellarmine,Northern-Kentucky,0,9,"Louisville, KY / Knights Field",2026,WN2026
+03/27/2026,Bellarmine,North Alabama,16,6,0,0,W,Bellarmine,Bellarmine,North-Alabama,0,9,"Louisville, KY / Knights Field",2026,WN2026
+03/28/2026,Bellarmine,North Alabama,4,7,0,0,L,Bellarmine,Bellarmine,North-Alabama,0,9,"Louisville, KY / Knights Field",2026,WN2026
+03/29/2026,Bellarmine,North Alabama,12,9,0,0,W,Bellarmine,Bellarmine,North-Alabama,0,9,"Louisville, KY / Knights Field",2026,WN2026
+03/31/2026,Northern Kentucky,Bellarmine,12,15,0,0,W,Bellarmine,Bellarmine,Northern-Kentucky,1,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+04/02/2026,Bellarmine,Lipscomb,4,9,0,0,L,Bellarmine,Bellarmine,Lipscomb,0,9,"Louisville, KY / Knights Field",2026,WN2026
+04/03/2026,Bellarmine,Lipscomb,17,10,0,0,W,Bellarmine,Bellarmine,Lipscomb,0,9,"Louisville, KY / Knights Field",2026,WN2026
+04/03/2026,Bellarmine,Lipscomb,9,5,0,0,W,Bellarmine,Bellarmine,Lipscomb,0,9,"Louisville, KY / Knights Field",2026,WN2026
+04/06/2026,Southern Indiana,Bellarmine,9,8,0,0,L,Bellarmine,Bellarmine,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/07/2026,Bellarmine,Murray State,7,8,0,0,L,Bellarmine,Bellarmine,Murray-State,0,10,"Louisville, KY / Knights Field",2026,WN2026
+04/10/2026,Eastern Kentucky,Bellarmine,5,10,0,0,W,Bellarmine,Bellarmine,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/11/2026,Eastern Kentucky,Bellarmine,10,14,0,0,W,Bellarmine,Bellarmine,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/12/2026,Eastern Kentucky,Bellarmine,9,11,0,0,W,Bellarmine,Bellarmine,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+04/14/2026,Morehead State,Bellarmine,13,3,0,0,L,Bellarmine,Bellarmine,Morehead-State,1,7,"Morehead, KY / Allen Field",2026,WN2026
+04/17/2026,Austin Peay,Bellarmine,16,6,0,0,L,Bellarmine,Bellarmine,Austin-Peay,1,7,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+04/17/2026,Austin Peay,Bellarmine,5,2,0,0,L,Bellarmine,Bellarmine,Austin-Peay,1,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+04/19/2026,Austin Peay,Bellarmine,10,5,0,0,L,Bellarmine,Bellarmine,Austin-Peay,1,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+04/21/2026,Dayton,Bellarmine,6,8,0,0,W,Bellarmine,Bellarmine,Dayton,1,9,"Dayton, OH / Woerner Field",2026,WN2026
+04/24/2026,Bellarmine,Central Arkansas,2,13,0,0,L,Bellarmine,Bellarmine,Central-Arkansas,0,8,"Louisville, KY / Knights Field",2026,WN2026
+04/25/2026,Bellarmine,Central Arkansas,7,14,0,0,L,Bellarmine,Bellarmine,Central-Arkansas,0,9,"Louisville, KY / Knights Field",2026,WN2026
+04/26/2026,Bellarmine,Central Arkansas,3,6,0,0,L,Bellarmine,Bellarmine,Central-Arkansas,0,9,"Louisville, KY / Knights Field",2026,WN2026
+05/01/2026,North Alabama,Bellarmine,13,3,0,0,L,Bellarmine,Bellarmine,North-Alabama,1,7,"Florence, AL / Mike D. Lane Field",2026,WN2026
+05/02/2026,North Alabama,Bellarmine,8,15,0,0,W,Bellarmine,Bellarmine,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+05/03/2026,North Alabama,Bellarmine,6,9,0,0,W,Bellarmine,Bellarmine,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+05/07/2026,Lipscomb,Bellarmine,5,4,0,0,L,Bellarmine,Bellarmine,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+05/08/2026,Lipscomb,Bellarmine,6,4,0,0,L,Bellarmine,Bellarmine,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field / Box Score",2026,WN2026
+05/09/2026,Lipscomb,Bellarmine,2,1,0,0,L,Bellarmine,Bellarmine,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field / Box Score",2026,WN2026
+05/12/2026,Louisville,Bellarmine,14,7,0,0,L,Bellarmine,Bellarmine,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+05/14/2026,Bellarmine,Eastern Kentucky,11,16,0,0,L,Bellarmine,Bellarmine,Eastern-Kentucky,0,9,"Louisville, KY / Knights Field / Box Score",2026,WN2026
+05/15/2026,Bellarmine,Eastern Kentucky,3,11,0,0,L,Bellarmine,Bellarmine,Eastern-Kentucky,0,9,"Louisville, KY / Knights Field / Box Score",2026,WN2026
+05/17/2026,Bellarmine,Eastern Kentucky,4,9,0,0,L,Bellarmine,Bellarmine,Eastern-Kentucky,0,9,"Louisville, KY / Knights Field / Box Score",2026,WN2026

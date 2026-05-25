@@ -1,0 +1,50 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,North Florida,Sacred Heart,2,7,0,0,W,Sacred Heart,Sacred-Heart,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/14/2026,North Florida,Sacred Heart,16,3,0,0,L,Sacred Heart,Sacred-Heart,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/15/2026,North Florida,Sacred Heart,12,2,0,0,L,Sacred Heart,Sacred-Heart,North-Florida,1,7,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/20/2026,East Tennessee State,Sacred Heart,10,0,0,0,L,Sacred Heart,Sacred-Heart,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/21/2026,East Tennessee State,Sacred Heart,26,3,0,0,L,Sacred Heart,Sacred-Heart,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/21/2026,East Tennessee State,Sacred Heart,11,8,0,0,L,Sacred Heart,Sacred-Heart,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+02/27/2026,North Carolina State,Sacred Heart,17,4,0,0,L,Sacred Heart,Sacred-Heart,North-Carolina-State,1,7,"Raleigh, NC / Doak Field",2026,WN2026
+02/28/2026,North Carolina State,Sacred Heart,15,5,0,0,L,Sacred Heart,Sacred-Heart,North-Carolina-State,1,7,"Raleigh, NC / Doak Field",2026,WN2026
+03/01/2026,North Carolina State,Sacred Heart,13,0,0,0,L,Sacred Heart,Sacred-Heart,North-Carolina-State,1,7,"Raleigh, NC / Doak Field",2026,WN2026
+03/06/2026,Sacred Heart,Rider,1,5,0,0,L,Sacred Heart,Sacred-Heart,Rider,0,9,"Fairfield, CT / Veterans Park",2026,WN2026
+03/07/2026,Sacred Heart,Rider,3,9,0,0,L,Sacred Heart,Sacred-Heart,Rider,0,9,"Fairfield, CT / Veterans Park",2026,WN2026
+03/08/2026,Sacred Heart,Rider,5,4,0,0,W,Sacred Heart,Sacred-Heart,Rider,0,9,"Fairfield, CT / Veterans Park",2026,WN2026
+03/10/2026,Yale,Sacred Heart,4,2,0,0,L,Sacred Heart,Sacred-Heart,Yale,1,9,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+03/14/2026,Quinnipiac,Sacred Heart,8,9,0,0,W,Sacred Heart,Sacred-Heart,Quinnipiac,1,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+03/14/2026,Quinnipiac,Sacred Heart,4,10,0,0,W,Sacred Heart,Sacred-Heart,Quinnipiac,1,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+03/15/2026,Quinnipiac,Sacred Heart,10,2,0,0,L,Sacred Heart,Sacred-Heart,Quinnipiac,1,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+03/17/2026,Boston College,Sacred Heart,5,4,0,0,L,Sacred Heart,Sacred-Heart,Boston-College,1,9,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+03/20/2026,Bryant,Sacred Heart,11,1,0,0,L,Sacred Heart,Sacred-Heart,Bryant,1,7,"Smithfield, RI / Conaty Park",2026,WN2026
+03/21/2026,Bryant,Sacred Heart,6,2,0,0,L,Sacred Heart,Sacred-Heart,Bryant,1,7,"Smithfield, RI / Conaty Park",2026,WN2026
+03/21/2026,Bryant,Sacred Heart,14,11,0,0,L,Sacred Heart,Sacred-Heart,Bryant,1,9,"Smithfield, RI / Conaty Park",2026,WN2026
+03/25/2026,Sacred Heart,New Haven,16,3,0,0,W,Sacred Heart,Sacred-Heart,New-Haven,0,7,"Fairfield, CT / Veterans Park",2026,WN2026
+03/27/2026,Sacred Heart,Mount Saint Mary's,4,6,0,0,L,Sacred Heart,Sacred-Heart,Mount-Saint-Marys,0,9,"Fairfield, CT / Veterans Park",2026,WN2026
+03/28/2026,Sacred Heart,Mount Saint Mary's,3,2,0,0,W,Sacred Heart,Sacred-Heart,Mount-Saint-Marys,0,10,"Fairfield, CT / Veterans Park",2026,WN2026
+03/29/2026,Sacred Heart,Mount Saint Mary's,6,9,0,0,L,Sacred Heart,Sacred-Heart,Mount-Saint-Marys,0,9,"Fairfield, CT / Veterans Park",2026,WN2026
+03/31/2026,Central Connecticut,Sacred Heart,12,8,0,0,L,Sacred Heart,Sacred-Heart,Central-Connecticut,1,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/03/2026,Manhattan,Sacred Heart,7,8,0,0,W,Sacred Heart,Sacred-Heart,Manhattan,1,9,"Pomona, NY / Clover Stadium",2026,WN2026
+04/03/2026,Manhattan,Sacred Heart,7,22,0,0,W,Sacred Heart,Sacred-Heart,Manhattan,1,9,"Pomona, NY / Clover Stadium",2026,WN2026
+04/04/2026,Manhattan,Sacred Heart,3,4,0,0,W,Sacred Heart,Sacred-Heart,Manhattan,1,9,"Pomona, NY / Clover Stadium",2026,WN2026
+04/07/2026,Sacred Heart,Stony Brook,11,5,0,0,W,Sacred Heart,Sacred-Heart,Stony-Brook,0,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/10/2026,Iona,Sacred Heart,7,6,0,0,L,Sacred Heart,Sacred-Heart,Iona,1,9,"New Rochelle, NY / City Park",2026,WN2026
+04/11/2026,Iona,Sacred Heart,6,3,0,0,L,Sacred Heart,Sacred-Heart,Iona,1,9,"New Rochelle, NY / City Park",2026,WN2026
+04/17/2026,Sacred Heart,Merrimack,3,2,0,0,W,Sacred Heart,Sacred-Heart,Merrimack,0,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/17/2026,Sacred Heart,Merrimack,6,1,0,0,W,Sacred Heart,Sacred-Heart,Merrimack,0,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/18/2026,Sacred Heart,Merrimack,2,7,0,0,L,Sacred Heart,Sacred-Heart,Merrimack,0,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/22/2026,Sacred Heart,Yale,5,14,0,0,L,Sacred Heart,Sacred-Heart,Yale,0,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/24/2026,Sacred Heart,Siena,11,4,0,0,W,Sacred Heart,Sacred-Heart,Siena,0,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/25/2026,Sacred Heart,Siena,11,20,0,0,L,Sacred Heart,Sacred-Heart,Siena,0,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/26/2026,Sacred Heart,Siena,2,10,0,0,L,Sacred Heart,Sacred-Heart,Siena,0,9,"Fairfield, CT / Veterans Park",2026,WN2026
+04/28/2026,Fordham,Sacred Heart,10,13,0,0,W,Sacred Heart,Sacred-Heart,Fordham,1,9,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+05/01/2026,Marist,Sacred Heart,9,1,0,0,L,Sacred Heart,Sacred-Heart,Marist,1,9,"Poughkeepsie, NY / James J. McCann Baseball Field",2026,WN2026
+05/02/2026,Marist,Sacred Heart,1,15,0,0,W,Sacred Heart,Sacred-Heart,Marist,1,9,"Poughkeepsie, NY / James J. McCann Baseball Field",2026,WN2026
+05/03/2026,Marist,Sacred Heart,10,6,0,0,L,Sacred Heart,Sacred-Heart,Marist,1,9,"Poughkeepsie, NY / James J. McCann Baseball Field",2026,WN2026
+05/05/2026,Sacred Heart,Central Connecticut,1,13,0,0,L,Sacred Heart,Sacred-Heart,Central-Connecticut,0,9,"Fairfield, CT / Veterans Park",2026,WN2026
+05/08/2026,Canisius,Sacred Heart,6,3,0,0,L,Sacred Heart,Sacred-Heart,Canisius,1,9,"Buffalo, NY / Demske Sports Complex / Box Score",2026,WN2026
+05/09/2026,Canisius,Sacred Heart,5,3,0,0,L,Sacred Heart,Sacred-Heart,Canisius,1,9,"Buffalo, NY / Demske Sports Complex / Box Score",2026,WN2026
+05/10/2026,Canisius,Sacred Heart,5,10,0,0,W,Sacred Heart,Sacred-Heart,Canisius,1,9,"Buffalo, NY / Demske Sports Complex / Box Score",2026,WN2026
+05/15/2026,Sacred Heart,Fairfield,12,7,0,0,W,Sacred Heart,Sacred-Heart,Fairfield,0,9,"Fairfield, CT / Veterans Park / Box Score",2026,WN2026
+05/15/2026,Sacred Heart,Fairfield,6,15,0,0,L,Sacred Heart,Sacred-Heart,Fairfield,0,9,"Fairfield, CT / Veterans Park / Box Score",2026,WN2026
+05/16/2026,Sacred Heart,Fairfield,2,3,0,0,L,Sacred Heart,Sacred-Heart,Fairfield,0,9,"Fairfield, CT / Veterans Park / Box Score",2026,WN2026

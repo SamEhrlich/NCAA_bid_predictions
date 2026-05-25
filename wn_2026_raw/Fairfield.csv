@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Coastal Carolina,Fairfield,5,3,0,0,L,Fairfield,Fairfield,Coastal-Carolina,1,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+02/14/2026,Coastal Carolina,Fairfield,5,1,0,0,L,Fairfield,Fairfield,Coastal-Carolina,1,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+02/14/2026,Coastal Carolina,Fairfield,5,0,0,0,L,Fairfield,Fairfield,Coastal-Carolina,1,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+02/20/2026,Davidson,Fairfield,1,0,0,0,L,Fairfield,Fairfield,Davidson,1,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+02/21/2026,Davidson,Fairfield,8,6,0,0,L,Fairfield,Fairfield,Davidson,1,9,"Davidson, NC / T. Henry Wilson Jr. Field",2026,WN2026
+02/27/2026,Elon,Fairfield,3,2,0,0,L,Fairfield,Fairfield,Elon,1,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+02/28/2026,Elon,Fairfield,3,0,0,0,L,Fairfield,Fairfield,Elon,1,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+03/01/2026,Elon,Fairfield,4,6,0,0,W,Fairfield,Fairfield,Elon,1,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+03/06/2026,Siena,Fairfield,6,5,0,0,L,Fairfield,Fairfield,Siena,1,11,"Troy, NY / RPI - Robison Field",2026,WN2026
+03/07/2026,Siena,Fairfield,7,6,0,0,L,Fairfield,Fairfield,Siena,1,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+03/07/2026,Siena,Fairfield,3,12,0,0,W,Fairfield,Fairfield,Siena,1,9,"Loudonville, NY / Siena Baseball Field",2026,WN2026
+03/10/2026,Saint John's,Fairfield,4,6,0,0,W,Fairfield,Fairfield,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+03/13/2026,Fairfield,Manhattan,11,2,0,0,W,Fairfield,Fairfield,Manhattan,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+03/14/2026,Fairfield,Manhattan,4,3,0,0,W,Fairfield,Fairfield,Manhattan,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+03/15/2026,Fairfield,Manhattan,7,3,0,0,W,Fairfield,Fairfield,Manhattan,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+03/18/2026,Fairfield,Hofstra,3,5,0,0,L,Fairfield,Fairfield,Hofstra,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+03/20/2026,Saint Peter's,Fairfield,3,6,0,0,W,Fairfield,Fairfield,Saint-Peters,1,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+03/21/2026,Saint Peter's,Fairfield,1,11,0,0,W,Fairfield,Fairfield,Saint-Peters,1,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+03/22/2026,Saint Peter's,Fairfield,7,18,0,0,W,Fairfield,Fairfield,Saint-Peters,1,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+03/24/2026,Fairfield,Central Connecticut,12,3,0,0,W,Fairfield,Fairfield,Central-Connecticut,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+03/29/2026,Binghamton,Fairfield,12,6,0,0,L,Fairfield,Fairfield,Binghamton,1,7,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+03/29/2026,Binghamton,Fairfield,1,5,0,0,W,Fairfield,Fairfield,Binghamton,1,7,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+03/31/2026,Fairfield,Yale,9,6,0,0,W,Fairfield,Fairfield,Yale,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/02/2026,Merrimack,Fairfield,6,7,0,0,W,Fairfield,Fairfield,Merrimack,1,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+04/03/2026,Merrimack,Fairfield,4,1,0,0,L,Fairfield,Fairfield,Merrimack,1,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+04/04/2026,Merrimack,Fairfield,6,7,0,0,W,Fairfield,Fairfield,Merrimack,1,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+04/10/2026,Fairfield,Rider,10,3,0,0,W,Fairfield,Fairfield,Rider,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/11/2026,Fairfield,Rider,3,6,0,0,L,Fairfield,Fairfield,Rider,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/12/2026,Fairfield,Rider,8,9,0,0,L,Fairfield,Fairfield,Rider,0,13,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/14/2026,Fairfield,Columbia,6,13,0,0,L,Fairfield,Fairfield,Columbia,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/17/2026,Fairfield,Mount Saint Mary's,2,1,0,0,W,Fairfield,Fairfield,Mount-Saint-Marys,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/18/2026,Fairfield,Mount Saint Mary's,11,7,0,0,W,Fairfield,Fairfield,Mount-Saint-Marys,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/18/2026,Fairfield,Mount Saint Mary's,5,4,0,0,W,Fairfield,Fairfield,Mount-Saint-Marys,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/21/2026,Fordham,Fairfield,6,12,0,0,W,Fairfield,Fairfield,Fordham,1,9,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+04/24/2026,Fairfield,Iona,21,6,0,0,W,Fairfield,Fairfield,Iona,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/26/2026,Fairfield,Iona,5,1,0,0,W,Fairfield,Fairfield,Iona,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/26/2026,Fairfield,Iona,4,5,0,0,L,Fairfield,Fairfield,Iona,0,10,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/28/2026,Fairfield,Stony Brook,10,12,0,0,L,Fairfield,Fairfield,Stony-Brook,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+05/01/2026,Quinnipiac,Fairfield,7,0,0,0,L,Fairfield,Fairfield,Quinnipiac,1,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+05/02/2026,Quinnipiac,Fairfield,2,11,0,0,W,Fairfield,Fairfield,Quinnipiac,1,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+05/03/2026,Quinnipiac,Fairfield,5,4,0,0,L,Fairfield,Fairfield,Quinnipiac,1,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+05/08/2026,Fairfield,Marist,4,0,0,0,W,Fairfield,Fairfield,Marist,0,9,"Fairfield, CT / Alumni Baseball Diamond / Box Score",2026,WN2026
+05/08/2026,Fairfield,Marist,3,4,0,0,L,Fairfield,Fairfield,Marist,0,9,"Fairfield, CT / Alumni Baseball Diamond / Box Score",2026,WN2026
+05/10/2026,Fairfield,Marist,12,7,0,0,W,Fairfield,Fairfield,Marist,0,9,"Fairfield, CT / Alumni Baseball Diamond / Box Score",2026,WN2026
+05/12/2026,Fairfield,New Haven,13,11,0,0,W,Fairfield,Fairfield,New-Haven,0,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+05/15/2026,Sacred Heart,Fairfield,12,7,0,0,L,Fairfield,Fairfield,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park / Box Score",2026,WN2026
+05/15/2026,Sacred Heart,Fairfield,6,15,0,0,W,Fairfield,Fairfield,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park / Box Score",2026,WN2026
+05/16/2026,Sacred Heart,Fairfield,2,3,0,0,W,Fairfield,Fairfield,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park / Box Score",2026,WN2026
+05/20/2026,Marist,Fairfield,3,6,0,1,W,Fairfield,Fairfield,Marist,0,9,"Wappingers Falls, NY / Heritage Financial Park / Box Score / Recap",2026,WN2026
+05/21/2026,Niagara,Fairfield,3,4,0,1,W,Fairfield,Fairfield,Niagara,0,9,"Wappingers Falls, NY / Heritage Financial Park / Recap",2026,WN2026
+05/22/2026,Rider,Fairfield,5,1,0,1,L,Fairfield,Fairfield,Rider,0,9,"Wappingers Falls, NY / Heritage Financial Park",2026,WN2026
+05/22/2026,Niagara,Fairfield,2,9,0,1,W,Fairfield,Fairfield,Niagara,0,9,"Wappingers Falls, NY / Heritage Financial Park",2026,WN2026
+05/23/2026,Fairfield,Fairfield,12,7,0,1,L,Fairfield,Fairfield,Fairfield,0,9,"Wappingers Falls, NY / Heritage Financial Park",2026,WN2026
+05/23/2026,Rider,Fairfield,6,1,0,1,L,Fairfield,Fairfield,Rider,0,9,"Wappingers Falls, NY / Heritage Financial Park",2026,WN2026

@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,West Georgia,Central Michigan,11,3,0,0,L,Central Michigan,Central-Michigan,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+02/13/2026,West Georgia,Central Michigan,6,18,0,0,W,Central Michigan,Central-Michigan,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+02/14/2026,West Georgia,Central Michigan,6,15,0,0,W,Central Michigan,Central-Michigan,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+02/14/2026,West Georgia,Central Michigan,1,6,0,0,W,Central Michigan,Central-Michigan,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+02/20/2026,Belmont,Central Michigan,3,9,0,0,W,Central Michigan,Central-Michigan,Belmont,1,8,"Nashville, TN / E. S. Rose Park",2026,WN2026
+02/20/2026,Belmont,Central Michigan,5,2,0,0,L,Central Michigan,Central-Michigan,Belmont,1,9,"Nashville, TN / E. S. Rose Park",2026,WN2026
+02/21/2026,Belmont,Central Michigan,4,6,0,0,W,Central Michigan,Central-Michigan,Belmont,1,9,"Nashville, TN / E. S. Rose Park",2026,WN2026
+02/27/2026,Louisville,Central Michigan,16,2,0,0,L,Central Michigan,Central-Michigan,Louisville,1,7,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+02/28/2026,Louisville,Central Michigan,9,8,0,0,L,Central Michigan,Central-Michigan,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/01/2026,Louisville,Central Michigan,7,5,0,0,L,Central Michigan,Central-Michigan,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/06/2026,Ball State,Central Michigan,7,8,0,0,W,Central Michigan,Central-Michigan,Ball-State,1,9,"Muncie, IN / Ball Diamond",2026,WN2026
+03/07/2026,Ball State,Central Michigan,11,6,0,0,L,Central Michigan,Central-Michigan,Ball-State,1,9,"Muncie, IN / Ball Diamond",2026,WN2026
+03/08/2026,Ball State,Central Michigan,11,10,0,0,L,Central Michigan,Central-Michigan,Ball-State,1,9,"Muncie, IN / Ball Diamond",2026,WN2026
+03/10/2026,Mercyhurst,Central Michigan,14,18,0,0,W,Central Michigan,Central-Michigan,Mercyhurst,1,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/13/2026,Kent State,Central Michigan,11,10,0,0,L,Central Michigan,Central-Michigan,Kent-State,1,10,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/14/2026,Kent State,Central Michigan,3,2,0,0,L,Central Michigan,Central-Michigan,Kent-State,1,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/15/2026,Kent State,Central Michigan,6,4,0,0,L,Central Michigan,Central-Michigan,Kent-State,1,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+03/20/2026,Central Michigan,Toledo,1,10,0,0,L,Central Michigan,Central-Michigan,Toledo,0,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+03/21/2026,Central Michigan,Toledo,18,7,0,0,W,Central Michigan,Central-Michigan,Toledo,0,8,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+03/22/2026,Central Michigan,Toledo,6,5,0,0,W,Central Michigan,Central-Michigan,Toledo,0,11,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+03/24/2026,Central Michigan,Michigan State,8,19,0,0,L,Central Michigan,Central-Michigan,Michigan-State,0,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+03/27/2026,Eastern Michigan,Central Michigan,9,8,0,0,L,Central Michigan,Central-Michigan,Eastern-Michigan,1,15,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+03/28/2026,Eastern Michigan,Central Michigan,12,11,0,0,L,Central Michigan,Central-Michigan,Eastern-Michigan,1,9,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+03/29/2026,Eastern Michigan,Central Michigan,13,7,0,0,L,Central Michigan,Central-Michigan,Eastern-Michigan,1,9,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+04/03/2026,Central Michigan,Western Michigan,8,7,0,0,W,Central Michigan,Central-Michigan,Western-Michigan,0,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+04/03/2026,Central Michigan,Western Michigan,8,9,0,0,L,Central Michigan,Central-Michigan,Western-Michigan,0,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+04/03/2026,Central Michigan,Western Michigan,6,3,0,0,W,Central Michigan,Central-Michigan,Western-Michigan,0,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+04/07/2026,Michigan,Central Michigan,6,4,0,0,L,Central Michigan,Central-Michigan,Michigan,1,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/10/2026,Bowling Green,Central Michigan,5,4,0,0,L,Central Michigan,Central-Michigan,Bowling-Green,1,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/11/2026,Bowling Green,Central Michigan,0,5,0,0,W,Central Michigan,Central-Michigan,Bowling-Green,1,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/12/2026,Bowling Green,Central Michigan,13,21,0,0,W,Central Michigan,Central-Michigan,Bowling-Green,1,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/13/2026,Central Michigan,Milwaukee,6,9,0,0,L,Central Michigan,Central-Michigan,Milwaukee,0,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+04/15/2026,Central Michigan,Youngstown State,12,2,0,0,W,Central Michigan,Central-Michigan,Youngstown-State,0,8,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+04/17/2026,Central Michigan,Ohio,15,5,0,0,W,Central Michigan,Central-Michigan,Ohio,0,7,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+04/17/2026,Central Michigan,Ohio,4,3,0,0,W,Central Michigan,Central-Michigan,Ohio,0,10,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+04/18/2026,Central Michigan,Ohio,6,16,0,0,L,Central Michigan,Central-Michigan,Ohio,0,8,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+04/21/2026,Oakland,Central Michigan,6,11,0,0,W,Central Michigan,Central-Michigan,Oakland,1,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/24/2026,Miami (OH),Central Michigan,12,5,0,0,L,Central Michigan,Central-Michigan,Miami-OH,1,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+04/25/2026,Miami (OH),Central Michigan,6,1,0,0,L,Central Michigan,Central-Michigan,Miami-OH,1,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+04/26/2026,Miami (OH),Central Michigan,5,2,0,0,L,Central Michigan,Central-Michigan,Miami-OH,1,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+04/28/2026,Notre Dame,Central Michigan,5,3,0,0,L,Central Michigan,Central-Michigan,Notre-Dame,1,9,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+05/01/2026,Central Michigan,Northern Illinois,1,12,0,0,L,Central Michigan,Central-Michigan,Northern-Illinois,0,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+05/02/2026,Central Michigan,Northern Illinois,5,10,0,0,L,Central Michigan,Central-Michigan,Northern-Illinois,0,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+05/03/2026,Central Michigan,Northern Illinois,2,8,0,0,L,Central Michigan,Central-Michigan,Northern-Illinois,0,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+05/05/2026,Central Michigan,Oakland,6,4,0,0,W,Central Michigan,Central-Michigan,Oakland,0,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+05/08/2026,Central Michigan,Akron,3,0,0,0,W,Central Michigan,Central-Michigan,Akron,0,9,"Mount Pleasant, MI / Bill Theunissen Stadium / Box Score",2026,WN2026
+05/09/2026,Central Michigan,Akron,10,12,0,0,L,Central Michigan,Central-Michigan,Akron,0,9,"Mount Pleasant, MI / Bill Theunissen Stadium / Box Score",2026,WN2026
+05/10/2026,Central Michigan,Akron,12,11,0,0,W,Central Michigan,Central-Michigan,Akron,0,9,"Mount Pleasant, MI / Bill Theunissen Stadium / Box Score",2026,WN2026
+05/15/2026,UMass,Central Michigan,3,5,0,0,W,Central Michigan,Central-Michigan,UMass,1,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+05/16/2026,UMass,Central Michigan,13,9,0,0,L,Central Michigan,Central-Michigan,UMass,1,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+05/16/2026,UMass,Central Michigan,10,14,0,0,W,Central Michigan,Central-Michigan,UMass,1,9,"Amherst, MA / Earl Lorden Field",2026,WN2026

@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Arkansas-Pine Bluff,Lindenwood,1,6,0,0,W,Lindenwood,Lindenwood,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+02/13/2026,Arkansas-Pine Bluff,Lindenwood,8,6,0,0,L,Lindenwood,Lindenwood,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+02/14/2026,Arkansas-Pine Bluff,Lindenwood,0,3,0,0,W,Lindenwood,Lindenwood,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+02/15/2026,Arkansas-Pine Bluff,Lindenwood,8,6,0,0,L,Lindenwood,Lindenwood,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+02/20/2026,Lindenwood,Saint Thomas,4,2,0,0,W,Lindenwood,Lindenwood,Saint-Thomas,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+02/20/2026,Lindenwood,Saint Thomas,2,8,0,0,L,Lindenwood,Lindenwood,Saint-Thomas,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+02/21/2026,Lindenwood,Saint Thomas,6,0,0,0,W,Lindenwood,Lindenwood,Saint-Thomas,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+02/25/2026,Illinois,Lindenwood,13,9,0,0,L,Lindenwood,Lindenwood,Illinois,1,9,"Champaign, IL / Illinois Field",2026,WN2026
+02/27/2026,Lindenwood,Northern Illinois,13,3,0,0,W,Lindenwood,Lindenwood,Northern-Illinois,0,7,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+02/28/2026,Lindenwood,Northern Illinois,1,5,0,0,L,Lindenwood,Lindenwood,Northern-Illinois,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+02/28/2026,Lindenwood,Northern Illinois,1,5,0,0,L,Lindenwood,Lindenwood,Northern-Illinois,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/01/2026,Lindenwood,Northern Illinois,8,14,0,0,L,Lindenwood,Lindenwood,Northern-Illinois,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/06/2026,Iowa,Lindenwood,11,6,0,0,L,Lindenwood,Lindenwood,Iowa,1,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+03/07/2026,Iowa,Lindenwood,3,4,0,0,W,Lindenwood,Lindenwood,Iowa,1,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+03/08/2026,Iowa,Lindenwood,10,9,0,0,L,Lindenwood,Lindenwood,Iowa,1,10,"Iowa City, IA / Duane Banks Field",2026,WN2026
+03/10/2026,Lindenwood,Bradley,6,5,0,0,W,Lindenwood,Lindenwood,Bradley,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/11/2026,Lindenwood,Bradley,11,6,0,0,W,Lindenwood,Lindenwood,Bradley,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/13/2026,Lindenwood,Murray State,4,0,0,0,W,Lindenwood,Lindenwood,Murray-State,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/14/2026,Lindenwood,Murray State,1,3,0,0,L,Lindenwood,Lindenwood,Murray-State,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/15/2026,Lindenwood,Murray State,4,0,0,0,W,Lindenwood,Lindenwood,Murray-State,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/20/2026,Lindenwood,Eastern Illinois,1,6,0,0,L,Lindenwood,Lindenwood,Eastern-Illinois,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/21/2026,Lindenwood,Eastern Illinois,4,5,0,0,L,Lindenwood,Lindenwood,Eastern-Illinois,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/22/2026,Lindenwood,Eastern Illinois,6,9,0,0,L,Lindenwood,Lindenwood,Eastern-Illinois,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/25/2026,Lindenwood,Missouri,10,4,0,0,W,Lindenwood,Lindenwood,Missouri,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/27/2026,Tennessee-Martin,Lindenwood,7,2,0,0,L,Lindenwood,Lindenwood,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/28/2026,Tennessee-Martin,Lindenwood,10,1,0,0,L,Lindenwood,Lindenwood,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/29/2026,Tennessee-Martin,Lindenwood,15,7,0,0,L,Lindenwood,Lindenwood,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/31/2026,Southern Illinois,Lindenwood,1,3,0,0,W,Lindenwood,Lindenwood,Southern-Illinois,1,9,"Carbondale, IL / Itchy Jones Stadium",2026,WN2026
+04/02/2026,Lindenwood,Southeast Missouri,3,2,0,0,W,Lindenwood,Lindenwood,Southeast-Missouri,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+04/03/2026,Lindenwood,Southeast Missouri,0,8,0,0,L,Lindenwood,Lindenwood,Southeast-Missouri,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+04/04/2026,Lindenwood,Southeast Missouri,7,1,0,0,W,Lindenwood,Lindenwood,Southeast-Missouri,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+04/08/2026,Evansville,Lindenwood,9,2,0,0,L,Lindenwood,Lindenwood,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+04/10/2026,Lindenwood,Western Illinois,5,2,0,0,W,Lindenwood,Lindenwood,Western-Illinois,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+04/11/2026,Lindenwood,Western Illinois,4,1,0,0,W,Lindenwood,Lindenwood,Western-Illinois,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+04/12/2026,Lindenwood,Western Illinois,3,2,0,0,W,Lindenwood,Lindenwood,Western-Illinois,0,14,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+04/14/2026,Saint Louis,Lindenwood,1,9,0,0,W,Lindenwood,Lindenwood,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+04/17/2026,Morehead State,Lindenwood,4,5,0,0,W,Lindenwood,Lindenwood,Morehead-State,1,9,"Morehead, KY / Allen Field",2026,WN2026
+04/18/2026,Morehead State,Lindenwood,2,15,0,0,W,Lindenwood,Lindenwood,Morehead-State,1,7,"Morehead, KY / Allen Field",2026,WN2026
+04/19/2026,Morehead State,Lindenwood,13,18,0,0,W,Lindenwood,Lindenwood,Morehead-State,1,9,"Morehead, KY / Allen Field",2026,WN2026
+04/24/2026,Lindenwood,Little Rock,0,2,0,0,L,Lindenwood,Lindenwood,Little-Rock,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+04/25/2026,Lindenwood,Little Rock,3,2,0,0,W,Lindenwood,Lindenwood,Little-Rock,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+04/26/2026,Lindenwood,Little Rock,3,0,0,0,W,Lindenwood,Lindenwood,Little-Rock,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+04/28/2026,Lindenwood,Southern Illinois,12,2,0,0,W,Lindenwood,Lindenwood,Southern-Illinois,0,7,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+05/01/2026,SIUE,Lindenwood,4,0,0,0,L,Lindenwood,Lindenwood,SIUE,1,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+05/02/2026,SIUE,Lindenwood,2,1,0,0,L,Lindenwood,Lindenwood,SIUE,1,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+05/03/2026,SIUE,Lindenwood,11,8,0,0,L,Lindenwood,Lindenwood,SIUE,1,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+05/06/2026,Lindenwood,Saint Louis,10,1,0,0,W,Lindenwood,Lindenwood,Saint-Louis,0,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+05/08/2026,Lindenwood,Tennessee Tech,6,5,0,0,W,Lindenwood,Lindenwood,Tennessee-Tech,0,10,"St. Charles, MO / Lou Brock Sports Complex / Box Score",2026,WN2026
+05/09/2026,Lindenwood,Tennessee Tech,4,3,0,0,W,Lindenwood,Lindenwood,Tennessee-Tech,0,9,"St. Charles, MO / Lou Brock Sports Complex / Box Score",2026,WN2026
+05/10/2026,Lindenwood,Tennessee Tech,3,4,0,0,L,Lindenwood,Lindenwood,Tennessee-Tech,0,9,"St. Charles, MO / Lou Brock Sports Complex / Box Score",2026,WN2026
+05/12/2026,Indiana State,Lindenwood,11,6,0,0,L,Lindenwood,Lindenwood,Indiana-State,1,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+05/14/2026,Southern Indiana,Lindenwood,8,4,0,0,L,Lindenwood,Lindenwood,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field / Box Score",2026,WN2026
+05/15/2026,Southern Indiana,Lindenwood,2,10,0,0,W,Lindenwood,Lindenwood,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field / Box Score",2026,WN2026
+05/16/2026,Southern Indiana,Lindenwood,14,9,0,0,L,Lindenwood,Lindenwood,Southern-Indiana,1,9,"Evansville, IN / USI Baseball Field / Box Score",2026,WN2026
+05/19/2026,Tennessee-Martin,Lindenwood,4,7,0,1,W,Lindenwood,Lindenwood,Tennessee-Martin,0,9,"Marion, IL / Mtn Dew Park / Recap",2026,WN2026
+05/20/2026,Southeast Missouri,Lindenwood,2,1,0,1,L,Lindenwood,Lindenwood,Southeast-Missouri,0,9,"Marion, IL / Mtn Dew Park / Recap",2026,WN2026
+05/21/2026,Little Rock,Lindenwood,4,3,0,1,L,Lindenwood,Lindenwood,Little-Rock,0,9,"Marion, IL / Mtn Dew Park",2026,WN2026

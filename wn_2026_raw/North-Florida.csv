@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,North Florida,Sacred Heart,2,7,0,0,L,North Florida,North-Florida,Sacred-Heart,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/14/2026,North Florida,Sacred Heart,16,3,0,0,W,North Florida,North-Florida,Sacred-Heart,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/15/2026,North Florida,Sacred Heart,12,2,0,0,W,North Florida,North-Florida,Sacred-Heart,0,7,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/17/2026,North Florida,Charleston Southern,4,12,0,0,L,North Florida,North-Florida,Charleston-Southern,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/18/2026,Florida A&M,North Florida,4,15,0,0,W,North Florida,North-Florida,Florida-AM,1,8,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+02/20/2026,North Florida,Quinnipiac,10,0,0,0,W,North Florida,North-Florida,Quinnipiac,0,7,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/21/2026,North Florida,Quinnipiac,3,6,0,0,L,North Florida,North-Florida,Quinnipiac,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/21/2026,North Florida,Quinnipiac,5,4,0,0,W,North Florida,North-Florida,Quinnipiac,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/24/2026,North Florida,South Carolina Upstate,3,7,0,0,L,North Florida,North-Florida,South-Carolina-Upstate,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/25/2026,Florida State,North Florida,14,9,0,0,L,North Florida,North-Florida,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+02/27/2026,North Florida,Presbyterian College,15,6,0,0,W,North Florida,North-Florida,Presbyterian-College,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/28/2026,North Florida,Presbyterian College,12,11,0,0,W,North Florida,North-Florida,Presbyterian-College,0,10,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+03/01/2026,North Florida,Presbyterian College,12,2,0,0,W,North Florida,North-Florida,Presbyterian-College,0,7,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+03/04/2026,North Florida,Villanova,0,4,0,0,L,North Florida,North-Florida,Villanova,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+03/06/2026,Alabama,North Florida,7,2,0,0,L,North Florida,North-Florida,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/07/2026,Alabama,North Florida,9,3,0,0,L,North Florida,North-Florida,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/08/2026,Alabama,North Florida,12,2,0,0,L,North Florida,North-Florida,Alabama,1,7,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+03/10/2026,North Florida,Bethune-Cookman,4,7,0,0,L,North Florida,North-Florida,Bethune-Cookman,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+03/13/2026,Stetson,North Florida,7,2,0,0,L,North Florida,North-Florida,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/14/2026,Stetson,North Florida,1,12,0,0,W,North Florida,North-Florida,Stetson,1,7,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/15/2026,Stetson,North Florida,1,4,0,0,W,North Florida,North-Florida,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/17/2026,Charleston Southern,North Florida,11,6,0,0,L,North Florida,North-Florida,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+03/20/2026,North Florida,FGCU,5,4,0,0,W,North Florida,North-Florida,FGCU,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+03/21/2026,North Florida,FGCU,7,6,0,0,W,North Florida,North-Florida,FGCU,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+03/22/2026,North Florida,FGCU,6,4,0,0,W,North Florida,North-Florida,FGCU,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+03/27/2026,Jacksonville,North Florida,2,4,0,0,W,North Florida,North-Florida,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/28/2026,Jacksonville,North Florida,2,4,0,0,W,North Florida,North-Florida,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/29/2026,Jacksonville,North Florida,6,12,0,0,W,North Florida,North-Florida,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/31/2026,North Florida,Georgia Southern,2,3,0,0,L,North Florida,North-Florida,Georgia-Southern,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/02/2026,North Florida,Queens,3,7,0,0,L,North Florida,North-Florida,Queens,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/03/2026,North Florida,Queens,5,2,0,0,W,North Florida,North-Florida,Queens,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/04/2026,North Florida,Queens,10,6,0,0,W,North Florida,North-Florida,Queens,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/10/2026,West Georgia,North Florida,3,7,0,0,W,North Florida,North-Florida,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/11/2026,West Georgia,North Florida,3,5,0,0,W,North Florida,North-Florida,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/12/2026,West Georgia,North Florida,7,2,0,0,L,North Florida,North-Florida,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/14/2026,North Florida,Florida A&M,11,2,0,0,W,North Florida,North-Florida,Florida-AM,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/17/2026,North Florida,Stetson,3,1,0,0,W,North Florida,North-Florida,Stetson,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/18/2026,North Florida,Stetson,2,1,0,0,W,North Florida,North-Florida,Stetson,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/19/2026,North Florida,Stetson,3,7,0,0,L,North Florida,North-Florida,Stetson,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/21/2026,North Florida,Florida State,1,4,0,0,L,North Florida,North-Florida,Florida-State,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/24/2026,FGCU,North Florida,3,5,0,0,W,North Florida,North-Florida,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+04/25/2026,FGCU,North Florida,5,3,0,0,L,North Florida,North-Florida,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+04/26/2026,FGCU,North Florida,13,3,0,0,L,North Florida,North-Florida,FGCU,1,8,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+05/01/2026,North Florida,Jacksonville,5,4,0,0,W,North Florida,North-Florida,Jacksonville,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+05/02/2026,North Florida,Jacksonville,3,4,0,0,L,North Florida,North-Florida,Jacksonville,0,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+05/03/2026,North Florida,Jacksonville,10,0,0,0,W,North Florida,North-Florida,Jacksonville,0,7,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+05/05/2026,Florida,North Florida,11,1,0,0,L,North Florida,North-Florida,Florida,1,7,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+05/08/2026,Queens,North Florida,6,10,0,0,W,North Florida,North-Florida,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields / Box Score",2026,WN2026
+05/09/2026,Queens,North Florida,4,3,0,0,L,North Florida,North-Florida,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields / Box Score",2026,WN2026
+05/10/2026,Queens,North Florida,1,12,0,0,W,North Florida,North-Florida,Queens,1,7,"Charlotte, NC / Tuckaseegee Dream Fields / Box Score",2026,WN2026
+05/14/2026,North Florida,West Georgia,6,5,0,0,W,North Florida,North-Florida,West-Georgia,0,9,"Jacksonville, FL / Harmon Stadium / Box Score",2026,WN2026
+05/15/2026,North Florida,West Georgia,4,1,0,0,W,North Florida,North-Florida,West-Georgia,0,9,"Jacksonville, FL / Harmon Stadium / Box Score",2026,WN2026
+05/16/2026,North Florida,West Georgia,5,1,0,0,W,North Florida,North-Florida,West-Georgia,0,9,"Jacksonville, FL / Harmon Stadium / Box Score",2026,WN2026
+05/21/2026,North Alabama,North Florida,11,4,0,1,L,North Florida,North-Florida,North-Alabama,0,9,"DeLand, FL / Melching Field at Conrad Park / Recap",2026,WN2026
+05/22/2026,FGCU,North Florida,3,1,0,1,L,North Florida,North-Florida,FGCU,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026

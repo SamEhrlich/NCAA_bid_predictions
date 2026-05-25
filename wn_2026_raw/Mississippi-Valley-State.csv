@@ -1,0 +1,49 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Stephen F. Austin,Mississippi Valley State,17,2,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Stephen-F-Austin,1,7,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+02/13/2026,Stephen F. Austin,Mississippi Valley State,15,3,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Stephen-F-Austin,1,7,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+02/14/2026,Stephen F. Austin,Mississippi Valley State,14,5,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Stephen-F-Austin,1,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+02/15/2026,Stephen F. Austin,Mississippi Valley State,10,0,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Stephen-F-Austin,1,7,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+02/24/2026,Jacksonville State,Mississippi Valley State,15,3,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+02/25/2026,Jacksonville State,Mississippi Valley State,7,4,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+02/27/2026,UNC Asheville,Mississippi Valley State,13,1,0,1,L,Mississippi Valley State,Mississippi-Valley-State,UNC-Asheville,0,8,"Jackson, MS / Braddy Field",2026,WN2026
+02/28/2026,Jackson State,Mississippi Valley State,8,14,0,0,W,Mississippi Valley State,Mississippi-Valley-State,Jackson-State,1,9,"Jackson, MS / Braddy Field",2026,WN2026
+03/01/2026,Alcorn State,Mississippi Valley State,7,15,0,1,W,Mississippi Valley State,Mississippi-Valley-State,Alcorn-State,0,9,"Jackson, MS / Braddy Field",2026,WN2026
+03/06/2026,Tennessee-Martin,Mississippi Valley State,12,1,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Tennessee-Martin,1,7,"Martin, TN / Skyhawk Park",2026,WN2026
+03/06/2026,Tennessee-Martin,Mississippi Valley State,8,7,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/07/2026,Tennessee-Martin,Mississippi Valley State,9,1,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/08/2026,Tennessee-Martin,Mississippi Valley State,3,5,0,0,W,Mississippi Valley State,Mississippi-Valley-State,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/10/2026,New Orleans,Mississippi Valley State,14,0,0,0,L,Mississippi Valley State,Mississippi-Valley-State,New-Orleans,1,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/11/2026,New Orleans,Mississippi Valley State,7,9,0,0,W,Mississippi Valley State,Mississippi-Valley-State,New-Orleans,1,9,"New Orleans, LA / Maestri Field",2026,WN2026
+03/13/2026,Arkansas-Pine Bluff,Mississippi Valley State,10,3,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+03/14/2026,Arkansas-Pine Bluff,Mississippi Valley State,7,5,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+03/15/2026,Arkansas-Pine Bluff,Mississippi Valley State,13,1,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Arkansas-Pine-Bluff,1,7,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+03/20/2026,Texas Southern,Mississippi Valley State,16,8,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Texas-Southern,1,9,"Houston, TX / MacGregor Park",2026,WN2026
+03/21/2026,Texas Southern,Mississippi Valley State,11,4,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Texas-Southern,1,9,"Houston, TX / MacGregor Park",2026,WN2026
+03/22/2026,Texas Southern,Mississippi Valley State,9,3,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Texas-Southern,1,9,"Houston, TX / MacGregor Park",2026,WN2026
+03/27/2026,Mississippi Valley State,Alabama A&M,2,1,0,0,W,Mississippi Valley State,Mississippi-Valley-State,Alabama-AM,0,10,"Itta Bena, MS / Magnolia Field",2026,WN2026
+03/28/2026,Mississippi Valley State,Alabama A&M,6,2,0,0,W,Mississippi Valley State,Mississippi-Valley-State,Alabama-AM,0,9,"Itta Bena, MS / Magnolia Field",2026,WN2026
+03/29/2026,Mississippi Valley State,Alabama A&M,9,8,0,0,W,Mississippi Valley State,Mississippi-Valley-State,Alabama-AM,0,9,"Itta Bena, MS / Magnolia Field",2026,WN2026
+04/01/2026,Alcorn State,Mississippi Valley State,5,6,0,0,W,Mississippi Valley State,Mississippi-Valley-State,Alcorn-State,1,10,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/01/2026,Alcorn State,Mississippi Valley State,8,15,0,0,W,Mississippi Valley State,Mississippi-Valley-State,Alcorn-State,1,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/02/2026,Alcorn State,Mississippi Valley State,10,13,0,0,W,Mississippi Valley State,Mississippi-Valley-State,Alcorn-State,1,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/07/2026,ULM,Mississippi Valley State,9,4,0,0,L,Mississippi Valley State,Mississippi-Valley-State,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/10/2026,Mississippi Valley State,Bethune-Cookman,8,6,0,0,W,Mississippi Valley State,Mississippi-Valley-State,Bethune-Cookman,0,9,"Itta Bena, MS / Magnolia Field",2026,WN2026
+04/11/2026,Mississippi Valley State,Bethune-Cookman,2,13,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Bethune-Cookman,0,7,"Itta Bena, MS / Magnolia Field",2026,WN2026
+04/11/2026,Mississippi Valley State,Bethune-Cookman,0,15,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Bethune-Cookman,0,7,"Itta Bena, MS / Magnolia Field",2026,WN2026
+04/14/2026,Memphis,Mississippi Valley State,11,3,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Memphis,1,9,"Memphis, TN / FedExPark",2026,WN2026
+04/17/2026,Florida A&M,Mississippi Valley State,6,5,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+04/18/2026,Florida A&M,Mississippi Valley State,14,4,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Florida-AM,1,7,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+04/19/2026,Florida A&M,Mississippi Valley State,14,8,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+04/24/2026,Alabama State,Mississippi Valley State,11,3,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+04/25/2026,Alabama State,Mississippi Valley State,11,9,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+04/26/2026,Alabama State,Mississippi Valley State,7,2,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+05/01/2026,Mississippi Valley State,Southern,2,12,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Southern,0,9,"Itta Bena, MS / Magnolia Field",2026,WN2026
+05/02/2026,Mississippi Valley State,Southern,1,8,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Southern,0,9,"Itta Bena, MS / Magnolia Field",2026,WN2026
+05/03/2026,Mississippi Valley State,Southern,8,12,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Southern,0,9,"Itta Bena, MS / Magnolia Field",2026,WN2026
+05/05/2026,ULM,Mississippi Valley State,10,5,0,0,L,Mississippi Valley State,Mississippi-Valley-State,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+05/08/2026,Mississippi Valley State,Jackson State,5,11,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Jackson-State,0,9,"Itta Bena, MS / Magnolia Field / Box Score",2026,WN2026
+05/09/2026,Mississippi Valley State,Jackson State,13,11,0,0,W,Mississippi Valley State,Mississippi-Valley-State,Jackson-State,0,9,"Itta Bena, MS / Magnolia Field / Box Score",2026,WN2026
+05/10/2026,Mississippi Valley State,Jackson State,1,7,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Jackson-State,0,9,"Itta Bena, MS / Magnolia Field / Box Score",2026,WN2026
+05/14/2026,Prairie View A&M,Mississippi Valley State,11,1,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Prairie-View-AM,1,8,"Prairie View, TX / Tankersley Field",2026,WN2026
+05/15/2026,Prairie View A&M,Mississippi Valley State,5,3,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Prairie-View-AM,1,9,"Prairie View, TX / Tankersley Field",2026,WN2026
+05/16/2026,Prairie View A&M,Mississippi Valley State,14,4,0,0,L,Mississippi Valley State,Mississippi-Valley-State,Prairie-View-AM,1,8,"Prairie View, TX / Tankersley Field",2026,WN2026

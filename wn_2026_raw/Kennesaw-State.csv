@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Kennesaw State,Evansville,11,3,0,0,W,Kennesaw State,Kennesaw-State,Evansville,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+02/14/2026,Kennesaw State,Marshall,10,9,0,0,W,Kennesaw State,Kennesaw-State,Marshall,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+02/17/2026,Kennesaw State,West Georgia,9,4,0,0,W,Kennesaw State,Kennesaw-State,West-Georgia,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+02/20/2026,Florida,Kennesaw State,9,3,0,0,L,Kennesaw State,Kennesaw-State,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/21/2026,Florida,Kennesaw State,11,0,0,0,L,Kennesaw State,Kennesaw-State,Florida,1,7,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/22/2026,Florida,Kennesaw State,12,9,0,0,L,Kennesaw State,Kennesaw-State,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+02/24/2026,Georgia Southern,Kennesaw State,5,7,0,0,W,Kennesaw State,Kennesaw-State,Georgia-Southern,1,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+02/27/2026,Kennesaw State,West Virginia,4,12,0,0,L,Kennesaw State,Kennesaw-State,West-Virginia,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+02/28/2026,Kennesaw State,West Virginia,1,9,0,0,L,Kennesaw State,Kennesaw-State,West-Virginia,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/01/2026,Kennesaw State,West Virginia,7,6,0,0,W,Kennesaw State,Kennesaw-State,West-Virginia,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/03/2026,Kennesaw State,Georgia,1,11,0,0,L,Kennesaw State,Kennesaw-State,Georgia,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/07/2026,Kennesaw State,Samford,8,3,0,0,W,Kennesaw State,Kennesaw-State,Samford,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/07/2026,Kennesaw State,Samford,9,8,0,0,W,Kennesaw State,Kennesaw-State,Samford,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/13/2026,Middle Tennessee,Kennesaw State,1,6,0,0,W,Kennesaw State,Kennesaw-State,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/14/2026,Middle Tennessee,Kennesaw State,13,2,0,0,L,Kennesaw State,Kennesaw-State,Middle-Tennessee,1,7,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/15/2026,Middle Tennessee,Kennesaw State,4,3,0,0,L,Kennesaw State,Kennesaw-State,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+03/17/2026,Kennesaw State,Georgia Southern,16,6,0,0,W,Kennesaw State,Kennesaw-State,Georgia-Southern,0,7,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/20/2026,Kennesaw State,Liberty,0,2,0,0,L,Kennesaw State,Kennesaw-State,Liberty,0,10,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/21/2026,Kennesaw State,Liberty,5,11,0,0,L,Kennesaw State,Kennesaw-State,Liberty,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/22/2026,Kennesaw State,Liberty,4,3,0,0,W,Kennesaw State,Kennesaw-State,Liberty,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+03/24/2026,Georgia,Kennesaw State,7,10,0,0,W,Kennesaw State,Kennesaw-State,Georgia,1,9,"Athens, GA / Foley Field",2026,WN2026
+03/27/2026,Delaware,Kennesaw State,1,8,0,0,W,Kennesaw State,Kennesaw-State,Delaware,1,9,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+03/28/2026,Delaware,Kennesaw State,1,5,0,0,W,Kennesaw State,Kennesaw-State,Delaware,1,9,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+03/29/2026,Delaware,Kennesaw State,11,13,0,0,W,Kennesaw State,Kennesaw-State,Delaware,1,9,"Newark, DE / Bob Hannah Stadium",2026,WN2026
+03/31/2026,Mercer,Kennesaw State,14,4,0,0,L,Kennesaw State,Kennesaw-State,Mercer,1,7,"Macon, GA / Claude Smith Field",2026,WN2026
+04/02/2026,Kennesaw State,Dallas Baptist,5,10,0,0,L,Kennesaw State,Kennesaw-State,Dallas-Baptist,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+04/03/2026,Kennesaw State,Dallas Baptist,5,7,0,0,L,Kennesaw State,Kennesaw-State,Dallas-Baptist,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+04/04/2026,Kennesaw State,Dallas Baptist,5,4,0,0,W,Kennesaw State,Kennesaw-State,Dallas-Baptist,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+04/07/2026,Georgia Tech,Kennesaw State,11,4,0,0,L,Kennesaw State,Kennesaw-State,Georgia-Tech,1,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+04/10/2026,FIU,Kennesaw State,3,2,0,0,L,Kennesaw State,Kennesaw-State,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+04/11/2026,FIU,Kennesaw State,4,3,0,0,L,Kennesaw State,Kennesaw-State,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+04/12/2026,FIU,Kennesaw State,7,1,0,0,L,Kennesaw State,Kennesaw-State,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+04/14/2026,Kennesaw State,Mercer,12,9,0,0,W,Kennesaw State,Kennesaw-State,Mercer,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+04/17/2026,Kennesaw State,Louisiana Tech,3,6,0,0,L,Kennesaw State,Kennesaw-State,Louisiana-Tech,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+04/18/2026,Kennesaw State,Louisiana Tech,6,5,0,0,W,Kennesaw State,Kennesaw-State,Louisiana-Tech,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+04/19/2026,Kennesaw State,Louisiana Tech,3,4,0,0,L,Kennesaw State,Kennesaw-State,Louisiana-Tech,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+04/21/2026,West Georgia,Kennesaw State,2,3,0,0,W,Kennesaw State,Kennesaw-State,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/24/2026,Western Kentucky,Kennesaw State,9,8,0,0,L,Kennesaw State,Kennesaw-State,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+04/25/2026,Western Kentucky,Kennesaw State,8,6,0,0,L,Kennesaw State,Kennesaw-State,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+04/26/2026,Western Kentucky,Kennesaw State,6,9,0,0,W,Kennesaw State,Kennesaw-State,Western-Kentucky,1,9,"Bowling Green, KY / Nick Denes Field",2026,WN2026
+04/28/2026,Kennesaw State,Georgia Tech,7,10,0,0,L,Kennesaw State,Kennesaw-State,Georgia-Tech,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+05/01/2026,Kennesaw State,Sam Houston State,6,5,0,0,W,Kennesaw State,Kennesaw-State,Sam-Houston-State,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+05/02/2026,Kennesaw State,Sam Houston State,7,6,0,0,W,Kennesaw State,Kennesaw-State,Sam-Houston-State,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+05/03/2026,Kennesaw State,Sam Houston State,12,1,0,0,W,Kennesaw State,Kennesaw-State,Sam-Houston-State,0,8,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+05/05/2026,Kennesaw State,Georgia State,10,9,0,0,W,Kennesaw State,Kennesaw-State,Georgia-State,0,11,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+05/08/2026,Jacksonville State,Kennesaw State,2,5,0,0,W,Kennesaw State,Kennesaw-State,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field / Box Score",2026,WN2026
+05/09/2026,Jacksonville State,Kennesaw State,5,4,0,0,L,Kennesaw State,Kennesaw-State,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field / Box Score",2026,WN2026
+05/10/2026,Jacksonville State,Kennesaw State,4,3,0,0,L,Kennesaw State,Kennesaw-State,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field / Box Score",2026,WN2026
+05/14/2026,Kennesaw State,Missouri State,3,5,0,0,L,Kennesaw State,Kennesaw-State,Missouri-State,0,9,"Kennesaw, GA / Mickey Dunn Stadium / Box Score",2026,WN2026
+05/15/2026,Kennesaw State,Missouri State,3,5,0,0,L,Kennesaw State,Kennesaw-State,Missouri-State,0,9,"Kennesaw, GA / Mickey Dunn Stadium / Box Score",2026,WN2026
+05/16/2026,Kennesaw State,Missouri State,12,6,0,0,W,Kennesaw State,Kennesaw-State,Missouri-State,0,9,"Kennesaw, GA / Mickey Dunn Stadium / Box Score",2026,WN2026
+05/20/2026,Dallas Baptist,Kennesaw State,6,0,0,1,L,Kennesaw State,Kennesaw-State,Dallas-Baptist,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+05/21/2026,Missouri State,Kennesaw State,6,4,0,1,L,Kennesaw State,Kennesaw-State,Missouri-State,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026

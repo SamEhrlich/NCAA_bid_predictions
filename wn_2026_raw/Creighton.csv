@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Saint Mary's College,Creighton,3,11,0,0,W,Creighton,Creighton,Saint-Marys-College,1,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/14/2026,Saint Mary's College,Creighton,7,2,0,0,L,Creighton,Creighton,Saint-Marys-College,1,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/14/2026,Saint Mary's College,Creighton,8,9,0,0,W,Creighton,Creighton,Saint-Marys-College,1,9,"Moraga, CA / Louis Guisto Field",2026,WN2026
+02/20/2026,UC San Diego,Creighton,8,7,0,0,L,Creighton,Creighton,UC-San-Diego,1,9,"La Jolla, CA / Triton Park",2026,WN2026
+02/21/2026,San Diego,Creighton,15,5,0,0,L,Creighton,Creighton,San-Diego,1,7,"San Diego, CA / Fowler Park",2026,WN2026
+02/22/2026,Utah,Creighton,9,4,0,1,L,Creighton,Creighton,Utah,0,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+02/27/2026,Tarleton State,Creighton,8,7,0,1,L,Creighton,Creighton,Tarleton-State,0,9,"Cleburne, TX / La Moderna Field",2026,WN2026
+02/28/2026,Abilene Christian,Creighton,12,11,0,1,L,Creighton,Creighton,Abilene-Christian,0,9,"Cleburne, TX / La Moderna Field",2026,WN2026
+03/01/2026,Tarleton State,Creighton,4,5,0,1,W,Creighton,Creighton,Tarleton-State,0,12,"Cleburne, TX / La Moderna Field",2026,WN2026
+03/07/2026,Creighton,Gonzaga,2,1,0,0,W,Creighton,Creighton,Gonzaga,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+03/07/2026,Creighton,Gonzaga,4,5,0,0,L,Creighton,Creighton,Gonzaga,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+03/08/2026,Creighton,Gonzaga,7,6,0,0,W,Creighton,Creighton,Gonzaga,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+03/10/2026,LSU,Creighton,8,4,0,0,L,Creighton,Creighton,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/13/2026,Tulane,Creighton,6,8,0,0,W,Creighton,Creighton,Tulane,1,12,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/14/2026,Tulane,Creighton,1,2,0,0,W,Creighton,Creighton,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/15/2026,Tulane,Creighton,4,5,0,0,W,Creighton,Creighton,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/18/2026,Creighton,Omaha,8,2,0,0,W,Creighton,Creighton,Omaha,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+03/20/2026,Miami (FL),Creighton,9,4,0,0,L,Creighton,Creighton,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/21/2026,Miami (FL),Creighton,11,1,0,0,L,Creighton,Creighton,Miami-FL,1,8,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/22/2026,Miami (FL),Creighton,15,5,0,0,L,Creighton,Creighton,Miami-FL,1,8,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+03/24/2026,Creighton,Omaha,7,6,0,0,W,Creighton,Creighton,Omaha,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+03/25/2026,Creighton,South Dakota State,11,5,0,0,W,Creighton,Creighton,South-Dakota-State,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+03/27/2026,Creighton,Sacramento State,6,2,0,0,W,Creighton,Creighton,Sacramento-State,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+03/28/2026,Creighton,Sacramento State,4,7,0,0,L,Creighton,Creighton,Sacramento-State,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+03/29/2026,Creighton,Sacramento State,4,3,0,0,W,Creighton,Creighton,Sacramento-State,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+03/31/2026,Creighton,Nebraska,5,6,0,0,L,Creighton,Creighton,Nebraska,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/02/2026,Connecticut,Creighton,1,3,0,0,W,Creighton,Creighton,Connecticut,1,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+04/03/2026,Connecticut,Creighton,11,2,0,0,L,Creighton,Creighton,Connecticut,1,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+04/04/2026,Connecticut,Creighton,11,9,0,0,L,Creighton,Creighton,Connecticut,1,9,"Storrs, CT / Elliot Ballpark",2026,WN2026
+04/08/2026,Creighton,North Dakota State,16,4,0,0,W,Creighton,Creighton,North-Dakota-State,0,7,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/10/2026,Creighton,Seton Hall,5,0,0,0,W,Creighton,Creighton,Seton-Hall,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/11/2026,Creighton,Seton Hall,9,1,0,0,W,Creighton,Creighton,Seton-Hall,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/12/2026,Creighton,Seton Hall,9,2,0,0,W,Creighton,Creighton,Seton-Hall,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/14/2026,Nebraska,Creighton,5,4,0,0,L,Creighton,Creighton,Nebraska,1,9,"Lincoln, NE / Haymarket Park",2026,WN2026
+04/17/2026,Villanova,Creighton,4,9,0,0,W,Creighton,Creighton,Villanova,1,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+04/18/2026,Villanova,Creighton,2,20,0,0,W,Creighton,Creighton,Villanova,1,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+04/18/2026,Villanova,Creighton,3,14,0,0,W,Creighton,Creighton,Villanova,1,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+04/22/2026,Omaha,Creighton,10,15,0,0,W,Creighton,Creighton,Omaha,1,9,"Omaha, NE / Tal Anderson Field at Maverick Park",2026,WN2026
+04/24/2026,Creighton,Butler,6,0,0,0,W,Creighton,Creighton,Butler,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/25/2026,Creighton,Butler,6,5,0,0,W,Creighton,Creighton,Butler,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/26/2026,Creighton,Butler,12,2,0,0,W,Creighton,Creighton,Butler,0,8,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+04/28/2026,Creighton,North Dakota State,6,13,0,0,L,Creighton,Creighton,North-Dakota-State,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+05/01/2026,Saint John's,Creighton,10,3,0,0,L,Creighton,Creighton,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+05/02/2026,Saint John's,Creighton,11,3,0,0,L,Creighton,Creighton,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+05/03/2026,Saint John's,Creighton,5,6,0,0,W,Creighton,Creighton,Saint-Johns,1,9,"Queens, NY / Jack Kaiser Stadium",2026,WN2026
+05/05/2026,Creighton,Kansas,9,8,0,0,W,Creighton,Creighton,Kansas,0,13,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+05/08/2026,Creighton,Georgetown,3,4,0,0,L,Creighton,Creighton,Georgetown,0,9,"Omaha, NE / Charles Schwab Field Omaha / Box Score",2026,WN2026
+05/09/2026,Creighton,Georgetown,9,5,0,0,W,Creighton,Creighton,Georgetown,0,9,"Omaha, NE / Charles Schwab Field Omaha / Box Score",2026,WN2026
+05/10/2026,Creighton,Georgetown,2,5,0,0,L,Creighton,Creighton,Georgetown,0,9,"Omaha, NE / Charles Schwab Field Omaha / Box Score",2026,WN2026
+05/12/2026,Creighton,Nebraska,4,8,0,0,L,Creighton,Creighton,Nebraska,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+05/14/2026,Xavier,Creighton,2,5,0,0,W,Creighton,Creighton,Xavier,1,9,"Cincinnati, OH / J. Page Hayden Field / Box Score",2026,WN2026
+05/15/2026,Xavier,Creighton,3,2,0,0,L,Creighton,Creighton,Xavier,1,9,"Cincinnati, OH / J. Page Hayden Field / Box Score",2026,WN2026
+05/16/2026,Xavier,Creighton,5,3,0,0,L,Creighton,Creighton,Xavier,1,9,"Cincinnati, OH / J. Page Hayden Field / Box Score",2026,WN2026
+05/21/2026,Saint John's,Creighton,4,2,0,1,L,Creighton,Creighton,Saint-Johns,0,9,"Mason, OH / Prasco Park / Box Score / Recap",2026,WN2026
+05/21/2026,Connecticut,Creighton,4,7,0,1,W,Creighton,Creighton,Connecticut,0,9,"Mason, OH / Prasco Park",2026,WN2026
+05/23/2026,Xavier,Creighton,4,7,0,1,W,Creighton,Creighton,Xavier,0,9,"Mason, OH / Prasco Park",2026,WN2026
+05/24/2026,Saint John's,Creighton,5,3,0,1,L,Creighton,Creighton,Saint-Johns,0,9,"Mason, OH / Prasco Park",2026,WN2026

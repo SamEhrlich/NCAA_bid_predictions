@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Penn State,Air Force,3,15,0,1,W,Air Force,Air-Force,Penn-State,0,8,"Goodyear, AZ / Goodyear Ballpark",2026,WN2026
+02/14/2026,Iowa,Air Force,4,3,0,1,L,Air Force,Air-Force,Iowa,0,9,"Scottsdale, AZ / Salt River Fields",2026,WN2026
+02/15/2026,Connecticut,Air Force,6,12,0,1,W,Air Force,Air-Force,Connecticut,0,9,"Scottsdale, AZ / Salt River Fields",2026,WN2026
+02/16/2026,Kansas State,Air Force,11,8,0,1,L,Air Force,Air-Force,Kansas-State,0,9,"Scottsdale, AZ / Sloan Park",2026,WN2026
+02/20/2026,Navy,Air Force,5,3,0,1,L,Air Force,Air-Force,Navy,0,9,"Columbia, SC / Founders Park",2026,WN2026
+02/21/2026,Army,Air Force,11,3,0,1,L,Air Force,Air-Force,Army,0,9,"Columbia, SC / Founders Park",2026,WN2026
+02/22/2026,South Carolina,Air Force,4,2,0,0,L,Air Force,Air-Force,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+02/27/2026,Oral Roberts,Air Force,6,3,0,1,L,Air Force,Air-Force,Oral-Roberts,0,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+02/27/2026,Dallas Baptist,Air Force,15,11,0,0,L,Air Force,Air-Force,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/01/2026,Dallas Baptist,Air Force,16,15,0,0,L,Air Force,Air-Force,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+03/02/2026,UTA,Air Force,1,7,0,0,W,Air Force,Air-Force,UTA,1,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/06/2026,Baylor,Air Force,7,0,0,0,L,Air Force,Air-Force,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+03/08/2026,Baylor,Air Force,5,4,0,0,L,Air Force,Air-Force,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+03/08/2026,Baylor,Air Force,6,1,0,0,L,Air Force,Air-Force,Baylor,1,9,"Waco, TX / Baylor Ballpark",2026,WN2026
+03/13/2026,Air Force,UNLV,16,5,0,0,W,Air Force,Air-Force,UNLV,0,7,"Colorado Springs, CO / Erdle Field",2026,WN2026
+03/14/2026,Air Force,UNLV,18,16,0,0,W,Air Force,Air-Force,UNLV,0,9,"Colorado Springs, CO / Erdle Field",2026,WN2026
+03/14/2026,Air Force,UNLV,15,11,0,0,W,Air Force,Air-Force,UNLV,0,9,"Colorado Springs, CO / Erdle Field",2026,WN2026
+03/16/2026,Air Force,Saint Thomas,20,12,0,0,W,Air Force,Air-Force,Saint-Thomas,0,8,"Colorado Springs, CO / Erdle Field",2026,WN2026
+03/20/2026,Nevada,Air Force,10,7,0,0,L,Air Force,Air-Force,Nevada,1,9,"Reno, NV / William Peccole Park",2026,WN2026
+03/21/2026,Nevada,Air Force,5,18,0,0,W,Air Force,Air-Force,Nevada,1,9,"Reno, NV / William Peccole Park",2026,WN2026
+03/22/2026,Nevada,Air Force,12,17,0,0,W,Air Force,Air-Force,Nevada,1,9,"Reno, NV / William Peccole Park",2026,WN2026
+03/25/2026,Oral Roberts,Air Force,3,4,0,1,W,Air Force,Air-Force,Oral-Roberts,0,9,"Enid, OK / David Allen Memorial Ballpark",2026,WN2026
+03/27/2026,Tarleton State,Air Force,7,2,0,0,L,Air Force,Air-Force,Tarleton-State,1,9,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+03/28/2026,Tarleton State,Air Force,7,6,0,0,L,Air Force,Air-Force,Tarleton-State,1,11,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+03/29/2026,Tarleton State,Air Force,11,10,0,0,L,Air Force,Air-Force,Tarleton-State,1,10,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+03/31/2026,Air Force,Northern Colorado,18,6,0,0,W,Air Force,Air-Force,Northern-Colorado,0,7,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/02/2026,San Diego State,Air Force,9,2,0,0,L,Air Force,Air-Force,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+04/03/2026,San Diego State,Air Force,11,2,0,0,L,Air Force,Air-Force,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+04/04/2026,San Diego State,Air Force,12,9,0,0,L,Air Force,Air-Force,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+04/08/2026,Air Force,Northern Colorado,10,4,0,0,W,Air Force,Air-Force,Northern-Colorado,0,9,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/10/2026,Air Force,Fresno State,8,5,0,0,W,Air Force,Air-Force,Fresno-State,0,9,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/11/2026,Air Force,Fresno State,15,13,0,0,W,Air Force,Air-Force,Fresno-State,0,9,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/12/2026,Air Force,Fresno State,10,5,0,0,W,Air Force,Air-Force,Fresno-State,0,9,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/13/2026,Air Force,Utah Valley,17,7,0,0,W,Air Force,Air-Force,Utah-Valley,0,7,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/14/2026,Air Force,Utah Valley,5,4,0,0,W,Air Force,Air-Force,Utah-Valley,0,9,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/17/2026,Grand Canyon,Air Force,8,1,0,0,L,Air Force,Air-Force,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/18/2026,Grand Canyon,Air Force,4,5,0,0,W,Air Force,Air-Force,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/19/2026,Grand Canyon,Air Force,16,12,0,0,L,Air Force,Air-Force,Grand-Canyon,1,9,"Phoenix, AZ / Brazell Field at GCU Ballpark",2026,WN2026
+04/24/2026,Air Force,San Jose State,20,10,0,0,W,Air Force,Air-Force,San-Jose-State,0,8,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/25/2026,Air Force,San Jose State,16,6,0,0,W,Air Force,Air-Force,San-Jose-State,0,8,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/26/2026,Air Force,San Jose State,11,5,0,0,W,Air Force,Air-Force,San-Jose-State,0,9,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/28/2026,Northern Colorado,Air Force,5,4,0,0,L,Air Force,Air-Force,Northern-Colorado,1,9,"Greeley, CO / Jackson Field",2026,WN2026
+05/01/2026,New Mexico,Air Force,9,7,0,0,L,Air Force,Air-Force,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+05/02/2026,New Mexico,Air Force,1,11,0,0,W,Air Force,Air-Force,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+05/03/2026,New Mexico,Air Force,4,8,0,0,W,Air Force,Air-Force,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+05/08/2026,Air Force,Washington State,2,11,0,0,L,Air Force,Air-Force,Washington-State,0,9,"Colorado Springs, CO / Erdle Field / Box Score",2026,WN2026
+05/09/2026,Air Force,Washington State,4,14,0,0,L,Air Force,Air-Force,Washington-State,0,7,"Colorado Springs, CO / Erdle Field / Box Score",2026,WN2026
+05/10/2026,Air Force,Washington State,10,9,0,0,W,Air Force,Air-Force,Washington-State,0,9,"Colorado Springs, CO / Erdle Field / Box Score",2026,WN2026
+05/14/2026,Oregon State,Air Force,7,4,0,0,L,Air Force,Air-Force,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field / Box Score",2026,WN2026
+05/15/2026,Oregon State,Air Force,6,9,0,0,W,Air Force,Air-Force,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field / Box Score",2026,WN2026
+05/16/2026,Oregon State,Air Force,8,1,0,0,L,Air Force,Air-Force,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field / Box Score",2026,WN2026
+05/21/2026,UNLV,Air Force,2,17,0,1,W,Air Force,Air-Force,UNLV,0,7,"Mesa, AZ / Sloan Park / Box Score / Recap",2026,WN2026
+05/22/2026,Washington State,Air Force,5,1,0,1,L,Air Force,Air-Force,Washington-State,0,9,"Mesa, AZ / Sloan Park / Recap",2026,WN2026
+05/23/2026,New Mexico,Air Force,1,11,0,1,W,Air Force,Air-Force,New-Mexico,0,8,"Mesa, AZ / Sloan Park",2026,WN2026
+05/23/2026,San Diego State,Air Force,11,8,0,1,L,Air Force,Air-Force,San-Diego-State,0,9,"Mesa, AZ / Sloan Park",2026,WN2026

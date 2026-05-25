@@ -1,0 +1,45 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/28/2026,Florida A&M,Central Connecticut,4,0,0,0,L,Central Connecticut,Central-Connecticut,Florida-AM,1,7,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+02/28/2026,Florida A&M,Central Connecticut,1,4,0,0,W,Central Connecticut,Central-Connecticut,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/01/2026,Florida A&M,Central Connecticut,9,4,0,0,L,Central Connecticut,Central-Connecticut,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/07/2026,Central Connecticut,Maryland Eastern Shore,11,7,0,0,W,Central Connecticut,Central-Connecticut,Maryland-Eastern-Shore,0,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+03/08/2026,Central Connecticut,Maryland Eastern Shore,6,1,0,0,W,Central Connecticut,Central-Connecticut,Maryland-Eastern-Shore,0,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+03/09/2026,Central Connecticut,Maryland Eastern Shore,13,6,0,0,W,Central Connecticut,Central-Connecticut,Maryland-Eastern-Shore,0,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+03/11/2026,Central Connecticut,Northeastern,10,18,0,0,L,Central Connecticut,Central-Connecticut,Northeastern,0,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+03/13/2026,Norfolk State,Central Connecticut,10,9,0,0,L,Central Connecticut,Central-Connecticut,Norfolk-State,1,10,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+03/14/2026,Norfolk State,Central Connecticut,5,10,0,0,W,Central Connecticut,Central-Connecticut,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+03/15/2026,Norfolk State,Central Connecticut,6,5,0,0,L,Central Connecticut,Central-Connecticut,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+03/20/2026,Central Connecticut,Long Island,8,18,0,0,L,Central Connecticut,Central-Connecticut,Long-Island,0,8,"New Britain, CT / Balf-Savin Field",2026,WN2026
+03/21/2026,Central Connecticut,Long Island,3,15,0,0,L,Central Connecticut,Central-Connecticut,Long-Island,0,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+03/22/2026,Central Connecticut,Long Island,3,12,0,0,L,Central Connecticut,Central-Connecticut,Long-Island,0,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+03/24/2026,Fairfield,Central Connecticut,12,3,0,0,L,Central Connecticut,Central-Connecticut,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+03/27/2026,Stonehill,Central Connecticut,5,3,0,0,L,Central Connecticut,Central-Connecticut,Stonehill,1,9,"Easton, MA / Lou Gorman Field",2026,WN2026
+03/28/2026,Stonehill,Central Connecticut,10,11,0,0,W,Central Connecticut,Central-Connecticut,Stonehill,1,12,"Easton, MA / Lou Gorman Field",2026,WN2026
+03/29/2026,Stonehill,Central Connecticut,20,5,0,0,L,Central Connecticut,Central-Connecticut,Stonehill,1,7,"Easton, MA / Lou Gorman Field",2026,WN2026
+03/31/2026,Central Connecticut,Sacred Heart,12,8,0,0,W,Central Connecticut,Central-Connecticut,Sacred-Heart,0,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/02/2026,Central Connecticut,Wagner,10,9,0,0,W,Central Connecticut,Central-Connecticut,Wagner,0,10,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/03/2026,Central Connecticut,Wagner,2,8,0,0,L,Central Connecticut,Central-Connecticut,Wagner,0,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/04/2026,Central Connecticut,Wagner,13,16,0,0,L,Central Connecticut,Central-Connecticut,Wagner,0,10,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/07/2026,Central Connecticut,Saint John's,1,9,0,0,L,Central Connecticut,Central-Connecticut,Saint-Johns,0,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/10/2026,Coppin State,Central Connecticut,4,17,0,0,W,Central Connecticut,Central-Connecticut,Coppin-State,1,7,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+04/11/2026,Coppin State,Central Connecticut,10,5,0,0,L,Central Connecticut,Central-Connecticut,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+04/12/2026,Coppin State,Central Connecticut,9,2,0,0,L,Central Connecticut,Central-Connecticut,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+04/14/2026,Albany,Central Connecticut,7,6,0,0,L,Central Connecticut,Central-Connecticut,Albany,1,9,"Albany, NY / Varsity Field",2026,WN2026
+04/17/2026,Central Connecticut,Delaware State,5,4,0,0,W,Central Connecticut,Central-Connecticut,Delaware-State,0,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/18/2026,Central Connecticut,Delaware State,14,2,0,0,W,Central Connecticut,Central-Connecticut,Delaware-State,0,7,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/18/2026,Central Connecticut,Delaware State,13,2,0,0,W,Central Connecticut,Central-Connecticut,Delaware-State,0,7,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/21/2026,UMass,Central Connecticut,4,6,0,0,W,Central Connecticut,Central-Connecticut,UMass,1,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+04/22/2026,Quinnipiac,Central Connecticut,10,3,0,0,L,Central Connecticut,Central-Connecticut,Quinnipiac,1,9,"Hamden, CT / Quinnipiac Baseball Field",2026,WN2026
+04/24/2026,Central Connecticut,New Haven,2,6,0,0,L,Central Connecticut,Central-Connecticut,New-Haven,0,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/25/2026,Central Connecticut,New Haven,6,7,0,0,L,Central Connecticut,Central-Connecticut,New-Haven,0,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+04/26/2026,Central Connecticut,New Haven,10,6,0,0,W,Central Connecticut,Central-Connecticut,New-Haven,0,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+05/01/2026,Fairleigh Dickinson,Central Connecticut,14,4,0,0,L,Central Connecticut,Central-Connecticut,Fairleigh-Dickinson,1,8,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+05/02/2026,Fairleigh Dickinson,Central Connecticut,6,2,0,0,L,Central Connecticut,Central-Connecticut,Fairleigh-Dickinson,1,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+05/03/2026,Fairleigh Dickinson,Central Connecticut,10,2,0,0,L,Central Connecticut,Central-Connecticut,Fairleigh-Dickinson,1,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+05/05/2026,Sacred Heart,Central Connecticut,1,13,0,0,W,Central Connecticut,Central-Connecticut,Sacred-Heart,1,9,"Fairfield, CT / Veterans Park",2026,WN2026
+05/08/2026,Mercyhurst,Central Connecticut,1,5,0,0,W,Central Connecticut,Central-Connecticut,Mercyhurst,1,9,"Erie, PA / Mercyhurst Baseball Field / Box Score",2026,WN2026
+05/09/2026,Mercyhurst,Central Connecticut,7,8,0,0,W,Central Connecticut,Central-Connecticut,Mercyhurst,1,10,"Erie, PA / Mercyhurst Baseball Field / Box Score",2026,WN2026
+05/10/2026,Mercyhurst,Central Connecticut,7,2,0,0,L,Central Connecticut,Central-Connecticut,Mercyhurst,1,9,"Erie, PA / Mercyhurst Baseball Field / Box Score",2026,WN2026
+05/15/2026,Central Connecticut,Le Moyne,2,3,0,0,L,Central Connecticut,Central-Connecticut,Le-Moyne,0,9,"New Britain, CT / Balf-Savin Field / Box Score",2026,WN2026
+05/15/2026,Central Connecticut,Le Moyne,5,16,0,0,L,Central Connecticut,Central-Connecticut,Le-Moyne,0,8,"New Britain, CT / Balf-Savin Field / Box Score",2026,WN2026
+05/16/2026,Central Connecticut,Le Moyne,8,10,0,0,L,Central Connecticut,Central-Connecticut,Le-Moyne,0,9,"New Britain, CT / Balf-Savin Field / Box Score",2026,WN2026

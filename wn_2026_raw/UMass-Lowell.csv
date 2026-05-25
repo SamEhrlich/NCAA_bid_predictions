@@ -1,0 +1,53 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Morehead State,UMass-Lowell,4,7,0,0,W,UMass-Lowell,UMass-Lowell,Morehead-State,1,9,"Morehead, KY / Allen Field",2026,WN2026
+02/14/2026,Morehead State,UMass-Lowell,3,2,0,0,L,UMass-Lowell,UMass-Lowell,Morehead-State,1,9,"Morehead, KY / Allen Field",2026,WN2026
+02/14/2026,Morehead State,UMass-Lowell,22,10,0,0,L,UMass-Lowell,UMass-Lowell,Morehead-State,1,9,"Morehead, KY / Allen Field",2026,WN2026
+02/20/2026,Illinois State,UMass-Lowell,12,1,0,1,L,UMass-Lowell,UMass-Lowell,Illinois-State,0,9,"Port Charlotte, FL. / Centennial Park",2026,WN2026
+02/21/2026,Miami (OH),UMass-Lowell,14,12,0,1,L,UMass-Lowell,UMass-Lowell,Miami-OH,0,9,"Port Charlotte, FL / Centennial Park",2026,WN2026
+02/22/2026,Indiana State,UMass-Lowell,10,2,0,1,L,UMass-Lowell,UMass-Lowell,Indiana-State,0,9,"Port Charlotte, FL. / Centennial Park",2026,WN2026
+03/06/2026,San Francisco,UMass-Lowell,8,5,0,0,L,UMass-Lowell,UMass-Lowell,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+03/07/2026,San Francisco,UMass-Lowell,7,18,0,0,W,UMass-Lowell,UMass-Lowell,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+03/08/2026,San Francisco,UMass-Lowell,4,6,0,0,W,UMass-Lowell,UMass-Lowell,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+03/09/2026,San Francisco,UMass-Lowell,8,2,0,0,L,UMass-Lowell,UMass-Lowell,San-Francisco,1,9,"San Francisco, CA / Dante Benedetti Diamond",2026,WN2026
+03/10/2026,Sacramento State,UMass-Lowell,2,7,0,0,W,UMass-Lowell,UMass-Lowell,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+03/12/2026,Pepperdine,UMass-Lowell,6,7,0,0,W,UMass-Lowell,UMass-Lowell,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+03/13/2026,Pepperdine,UMass-Lowell,4,7,0,0,W,UMass-Lowell,UMass-Lowell,Pepperdine,1,10,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+03/14/2026,Pepperdine,UMass-Lowell,4,5,0,0,W,UMass-Lowell,UMass-Lowell,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+03/14/2026,Pepperdine,UMass-Lowell,13,8,0,0,L,UMass-Lowell,UMass-Lowell,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+03/18/2026,Boston College,UMass-Lowell,12,2,0,0,L,UMass-Lowell,UMass-Lowell,Boston-College,1,8,"Brighton, MA / Eddie Pellagrini Diamond",2026,WN2026
+03/20/2026,Binghamton,UMass-Lowell,5,7,0,0,W,UMass-Lowell,UMass-Lowell,Binghamton,1,10,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+03/21/2026,Binghamton,UMass-Lowell,16,10,0,0,L,UMass-Lowell,UMass-Lowell,Binghamton,1,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+03/22/2026,Binghamton,UMass-Lowell,14,10,0,0,L,UMass-Lowell,UMass-Lowell,Binghamton,1,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026
+03/24/2026,Merrimack,UMass-Lowell,11,4,0,0,L,UMass-Lowell,UMass-Lowell,Merrimack,1,9,"Andover, MA / Warrior Baseball Diamond",2026,WN2026
+03/25/2026,UMass-Lowell,Northeastern,0,6,0,0,L,UMass-Lowell,UMass-Lowell,Northeastern,0,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+03/27/2026,UMass-Lowell,Maine,10,1,0,0,W,UMass-Lowell,UMass-Lowell,Maine,0,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+03/28/2026,UMass-Lowell,Maine,5,9,0,0,L,UMass-Lowell,UMass-Lowell,Maine,0,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+03/29/2026,UMass-Lowell,Maine,6,10,0,0,L,UMass-Lowell,UMass-Lowell,Maine,0,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+03/31/2026,UMass-Lowell,Dartmouth,4,3,0,0,W,UMass-Lowell,UMass-Lowell,Dartmouth,0,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/02/2026,UMass-Lowell,Albany,4,0,0,0,W,UMass-Lowell,UMass-Lowell,Albany,0,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/03/2026,UMass-Lowell,Albany,2,7,0,0,L,UMass-Lowell,UMass-Lowell,Albany,0,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/04/2026,UMass-Lowell,Albany,2,4,0,0,L,UMass-Lowell,UMass-Lowell,Albany,0,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/10/2026,UMass-Lowell,NJIT,11,2,0,0,W,UMass-Lowell,UMass-Lowell,NJIT,0,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/11/2026,UMass-Lowell,NJIT,4,3,0,0,W,UMass-Lowell,UMass-Lowell,NJIT,0,10,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/12/2026,UMass-Lowell,NJIT,11,14,0,0,L,UMass-Lowell,UMass-Lowell,NJIT,0,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/14/2026,UMass-Lowell,Stonehill,20,10,0,0,W,UMass-Lowell,UMass-Lowell,Stonehill,0,8,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/17/2026,UMBC,UMass-Lowell,13,0,0,0,L,UMass-Lowell,UMass-Lowell,UMBC,1,7,"Catonsville, MD / Alumni Field",2026,WN2026
+04/18/2026,UMBC,UMass-Lowell,7,9,0,0,W,UMass-Lowell,UMass-Lowell,UMBC,1,10,"Catonsville, MD / Alumni Field",2026,WN2026
+04/19/2026,UMBC,UMass-Lowell,12,11,0,0,L,UMass-Lowell,UMass-Lowell,UMBC,1,9,"Catonsville, MD / Alumni Field",2026,WN2026
+04/22/2026,UMass-Lowell,Merrimack,10,8,0,0,W,UMass-Lowell,UMass-Lowell,Merrimack,0,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/24/2026,UMass-Lowell,Bryant,5,8,0,0,L,UMass-Lowell,UMass-Lowell,Bryant,0,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/25/2026,UMass-Lowell,Bryant,3,5,0,0,L,UMass-Lowell,UMass-Lowell,Bryant,0,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/26/2026,UMass-Lowell,Bryant,2,4,0,0,L,UMass-Lowell,UMass-Lowell,Bryant,0,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+04/28/2026,UMass-Lowell,Boston College,6,7,0,0,L,UMass-Lowell,UMass-Lowell,Boston-College,0,9,"Lowell, MA / Edward A. LeLacheur Park",2026,WN2026
+05/02/2026,Stony Brook,UMass-Lowell,11,1,0,0,L,UMass-Lowell,UMass-Lowell,Stony-Brook,1,7,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+05/03/2026,Stony Brook,UMass-Lowell,8,4,0,0,L,UMass-Lowell,UMass-Lowell,Stony-Brook,1,9,"Stony Brook, NY / Joe Nathan Field",2026,WN2026
+05/05/2026,UMass,UMass-Lowell,11,10,0,0,L,UMass-Lowell,UMass-Lowell,UMass,1,9,"Amherst, MA / Earl Lorden Field",2026,WN2026
+05/08/2026,Maine,UMass-Lowell,0,2,0,0,W,UMass-Lowell,UMass-Lowell,Maine,1,9,"Lowell, MA / Edward A. LeLacheur Park / Box Score",2026,WN2026
+05/09/2026,Maine,UMass-Lowell,6,7,0,0,W,UMass-Lowell,UMass-Lowell,Maine,1,9,"Lowell, MA / Edward A. LeLacheur Park / Box Score",2026,WN2026
+05/10/2026,Maine,UMass-Lowell,4,5,0,0,W,UMass-Lowell,UMass-Lowell,Maine,1,9,"Lowell, MA / Edward A. LeLacheur Park / Box Score",2026,WN2026
+05/15/2026,UMass-Lowell,Binghamton,4,8,0,0,L,UMass-Lowell,UMass-Lowell,Binghamton,0,7,"Lowell, MA / Edward A. LeLacheur Park / Box Score",2026,WN2026
+05/15/2026,UMass-Lowell,Binghamton,8,4,0,0,W,UMass-Lowell,UMass-Lowell,Binghamton,0,9,"Lowell, MA / Edward A. LeLacheur Park / Box Score",2026,WN2026
+05/16/2026,UMass-Lowell,Binghamton,12,13,0,0,L,UMass-Lowell,UMass-Lowell,Binghamton,0,9,"Lowell, MA / Edward A. LeLacheur Park / Box Score",2026,WN2026
+05/20/2026,Bryant,UMass-Lowell,5,7,0,1,W,UMass-Lowell,UMass-Lowell,Bryant,0,11,"Vestal, NY / Bearcats Baseball Complex / Box Score / Recap",2026,WN2026
+05/21/2026,Binghamton,UMass-Lowell,3,0,0,1,L,UMass-Lowell,UMass-Lowell,Binghamton,0,9,"Vestal, NY / Bearcats Baseball Complex / Recap",2026,WN2026
+05/21/2026,UMBC,UMass-Lowell,9,0,0,1,L,UMass-Lowell,UMass-Lowell,UMBC,0,9,"Vestal, NY / Bearcats Baseball Complex",2026,WN2026

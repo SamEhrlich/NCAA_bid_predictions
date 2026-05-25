@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,TCU,Vanderbilt,5,4,0,1,L,Vanderbilt,Vanderbilt,TCU,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/14/2026,Texas Tech,Vanderbilt,3,13,0,1,W,Vanderbilt,Vanderbilt,Texas-Tech,0,8,"Arlington, TX / Globe Life Field",2026,WN2026
+02/15/2026,Oklahoma State,Vanderbilt,11,1,0,1,L,Vanderbilt,Vanderbilt,Oklahoma-State,0,8,"Arlington, TX / Globe Life Field",2026,WN2026
+02/17/2026,Vanderbilt,Eastern Michigan,13,2,0,0,W,Vanderbilt,Vanderbilt,Eastern-Michigan,0,7,"Nashville, TN / Hawkins Field",2026,WN2026
+02/18/2026,Vanderbilt,Eastern Michigan,16,2,0,0,W,Vanderbilt,Vanderbilt,Eastern-Michigan,0,7,"Nashville, TN / Hawkins Field",2026,WN2026
+02/20/2026,Vanderbilt,Marist,16,5,0,0,W,Vanderbilt,Vanderbilt,Marist,0,8,"Nashville, TN / Hawkins Field",2026,WN2026
+02/21/2026,Vanderbilt,Marist,12,1,0,0,W,Vanderbilt,Vanderbilt,Marist,0,7,"Nashville, TN / Hawkins Field",2026,WN2026
+02/22/2026,Vanderbilt,Marist,8,1,0,0,W,Vanderbilt,Vanderbilt,Marist,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+02/24/2026,Vanderbilt,Evansville,15,3,0,0,W,Vanderbilt,Vanderbilt,Evansville,0,7,"Nashville, TN / Hawkins Field",2026,WN2026
+02/27/2026,UC Irvine,Vanderbilt,9,4,0,1,L,Vanderbilt,Vanderbilt,UC-Irvine,0,9,"Las Vegas, NV / Las Vegas Ballpark",2026,WN2026
+02/28/2026,Arizona,Vanderbilt,5,1,0,1,L,Vanderbilt,Vanderbilt,Arizona,0,9,"Las Vegas, NV / Las Vegas Ballpark",2026,WN2026
+03/01/2026,Oregon,Vanderbilt,6,4,0,1,L,Vanderbilt,Vanderbilt,Oregon,0,9,"Las Vegas, NV / Las Vegas Ballpark",2026,WN2026
+03/03/2026,Vanderbilt,Central Arkansas,4,5,0,0,L,Vanderbilt,Vanderbilt,Central-Arkansas,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/04/2026,Vanderbilt,Troy,4,1,0,0,W,Vanderbilt,Vanderbilt,Troy,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/06/2026,Vanderbilt,North Dakota State,14,2,0,0,W,Vanderbilt,Vanderbilt,North-Dakota-State,0,7,"Nashville, TN / Hawkins Field",2026,WN2026
+03/07/2026,Vanderbilt,North Dakota State,10,0,0,0,W,Vanderbilt,Vanderbilt,North-Dakota-State,0,8,"Nashville, TN / Hawkins Field",2026,WN2026
+03/08/2026,Vanderbilt,North Dakota State,2,5,0,0,L,Vanderbilt,Vanderbilt,North-Dakota-State,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/10/2026,Vanderbilt,Indiana State,14,6,0,0,W,Vanderbilt,Vanderbilt,Indiana-State,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/13/2026,Vanderbilt,LSU,13,12,0,0,W,Vanderbilt,Vanderbilt,LSU,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/14/2026,Vanderbilt,LSU,11,3,0,0,W,Vanderbilt,Vanderbilt,LSU,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/15/2026,Vanderbilt,LSU,9,16,0,0,L,Vanderbilt,Vanderbilt,LSU,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/17/2026,Vanderbilt,Indiana,1,5,0,0,L,Vanderbilt,Vanderbilt,Indiana,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/20/2026,Mississippi State,Vanderbilt,4,2,0,0,L,Vanderbilt,Vanderbilt,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+03/21/2026,Mississippi State,Vanderbilt,7,2,0,0,L,Vanderbilt,Vanderbilt,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+03/22/2026,Mississippi State,Vanderbilt,17,7,0,0,L,Vanderbilt,Vanderbilt,Mississippi-State,1,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+03/24/2026,Vanderbilt,Tennessee Tech,15,5,0,0,W,Vanderbilt,Vanderbilt,Tennessee-Tech,0,8,"Nashville, TN / Hawkins Field",2026,WN2026
+03/27/2026,Vanderbilt,Tennessee,3,2,0,0,W,Vanderbilt,Vanderbilt,Tennessee,0,10,"Nashville, TN / Hawkins Field",2026,WN2026
+03/28/2026,Vanderbilt,Tennessee,6,5,0,0,W,Vanderbilt,Vanderbilt,Tennessee,0,16,"Nashville, TN / Hawkins Field",2026,WN2026
+03/29/2026,Vanderbilt,Tennessee,16,15,0,0,W,Vanderbilt,Vanderbilt,Tennessee,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/31/2026,Vanderbilt,Belmont,11,3,0,0,W,Vanderbilt,Vanderbilt,Belmont,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+04/02/2026,Texas A&M,Vanderbilt,8,14,0,0,W,Vanderbilt,Vanderbilt,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+04/03/2026,Texas A&M,Vanderbilt,8,4,0,0,L,Vanderbilt,Vanderbilt,Texas-AM,1,9,"College Station, TX / Blue Bell Park",2026,WN2026
+04/03/2026,Texas A&M,Vanderbilt,12,0,0,0,L,Vanderbilt,Vanderbilt,Texas-AM,1,7,"College Station, TX / Blue Bell Park",2026,WN2026
+04/07/2026,Vanderbilt,Eastern Kentucky,3,0,0,0,W,Vanderbilt,Vanderbilt,Eastern-Kentucky,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+04/09/2026,Vanderbilt,Oklahoma,10,5,0,0,W,Vanderbilt,Vanderbilt,Oklahoma,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+04/10/2026,Vanderbilt,Oklahoma,11,13,0,0,L,Vanderbilt,Vanderbilt,Oklahoma,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+04/11/2026,Vanderbilt,Oklahoma,5,6,0,0,L,Vanderbilt,Vanderbilt,Oklahoma,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+04/14/2026,Lipscomb,Vanderbilt,1,15,0,0,W,Vanderbilt,Vanderbilt,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+04/17/2026,Kentucky,Vanderbilt,5,2,0,0,L,Vanderbilt,Vanderbilt,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+04/18/2026,Kentucky,Vanderbilt,7,8,0,0,W,Vanderbilt,Vanderbilt,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+04/19/2026,Kentucky,Vanderbilt,6,13,0,0,W,Vanderbilt,Vanderbilt,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+04/21/2026,Vanderbilt,Xavier,11,1,0,0,W,Vanderbilt,Vanderbilt,Xavier,0,8,"Nashville, TN / Hawkins Field",2026,WN2026
+04/24/2026,Vanderbilt,Texas,4,11,0,0,L,Vanderbilt,Vanderbilt,Texas,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+04/25/2026,Vanderbilt,Texas,6,0,0,0,W,Vanderbilt,Vanderbilt,Texas,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+04/26/2026,Vanderbilt,Texas,3,4,0,0,L,Vanderbilt,Vanderbilt,Texas,0,10,"Nashville, TN / Hawkins Field",2026,WN2026
+04/28/2026,Vanderbilt,Middle Tennessee,9,1,0,0,W,Vanderbilt,Vanderbilt,Middle-Tennessee,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+04/30/2026,Alabama,Vanderbilt,5,4,0,0,L,Vanderbilt,Vanderbilt,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+05/01/2026,Alabama,Vanderbilt,5,0,0,0,L,Vanderbilt,Vanderbilt,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+05/02/2026,Alabama,Vanderbilt,8,5,0,0,L,Vanderbilt,Vanderbilt,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+05/05/2026,Vanderbilt,Louisville,12,6,0,0,W,Vanderbilt,Vanderbilt,Louisville,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+05/09/2026,Missouri,Vanderbilt,8,7,0,0,L,Vanderbilt,Vanderbilt,Missouri,1,10,"Columbia, MO / Taylor Stadium / Box Score",2026,WN2026
+05/09/2026,Missouri,Vanderbilt,8,11,0,0,W,Vanderbilt,Vanderbilt,Missouri,1,11,"Columbia, MO / Taylor Stadium / Box Score",2026,WN2026
+05/10/2026,Missouri,Vanderbilt,4,1,0,0,L,Vanderbilt,Vanderbilt,Missouri,1,9,"Columbia, MO / Taylor Stadium / Box Score",2026,WN2026
+05/14/2026,Vanderbilt,South Carolina,9,1,0,0,W,Vanderbilt,Vanderbilt,South-Carolina,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+05/15/2026,Vanderbilt,South Carolina,9,5,0,0,W,Vanderbilt,Vanderbilt,South-Carolina,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+05/16/2026,Vanderbilt,South Carolina,5,3,0,0,W,Vanderbilt,Vanderbilt,South-Carolina,0,9,"Nashville, TN / Hawkins Field",2026,WN2026
+05/19/2026,Kentucky,Vanderbilt,5,8,0,1,W,Vanderbilt,Vanderbilt,Kentucky,0,9,"Hoover, AL / Hoover Metropolitan Stadium / Box Score / Recap",2026,WN2026
+05/20/2026,Florida,Vanderbilt,8,3,0,1,L,Vanderbilt,Vanderbilt,Florida,0,9,"Hoover, AL / Hoover Metropolitan Stadium / Recap",2026,WN2026

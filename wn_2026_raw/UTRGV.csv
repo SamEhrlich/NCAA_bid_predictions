@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UTRGV,Kansas,7,4,0,0,W,UTRGV,UTRGV,Kansas,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+02/14/2026,UTRGV,Kansas,3,10,0,0,L,UTRGV,UTRGV,Kansas,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+02/15/2026,UTRGV,Kansas,7,8,0,0,L,UTRGV,UTRGV,Kansas,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+02/17/2026,UTRGV,Texas Tech,12,21,0,0,L,UTRGV,UTRGV,Texas-Tech,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+02/20/2026,Houston,UTRGV,11,3,0,0,L,UTRGV,UTRGV,Houston,1,9,"Houston, TX / Schroeder Park",2026,WN2026
+02/21/2026,Houston,UTRGV,6,10,0,0,W,UTRGV,UTRGV,Houston,1,9,"Houston, TX / Schroeder Park",2026,WN2026
+02/22/2026,Houston,UTRGV,4,8,0,0,W,UTRGV,UTRGV,Houston,1,9,"Houston, TX / Schroeder Park",2026,WN2026
+02/24/2026,Texas,UTRGV,14,0,0,0,L,UTRGV,UTRGV,Texas,1,7,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+02/27/2026,Lamar,UTRGV,6,2,0,0,L,UTRGV,UTRGV,Lamar,1,9,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+02/28/2026,Lamar,UTRGV,1,0,0,0,L,UTRGV,UTRGV,Lamar,1,9,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+03/01/2026,Lamar,UTRGV,2,1,0,0,L,UTRGV,UTRGV,Lamar,1,10,"Beaumont, TX / Vincent-Beck Stadium",2026,WN2026
+03/03/2026,UTRGV,Texas Southern,5,3,0,0,W,UTRGV,UTRGV,Texas-Southern,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+03/04/2026,UTRGV,Texas Southern,10,4,0,0,W,UTRGV,UTRGV,Texas-Southern,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+03/06/2026,UTRGV,New Orleans,10,0,0,0,W,UTRGV,UTRGV,New-Orleans,0,8,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+03/07/2026,UTRGV,New Orleans,8,6,0,0,W,UTRGV,UTRGV,New-Orleans,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+03/08/2026,UTRGV,New Orleans,6,13,0,0,L,UTRGV,UTRGV,New-Orleans,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+03/10/2026,Louisiana,UTRGV,11,7,0,0,L,UTRGV,UTRGV,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+03/13/2026,Nicholls,UTRGV,1,2,0,0,W,UTRGV,UTRGV,Nicholls,1,10,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+03/14/2026,Nicholls,UTRGV,7,11,0,0,W,UTRGV,UTRGV,Nicholls,1,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+03/15/2026,Nicholls,UTRGV,4,7,0,0,W,UTRGV,UTRGV,Nicholls,1,9,"Thibodaux, LA / Ben Meyer Diamond at Ray E. Didier Field",2026,WN2026
+03/17/2026,Rice,UTRGV,7,3,0,0,L,UTRGV,UTRGV,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+03/20/2026,Houston Christian,UTRGV,7,10,0,0,W,UTRGV,UTRGV,Houston-Christian,1,9,"Houston, TX / Husky Field",2026,WN2026
+03/21/2026,Houston Christian,UTRGV,10,17,0,0,W,UTRGV,UTRGV,Houston-Christian,1,9,"Houston, TX / Husky Field",2026,WN2026
+03/22/2026,Houston Christian,UTRGV,5,16,0,0,W,UTRGV,UTRGV,Houston-Christian,1,8,"Houston, TX / Husky Field",2026,WN2026
+03/24/2026,Texas State,UTRGV,8,7,0,0,L,UTRGV,UTRGV,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+03/27/2026,UTRGV,Texas A&M-Corpus Christi,6,9,0,0,L,UTRGV,UTRGV,Texas-AM-Corpus-Christi,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+03/28/2026,UTRGV,Texas A&M-Corpus Christi,5,1,0,0,W,UTRGV,UTRGV,Texas-AM-Corpus-Christi,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+03/29/2026,UTRGV,Texas A&M-Corpus Christi,2,5,0,0,L,UTRGV,UTRGV,Texas-AM-Corpus-Christi,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+03/31/2026,Rice,UTRGV,6,4,0,0,L,UTRGV,UTRGV,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+04/02/2026,UTRGV,Northwestern State,9,17,0,0,L,UTRGV,UTRGV,Northwestern-State,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+04/03/2026,UTRGV,Northwestern State,6,9,0,0,L,UTRGV,UTRGV,Northwestern-State,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+04/04/2026,UTRGV,Northwestern State,5,6,0,0,L,UTRGV,UTRGV,Northwestern-State,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+04/10/2026,Stephen F. Austin,UTRGV,7,2,0,0,L,UTRGV,UTRGV,Stephen-F-Austin,1,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/11/2026,Stephen F. Austin,UTRGV,5,3,0,0,L,UTRGV,UTRGV,Stephen-F-Austin,1,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/12/2026,Stephen F. Austin,UTRGV,3,9,0,0,W,UTRGV,UTRGV,Stephen-F-Austin,1,9,"Nacogdoches, TX / Jaycees Field",2026,WN2026
+04/14/2026,Sam Houston State,UTRGV,5,8,0,0,W,UTRGV,UTRGV,Sam-Houston-State,1,10,"Huntsville, TX / Don Sanders Stadium",2026,WN2026
+04/17/2026,UTRGV,Southeastern Louisiana,8,6,0,0,W,UTRGV,UTRGV,Southeastern-Louisiana,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+04/18/2026,UTRGV,Southeastern Louisiana,6,11,0,0,L,UTRGV,UTRGV,Southeastern-Louisiana,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+04/18/2026,UTRGV,Southeastern Louisiana,10,1,0,0,W,UTRGV,UTRGV,Southeastern-Louisiana,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+04/21/2026,Little Rock,UTRGV,5,4,0,0,L,UTRGV,UTRGV,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+04/22/2026,Little Rock,UTRGV,15,10,0,0,L,UTRGV,UTRGV,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+04/24/2026,McNeese,UTRGV,7,8,0,0,W,UTRGV,UTRGV,McNeese,1,11,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+04/25/2026,McNeese,UTRGV,5,3,0,0,L,UTRGV,UTRGV,McNeese,1,9,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+04/26/2026,McNeese,UTRGV,7,10,0,0,W,UTRGV,UTRGV,McNeese,1,10,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+04/28/2026,Oregon State,UTRGV,4,2,0,0,L,UTRGV,UTRGV,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+04/29/2026,Oregon State,UTRGV,7,9,0,0,W,UTRGV,UTRGV,Oregon-State,1,9,"Corvallis, OR / Goss Stadium at Coleman Field",2026,WN2026
+05/01/2026,UTRGV,Incarnate Word,4,3,0,0,W,UTRGV,UTRGV,Incarnate-Word,0,10,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+05/02/2026,UTRGV,Incarnate Word,7,5,0,0,W,UTRGV,UTRGV,Incarnate-Word,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+05/03/2026,UTRGV,Incarnate Word,5,0,0,0,W,UTRGV,UTRGV,Incarnate-Word,0,9,"Edinburg, TX / UTRGV Baseball Stadium",2026,WN2026
+05/05/2026,Abilene Christian,UTRGV,7,13,0,0,W,UTRGV,UTRGV,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+05/08/2026,Tarleton State,UTRGV,7,4,0,0,L,UTRGV,UTRGV,Tarleton-State,1,9,"Stephenville, TX / Cecil Ballow Baseball Complex / Box Score",2026,WN2026
+05/09/2026,Tarleton State,UTRGV,10,8,0,0,L,UTRGV,UTRGV,Tarleton-State,1,9,"Stephenville, TX / Cecil Ballow Baseball Complex / Box Score",2026,WN2026
+05/10/2026,Tarleton State,UTRGV,2,4,0,0,W,UTRGV,UTRGV,Tarleton-State,1,9,"Stephenville, TX / Cecil Ballow Baseball Complex / Box Score",2026,WN2026
+05/14/2026,Northwestern State,UTRGV,6,5,0,1,L,UTRGV,UTRGV,Northwestern-State,0,9,"Beaumont, TX / Vincent-Beck Stadium / Box Score",2026,WN2026
+05/15/2026,Lamar,UTRGV,3,2,0,1,L,UTRGV,UTRGV,Lamar,0,9,"Beaumont, TX / Vincent-Beck Stadium / Box Score",2026,WN2026

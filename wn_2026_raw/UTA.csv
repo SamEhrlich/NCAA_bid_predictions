@@ -1,0 +1,52 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Northwestern State,UTA,3,2,0,0,L,UTA,UTA,Northwestern-State,1,14,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+02/14/2026,Northwestern State,UTA,8,3,0,0,L,UTA,UTA,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+02/15/2026,Northwestern State,UTA,10,3,0,0,L,UTA,UTA,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+02/17/2026,TCU,UTA,8,11,0,1,W,UTA,UTA,TCU,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/20/2026,UTA,Lamar,10,2,0,0,W,UTA,UTA,Lamar,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+02/21/2026,UTA,Lamar,4,5,0,0,L,UTA,UTA,Lamar,0,10,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+02/22/2026,UTA,Lamar,3,5,0,0,L,UTA,UTA,Lamar,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+02/24/2026,UTA,Dallas Baptist,1,6,0,0,L,UTA,UTA,Dallas-Baptist,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+02/27/2026,Arkansas,UTA,3,4,0,0,W,UTA,UTA,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+02/28/2026,Arkansas,UTA,9,0,0,0,L,UTA,UTA,Arkansas,1,9,"Fayetteville, AR / Baum Stadium",2026,WN2026
+03/01/2026,Arkansas,UTA,11,1,0,0,L,UTA,UTA,Arkansas,1,7,"Fayetteville, AR / Baum Stadium",2026,WN2026
+03/02/2026,UTA,Air Force,1,7,0,0,L,UTA,UTA,Air-Force,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/06/2026,UTA,ULM,4,3,0,0,W,UTA,UTA,ULM,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/07/2026,UTA,ULM,9,5,0,0,W,UTA,UTA,ULM,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/08/2026,UTA,ULM,2,12,0,0,L,UTA,UTA,ULM,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/11/2026,Oklahoma,UTA,6,1,0,0,L,UTA,UTA,Oklahoma,1,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/13/2026,UTSA,UTA,11,15,0,0,W,UTA,UTA,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+03/14/2026,UTSA,UTA,8,11,0,0,W,UTA,UTA,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+03/15/2026,UTSA,UTA,15,8,0,0,L,UTA,UTA,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+03/17/2026,UTA,Stephen F. Austin,1,4,0,0,L,UTA,UTA,Stephen-F-Austin,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/20/2026,UTA,Saint John's,1,8,0,0,L,UTA,UTA,Saint-Johns,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/21/2026,UTA,Saint John's,7,11,0,0,L,UTA,UTA,Saint-Johns,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/22/2026,UTA,Saint John's,12,6,0,0,W,UTA,UTA,Saint-Johns,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/24/2026,Sam Houston State,UTA,7,5,0,0,L,UTA,UTA,Sam-Houston-State,1,9,"Huntsville, TX / Don Sanders Stadium",2026,WN2026
+03/27/2026,UTA,Villanova,9,2,0,0,W,UTA,UTA,Villanova,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/28/2026,UTA,Villanova,11,3,0,0,W,UTA,UTA,Villanova,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/29/2026,UTA,Villanova,2,1,0,0,W,UTA,UTA,Villanova,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+04/02/2026,UTA,Tarleton State,1,3,0,0,L,UTA,UTA,Tarleton-State,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+04/03/2026,UTA,Tarleton State,6,3,0,0,W,UTA,UTA,Tarleton-State,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+04/04/2026,UTA,Tarleton State,8,2,0,0,W,UTA,UTA,Tarleton-State,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+04/07/2026,UTA,Baylor,2,5,0,0,L,UTA,UTA,Baylor,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+04/10/2026,California Baptist,UTA,9,1,0,0,L,UTA,UTA,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+04/11/2026,California Baptist,UTA,6,4,0,0,L,UTA,UTA,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+04/11/2026,California Baptist,UTA,1,19,0,0,W,UTA,UTA,California-Baptist,1,7,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+04/14/2026,Dallas Baptist,UTA,10,5,0,0,L,UTA,UTA,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+04/17/2026,UTA,Sacramento State,1,2,0,0,L,UTA,UTA,Sacramento-State,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+04/18/2026,UTA,Sacramento State,1,11,0,0,L,UTA,UTA,Sacramento-State,0,7,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+04/19/2026,UTA,Sacramento State,8,6,0,0,W,UTA,UTA,Sacramento-State,0,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+04/24/2026,Abilene Christian,UTA,6,11,0,0,W,UTA,UTA,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/25/2026,Abilene Christian,UTA,9,8,0,0,L,UTA,UTA,Abilene-Christian,1,10,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/26/2026,Abilene Christian,UTA,14,4,0,0,L,UTA,UTA,Abilene-Christian,1,7,"Abilene, TX / Crutcher Scott Field",2026,WN2026
+04/28/2026,Baylor,UTA,6,2,0,0,L,UTA,UTA,Baylor,1,6,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/29/2026,TCU,UTA,12,1,0,0,L,UTA,UTA,TCU,1,7,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+05/08/2026,UTA,Utah Tech,2,0,0,0,W,UTA,UTA,Utah-Tech,0,9,"Arlington, TX / Clay Gould Ballpark / Box Score",2026,WN2026
+05/09/2026,UTA,Utah Tech,4,16,0,0,L,UTA,UTA,Utah-Tech,0,9,"Arlington, TX / Clay Gould Ballpark / Box Score",2026,WN2026
+05/10/2026,UTA,Utah Tech,8,5,0,0,W,UTA,UTA,Utah-Tech,0,11,"Arlington, TX / Clay Gould Ballpark / Box Score",2026,WN2026
+05/14/2026,Utah Valley,UTA,13,5,0,0,L,UTA,UTA,Utah-Valley,1,9,"Orem, UT / UCCU Ballpark / Box Score",2026,WN2026
+05/15/2026,Utah Valley,UTA,10,9,0,0,L,UTA,UTA,Utah-Valley,1,9,"Orem, UT / UCCU Ballpark / Box Score",2026,WN2026
+05/16/2026,Utah Valley,UTA,10,11,0,0,W,UTA,UTA,Utah-Valley,1,9,"Orem, UT / UCCU Ballpark / Box Score",2026,WN2026
+05/20/2026,Utah Tech,UTA,4,0,0,1,L,UTA,UTA,Utah-Tech,0,9,"Mesa, AZ / Hohokam Stadium / Box Score / Recap",2026,WN2026
+05/20/2026,Abilene Christian,UTA,5,3,0,1,L,UTA,UTA,Abilene-Christian,0,9,"Mesa, AZ / Hohokam Stadium",2026,WN2026

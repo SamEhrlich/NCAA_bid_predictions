@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Bethune-Cookman,Bradley,2,1,0,0,L,Bradley,Bradley,Bethune-Cookman,1,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+02/14/2026,Bethune-Cookman,Bradley,17,6,0,0,L,Bradley,Bradley,Bethune-Cookman,1,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+02/15/2026,Bethune-Cookman,Bradley,6,7,0,0,W,Bradley,Bradley,Bethune-Cookman,1,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+02/17/2026,Indiana,Bradley,15,3,0,0,L,Bradley,Bradley,Indiana,1,7,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+02/20/2026,UNLV,Bradley,12,9,0,0,L,Bradley,Bradley,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/21/2026,UNLV,Bradley,13,5,0,0,L,Bradley,Bradley,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/22/2026,UNLV,Bradley,20,9,0,0,L,Bradley,Bradley,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+02/27/2026,Tennessee-Martin,Bradley,17,2,0,0,L,Bradley,Bradley,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+02/28/2026,Tennessee-Martin,Bradley,9,13,0,0,W,Bradley,Bradley,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/01/2026,Tennessee-Martin,Bradley,8,11,0,0,W,Bradley,Bradley,Tennessee-Martin,1,9,"Martin, TN / Skyhawk Park",2026,WN2026
+03/03/2026,SIUE,Bradley,7,8,0,0,W,Bradley,Bradley,SIUE,1,9,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+03/06/2026,Saint Louis,Bradley,2,1,0,0,L,Bradley,Bradley,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/07/2026,Saint Louis,Bradley,9,7,0,0,L,Bradley,Bradley,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/08/2026,Saint Louis,Bradley,4,1,0,0,L,Bradley,Bradley,Saint-Louis,1,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/10/2026,Lindenwood,Bradley,6,5,0,0,L,Bradley,Bradley,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/11/2026,Lindenwood,Bradley,11,6,0,0,L,Bradley,Bradley,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+03/13/2026,East Tennessee State,Bradley,12,2,0,0,L,Bradley,Bradley,East-Tennessee-State,1,7,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/14/2026,East Tennessee State,Bradley,15,2,0,0,L,Bradley,Bradley,East-Tennessee-State,1,7,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/14/2026,East Tennessee State,Bradley,10,3,0,0,L,Bradley,Bradley,East-Tennessee-State,1,9,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/15/2026,East Tennessee State,Bradley,15,2,0,0,L,Bradley,Bradley,East-Tennessee-State,1,7,"Johnson City, TN / Thomas Stadium",2026,WN2026
+03/20/2026,Indiana State,Bradley,8,10,0,0,W,Bradley,Bradley,Indiana-State,1,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+03/21/2026,Indiana State,Bradley,8,3,0,0,L,Bradley,Bradley,Indiana-State,1,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+03/22/2026,Indiana State,Bradley,18,10,0,0,L,Bradley,Bradley,Indiana-State,1,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+03/24/2026,Western Illinois,Bradley,12,7,0,0,L,Bradley,Bradley,Western-Illinois,1,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+03/27/2026,Bradley,Murray State,10,18,0,0,L,Bradley,Bradley,Murray-State,0,9,"Peoria, IL / Dozer Park",2026,WN2026
+03/28/2026,Bradley,Murray State,0,11,0,0,L,Bradley,Bradley,Murray-State,0,7,"Peoria, IL / Dozer Park",2026,WN2026
+03/29/2026,Bradley,Murray State,3,14,0,0,L,Bradley,Bradley,Murray-State,0,9,"Peoria, IL / Dozer Park",2026,WN2026
+03/31/2026,Bradley,Iowa,8,21,0,0,L,Bradley,Bradley,Iowa,0,7,"Peoria, IL / Dozer Park",2026,WN2026
+04/03/2026,Bradley,Evansville,5,2,0,0,W,Bradley,Bradley,Evansville,0,9,"Peoria, IL / Dozer Park",2026,WN2026
+04/04/2026,Bradley,Evansville,3,12,0,0,L,Bradley,Bradley,Evansville,0,9,"Peoria, IL / Dozer Park",2026,WN2026
+04/04/2026,Bradley,Evansville,4,9,0,0,L,Bradley,Bradley,Evansville,0,9,"Peoria, IL / Dozer Park",2026,WN2026
+04/07/2026,Purdue,Bradley,13,6,0,0,L,Bradley,Bradley,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+04/10/2026,Valparaiso,Bradley,9,2,0,0,L,Bradley,Bradley,Valparaiso,1,9,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+04/11/2026,Valparaiso,Bradley,6,9,0,0,W,Bradley,Bradley,Valparaiso,1,9,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+04/12/2026,Valparaiso,Bradley,10,11,0,0,W,Bradley,Bradley,Valparaiso,1,9,"Valparaiso, IN / Emory G. Bauer Field",2026,WN2026
+04/14/2026,Iowa,Bradley,20,1,0,0,L,Bradley,Bradley,Iowa,1,7,"Iowa City, IA / Duane Banks Field",2026,WN2026
+04/15/2026,Bradley,Western Illinois,4,10,0,0,L,Bradley,Bradley,Western-Illinois,0,9,"Peoria, IL / Dozer Park",2026,WN2026
+04/18/2026,Bradley,Southern Illinois,1,10,0,0,L,Bradley,Bradley,Southern-Illinois,0,9,"Peoria, IL / Dozer Park",2026,WN2026
+04/18/2026,Bradley,Southern Illinois,2,6,0,0,L,Bradley,Bradley,Southern-Illinois,0,9,"Peoria, IL / Dozer Park",2026,WN2026
+04/19/2026,Bradley,Southern Illinois,5,13,0,0,L,Bradley,Bradley,Southern-Illinois,0,9,"Peoria, IL / Dozer Park",2026,WN2026
+04/21/2026,Northwestern,Bradley,11,6,0,0,L,Bradley,Bradley,Northwestern,1,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/24/2026,Illinois State,Bradley,16,6,0,0,L,Bradley,Bradley,Illinois-State,1,8,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/25/2026,Illinois State,Bradley,1,0,0,0,L,Bradley,Bradley,Illinois-State,1,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/26/2026,Illinois State,Bradley,8,5,0,0,L,Bradley,Bradley,Illinois-State,1,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/29/2026,Bradley,Eastern Illinois,4,12,0,0,L,Bradley,Bradley,Eastern-Illinois,0,9,"Peoria, IL / Dozer Park",2026,WN2026
+05/01/2026,Belmont,Bradley,8,13,0,0,W,Bradley,Bradley,Belmont,1,9,"Nashville, TN / E. S. Rose Park",2026,WN2026
+05/02/2026,Belmont,Bradley,8,0,0,0,L,Bradley,Bradley,Belmont,1,9,"Nashville, TN / E. S. Rose Park",2026,WN2026
+05/03/2026,Belmont,Bradley,12,11,0,0,L,Bradley,Bradley,Belmont,1,9,"Nashville, TN / E. S. Rose Park",2026,WN2026
+05/06/2026,Illinois,Bradley,10,2,0,0,L,Bradley,Bradley,Illinois,1,9,"Champaign, IL / Illinois Field",2026,WN2026
+05/08/2026,Gardner-Webb,Bradley,10,9,0,0,L,Bradley,Bradley,Gardner-Webb,1,9,"Boiling Springs, NC / John Henry Moss Stadium / Box Score",2026,WN2026
+05/09/2026,Campbell,Bradley,14,3,0,1,L,Bradley,Bradley,Campbell,0,7,"Boiling Springs, NC / John Henry Moss Stadium / Box Score",2026,WN2026
+05/09/2026,Gardner-Webb,Bradley,7,6,0,0,L,Bradley,Bradley,Gardner-Webb,1,9,"Boiling Springs, NC / John Henry Moss Stadium / Box Score",2026,WN2026
+05/10/2026,Campbell,Bradley,4,5,0,1,W,Bradley,Bradley,Campbell,0,9,"Boiling Springs, NC / John Henry Moss Stadium / Box Score",2026,WN2026
+05/14/2026,Bradley,UIC,3,8,0,0,L,Bradley,Bradley,UIC,0,9,"Peoria, IL / Dozer Park / Box Score",2026,WN2026
+05/15/2026,Bradley,UIC,4,11,0,0,L,Bradley,Bradley,UIC,0,9,"Peoria, IL / Dozer Park / Box Score",2026,WN2026
+05/16/2026,Bradley,UIC,6,2,0,0,W,Bradley,Bradley,UIC,0,9,"Peoria, IL / Dozer Park / Box Score",2026,WN2026

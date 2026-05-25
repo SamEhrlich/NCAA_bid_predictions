@@ -1,0 +1,53 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Alcorn State,Grambling State,1,11,0,1,W,Grambling State,Grambling-State,Alcorn-State,0,8,"Jackson, MS / Braddy Field",2026,WN2026
+02/14/2026,Texas Southern,Grambling State,9,8,0,1,L,Grambling State,Grambling-State,Texas-Southern,0,9,"Pearl, MS / Trustmark Park",2026,WN2026
+02/15/2026,Alabama A&M,Grambling State,7,9,0,1,W,Grambling State,Grambling-State,Alabama-AM,0,9,"Pearl, MS / Trustmark Park",2026,WN2026
+02/20/2026,Southern,Grambling State,13,3,0,1,L,Grambling State,Grambling-State,Southern,0,8,"Vero Beach, FL / Jackie Robinson Training Complex",2026,WN2026
+02/21/2026,Alabama State,Grambling State,7,0,0,1,L,Grambling State,Grambling-State,Alabama-State,0,7,Vero Beach. FL / Jackie Robinson Training Complex,2026,WN2026
+02/22/2026,Jackson State,Grambling State,7,8,0,1,W,Grambling State,Grambling-State,Jackson-State,0,9,"Vero Beach, FL / Jackie Robinson Training Complex",2026,WN2026
+02/24/2026,ULM,Grambling State,19,9,0,0,L,Grambling State,Grambling-State,ULM,1,8,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+02/27/2026,Northeastern,Grambling State,4,1,0,1,L,Grambling State,Grambling-State,Northeastern,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+02/28/2026,Dartmouth,Grambling State,12,11,0,1,L,Grambling State,Grambling-State,Dartmouth,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/01/2026,Northeastern,Grambling State,10,0,0,1,L,Grambling State,Grambling-State,Northeastern,0,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/03/2026,Northwestern State,Grambling State,13,1,0,0,L,Grambling State,Grambling-State,Northwestern-State,1,7,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+03/06/2026,Southeastern Louisiana,Grambling State,13,3,0,0,L,Grambling State,Grambling-State,Southeastern-Louisiana,1,7,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/07/2026,Southeastern Louisiana,Grambling State,12,9,0,0,L,Grambling State,Grambling-State,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/08/2026,Southeastern Louisiana,Grambling State,10,9,0,0,L,Grambling State,Grambling-State,Southeastern-Louisiana,1,8,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/13/2026,Alabama State,Grambling State,5,9,0,0,W,Grambling State,Grambling-State,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/14/2026,Alabama State,Grambling State,5,4,0,0,L,Grambling State,Grambling-State,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/15/2026,Alabama State,Grambling State,13,14,0,0,W,Grambling State,Grambling-State,Alabama-State,1,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/17/2026,LSU,Grambling State,7,1,0,0,L,Grambling State,Grambling-State,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/20/2026,Grambling State,Alabama A&M,9,8,0,0,W,Grambling State,Grambling-State,Alabama-AM,0,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+03/21/2026,Grambling State,Alabama A&M,19,4,0,0,W,Grambling State,Grambling-State,Alabama-AM,0,7,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+03/22/2026,Grambling State,Alabama A&M,13,3,0,0,W,Grambling State,Grambling-State,Alabama-AM,0,7,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+03/25/2026,Tulane,Grambling State,15,5,0,0,L,Grambling State,Grambling-State,Tulane,1,7,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+03/27/2026,Texas Southern,Grambling State,15,8,0,0,L,Grambling State,Grambling-State,Texas-Southern,1,9,"Houston, TX / MacGregor Park",2026,WN2026
+03/28/2026,Texas Southern,Grambling State,5,9,0,0,W,Grambling State,Grambling-State,Texas-Southern,1,10,"Houston, TX / MacGregor Park",2026,WN2026
+03/29/2026,Texas Southern,Grambling State,12,1,0,0,L,Grambling State,Grambling-State,Texas-Southern,1,9,"Houston, TX / MacGregor Park",2026,WN2026
+03/31/2026,Mississippi State,Grambling State,12,0,0,0,L,Grambling State,Grambling-State,Mississippi-State,1,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+04/02/2026,Grambling State,Jackson State,12,9,0,0,W,Grambling State,Grambling-State,Jackson-State,0,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/03/2026,Grambling State,Jackson State,5,2,0,0,W,Grambling State,Grambling-State,Jackson-State,0,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/03/2026,Grambling State,Jackson State,10,20,0,0,L,Grambling State,Grambling-State,Jackson-State,0,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/07/2026,Grambling State,McNeese,1,4,0,0,L,Grambling State,Grambling-State,McNeese,0,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/10/2026,Grambling State,Southern,5,7,0,0,L,Grambling State,Grambling-State,Southern,0,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/11/2026,Grambling State,Southern,6,7,0,0,L,Grambling State,Grambling-State,Southern,0,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/12/2026,Grambling State,Southern,11,13,0,0,L,Grambling State,Grambling-State,Southern,0,10,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/14/2026,McNeese,Grambling State,7,3,0,0,L,Grambling State,Grambling-State,McNeese,1,9,"Lake Charles, LA / Joe Miller Ballpark",2026,WN2026
+04/17/2026,Grambling State,Prairie View A&M,12,2,0,0,W,Grambling State,Grambling-State,Prairie-View-AM,0,8,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/18/2026,Grambling State,Prairie View A&M,8,6,0,0,W,Grambling State,Grambling-State,Prairie-View-AM,0,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/19/2026,Grambling State,Prairie View A&M,7,6,0,0,W,Grambling State,Grambling-State,Prairie-View-AM,0,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+04/21/2026,Louisiana,Grambling State,15,7,0,0,L,Grambling State,Grambling-State,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+04/24/2026,Alcorn State,Grambling State,4,11,0,0,W,Grambling State,Grambling-State,Alcorn-State,1,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/25/2026,Alcorn State,Grambling State,8,20,0,0,W,Grambling State,Grambling-State,Alcorn-State,1,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+04/27/2026,Alcorn State,Grambling State,12,11,0,0,L,Grambling State,Grambling-State,Alcorn-State,1,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+05/02/2026,Grambling State,Florida A&M,12,11,0,0,W,Grambling State,Grambling-State,Florida-AM,0,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+05/02/2026,Grambling State,Florida A&M,6,4,0,0,W,Grambling State,Grambling-State,Florida-AM,0,9,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+05/03/2026,Grambling State,Florida A&M,19,9,0,0,W,Grambling State,Grambling-State,Florida-AM,0,7,"Grambling, LA / Ralph Waldo Emerson Jones Park and Wilbert Ellis Field",2026,WN2026
+05/08/2026,Arkansas-Pine Bluff,Grambling State,16,1,0,0,L,Grambling State,Grambling-State,Arkansas-Pine-Bluff,1,7,"Pine Bluff, AR / Torii Hunter Baseball Complex / Box Score",2026,WN2026
+05/09/2026,Arkansas-Pine Bluff,Grambling State,3,15,0,0,W,Grambling State,Grambling-State,Arkansas-Pine-Bluff,1,7,"Pine Bluff, AR / Torii Hunter Baseball Complex / Box Score",2026,WN2026
+05/10/2026,Arkansas-Pine Bluff,Grambling State,8,6,0,0,L,Grambling State,Grambling-State,Arkansas-Pine-Bluff,1,9,"Pine Bluff, AR / Torii Hunter Baseball Complex / Box Score",2026,WN2026
+05/14/2026,Bethune-Cookman,Grambling State,23,1,0,0,L,Grambling State,Grambling-State,Bethune-Cookman,1,7,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark / Box Score",2026,WN2026
+05/15/2026,Bethune-Cookman,Grambling State,2,7,0,0,W,Grambling State,Grambling-State,Bethune-Cookman,1,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark / Box Score",2026,WN2026
+05/16/2026,Bethune-Cookman,Grambling State,12,1,0,0,L,Grambling State,Grambling-State,Bethune-Cookman,1,7,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark / Box Score",2026,WN2026
+05/20/2026,Alabama State,Grambling State,10,0,0,1,L,Grambling State,Grambling-State,Alabama-State,0,8,"Birmingham, AL / Rickwood Field / Box Score / Recap",2026,WN2026
+05/21/2026,Bethune-Cookman,Grambling State,7,6,0,1,L,Grambling State,Grambling-State,Bethune-Cookman,0,9,"Birmingham, AL / Rickwood Field",2026,WN2026

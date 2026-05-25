@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Alabama,Washington State,4,8,0,0,W,Washington State,Washington-State,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+02/14/2026,Alabama,Washington State,8,1,0,0,L,Washington State,Washington-State,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+02/14/2026,Alabama,Washington State,11,1,0,0,L,Washington State,Washington-State,Alabama,1,7,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+02/20/2026,Cal Poly,Washington State,9,0,0,0,L,Washington State,Washington-State,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+02/21/2026,Cal Poly,Washington State,3,2,0,0,L,Washington State,Washington-State,Cal-Poly,1,10,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+02/22/2026,Cal Poly,Washington State,3,8,0,0,W,Washington State,Washington-State,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+02/23/2026,Cal Poly,Washington State,4,5,0,0,W,Washington State,Washington-State,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+02/26/2026,BYU,Washington State,6,4,0,1,L,Washington State,Washington-State,BYU,0,9,"Long Beach, CA",2026,WN2026
+02/27/2026,Long Beach State,Washington State,4,10,0,0,W,Washington State,Washington-State,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+02/27/2026,BYU,Washington State,5,4,0,1,L,Washington State,Washington-State,BYU,0,9,"Long Beach, CA",2026,WN2026
+03/01/2026,Long Beach State,Washington State,7,9,0,0,W,Washington State,Washington-State,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+03/05/2026,Texas State,Washington State,13,11,0,0,L,Washington State,Washington-State,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+03/06/2026,Texas State,Washington State,7,9,0,0,W,Washington State,Washington-State,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+03/06/2026,Texas State,Washington State,10,4,0,0,L,Washington State,Washington-State,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+03/08/2026,Texas State,Washington State,4,3,0,0,L,Washington State,Washington-State,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+03/13/2026,San Diego State,Washington State,14,4,0,0,L,Washington State,Washington-State,San-Diego-State,1,8,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/14/2026,San Diego State,Washington State,2,7,0,0,W,Washington State,Washington-State,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/15/2026,San Diego State,Washington State,15,10,0,0,L,Washington State,Washington-State,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/17/2026,Utah,Washington State,8,5,0,0,L,Washington State,Washington-State,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+03/20/2026,Washington State,Grand Canyon,7,3,0,0,W,Washington State,Washington-State,Grand-Canyon,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+03/21/2026,Washington State,Grand Canyon,6,5,0,0,W,Washington State,Washington-State,Grand-Canyon,0,10,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+03/22/2026,Washington State,Grand Canyon,6,2,0,0,W,Washington State,Washington-State,Grand-Canyon,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+03/25/2026,Gonzaga,Washington State,19,8,0,0,L,Washington State,Washington-State,Gonzaga,1,7,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+03/27/2026,Washington State,Nevada,12,6,0,0,W,Washington State,Washington-State,Nevada,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+03/28/2026,Washington State,Nevada,4,5,0,0,L,Washington State,Washington-State,Nevada,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+03/29/2026,Washington State,Nevada,5,12,0,0,L,Washington State,Washington-State,Nevada,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+03/31/2026,Seattle University,Washington State,0,10,0,0,W,Washington State,Washington-State,Seattle-University,1,7,"Bellevue, WA / Bannerwood Park",2026,WN2026
+04/02/2026,San Jose State,Washington State,8,5,0,0,L,Washington State,Washington-State,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+04/03/2026,San Jose State,Washington State,3,5,0,0,W,Washington State,Washington-State,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+04/04/2026,San Jose State,Washington State,3,6,0,0,W,Washington State,Washington-State,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark",2026,WN2026
+04/06/2026,Washington State,Oregon State,0,18,0,0,L,Washington State,Washington-State,Oregon-State,0,7,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/07/2026,Washington State,Oregon State,7,6,0,0,W,Washington State,Washington-State,Oregon-State,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/09/2026,Washington State,Gardner-Webb,3,2,0,0,W,Washington State,Washington-State,Gardner-Webb,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/10/2026,Washington State,Gardner-Webb,7,4,0,0,W,Washington State,Washington-State,Gardner-Webb,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/11/2026,Washington State,Gardner-Webb,5,3,0,0,W,Washington State,Washington-State,Gardner-Webb,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/13/2026,Washington State,Portland,9,3,0,0,W,Washington State,Washington-State,Portland,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/15/2026,Utah Tech,Washington State,18,8,0,0,L,Washington State,Washington-State,Utah-Tech,1,7,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+04/17/2026,UNLV,Washington State,2,13,0,0,W,Washington State,Washington-State,UNLV,1,8,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+04/18/2026,UNLV,Washington State,12,3,0,0,L,Washington State,Washington-State,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+04/19/2026,UNLV,Washington State,8,9,0,0,W,Washington State,Washington-State,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+04/21/2026,Washington State,Gonzaga,8,16,0,0,L,Washington State,Washington-State,Gonzaga,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/24/2026,Washington State,New Mexico,10,3,0,0,W,Washington State,Washington-State,New-Mexico,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/25/2026,Washington State,New Mexico,3,4,0,0,L,Washington State,Washington-State,New-Mexico,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+04/26/2026,Washington State,New Mexico,13,3,0,0,W,Washington State,Washington-State,New-Mexico,0,8,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+05/01/2026,Washington State,Fresno State,5,1,0,0,W,Washington State,Washington-State,Fresno-State,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+05/02/2026,Washington State,Fresno State,17,0,0,0,W,Washington State,Washington-State,Fresno-State,0,7,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+05/03/2026,Washington State,Fresno State,4,5,0,0,L,Washington State,Washington-State,Fresno-State,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+05/04/2026,Gonzaga,Washington State,10,5,0,0,L,Washington State,Washington-State,Gonzaga,1,9,"Spokane, WA / Washington Trust Field and Patterson Baseball Complex",2026,WN2026
+05/08/2026,Air Force,Washington State,2,11,0,0,W,Washington State,Washington-State,Air-Force,1,9,"Colorado Springs, CO / Erdle Field / Box Score",2026,WN2026
+05/09/2026,Air Force,Washington State,4,14,0,0,W,Washington State,Washington-State,Air-Force,1,7,"Colorado Springs, CO / Erdle Field / Box Score",2026,WN2026
+05/10/2026,Air Force,Washington State,10,9,0,0,L,Washington State,Washington-State,Air-Force,1,9,"Colorado Springs, CO / Erdle Field / Box Score",2026,WN2026
+05/12/2026,Washington State,Seattle University,11,12,0,0,L,Washington State,Washington-State,Seattle-University,0,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+05/22/2026,Air Force,Washington State,1,5,0,1,W,Washington State,Washington-State,Air-Force,0,9,"Mesa, AZ / Sloan Park / Recap",2026,WN2026
+05/23/2026,San Diego State,Washington State,9,14,0,1,W,Washington State,Washington-State,San-Diego-State,0,9,"Mesa, AZ / Sloan Park",2026,WN2026
+05/24/2026,San Diego State,Washington State,9,2,0,1,L,Washington State,Washington-State,San-Diego-State,0,9,"Mesa, AZ / Sloan Park",2026,WN2026
+05/24/2026,San Diego State,Washington State,4,14,0,1,W,Washington State,Washington-State,San-Diego-State,0,7,"Mesa, AZ / Sloan Park",2026,WN2026

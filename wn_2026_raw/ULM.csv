@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,ULM,Central Arkansas,11,2,0,0,W,ULM,ULM,Central-Arkansas,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+02/14/2026,ULM,Central Arkansas,11,12,0,0,L,ULM,ULM,Central-Arkansas,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+02/15/2026,ULM,Central Arkansas,4,6,0,0,L,ULM,ULM,Central-Arkansas,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+02/15/2026,ULM,Central Arkansas,10,2,0,0,W,ULM,ULM,Central-Arkansas,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+02/17/2026,Northwestern State,ULM,13,10,0,0,L,ULM,ULM,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+02/20/2026,Northern Kentucky,ULM,6,4,0,1,L,ULM,ULM,Northern-Kentucky,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+02/21/2026,Alabama A&M,ULM,11,7,0,1,L,ULM,ULM,Alabama-AM,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+02/22/2026,New Orleans,ULM,1,9,0,0,W,ULM,ULM,New-Orleans,1,9,"New Orleans, LA / Maestri Field",2026,WN2026
+02/24/2026,ULM,Grambling State,19,9,0,0,W,ULM,ULM,Grambling-State,0,8,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+02/25/2026,ULM,Alcorn State,12,0,0,0,W,ULM,ULM,Alcorn-State,0,7,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+02/27/2026,ULM,Western Illinois,12,5,0,0,W,ULM,ULM,Western-Illinois,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+02/28/2026,ULM,Western Illinois,11,4,0,0,W,ULM,ULM,Western-Illinois,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/01/2026,ULM,Western Illinois,11,7,0,0,W,ULM,ULM,Western-Illinois,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/03/2026,ULM,Southeastern Louisiana,5,15,0,0,L,ULM,ULM,Southeastern-Louisiana,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/04/2026,ULM,Southeastern Louisiana,6,16,0,0,L,ULM,ULM,Southeastern-Louisiana,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/06/2026,UTA,ULM,4,3,0,0,L,ULM,ULM,UTA,1,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/07/2026,UTA,ULM,9,5,0,0,L,ULM,ULM,UTA,1,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/08/2026,UTA,ULM,2,12,0,0,W,ULM,ULM,UTA,1,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/13/2026,ULM,Texas State,12,6,0,0,W,ULM,ULM,Texas-State,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/14/2026,ULM,Texas State,8,5,0,0,W,ULM,ULM,Texas-State,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/15/2026,ULM,Texas State,16,5,0,0,W,ULM,ULM,Texas-State,0,7,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/18/2026,ULM,New Orleans,17,12,0,0,W,ULM,ULM,New-Orleans,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/20/2026,South Alabama,ULM,5,4,0,0,L,ULM,ULM,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+03/21/2026,South Alabama,ULM,6,9,0,0,W,ULM,ULM,South-Alabama,1,9,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+03/22/2026,South Alabama,ULM,16,4,0,0,L,ULM,ULM,South-Alabama,1,7,"Mobile, AL / Eddie Stanky Field",2026,WN2026
+03/24/2026,ULM,Northwestern State,0,5,0,0,L,ULM,ULM,Northwestern-State,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+03/27/2026,Louisiana,ULM,3,5,0,0,W,ULM,ULM,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+03/28/2026,Louisiana,ULM,3,7,0,0,W,ULM,ULM,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+03/29/2026,Louisiana,ULM,4,0,0,0,L,ULM,ULM,Louisiana,1,9,"Lafayette, LA / M. L. Tigue Moore Field at Russo Park",2026,WN2026
+03/31/2026,Louisiana Tech,ULM,3,14,0,0,W,ULM,ULM,Louisiana-Tech,1,7,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+04/02/2026,ULM,Georgia State,7,10,0,0,L,ULM,ULM,Georgia-State,0,13,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/03/2026,ULM,Georgia State,10,9,0,0,W,ULM,ULM,Georgia-State,0,12,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/03/2026,ULM,Georgia State,3,12,0,0,L,ULM,ULM,Georgia-State,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/07/2026,ULM,Mississippi Valley State,9,4,0,0,W,ULM,ULM,Mississippi-Valley-State,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/10/2026,Appalachian State,ULM,13,5,0,0,L,ULM,ULM,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/11/2026,Appalachian State,ULM,9,14,0,0,W,ULM,ULM,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/12/2026,Appalachian State,ULM,12,4,0,0,L,ULM,ULM,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+04/17/2026,ULM,Arkansas State,2,3,0,0,L,ULM,ULM,Arkansas-State,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/18/2026,ULM,Arkansas State,3,2,0,0,W,ULM,ULM,Arkansas-State,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/19/2026,ULM,Arkansas State,1,4,0,0,L,ULM,ULM,Arkansas-State,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/21/2026,Northwestern State,ULM,1,4,0,0,W,ULM,ULM,Northwestern-State,1,9,"Natchitoches, LA / H. Alvin Brown-C. C. Stroud Field",2026,WN2026
+04/24/2026,ULM,James Madison,3,11,0,0,L,ULM,ULM,James-Madison,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/25/2026,ULM,James Madison,6,4,0,0,W,ULM,ULM,James-Madison,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/26/2026,ULM,James Madison,2,10,0,0,L,ULM,ULM,James-Madison,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+04/28/2026,ULM,Louisiana Tech,16,5,0,0,W,ULM,ULM,Louisiana-Tech,0,7,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+05/02/2026,Southern Miss,ULM,2,1,0,0,L,ULM,ULM,Southern-Miss,1,11,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+05/02/2026,Southern Miss,ULM,3,1,0,0,L,ULM,ULM,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+05/03/2026,Southern Miss,ULM,7,3,0,0,L,ULM,ULM,Southern-Miss,1,9,"Hattiesburg, MS / Pete Taylor Park",2026,WN2026
+05/05/2026,ULM,Mississippi Valley State,10,5,0,0,W,ULM,ULM,Mississippi-Valley-State,0,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+05/08/2026,Marshall,ULM,7,4,0,0,L,ULM,ULM,Marshall,1,9,"Huntington, WV / Jack Cook Field / Box Score",2026,WN2026
+05/09/2026,Marshall,ULM,13,10,0,0,L,ULM,ULM,Marshall,1,9,"Huntington, WV / Jack Cook Field / Box Score",2026,WN2026
+05/10/2026,Marshall,ULM,5,7,0,0,W,ULM,ULM,Marshall,1,9,"Huntington, WV / Jack Cook Field / Box Score",2026,WN2026
+05/14/2026,ULM,Troy,4,6,0,0,L,ULM,ULM,Troy,0,9,"Monroe, LA / Lou St. Amant Field / Box Score",2026,WN2026
+05/15/2026,ULM,Troy,12,2,0,0,W,ULM,ULM,Troy,0,7,"Monroe, LA / Lou St. Amant Field / Box Score",2026,WN2026
+05/16/2026,ULM,Troy,3,13,0,0,L,ULM,ULM,Troy,0,7,"Monroe, LA / Lou St. Amant Field / Box Score",2026,WN2026

@@ -1,0 +1,50 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Queens,Navy,1,12,0,0,W,Navy,Navy,Queens,1,7,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+02/14/2026,Queens,Navy,2,1,0,0,L,Navy,Navy,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+02/14/2026,Queens,Navy,4,12,0,0,W,Navy,Navy,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+02/17/2026,Navy,Delaware State,12,0,0,0,W,Navy,Navy,Delaware-State,0,7,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+02/20/2026,Air Force,Navy,3,5,0,1,W,Navy,Navy,Air-Force,0,9,"Columbia, SC / Founders Park",2026,WN2026
+02/21/2026,South Carolina,Navy,8,0,0,0,L,Navy,Navy,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+02/22/2026,Marshall,Navy,1,8,0,1,W,Navy,Navy,Marshall,0,9,"Columbia, SC / Founders Park",2026,WN2026
+02/27/2026,Navy,Saint Bonaventure,5,4,0,0,W,Navy,Navy,Saint-Bonaventure,0,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+02/28/2026,Navy,Saint Bonaventure,0,12,0,0,L,Navy,Navy,Saint-Bonaventure,0,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/01/2026,Navy,Saint Bonaventure,4,0,0,0,W,Navy,Navy,Saint-Bonaventure,0,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/03/2026,Navy,Coppin State,8,7,0,0,W,Navy,Navy,Coppin-State,0,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/06/2026,Navy,Dartmouth,1,3,0,0,L,Navy,Navy,Dartmouth,0,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/07/2026,Navy,Dartmouth,8,7,0,0,W,Navy,Navy,Dartmouth,0,7,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/07/2026,Navy,Dartmouth,11,3,0,0,W,Navy,Navy,Dartmouth,0,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/08/2026,Navy,Dartmouth,4,3,0,0,W,Navy,Navy,Dartmouth,0,10,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/10/2026,Norfolk State,Navy,8,15,0,0,W,Navy,Navy,Norfolk-State,1,9,"Norfolk, VA / Marty L. Miller Field",2026,WN2026
+03/13/2026,Lehigh,Navy,3,1,0,0,L,Navy,Navy,Lehigh,1,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+03/14/2026,Lehigh,Navy,0,3,0,0,W,Navy,Navy,Lehigh,1,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+03/15/2026,Lehigh,Navy,3,1,0,0,L,Navy,Navy,Lehigh,1,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+03/18/2026,Navy,Maine,9,8,0,0,W,Navy,Navy,Maine,0,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/21/2026,Navy,Bucknell,3,7,0,0,L,Navy,Navy,Bucknell,0,7,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/21/2026,Navy,Bucknell,8,3,0,0,W,Navy,Navy,Bucknell,0,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/22/2026,Navy,Bucknell,1,3,0,0,L,Navy,Navy,Bucknell,0,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/24/2026,Navy,Saint Joseph's,2,3,0,0,L,Navy,Navy,Saint-Josephs,0,10,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+03/27/2026,Army,Navy,5,4,0,0,L,Navy,Navy,Army,1,10,"West Point, NY / Doubleday Field",2026,WN2026
+03/28/2026,Army,Navy,2,5,0,0,W,Navy,Navy,Army,1,9,"West Point, NY / Doubleday Field",2026,WN2026
+03/29/2026,Army,Navy,4,3,0,0,L,Navy,Navy,Army,1,9,"West Point, NY / Doubleday Field",2026,WN2026
+04/04/2026,Navy,Lehigh,8,0,0,0,W,Navy,Navy,Lehigh,0,7,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+04/04/2026,Navy,Lehigh,8,3,0,0,W,Navy,Navy,Lehigh,0,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+04/05/2026,Navy,Lehigh,6,11,0,0,L,Navy,Navy,Lehigh,0,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+04/08/2026,Navy,Maryland,2,15,0,0,L,Navy,Navy,Maryland,0,8,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+04/10/2026,Navy,Lafayette,9,1,0,0,W,Navy,Navy,Lafayette,0,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+04/11/2026,Navy,Lafayette,7,1,0,0,W,Navy,Navy,Lafayette,0,7,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+04/11/2026,Navy,Lafayette,1,0,0,0,W,Navy,Navy,Lafayette,0,11,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+04/12/2026,Navy,Lafayette,10,9,0,0,W,Navy,Navy,Lafayette,0,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+04/14/2026,George Washington,Navy,4,1,0,0,L,Navy,Navy,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+04/17/2026,Holy Cross,Navy,2,3,0,0,W,Navy,Navy,Holy-Cross,1,7,"Worcester, MA / Hanover Insurance Park at Fitton Field",2026,WN2026
+04/17/2026,Holy Cross,Navy,4,10,0,0,W,Navy,Navy,Holy-Cross,1,9,"Worcester, MA / Hanover Insurance Park at Fitton Field",2026,WN2026
+04/18/2026,Holy Cross,Navy,5,9,0,0,W,Navy,Navy,Holy-Cross,1,7,"Worcester, MA / Hanover Insurance Park at Fitton Field",2026,WN2026
+04/18/2026,Holy Cross,Navy,5,10,0,0,W,Navy,Navy,Holy-Cross,1,9,"Worcester, MA / Hanover Insurance Park at Fitton Field",2026,WN2026
+04/22/2026,Navy,Maryland Eastern Shore,7,3,0,0,W,Navy,Navy,Maryland-Eastern-Shore,0,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+04/25/2026,Bucknell,Navy,4,9,0,0,W,Navy,Navy,Bucknell,1,7,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+04/26/2026,Bucknell,Navy,5,4,0,0,L,Navy,Navy,Bucknell,1,13,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+04/26/2026,Bucknell,Navy,3,5,0,0,W,Navy,Navy,Bucknell,1,9,"Lewisburg, PA / Eugene B. Depew Field",2026,WN2026
+05/02/2026,Navy,Army,4,5,0,0,L,Navy,Navy,Army,0,13,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+05/03/2026,Navy,Army,7,4,0,0,W,Navy,Navy,Army,0,7,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+05/03/2026,Navy,Army,4,16,0,0,L,Navy,Navy,Army,0,7,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+05/10/2026,Bucknell,Navy,16,4,0,1,L,Navy,Navy,Bucknell,0,9,"Lewisburg, PA / Eugene B. Depew Field / Box Score",2026,WN2026
+05/11/2026,Bucknell,Navy,6,4,0,1,L,Navy,Navy,Bucknell,0,9,"Lewisburg, PA / Eugene B. Depew Field / Box Score",2026,WN2026

@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Jacksonville,Rhode Island,16,3,0,0,W,Jacksonville,Jacksonville,Rhode-Island,0,7,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+02/14/2026,Jacksonville,Rhode Island,11,6,0,0,W,Jacksonville,Jacksonville,Rhode-Island,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+02/14/2026,Jacksonville,Rhode Island,4,3,0,0,W,Jacksonville,Jacksonville,Rhode-Island,0,7,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+02/15/2026,Jacksonville,Rhode Island,15,1,0,0,W,Jacksonville,Jacksonville,Rhode-Island,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+02/17/2026,Jacksonville,Florida State,3,13,0,0,L,Jacksonville,Jacksonville,Florida-State,0,8,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+02/20/2026,Jacksonville,Long Island,12,0,0,0,W,Jacksonville,Jacksonville,Long-Island,0,7,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+02/21/2026,Jacksonville,Long Island,12,7,0,0,W,Jacksonville,Jacksonville,Long-Island,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+02/22/2026,Jacksonville,Long Island,5,4,0,0,W,Jacksonville,Jacksonville,Long-Island,0,7,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+02/22/2026,Jacksonville,Long Island,11,3,0,0,W,Jacksonville,Jacksonville,Long-Island,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+02/27/2026,UAB,Jacksonville,2,10,0,0,W,Jacksonville,Jacksonville,UAB,1,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+02/28/2026,UAB,Jacksonville,11,6,0,0,L,Jacksonville,Jacksonville,UAB,1,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/01/2026,UAB,Jacksonville,9,3,0,0,L,Jacksonville,Jacksonville,UAB,1,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+03/03/2026,Florida State,Jacksonville,7,6,0,0,L,Jacksonville,Jacksonville,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/06/2026,Jacksonville,UNCW,3,8,0,0,L,Jacksonville,Jacksonville,UNCW,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/07/2026,Jacksonville,UNCW,4,9,0,0,L,Jacksonville,Jacksonville,UNCW,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/08/2026,Jacksonville,UNCW,2,7,0,0,L,Jacksonville,Jacksonville,UNCW,0,5,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/09/2026,Jacksonville,South Florida,6,11,0,0,L,Jacksonville,Jacksonville,South-Florida,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/13/2026,West Georgia,Jacksonville,8,7,0,0,L,Jacksonville,Jacksonville,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+03/14/2026,West Georgia,Jacksonville,4,1,0,0,L,Jacksonville,Jacksonville,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+03/15/2026,West Georgia,Jacksonville,5,10,0,0,W,Jacksonville,Jacksonville,West-Georgia,1,10,"Carrollton, GA / Cole Field",2026,WN2026
+03/17/2026,South Florida,Jacksonville,13,3,0,0,L,Jacksonville,Jacksonville,South-Florida,1,7,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/20/2026,Queens,Jacksonville,5,17,0,0,W,Jacksonville,Jacksonville,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/21/2026,Queens,Jacksonville,4,1,0,0,L,Jacksonville,Jacksonville,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/22/2026,Queens,Jacksonville,4,3,0,0,L,Jacksonville,Jacksonville,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/24/2026,Jacksonville,Bethune-Cookman,4,3,0,0,W,Jacksonville,Jacksonville,Bethune-Cookman,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/27/2026,Jacksonville,North Florida,2,4,0,0,L,Jacksonville,Jacksonville,North-Florida,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/28/2026,Jacksonville,North Florida,2,4,0,0,L,Jacksonville,Jacksonville,North-Florida,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/29/2026,Jacksonville,North Florida,6,12,0,0,L,Jacksonville,Jacksonville,North-Florida,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/31/2026,Florida,Jacksonville,3,4,0,0,W,Jacksonville,Jacksonville,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/02/2026,Jacksonville,Stetson,5,1,0,0,W,Jacksonville,Jacksonville,Stetson,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/03/2026,Jacksonville,Stetson,4,3,0,0,W,Jacksonville,Jacksonville,Stetson,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/04/2026,Jacksonville,Stetson,0,3,0,0,L,Jacksonville,Jacksonville,Stetson,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/10/2026,FGCU,Jacksonville,4,6,0,0,W,Jacksonville,Jacksonville,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+04/11/2026,FGCU,Jacksonville,1,4,0,0,W,Jacksonville,Jacksonville,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+04/12/2026,FGCU,Jacksonville,4,1,0,0,L,Jacksonville,Jacksonville,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+04/14/2026,UCF,Jacksonville,4,5,0,0,W,Jacksonville,Jacksonville,UCF,1,11,"Orlando, FL / John Euliano Park",2026,WN2026
+04/17/2026,Jacksonville,West Georgia,13,7,0,0,W,Jacksonville,Jacksonville,West-Georgia,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/18/2026,Jacksonville,West Georgia,13,7,0,0,W,Jacksonville,Jacksonville,West-Georgia,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/19/2026,Jacksonville,West Georgia,9,8,0,0,W,Jacksonville,Jacksonville,West-Georgia,0,10,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/21/2026,Florida,Jacksonville,5,7,0,0,W,Jacksonville,Jacksonville,Florida,1,9,"Gainesville, FL / Condron Family Ballpark",2026,WN2026
+04/24/2026,Jacksonville,Queens,10,1,0,0,W,Jacksonville,Jacksonville,Queens,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/25/2026,Jacksonville,Queens,6,2,0,0,W,Jacksonville,Jacksonville,Queens,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/26/2026,Jacksonville,Queens,6,2,0,0,W,Jacksonville,Jacksonville,Queens,0,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+05/01/2026,North Florida,Jacksonville,5,4,0,0,L,Jacksonville,Jacksonville,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+05/02/2026,North Florida,Jacksonville,3,4,0,0,W,Jacksonville,Jacksonville,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+05/03/2026,North Florida,Jacksonville,10,0,0,0,L,Jacksonville,Jacksonville,North-Florida,1,7,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+05/05/2026,Florida State,Jacksonville,5,2,0,0,L,Jacksonville,Jacksonville,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+05/09/2026,Stetson,Jacksonville,4,5,0,0,W,Jacksonville,Jacksonville,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park / Box Score",2026,WN2026
+05/09/2026,Stetson,Jacksonville,16,6,0,0,L,Jacksonville,Jacksonville,Stetson,1,7,"DeLand, FL / Melching Field at Conrad Park / Box Score",2026,WN2026
+05/10/2026,Stetson,Jacksonville,9,6,0,0,L,Jacksonville,Jacksonville,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park / Box Score",2026,WN2026
+05/14/2026,Jacksonville,FGCU,2,3,0,0,L,Jacksonville,Jacksonville,FGCU,0,9,"Jacksonville, FL / John Sessions Stadium / Box Score",2026,WN2026
+05/15/2026,Jacksonville,FGCU,3,2,0,0,W,Jacksonville,Jacksonville,FGCU,0,9,"Jacksonville, FL / John Sessions Stadium / Box Score",2026,WN2026
+05/16/2026,Jacksonville,FGCU,2,1,0,0,W,Jacksonville,Jacksonville,FGCU,0,9,"Jacksonville, FL / John Sessions Stadium / Box Score",2026,WN2026
+05/19/2026,Austin Peay,Jacksonville,1,7,0,1,W,Jacksonville,Jacksonville,Austin-Peay,0,9,"DeLand, FL / Melching Field at Conrad Park / Recap",2026,WN2026
+05/20/2026,North Alabama,Jacksonville,5,0,0,1,L,Jacksonville,Jacksonville,North-Alabama,0,9,"DeLand, FL / Melching Field at Conrad Park / Recap",2026,WN2026

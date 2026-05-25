@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,South Carolina,Northern Kentucky,5,2,0,0,L,Northern Kentucky,Northern-Kentucky,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+02/13/2026,South Carolina,Northern Kentucky,6,5,0,0,L,Northern Kentucky,Northern-Kentucky,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+02/14/2026,South Carolina,Northern Kentucky,2,3,0,0,W,Northern Kentucky,Northern-Kentucky,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+02/17/2026,Eastern Kentucky,Northern Kentucky,16,11,0,0,L,Northern Kentucky,Northern-Kentucky,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+02/20/2026,ULM,Northern Kentucky,4,6,0,1,W,Northern Kentucky,Northern-Kentucky,ULM,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+02/21/2026,New Orleans,Northern Kentucky,10,3,0,0,L,Northern Kentucky,Northern-Kentucky,New-Orleans,1,9,"New Orleans, LA / Maestri Field",2026,WN2026
+02/22/2026,Alabama A&M,Northern Kentucky,5,8,0,1,W,Northern Kentucky,Northern-Kentucky,Alabama-AM,0,9,"New Orleans, LA / Maestri Field",2026,WN2026
+02/25/2026,Northern Kentucky,Morehead State,21,6,0,0,W,Northern Kentucky,Northern-Kentucky,Morehead-State,0,7,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+02/27/2026,Northern Kentucky,Eastern Illinois,3,1,0,0,W,Northern Kentucky,Northern-Kentucky,Eastern-Illinois,0,10,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+02/28/2026,Northern Kentucky,Eastern Illinois,8,7,0,0,W,Northern Kentucky,Northern-Kentucky,Eastern-Illinois,0,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/01/2026,Northern Kentucky,Eastern Illinois,20,15,0,0,W,Northern Kentucky,Northern-Kentucky,Eastern-Illinois,0,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/06/2026,Florida State,Northern Kentucky,7,3,0,0,L,Northern Kentucky,Northern-Kentucky,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/07/2026,Florida State,Northern Kentucky,13,3,0,0,L,Northern Kentucky,Northern-Kentucky,Florida-State,1,7,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/08/2026,Florida State,Northern Kentucky,17,3,0,0,L,Northern Kentucky,Northern-Kentucky,Florida-State,1,7,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+03/10/2026,Northern Kentucky,Toledo,3,12,0,0,L,Northern Kentucky,Northern-Kentucky,Toledo,0,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/13/2026,Northern Kentucky,Milwaukee,9,16,0,0,L,Northern Kentucky,Northern-Kentucky,Milwaukee,0,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/14/2026,Northern Kentucky,Milwaukee,14,1,0,0,W,Northern Kentucky,Northern-Kentucky,Milwaukee,0,7,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/15/2026,Northern Kentucky,Milwaukee,10,16,0,0,L,Northern Kentucky,Northern-Kentucky,Milwaukee,0,14,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/18/2026,Louisville,Northern Kentucky,16,1,0,0,L,Northern Kentucky,Northern-Kentucky,Louisville,1,7,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/20/2026,Oakland,Northern Kentucky,6,9,0,0,W,Northern Kentucky,Northern-Kentucky,Oakland,1,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+03/21/2026,Oakland,Northern Kentucky,8,13,0,0,W,Northern Kentucky,Northern-Kentucky,Oakland,1,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+03/22/2026,Oakland,Northern Kentucky,8,4,0,0,L,Northern Kentucky,Northern-Kentucky,Oakland,1,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+03/24/2026,Bellarmine,Northern Kentucky,7,6,0,0,L,Northern Kentucky,Northern-Kentucky,Bellarmine,1,9,"Louisville, KY / Knights Field",2026,WN2026
+03/27/2026,Northern Kentucky,Youngstown State,7,6,0,0,W,Northern Kentucky,Northern-Kentucky,Youngstown-State,0,10,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/28/2026,Northern Kentucky,Youngstown State,5,4,0,0,W,Northern Kentucky,Northern-Kentucky,Youngstown-State,0,10,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/29/2026,Northern Kentucky,Youngstown State,5,4,0,0,W,Northern Kentucky,Northern-Kentucky,Youngstown-State,0,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/31/2026,Northern Kentucky,Bellarmine,12,15,0,0,L,Northern Kentucky,Northern-Kentucky,Bellarmine,0,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+04/02/2026,Wright State,Northern Kentucky,9,5,0,0,L,Northern Kentucky,Northern-Kentucky,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+04/03/2026,Wright State,Northern Kentucky,14,4,0,0,L,Northern Kentucky,Northern-Kentucky,Wright-State,1,7,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+04/04/2026,Wright State,Northern Kentucky,6,1,0,0,L,Northern Kentucky,Northern-Kentucky,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+04/07/2026,Tennessee,Northern Kentucky,12,6,0,0,L,Northern Kentucky,Northern-Kentucky,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/10/2026,Northern Kentucky,UNCG,14,8,0,0,W,Northern Kentucky,Northern-Kentucky,UNCG,0,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+04/11/2026,Northern Kentucky,UNCG,6,17,0,0,L,Northern Kentucky,Northern-Kentucky,UNCG,0,7,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+04/12/2026,Northern Kentucky,UNCG,4,3,0,0,W,Northern Kentucky,Northern-Kentucky,UNCG,0,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+04/14/2026,Northern Kentucky,Ohio,11,8,0,0,W,Northern Kentucky,Northern-Kentucky,Ohio,0,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+04/16/2026,Milwaukee,Northern Kentucky,6,5,0,0,L,Northern Kentucky,Northern-Kentucky,Milwaukee,1,11,"Franklin, WI / Franklin Field",2026,WN2026
+04/18/2026,Milwaukee,Northern Kentucky,14,4,0,0,L,Northern Kentucky,Northern-Kentucky,Milwaukee,1,8,"Franklin, WI / Franklin Field",2026,WN2026
+04/18/2026,Milwaukee,Northern Kentucky,15,9,0,0,L,Northern Kentucky,Northern-Kentucky,Milwaukee,1,9,"Franklin, WI / Franklin Field",2026,WN2026
+04/21/2026,Ohio,Northern Kentucky,4,7,0,0,W,Northern Kentucky,Northern-Kentucky,Ohio,1,9,"Athens, OH / Bob Wren Stadium",2026,WN2026
+04/24/2026,Northern Kentucky,Oakland,30,9,0,0,W,Northern Kentucky,Northern-Kentucky,Oakland,0,7,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+04/25/2026,Northern Kentucky,Oakland,10,0,0,0,W,Northern Kentucky,Northern-Kentucky,Oakland,0,7,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+04/26/2026,Northern Kentucky,Oakland,9,3,0,0,W,Northern Kentucky,Northern-Kentucky,Oakland,0,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+04/28/2026,Northern Kentucky,Eastern Kentucky,6,16,0,0,L,Northern Kentucky,Northern-Kentucky,Eastern-Kentucky,0,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+05/01/2026,Youngstown State,Northern Kentucky,11,6,0,0,L,Northern Kentucky,Northern-Kentucky,Youngstown-State,1,9,"Niles, OH / Eastwood Field",2026,WN2026
+05/02/2026,Youngstown State,Northern Kentucky,1,13,0,0,W,Northern Kentucky,Northern-Kentucky,Youngstown-State,1,9,"Niles, OH / Eastwood Field",2026,WN2026
+05/03/2026,Youngstown State,Northern Kentucky,4,7,0,0,W,Northern Kentucky,Northern-Kentucky,Youngstown-State,1,9,"Niles, OH / Eastwood Field",2026,WN2026
+05/08/2026,Northern Kentucky,Wright State,12,11,0,0,W,Northern Kentucky,Northern-Kentucky,Wright-State,0,9,"Highland Heights, KY / Bill Aker Baseball Complex / Box Score",2026,WN2026
+05/09/2026,Northern Kentucky,Wright State,6,18,0,0,L,Northern Kentucky,Northern-Kentucky,Wright-State,0,9,"Highland Heights, KY / Bill Aker Baseball Complex / Box Score",2026,WN2026
+05/10/2026,Northern Kentucky,Wright State,10,17,0,0,L,Northern Kentucky,Northern-Kentucky,Wright-State,0,9,"Highland Heights, KY / Bill Aker Baseball Complex / Box Score",2026,WN2026
+05/14/2026,Elon,Northern Kentucky,11,12,0,1,W,Northern Kentucky,Northern-Kentucky,Elon,0,10,"Spartanburg, SC / Cleveland S. Harley Baseball Park / Box Score",2026,WN2026
+05/15/2026,South Carolina Upstate,Northern Kentucky,8,7,0,0,L,Northern Kentucky,Northern-Kentucky,South-Carolina-Upstate,1,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park / Box Score",2026,WN2026
+05/16/2026,South Carolina Upstate,Northern Kentucky,10,9,0,0,L,Northern Kentucky,Northern-Kentucky,South-Carolina-Upstate,1,9,"Spartanburg, SC / Cleveland S. Harley Baseball Park / Box Score",2026,WN2026
+05/21/2026,Milwaukee,Northern Kentucky,14,2,0,1,L,Northern Kentucky,Northern-Kentucky,Milwaukee,0,9,"Dayton, OH / Nischwitz Stadium / Box Score / Recap",2026,WN2026
+05/21/2026,Oakland,Northern Kentucky,5,3,0,1,L,Northern Kentucky,Northern-Kentucky,Oakland,0,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026

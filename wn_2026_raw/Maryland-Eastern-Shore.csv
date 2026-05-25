@@ -1,0 +1,49 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,La Salle,Maryland Eastern Shore,27,10,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,La-Salle,1,8,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+02/14/2026,La Salle,Maryland Eastern Shore,14,2,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,La-Salle,1,7,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+02/15/2026,La Salle,Maryland Eastern Shore,7,4,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,La-Salle,1,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+02/20/2026,VMI,Maryland Eastern Shore,13,3,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,VMI,1,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/21/2026,VMI,Maryland Eastern Shore,7,3,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,VMI,1,9,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/21/2026,VMI,Maryland Eastern Shore,14,4,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,VMI,1,7,"Lexington, VA / Gray-Minor Stadium",2026,WN2026
+02/28/2026,Maryland Eastern Shore,Manhattan,5,15,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Manhattan,0,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/01/2026,Maryland Eastern Shore,Manhattan,4,6,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Manhattan,0,10,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/01/2026,Maryland Eastern Shore,Manhattan,8,2,0,0,W,Maryland Eastern Shore,Maryland-Eastern-Shore,Manhattan,0,7,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/03/2026,Maryland Eastern Shore,Siena,11,20,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Siena,0,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/07/2026,Central Connecticut,Maryland Eastern Shore,11,7,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Central-Connecticut,1,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+03/08/2026,Central Connecticut,Maryland Eastern Shore,6,1,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Central-Connecticut,1,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+03/09/2026,Central Connecticut,Maryland Eastern Shore,13,6,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Central-Connecticut,1,9,"New Britain, CT / Balf-Savin Field",2026,WN2026
+03/13/2026,Maryland Eastern Shore,Stonehill,17,20,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Stonehill,0,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/14/2026,Maryland Eastern Shore,Stonehill,0,6,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Stonehill,0,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/15/2026,Maryland Eastern Shore,Stonehill,9,6,0,0,W,Maryland Eastern Shore,Maryland-Eastern-Shore,Stonehill,0,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/18/2026,Towson,Maryland Eastern Shore,8,3,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Towson,1,9,"Towson, MD / John B. Schuerholz Park",2026,WN2026
+03/20/2026,Coppin State,Maryland Eastern Shore,4,7,0,0,W,Maryland Eastern Shore,Maryland-Eastern-Shore,Coppin-State,1,10,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/21/2026,Coppin State,Maryland Eastern Shore,4,5,0,0,W,Maryland Eastern Shore,Maryland-Eastern-Shore,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/22/2026,Coppin State,Maryland Eastern Shore,17,16,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Coppin-State,1,9,"Hanover, MD / Joe Cannon Stadium",2026,WN2026
+03/25/2026,Maryland Eastern Shore,Towson,5,19,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Towson,0,8,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/27/2026,Maryland Eastern Shore,Long Island,2,13,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Long-Island,0,8,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/28/2026,Maryland Eastern Shore,Long Island,0,12,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Long-Island,0,7,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+03/29/2026,Maryland Eastern Shore,Long Island,15,11,0,0,W,Maryland Eastern Shore,Maryland-Eastern-Shore,Long-Island,0,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+04/02/2026,Fairleigh Dickinson,Maryland Eastern Shore,7,3,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Fairleigh-Dickinson,1,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+04/03/2026,Fairleigh Dickinson,Maryland Eastern Shore,12,7,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Fairleigh-Dickinson,1,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+04/04/2026,Fairleigh Dickinson,Maryland Eastern Shore,13,9,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Fairleigh-Dickinson,1,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+04/07/2026,Georgetown,Maryland Eastern Shore,13,9,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+04/10/2026,Delaware State,Maryland Eastern Shore,5,4,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Delaware-State,1,9,"Dover, DE / Soldier Field",2026,WN2026
+04/11/2026,Delaware State,Maryland Eastern Shore,4,11,0,0,W,Maryland Eastern Shore,Maryland-Eastern-Shore,Delaware-State,1,9,"Dover, DE / Soldier Field",2026,WN2026
+04/12/2026,Delaware State,Maryland Eastern Shore,5,7,0,0,W,Maryland Eastern Shore,Maryland-Eastern-Shore,Delaware-State,1,9,"Dover, DE / Soldier Field",2026,WN2026
+04/17/2026,Maryland Eastern Shore,Mercyhurst,0,14,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Mercyhurst,0,7,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+04/18/2026,Maryland Eastern Shore,Mercyhurst,5,6,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Mercyhurst,0,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+04/19/2026,Maryland Eastern Shore,Mercyhurst,1,14,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Mercyhurst,0,7,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+04/22/2026,Navy,Maryland Eastern Shore,7,3,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Navy,1,9,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+04/24/2026,Maryland Eastern Shore,Wagner,6,11,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Wagner,0,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+04/25/2026,Maryland Eastern Shore,Wagner,3,9,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Wagner,0,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+04/26/2026,Maryland Eastern Shore,Wagner,3,15,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Wagner,0,7,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+05/01/2026,Maryland Eastern Shore,Norfolk State,9,3,0,0,W,Maryland Eastern Shore,Maryland-Eastern-Shore,Norfolk-State,0,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+05/01/2026,Maryland Eastern Shore,Norfolk State,8,15,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Norfolk-State,0,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+05/03/2026,Maryland Eastern Shore,Norfolk State,4,11,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Norfolk-State,0,9,"Princess Anne, Md / Hawk Stadium",2026,WN2026
+05/05/2026,Mount Saint Mary's,Maryland Eastern Shore,16,10,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+05/08/2026,Le Moyne,Maryland Eastern Shore,6,2,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Le-Moyne,1,9,"Syracuse, NY / Dick Rockwell Field / Box Score",2026,WN2026
+05/08/2026,Le Moyne,Maryland Eastern Shore,14,11,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Le-Moyne,1,9,"Syracuse, NY / Dick Rockwell Field / Box Score",2026,WN2026
+05/09/2026,Le Moyne,Maryland Eastern Shore,16,15,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,Le-Moyne,1,9,"Syracuse, NY / Dick Rockwell Field / Box Score",2026,WN2026
+05/15/2026,New Haven,Maryland Eastern Shore,1,5,0,0,W,Maryland Eastern Shore,Maryland-Eastern-Shore,New-Haven,1,9,"West Haven, CT / Frank Vieira Field / Box Score",2026,WN2026
+05/15/2026,New Haven,Maryland Eastern Shore,5,4,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,New-Haven,1,9,"West Haven, CT / Frank Vieira Field / Box Score",2026,WN2026
+05/16/2026,New Haven,Maryland Eastern Shore,11,9,0,0,L,Maryland Eastern Shore,Maryland-Eastern-Shore,New-Haven,1,9,"West Haven, CT / Frank Vieira Field / Box Score",2026,WN2026

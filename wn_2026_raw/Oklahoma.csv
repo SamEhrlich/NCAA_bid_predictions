@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Texas Tech,Oklahoma,3,10,0,1,W,Oklahoma,Oklahoma,Texas-Tech,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/14/2026,Oklahoma State,Oklahoma,1,10,0,1,W,Oklahoma,Oklahoma,Oklahoma-State,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/15/2026,TCU,Oklahoma,2,12,0,1,W,Oklahoma,Oklahoma,TCU,0,7,"Arlington, TX / Globe Life Field",2026,WN2026
+02/16/2026,New Mexico State,Oklahoma,6,10,0,1,W,Oklahoma,Oklahoma,New-Mexico-State,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/20/2026,Oklahoma,Coppin State,22,1,0,0,W,Oklahoma,Oklahoma,Coppin-State,0,7,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+02/21/2026,Oklahoma,Coppin State,24,0,0,0,W,Oklahoma,Oklahoma,Coppin-State,0,7,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+02/22/2026,Oklahoma,Coppin State,11,0,0,0,W,Oklahoma,Oklahoma,Coppin-State,0,7,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+02/24/2026,Oklahoma,Arizona State,3,15,0,0,L,Oklahoma,Oklahoma,Arizona-State,0,7,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+02/25/2026,Oklahoma,Arizona State,4,3,0,0,W,Oklahoma,Oklahoma,Arizona-State,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+02/27/2026,Oklahoma,Gonzaga,14,4,0,0,W,Oklahoma,Oklahoma,Gonzaga,0,8,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+02/28/2026,Oklahoma,Gonzaga,11,1,0,0,W,Oklahoma,Oklahoma,Gonzaga,0,7,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/01/2026,Oklahoma,Gonzaga,1,7,0,0,L,Oklahoma,Oklahoma,Gonzaga,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/03/2026,Oklahoma,Dallas Baptist,2,0,0,0,W,Oklahoma,Oklahoma,Dallas-Baptist,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/05/2026,Oklahoma,Santa Clara,2,1,0,0,W,Oklahoma,Oklahoma,Santa-Clara,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/07/2026,Oklahoma,Santa Clara,8,0,0,0,W,Oklahoma,Oklahoma,Santa-Clara,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/08/2026,Oklahoma,Santa Clara,8,6,0,0,W,Oklahoma,Oklahoma,Santa-Clara,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/11/2026,Oklahoma,UTA,6,1,0,0,W,Oklahoma,Oklahoma,UTA,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/13/2026,Oklahoma,Texas A&M,8,7,0,0,W,Oklahoma,Oklahoma,Texas-AM,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/14/2026,Oklahoma,Texas A&M,5,9,0,0,L,Oklahoma,Oklahoma,Texas-AM,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/15/2026,Oklahoma,Texas A&M,12,11,0,0,W,Oklahoma,Oklahoma,Texas-AM,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+03/17/2026,Southeastern Louisiana,Oklahoma,3,0,0,0,L,Oklahoma,Oklahoma,Southeastern-Louisiana,1,9,"Hammond, LA / Pat Kenelly Diamond at Alumni Field",2026,WN2026
+03/19/2026,LSU,Oklahoma,7,1,0,0,L,Oklahoma,Oklahoma,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/20/2026,LSU,Oklahoma,2,4,0,0,W,Oklahoma,Oklahoma,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/21/2026,LSU,Oklahoma,3,4,0,0,W,Oklahoma,Oklahoma,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+03/26/2026,Texas,Oklahoma,14,0,0,0,L,Oklahoma,Oklahoma,Texas,1,7,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/27/2026,Texas,Oklahoma,4,3,0,0,L,Oklahoma,Oklahoma,Texas,1,10,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/28/2026,Texas,Oklahoma,5,4,0,0,L,Oklahoma,Oklahoma,Texas,1,10,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+03/31/2026,Oral Roberts,Oklahoma,0,4,0,0,W,Oklahoma,Oklahoma,Oral-Roberts,1,9,"Tulsa, OK / Chapman Park",2026,WN2026
+04/02/2026,Oklahoma,Alabama,7,10,0,0,L,Oklahoma,Oklahoma,Alabama,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+04/03/2026,Oklahoma,Alabama,4,2,0,0,W,Oklahoma,Oklahoma,Alabama,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+04/04/2026,Oklahoma,Alabama,2,3,0,0,L,Oklahoma,Oklahoma,Alabama,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+04/06/2026,Dallas Baptist,Oklahoma,3,9,0,0,W,Oklahoma,Oklahoma,Dallas-Baptist,1,9,"Dallas, TX / Horner Ballpark",2026,WN2026
+04/09/2026,Vanderbilt,Oklahoma,10,5,0,0,L,Oklahoma,Oklahoma,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+04/10/2026,Vanderbilt,Oklahoma,11,13,0,0,W,Oklahoma,Oklahoma,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+04/11/2026,Vanderbilt,Oklahoma,5,6,0,0,W,Oklahoma,Oklahoma,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+04/14/2026,Oklahoma State,Oklahoma,7,3,0,1,L,Oklahoma,Oklahoma,Oklahoma-State,0,8,"Tulsa, OK / ONEOK Field",2026,WN2026
+04/17/2026,Oklahoma,Missouri,9,6,0,0,W,Oklahoma,Oklahoma,Missouri,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+04/18/2026,Oklahoma,Missouri,4,0,0,0,W,Oklahoma,Oklahoma,Missouri,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+04/19/2026,Oklahoma,Missouri,8,4,0,0,W,Oklahoma,Oklahoma,Missouri,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+04/21/2026,Oklahoma,Oral Roberts,7,6,0,0,W,Oklahoma,Oklahoma,Oral-Roberts,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+04/24/2026,Auburn,Oklahoma,6,4,0,0,L,Oklahoma,Oklahoma,Auburn,1,9,"Auburn, AL / Plainsman Park",2026,WN2026
+04/25/2026,Auburn,Oklahoma,1,2,0,0,W,Oklahoma,Oklahoma,Auburn,1,9,"Auburn, AL / Plainsman Park",2026,WN2026
+04/26/2026,Auburn,Oklahoma,14,4,0,0,L,Oklahoma,Oklahoma,Auburn,1,8,"Auburn, AL / Plainsman Park",2026,WN2026
+05/01/2026,Oklahoma,Florida,4,3,0,0,W,Oklahoma,Oklahoma,Florida,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+05/02/2026,Oklahoma,Florida,5,10,0,0,L,Oklahoma,Oklahoma,Florida,0,9,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+05/03/2026,Oklahoma,Florida,2,13,0,0,L,Oklahoma,Oklahoma,Florida,0,8,"Norman, OK / Kimrey Family Stadium",2026,WN2026
+05/08/2026,Arkansas,Oklahoma,12,2,0,0,L,Oklahoma,Oklahoma,Arkansas,1,7,"Fayetteville, AR / Baum Stadium / Box Score",2026,WN2026
+05/09/2026,Arkansas,Oklahoma,12,8,0,0,L,Oklahoma,Oklahoma,Arkansas,1,9,"Fayetteville, AR / Baum Stadium / Box Score",2026,WN2026
+05/10/2026,Arkansas,Oklahoma,10,15,0,0,W,Oklahoma,Oklahoma,Arkansas,1,9,"Fayetteville, AR / Baum Stadium / Box Score",2026,WN2026
+05/14/2026,Oklahoma,Tennessee,7,9,0,0,L,Oklahoma,Oklahoma,Tennessee,0,9,"Oklahoma City, OK / Chickasaw Bricktown Ballpark / Box Score",2026,WN2026
+05/15/2026,Oklahoma,Tennessee,4,9,0,0,L,Oklahoma,Oklahoma,Tennessee,0,9,"Oklahoma City, OK / Chickasaw Bricktown Ballpark / Box Score",2026,WN2026
+05/16/2026,Oklahoma,Tennessee,12,9,0,0,W,Oklahoma,Oklahoma,Tennessee,0,9,"Oklahoma City, OK / Chickasaw Bricktown Ballpark / Box Score",2026,WN2026
+05/19/2026,LSU,Oklahoma,6,2,0,1,L,Oklahoma,Oklahoma,LSU,0,9,"Hoover, AL / Hoover Metropolitan Stadium / Box Score / Recap",2026,WN2026

@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,South Florida,Illinois,9,4,0,0,L,Illinois,Illinois,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/14/2026,South Florida,Illinois,2,4,0,0,W,Illinois,Illinois,South-Florida,1,10,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/15/2026,South Florida,Illinois,11,10,0,0,L,Illinois,Illinois,South-Florida,1,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/17/2026,Illinois,Butler,8,10,0,0,L,Illinois,Illinois,Butler,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+02/20/2026,VCU,Illinois,4,9,0,1,W,Illinois,Illinois,VCU,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+02/21/2026,VCU,Illinois,3,2,0,1,L,Illinois,Illinois,VCU,0,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+02/22/2026,Coastal Carolina,Illinois,5,14,0,0,W,Illinois,Illinois,Coastal-Carolina,1,9,"Conway, SC / Springs Brooks Stadium",2026,WN2026
+02/25/2026,Illinois,Lindenwood,13,9,0,0,W,Illinois,Illinois,Lindenwood,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+02/27/2026,Michigan State,Illinois,4,5,0,1,W,Illinois,Illinois,Michigan-State,0,10,"Greenville, SC / Fluor Field",2026,WN2026
+02/28/2026,Charleston,Illinois,0,5,0,1,W,Illinois,Illinois,Charleston,0,9,"Greenville, SC / Fluor Field",2026,WN2026
+03/01/2026,Albany,Illinois,6,14,0,1,W,Illinois,Illinois,Albany,0,9,"Greenville, SC / Fluor Field",2026,WN2026
+03/06/2026,USC,Illinois,4,0,0,0,L,Illinois,Illinois,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/07/2026,USC,Illinois,4,0,0,0,L,Illinois,Illinois,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/08/2026,USC,Illinois,5,3,0,0,L,Illinois,Illinois,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/10/2026,Illinois,Western Illinois,21,8,0,0,W,Illinois,Illinois,Western-Illinois,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+03/13/2026,Illinois,Minnesota,2,1,0,0,W,Illinois,Illinois,Minnesota,0,10,"Champaign, IL / Illinois Field",2026,WN2026
+03/14/2026,Illinois,Minnesota,0,1,0,0,L,Illinois,Illinois,Minnesota,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+03/14/2026,Illinois,Minnesota,4,2,0,0,W,Illinois,Illinois,Minnesota,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+03/18/2026,Indiana State,Illinois,4,3,0,0,L,Illinois,Illinois,Indiana-State,1,11,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+03/20/2026,Illinois,Rutgers,13,7,0,0,W,Illinois,Illinois,Rutgers,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+03/21/2026,Illinois,Rutgers,12,6,0,0,W,Illinois,Illinois,Rutgers,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+03/22/2026,Illinois,Rutgers,3,8,0,0,L,Illinois,Illinois,Rutgers,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+03/24/2026,Missouri,Illinois,5,1,0,1,L,Illinois,Illinois,Missouri,0,9,"OFallon, MO",2026,WN2026
+03/27/2026,Penn State,Illinois,9,8,0,0,L,Illinois,Illinois,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/28/2026,Penn State,Illinois,5,16,0,0,W,Illinois,Illinois,Penn-State,1,7,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/29/2026,Penn State,Illinois,0,6,0,0,W,Illinois,Illinois,Penn-State,1,9,"University Park, PA / Medlar Field at Lubrano Park",2026,WN2026
+03/31/2026,Illinois State,Illinois,4,1,0,0,L,Illinois,Illinois,Illinois-State,1,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/03/2026,Purdue,Illinois,6,1,0,0,L,Illinois,Illinois,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+04/04/2026,Purdue,Illinois,5,7,0,0,W,Illinois,Illinois,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+04/05/2026,Purdue,Illinois,10,5,0,0,L,Illinois,Illinois,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+04/07/2026,Illinois,Indiana State,7,3,0,0,W,Illinois,Illinois,Indiana-State,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+04/10/2026,Illinois,New Orleans,13,1,0,0,W,Illinois,Illinois,New-Orleans,0,7,"Champaign, IL / Illinois Field",2026,WN2026
+04/11/2026,Illinois,New Orleans,4,3,0,0,W,Illinois,Illinois,New-Orleans,0,10,"Champaign, IL / Illinois Field",2026,WN2026
+04/12/2026,Illinois,New Orleans,7,8,0,0,L,Illinois,Illinois,New-Orleans,0,10,"Champaign, IL / Illinois Field",2026,WN2026
+04/14/2026,Illinois,SIUE,16,4,0,0,W,Illinois,Illinois,SIUE,0,7,"Champaign, IL / Illinois Field",2026,WN2026
+04/17/2026,Illinois,Oregon,6,16,0,0,L,Illinois,Illinois,Oregon,0,8,"Champaign, IL / Illinois Field",2026,WN2026
+04/18/2026,Illinois,Oregon,16,13,0,0,W,Illinois,Illinois,Oregon,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+04/19/2026,Illinois,Oregon,5,11,0,0,L,Illinois,Illinois,Oregon,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+04/21/2026,Illinois,Illinois State,6,13,0,0,L,Illinois,Illinois,Illinois-State,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+04/24/2026,Illinois,Nebraska,10,5,0,0,W,Illinois,Illinois,Nebraska,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+04/25/2026,Illinois,Nebraska,5,12,0,0,L,Illinois,Illinois,Nebraska,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+04/26/2026,Illinois,Nebraska,0,3,0,0,L,Illinois,Illinois,Nebraska,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+05/01/2026,Iowa,Illinois,9,3,0,0,L,Illinois,Illinois,Iowa,1,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+05/02/2026,Iowa,Illinois,6,5,0,0,L,Illinois,Illinois,Iowa,1,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+05/03/2026,Iowa,Illinois,2,6,0,0,W,Illinois,Illinois,Iowa,1,9,"Iowa City, IA / Duane Banks Field",2026,WN2026
+05/06/2026,Illinois,Bradley,10,2,0,0,W,Illinois,Illinois,Bradley,0,9,"Champaign, IL / Illinois Field",2026,WN2026
+05/08/2026,Illinois,Northwestern,12,0,0,0,W,Illinois,Illinois,Northwestern,0,7,"Champaign, IL / Illinois Field / Box Score",2026,WN2026
+05/09/2026,Illinois,Northwestern,4,3,0,0,W,Illinois,Illinois,Northwestern,0,9,"Champaign, IL / Illinois Field / Box Score",2026,WN2026
+05/10/2026,Illinois,Northwestern,10,3,0,0,W,Illinois,Illinois,Northwestern,0,9,"Champaign, IL / Illinois Field / Box Score",2026,WN2026
+05/14/2026,Indiana,Illinois,10,4,0,0,L,Illinois,Illinois,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field / Box Score",2026,WN2026
+05/15/2026,Indiana,Illinois,7,9,0,0,W,Illinois,Illinois,Indiana,1,10,"Bloomington, IN / Bart Kaufman Field / Box Score",2026,WN2026
+05/16/2026,Indiana,Illinois,11,2,0,0,L,Illinois,Illinois,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field / Box Score",2026,WN2026
+05/19/2026,Iowa,Illinois,10,6,0,1,L,Illinois,Illinois,Iowa,0,9,"Omaha, NE / Charles Schwab Field Omaha / Recap",2026,WN2026
+05/20/2026,Purdue,Illinois,3,1,0,1,L,Illinois,Illinois,Purdue,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026

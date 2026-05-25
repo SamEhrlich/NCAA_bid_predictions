@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Morehead State,UMass-Lowell,4,7,0,0,L,Morehead State,Morehead-State,UMass-Lowell,0,9,"Morehead, KY / Allen Field",2026,WN2026
+02/14/2026,Morehead State,UMass-Lowell,3,2,0,0,W,Morehead State,Morehead-State,UMass-Lowell,0,9,"Morehead, KY / Allen Field",2026,WN2026
+02/14/2026,Morehead State,UMass-Lowell,22,10,0,0,W,Morehead State,Morehead-State,UMass-Lowell,0,9,"Morehead, KY / Allen Field",2026,WN2026
+02/17/2026,Kentucky,Morehead State,6,8,0,0,W,Morehead State,Morehead-State,Kentucky,1,9,"Lexington, KY / Kentucky Proud Park",2026,WN2026
+02/18/2026,Butler,Morehead State,20,5,0,0,L,Morehead State,Morehead-State,Butler,1,7,"Westfield, IN / Grand Park",2026,WN2026
+02/20/2026,Winthrop,Morehead State,10,0,0,0,L,Morehead State,Morehead-State,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/21/2026,Winthrop,Morehead State,19,4,0,0,L,Morehead State,Morehead-State,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/22/2026,Winthrop,Morehead State,4,3,0,0,L,Morehead State,Morehead-State,Winthrop,1,9,"Rock Hill, SC / Winthrop Ballpark",2026,WN2026
+02/25/2026,Northern Kentucky,Morehead State,21,6,0,0,L,Morehead State,Morehead-State,Northern-Kentucky,1,7,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+02/27/2026,Southern,Morehead State,5,3,0,0,L,Morehead State,Morehead-State,Southern,1,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+02/28/2026,Southern,Morehead State,10,8,0,0,L,Morehead State,Morehead-State,Southern,1,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+03/01/2026,Southern,Morehead State,7,8,0,0,W,Morehead State,Morehead-State,Southern,1,9,"Baton Rouge, LA / Lee-Hines Field",2026,WN2026
+03/03/2026,Louisville,Morehead State,5,13,0,0,W,Morehead State,Morehead-State,Louisville,1,9,"Louisville, KY / Jim Patterson Stadium",2026,WN2026
+03/06/2026,Butler,Morehead State,6,16,0,0,W,Morehead State,Morehead-State,Butler,1,9,"Westfield, IN / Grand Park",2026,WN2026
+03/07/2026,Butler,Morehead State,8,11,0,0,W,Morehead State,Morehead-State,Butler,1,9,"Westfield, IN / Grand Park",2026,WN2026
+03/08/2026,Butler,Morehead State,4,9,0,0,W,Morehead State,Morehead-State,Butler,1,9,"Westfield, IN / Grand Park",2026,WN2026
+03/10/2026,UNC Asheville,Morehead State,11,16,0,0,W,Morehead State,Morehead-State,UNC-Asheville,1,9,"Asheville, NC / Greenwood Baseball Field",2026,WN2026
+03/12/2026,Western Carolina,Morehead State,5,8,0,0,W,Morehead State,Morehead-State,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/13/2026,Western Carolina,Morehead State,11,0,0,0,L,Morehead State,Morehead-State,Western-Carolina,1,7,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/14/2026,Western Carolina,Morehead State,13,4,0,0,L,Morehead State,Morehead-State,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/15/2026,Western Carolina,Morehead State,8,7,0,0,L,Morehead State,Morehead-State,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+03/20/2026,Morehead State,SIUE,8,23,0,0,L,Morehead State,Morehead-State,SIUE,0,7,"Morehead, KY / Allen Field",2026,WN2026
+03/21/2026,Morehead State,SIUE,2,7,0,0,L,Morehead State,Morehead-State,SIUE,0,9,"Morehead, KY / Allen Field",2026,WN2026
+03/22/2026,Morehead State,SIUE,23,28,0,0,L,Morehead State,Morehead-State,SIUE,0,9,"Morehead, KY / Allen Field",2026,WN2026
+03/24/2026,Eastern Kentucky,Morehead State,6,12,0,0,W,Morehead State,Morehead-State,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+03/27/2026,Eastern Illinois,Morehead State,16,9,0,0,L,Morehead State,Morehead-State,Eastern-Illinois,1,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+03/28/2026,Eastern Illinois,Morehead State,7,2,0,0,L,Morehead State,Morehead-State,Eastern-Illinois,1,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+03/29/2026,Eastern Illinois,Morehead State,5,8,0,0,W,Morehead State,Morehead-State,Eastern-Illinois,1,9,"Charleston, IL / Coaches Stadium at Monier Field",2026,WN2026
+04/02/2026,Morehead State,Tennessee-Martin,12,8,0,0,W,Morehead State,Morehead-State,Tennessee-Martin,0,9,"Morehead, KY / Allen Field",2026,WN2026
+04/03/2026,Morehead State,Tennessee-Martin,13,4,0,0,W,Morehead State,Morehead-State,Tennessee-Martin,0,9,"Morehead, KY / Allen Field",2026,WN2026
+04/04/2026,Morehead State,Tennessee-Martin,12,8,0,0,W,Morehead State,Morehead-State,Tennessee-Martin,0,9,"Morehead, KY / Allen Field",2026,WN2026
+04/07/2026,Morehead State,Ohio,10,2,0,0,W,Morehead State,Morehead-State,Ohio,0,9,"Athens, OH / Bob Wren Stadium",2026,WN2026
+04/10/2026,Southeast Missouri,Morehead State,3,2,0,0,L,Morehead State,Morehead-State,Southeast-Missouri,1,12,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+04/11/2026,Southeast Missouri,Morehead State,10,8,0,0,L,Morehead State,Morehead-State,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+04/12/2026,Southeast Missouri,Morehead State,5,6,0,0,W,Morehead State,Morehead-State,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+04/14/2026,Morehead State,Bellarmine,13,3,0,0,W,Morehead State,Morehead-State,Bellarmine,0,7,"Morehead, KY / Allen Field",2026,WN2026
+04/17/2026,Morehead State,Lindenwood,4,5,0,0,L,Morehead State,Morehead-State,Lindenwood,0,9,"Morehead, KY / Allen Field",2026,WN2026
+04/18/2026,Morehead State,Lindenwood,2,15,0,0,L,Morehead State,Morehead-State,Lindenwood,0,7,"Morehead, KY / Allen Field",2026,WN2026
+04/19/2026,Morehead State,Lindenwood,13,18,0,0,L,Morehead State,Morehead-State,Lindenwood,0,9,"Morehead, KY / Allen Field",2026,WN2026
+04/22/2026,Marshall,Morehead State,2,11,0,0,W,Morehead State,Morehead-State,Marshall,1,9,"Huntington, WV / Jack Cook Field",2026,WN2026
+04/24/2026,Morehead State,Southern Indiana,4,3,0,0,W,Morehead State,Morehead-State,Southern-Indiana,0,9,"Morehead, KY / Allen Field",2026,WN2026
+04/25/2026,Morehead State,Southern Indiana,6,5,0,0,W,Morehead State,Morehead-State,Southern-Indiana,0,9,"Morehead, KY / Allen Field",2026,WN2026
+04/26/2026,Morehead State,Southern Indiana,17,13,0,0,W,Morehead State,Morehead-State,Southern-Indiana,0,9,"Morehead, KY / Allen Field",2026,WN2026
+04/28/2026,Morehead State,Marshall,9,6,0,0,W,Morehead State,Morehead-State,Marshall,0,9,"Morehead, KY / Allen Field",2026,WN2026
+05/01/2026,Little Rock,Morehead State,0,1,0,0,W,Morehead State,Morehead-State,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+05/02/2026,Little Rock,Morehead State,8,5,0,0,L,Morehead State,Morehead-State,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+05/03/2026,Little Rock,Morehead State,4,0,0,0,L,Morehead State,Morehead-State,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+05/06/2026,Ohio,Morehead State,1,5,0,0,W,Morehead State,Morehead-State,Ohio,1,9,"Athens, OH / Bob Wren Stadium",2026,WN2026
+05/08/2026,Morehead State,Western Illinois,10,8,0,0,W,Morehead State,Morehead-State,Western-Illinois,0,9,"Morehead, KY / Allen Field / Box Score",2026,WN2026
+05/09/2026,Morehead State,Western Illinois,4,3,0,0,W,Morehead State,Morehead-State,Western-Illinois,0,9,"Morehead, KY / Allen Field / Box Score",2026,WN2026
+05/10/2026,Morehead State,Western Illinois,8,7,0,0,W,Morehead State,Morehead-State,Western-Illinois,0,9,"Morehead, KY / Allen Field / Box Score",2026,WN2026
+05/14/2026,Tennessee Tech,Morehead State,4,7,0,0,W,Morehead State,Morehead-State,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex / Box Score",2026,WN2026
+05/15/2026,Tennessee Tech,Morehead State,3,4,0,0,W,Morehead State,Morehead-State,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex / Box Score",2026,WN2026
+05/16/2026,Tennessee Tech,Morehead State,6,7,0,0,W,Morehead State,Morehead-State,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex / Box Score",2026,WN2026
+05/19/2026,Southern Indiana,Morehead State,6,2,0,1,L,Morehead State,Morehead-State,Southern-Indiana,0,9,"Marion, IL / Mtn Dew Park / Recap",2026,WN2026

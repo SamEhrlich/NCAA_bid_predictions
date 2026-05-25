@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Lipscomb,Dayton,11,6,0,0,W,Lipscomb,Lipscomb,Dayton,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+02/14/2026,Lipscomb,Dayton,1,3,0,0,L,Lipscomb,Lipscomb,Dayton,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+02/15/2026,Lipscomb,Dayton,9,6,0,0,W,Lipscomb,Lipscomb,Dayton,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+02/17/2026,Tennessee Tech,Lipscomb,7,5,0,0,L,Lipscomb,Lipscomb,Tennessee-Tech,1,9,"Cookeville, TN / Bush Stadium at Averitt Express Baseball Complex",2026,WN2026
+02/20/2026,Lipscomb,Villanova,5,11,0,0,L,Lipscomb,Lipscomb,Villanova,0,10,"Nashville, TN / Ken Dugan Field",2026,WN2026
+02/21/2026,Lipscomb,Villanova,9,8,0,0,W,Lipscomb,Lipscomb,Villanova,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+02/24/2026,Lipscomb,Belmont,8,2,0,0,W,Lipscomb,Lipscomb,Belmont,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+02/27/2026,Lipscomb,Toledo,1,5,0,0,L,Lipscomb,Lipscomb,Toledo,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+02/28/2026,Lipscomb,Toledo,7,10,0,0,L,Lipscomb,Lipscomb,Toledo,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/01/2026,Lipscomb,Toledo,9,7,0,0,W,Lipscomb,Lipscomb,Toledo,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/02/2026,Lipscomb,Toledo,13,5,0,0,W,Lipscomb,Lipscomb,Toledo,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/05/2026,Mississippi State,Lipscomb,8,3,0,0,L,Lipscomb,Lipscomb,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+03/06/2026,Mississippi State,Lipscomb,9,4,0,0,L,Lipscomb,Lipscomb,Mississippi-State,1,9,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+03/07/2026,Mississippi State,Lipscomb,26,0,0,0,L,Lipscomb,Lipscomb,Mississippi-State,1,7,"Starkville, MS / Dudy Noble Field at Polk-DeMent Stadium",2026,WN2026
+03/10/2026,Memphis,Lipscomb,5,2,0,0,L,Lipscomb,Lipscomb,Memphis,1,9,"Memphis, TN / FedExPark",2026,WN2026
+03/13/2026,Lipscomb,North Alabama,6,3,0,0,W,Lipscomb,Lipscomb,North-Alabama,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/14/2026,Lipscomb,North Alabama,7,5,0,0,W,Lipscomb,Lipscomb,North-Alabama,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/15/2026,Lipscomb,North Alabama,7,13,0,0,L,Lipscomb,Lipscomb,North-Alabama,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/20/2026,Austin Peay,Lipscomb,8,11,0,0,W,Lipscomb,Lipscomb,Austin-Peay,1,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+03/21/2026,Austin Peay,Lipscomb,12,8,0,0,L,Lipscomb,Lipscomb,Austin-Peay,1,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+03/22/2026,Austin Peay,Lipscomb,5,19,0,0,W,Lipscomb,Lipscomb,Austin-Peay,1,8,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+03/24/2026,Belmont,Lipscomb,1,4,0,0,W,Lipscomb,Lipscomb,Belmont,1,9,"Nashville, TN / E. S. Rose Park",2026,WN2026
+03/27/2026,Lipscomb,Eastern Kentucky,3,2,0,0,W,Lipscomb,Lipscomb,Eastern-Kentucky,0,12,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/28/2026,Lipscomb,Eastern Kentucky,3,15,0,0,L,Lipscomb,Lipscomb,Eastern-Kentucky,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/29/2026,Lipscomb,Eastern Kentucky,9,2,0,0,W,Lipscomb,Lipscomb,Eastern-Kentucky,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+04/02/2026,Bellarmine,Lipscomb,4,9,0,0,W,Lipscomb,Lipscomb,Bellarmine,1,9,"Louisville, KY / Knights Field",2026,WN2026
+04/03/2026,Bellarmine,Lipscomb,17,10,0,0,L,Lipscomb,Lipscomb,Bellarmine,1,9,"Louisville, KY / Knights Field",2026,WN2026
+04/03/2026,Bellarmine,Lipscomb,9,5,0,0,L,Lipscomb,Lipscomb,Bellarmine,1,9,"Louisville, KY / Knights Field",2026,WN2026
+04/07/2026,Middle Tennessee,Lipscomb,5,3,0,0,L,Lipscomb,Lipscomb,Middle-Tennessee,1,9,"Murfreesboro, TN / Reese Smith Jr. Field",2026,WN2026
+04/10/2026,Lipscomb,Central Arkansas,6,12,0,0,L,Lipscomb,Lipscomb,Central-Arkansas,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+04/11/2026,Lipscomb,Central Arkansas,5,10,0,0,L,Lipscomb,Lipscomb,Central-Arkansas,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+04/12/2026,Lipscomb,Central Arkansas,6,5,0,0,W,Lipscomb,Lipscomb,Central-Arkansas,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+04/14/2026,Lipscomb,Vanderbilt,1,15,0,0,L,Lipscomb,Lipscomb,Vanderbilt,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+04/17/2026,North Alabama,Lipscomb,4,6,0,0,W,Lipscomb,Lipscomb,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+04/18/2026,North Alabama,Lipscomb,6,2,0,0,L,Lipscomb,Lipscomb,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+04/19/2026,North Alabama,Lipscomb,0,6,0,0,W,Lipscomb,Lipscomb,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+04/21/2026,Tennessee,Lipscomb,14,4,0,0,L,Lipscomb,Lipscomb,Tennessee,1,7,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+04/24/2026,Lipscomb,Austin Peay,6,5,0,0,W,Lipscomb,Lipscomb,Austin-Peay,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+04/25/2026,Lipscomb,Austin Peay,11,10,0,0,W,Lipscomb,Lipscomb,Austin-Peay,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+04/26/2026,Lipscomb,Austin Peay,2,6,0,0,L,Lipscomb,Lipscomb,Austin-Peay,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+04/28/2026,Lipscomb,Tennessee Tech,5,15,0,0,L,Lipscomb,Lipscomb,Tennessee-Tech,0,7,"Nashville, TN / Ken Dugan Field",2026,WN2026
+05/01/2026,Eastern Kentucky,Lipscomb,3,9,0,0,W,Lipscomb,Lipscomb,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+05/02/2026,Eastern Kentucky,Lipscomb,2,0,0,0,L,Lipscomb,Lipscomb,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+05/03/2026,Eastern Kentucky,Lipscomb,5,10,0,0,W,Lipscomb,Lipscomb,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+05/07/2026,Lipscomb,Bellarmine,5,4,0,0,W,Lipscomb,Lipscomb,Bellarmine,0,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+05/08/2026,Lipscomb,Bellarmine,6,4,0,0,W,Lipscomb,Lipscomb,Bellarmine,0,9,"Nashville, TN / Ken Dugan Field / Box Score",2026,WN2026
+05/09/2026,Lipscomb,Bellarmine,2,1,0,0,W,Lipscomb,Lipscomb,Bellarmine,0,9,"Nashville, TN / Ken Dugan Field / Box Score",2026,WN2026
+05/14/2026,Central Arkansas,Lipscomb,4,1,0,0,L,Lipscomb,Lipscomb,Central-Arkansas,1,9,"Conway, AR / Bear Stadium / Box Score",2026,WN2026
+05/15/2026,Central Arkansas,Lipscomb,5,16,0,0,W,Lipscomb,Lipscomb,Central-Arkansas,1,9,"Conway, AR / Bear Stadium / Box Score",2026,WN2026
+05/16/2026,Central Arkansas,Lipscomb,4,7,0,0,W,Lipscomb,Lipscomb,Central-Arkansas,1,9,"Conway, AR / Bear Stadium / Box Score",2026,WN2026
+05/21/2026,FGCU,Lipscomb,1,4,0,1,W,Lipscomb,Lipscomb,FGCU,0,9,"DeLand, FL / Melching Field at Conrad Park / Recap",2026,WN2026
+05/22/2026,North Alabama,Lipscomb,3,4,0,1,W,Lipscomb,Lipscomb,North-Alabama,0,14,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+05/23/2026,North Alabama,Lipscomb,4,5,0,1,W,Lipscomb,Lipscomb,North-Alabama,0,10,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026

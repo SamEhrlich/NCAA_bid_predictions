@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,FGCU,North Dakota State,2,1,0,0,W,FGCU,FGCU,North-Dakota-State,0,10,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/14/2026,FGCU,North Dakota State,19,18,0,0,W,FGCU,FGCU,North-Dakota-State,0,11,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/15/2026,FGCU,North Dakota State,10,6,0,0,W,FGCU,FGCU,North-Dakota-State,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/18/2026,FGCU,Minnesota,6,5,0,0,W,FGCU,FGCU,Minnesota,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/20/2026,FGCU,Stonehill,10,0,0,0,W,FGCU,FGCU,Stonehill,0,7,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/21/2026,FGCU,Stonehill,4,3,0,0,W,FGCU,FGCU,Stonehill,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/22/2026,FGCU,Stonehill,14,7,0,0,W,FGCU,FGCU,Stonehill,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/24/2026,FGCU,Indiana State,17,1,0,0,W,FGCU,FGCU,Indiana-State,0,7,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/25/2026,FGCU,Indiana State,4,5,0,0,L,FGCU,FGCU,Indiana-State,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/27/2026,FGCU,Boston College,4,10,0,0,L,FGCU,FGCU,Boston-College,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+02/28/2026,FGCU,Boston College,11,5,0,0,W,FGCU,FGCU,Boston-College,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/01/2026,FGCU,Boston College,4,3,0,0,W,FGCU,FGCU,Boston-College,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/04/2026,UCF,FGCU,12,5,0,0,L,FGCU,FGCU,UCF,1,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/06/2026,Bethune-Cookman,FGCU,5,11,0,0,W,FGCU,FGCU,Bethune-Cookman,1,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/07/2026,Bethune-Cookman,FGCU,5,13,0,0,W,FGCU,FGCU,Bethune-Cookman,1,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/08/2026,Bethune-Cookman,FGCU,9,8,0,0,L,FGCU,FGCU,Bethune-Cookman,1,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+03/10/2026,FIU,FGCU,6,11,0,0,W,FGCU,FGCU,FIU,1,10,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+03/13/2026,FGCU,Queens,11,0,0,0,W,FGCU,FGCU,Queens,0,7,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/13/2026,FGCU,Queens,2,1,0,0,W,FGCU,FGCU,Queens,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/14/2026,FGCU,Queens,4,2,0,0,W,FGCU,FGCU,Queens,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/17/2026,FAU,FGCU,4,12,0,0,W,FGCU,FGCU,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/20/2026,North Florida,FGCU,5,4,0,0,L,FGCU,FGCU,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+03/21/2026,North Florida,FGCU,7,6,0,0,L,FGCU,FGCU,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+03/22/2026,North Florida,FGCU,6,4,0,0,L,FGCU,FGCU,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+03/24/2026,FGCU,South Florida,3,7,0,0,L,FGCU,FGCU,South-Florida,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/27/2026,FGCU,Stetson,5,4,0,0,W,FGCU,FGCU,Stetson,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/29/2026,FGCU,Stetson,10,6,0,0,W,FGCU,FGCU,Stetson,0,7,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/31/2026,Miami (FL),FGCU,12,4,0,0,L,FGCU,FGCU,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/02/2026,West Georgia,FGCU,9,4,0,0,L,FGCU,FGCU,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/03/2026,West Georgia,FGCU,9,6,0,0,L,FGCU,FGCU,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/04/2026,West Georgia,FGCU,2,6,0,0,W,FGCU,FGCU,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+04/10/2026,FGCU,Jacksonville,4,6,0,0,L,FGCU,FGCU,Jacksonville,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+04/11/2026,FGCU,Jacksonville,1,4,0,0,L,FGCU,FGCU,Jacksonville,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+04/12/2026,FGCU,Jacksonville,4,1,0,0,W,FGCU,FGCU,Jacksonville,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+04/14/2026,FAU,FGCU,6,8,0,0,W,FGCU,FGCU,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+04/17/2026,Queens,FGCU,6,5,0,0,L,FGCU,FGCU,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+04/18/2026,Queens,FGCU,0,5,0,0,W,FGCU,FGCU,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+04/19/2026,Queens,FGCU,6,5,0,0,L,FGCU,FGCU,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+04/21/2026,FGCU,FIU,10,9,0,0,W,FGCU,FGCU,FIU,0,12,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+04/24/2026,FGCU,North Florida,3,5,0,0,L,FGCU,FGCU,North-Florida,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+04/25/2026,FGCU,North Florida,5,3,0,0,W,FGCU,FGCU,North-Florida,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+04/26/2026,FGCU,North Florida,13,3,0,0,W,FGCU,FGCU,North-Florida,0,8,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+04/28/2026,FGCU,FAU,1,8,0,0,L,FGCU,FGCU,FAU,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+05/01/2026,Stetson,FGCU,1,8,0,0,W,FGCU,FGCU,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+05/02/2026,Stetson,FGCU,2,6,0,0,W,FGCU,FGCU,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+05/03/2026,Stetson,FGCU,1,2,0,0,W,FGCU,FGCU,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+05/06/2026,FIU,FGCU,8,9,0,0,W,FGCU,FGCU,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+05/08/2026,FGCU,West Georgia,7,6,0,0,W,FGCU,FGCU,West-Georgia,0,9,"Fort Myers, FL / Swanson Stadium / Box Score",2026,WN2026
+05/09/2026,FGCU,West Georgia,10,5,0,0,W,FGCU,FGCU,West-Georgia,0,9,"Fort Myers, FL / Swanson Stadium / Box Score",2026,WN2026
+05/10/2026,FGCU,West Georgia,5,2,0,0,W,FGCU,FGCU,West-Georgia,0,9,"Fort Myers, FL / Swanson Stadium / Box Score",2026,WN2026
+05/12/2026,FGCU,FAU,3,9,0,0,L,FGCU,FGCU,FAU,0,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+05/14/2026,Jacksonville,FGCU,2,3,0,0,W,FGCU,FGCU,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium / Box Score",2026,WN2026
+05/15/2026,Jacksonville,FGCU,3,2,0,0,L,FGCU,FGCU,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium / Box Score",2026,WN2026
+05/16/2026,Jacksonville,FGCU,2,1,0,0,L,FGCU,FGCU,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium / Box Score",2026,WN2026
+05/21/2026,Central Arkansas,FGCU,3,4,0,1,W,FGCU,FGCU,Central-Arkansas,0,9,"DeLand, FL / Melching Field at Conrad Park / Recap",2026,WN2026
+05/21/2026,Lipscomb,FGCU,4,1,0,1,L,FGCU,FGCU,Lipscomb,0,9,"DeLand, FL / Melching Field at Conrad Park / Recap",2026,WN2026
+05/22/2026,North Florida,FGCU,1,3,0,1,W,FGCU,FGCU,North-Florida,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+05/23/2026,North Alabama,FGCU,6,5,0,1,L,FGCU,FGCU,North-Alabama,0,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026

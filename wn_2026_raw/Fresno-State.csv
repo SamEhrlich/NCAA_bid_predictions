@@ -1,0 +1,53 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Fresno State,Utah,3,8,0,0,L,Fresno State,Fresno-State,Utah,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+02/14/2026,Fresno State,Utah,4,5,0,0,L,Fresno State,Fresno-State,Utah,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+02/15/2026,Fresno State,Utah,14,8,0,0,W,Fresno State,Fresno-State,Utah,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+02/20/2026,Fresno State,Pepperdine,1,2,0,0,L,Fresno State,Fresno-State,Pepperdine,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+02/21/2026,Fresno State,Pepperdine,10,6,0,0,W,Fresno State,Fresno-State,Pepperdine,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+02/22/2026,Fresno State,Pepperdine,11,7,0,0,W,Fresno State,Fresno-State,Pepperdine,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+02/23/2026,Fresno State,Pepperdine,11,3,0,0,W,Fresno State,Fresno-State,Pepperdine,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+02/27/2026,Stanford,Fresno State,6,5,0,0,L,Fresno State,Fresno-State,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+02/28/2026,Stanford,Fresno State,4,15,0,0,W,Fresno State,Fresno-State,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/01/2026,Stanford,Fresno State,8,11,0,0,W,Fresno State,Fresno-State,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/03/2026,Fresno State,Sacramento State,2,0,0,0,W,Fresno State,Fresno-State,Sacramento-State,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+03/06/2026,Arizona,Fresno State,6,0,0,0,L,Fresno State,Fresno-State,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/07/2026,Arizona,Fresno State,9,5,0,0,L,Fresno State,Fresno-State,Arizona,1,9,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/08/2026,Arizona,Fresno State,14,4,0,0,L,Fresno State,Fresno-State,Arizona,1,8,"Tucson, AZ / Hi Corbett Field",2026,WN2026
+03/10/2026,Cal Poly,Fresno State,13,3,0,0,L,Fresno State,Fresno-State,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium",2026,WN2026
+03/13/2026,Fresno State,Nevada,4,9,0,0,L,Fresno State,Fresno-State,Nevada,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+03/14/2026,Fresno State,Nevada,12,15,0,0,L,Fresno State,Fresno-State,Nevada,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+03/15/2026,Fresno State,Nevada,4,9,0,0,L,Fresno State,Fresno-State,Nevada,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+03/17/2026,Fresno State,Cal State Northridge,9,11,0,0,L,Fresno State,Fresno-State,Cal-State-Northridge,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+03/19/2026,Utah Tech,Fresno State,17,13,0,0,L,Fresno State,Fresno-State,Utah-Tech,1,9,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/20/2026,Utah Tech,Fresno State,8,7,0,0,L,Fresno State,Fresno-State,Utah-Tech,1,10,"Saint George, UT / Bruce Hurst Field",2026,WN2026
+03/23/2026,Fresno State,Long Beach State,8,1,0,0,W,Fresno State,Fresno-State,Long-Beach-State,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+03/28/2026,New Mexico,Fresno State,9,8,0,0,L,Fresno State,Fresno-State,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/28/2026,New Mexico,Fresno State,5,2,0,0,L,Fresno State,Fresno-State,New-Mexico,1,9,"Albuquerque, NM / Santa Ana Star Field",2026,WN2026
+03/31/2026,Fresno State,Cal Poly,4,10,0,0,L,Fresno State,Fresno-State,Cal-Poly,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/02/2026,Fresno State,Grand Canyon,10,8,0,0,W,Fresno State,Fresno-State,Grand-Canyon,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/03/2026,Fresno State,Grand Canyon,0,3,0,0,L,Fresno State,Fresno-State,Grand-Canyon,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/04/2026,Fresno State,Grand Canyon,5,7,0,0,L,Fresno State,Fresno-State,Grand-Canyon,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/07/2026,Sacramento State,Fresno State,1,2,0,0,W,Fresno State,Fresno-State,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+04/10/2026,Air Force,Fresno State,8,5,0,0,L,Fresno State,Fresno-State,Air-Force,1,9,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/11/2026,Air Force,Fresno State,15,13,0,0,L,Fresno State,Fresno-State,Air-Force,1,9,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/12/2026,Air Force,Fresno State,10,5,0,0,L,Fresno State,Fresno-State,Air-Force,1,9,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/14/2026,Fresno State,Cal State Bakersfield,10,6,0,0,W,Fresno State,Fresno-State,Cal-State-Bakersfield,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/17/2026,Fresno State,San Jose State,3,6,0,0,L,Fresno State,Fresno-State,San-Jose-State,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/18/2026,Fresno State,San Jose State,2,10,0,0,L,Fresno State,Fresno-State,San-Jose-State,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/20/2026,Fresno State,UC Davis,4,8,0,0,L,Fresno State,Fresno-State,UC-Davis,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/21/2026,Long Beach State,Fresno State,2,5,0,0,W,Fresno State,Fresno-State,Long-Beach-State,1,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/24/2026,Fresno State,San Diego State,3,4,0,0,L,Fresno State,Fresno-State,San-Diego-State,0,11,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/25/2026,Fresno State,San Diego State,5,8,0,0,L,Fresno State,Fresno-State,San-Diego-State,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/26/2026,Fresno State,San Diego State,2,6,0,0,L,Fresno State,Fresno-State,San-Diego-State,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+04/29/2026,Cal State Northridge,Fresno State,7,4,0,0,L,Fresno State,Fresno-State,Cal-State-Northridge,1,9,"Northridge, CA / Matador Field",2026,WN2026
+05/01/2026,Washington State,Fresno State,5,1,0,0,L,Fresno State,Fresno-State,Washington-State,1,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+05/02/2026,Washington State,Fresno State,17,0,0,0,L,Fresno State,Fresno-State,Washington-State,1,7,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+05/03/2026,Washington State,Fresno State,4,5,0,0,W,Fresno State,Fresno-State,Washington-State,1,9,"Pullman, WA / Bailey-Brayton Field",2026,WN2026
+05/05/2026,Cal State Bakersfield,Fresno State,6,2,0,0,L,Fresno State,Fresno-State,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+05/08/2026,Fresno State,UNLV,6,11,0,0,L,Fresno State,Fresno-State,UNLV,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium / Box Score",2026,WN2026
+05/09/2026,Fresno State,UNLV,1,17,0,0,L,Fresno State,Fresno-State,UNLV,0,7,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium / Box Score",2026,WN2026
+05/10/2026,Fresno State,UNLV,14,13,0,0,W,Fresno State,Fresno-State,UNLV,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium / Box Score",2026,WN2026
+05/12/2026,Fresno State,Cal Poly,10,15,0,0,L,Fresno State,Fresno-State,Cal-Poly,0,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+05/14/2026,San Jose State,Fresno State,12,5,0,0,L,Fresno State,Fresno-State,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark / Box Score",2026,WN2026
+05/15/2026,San Jose State,Fresno State,9,8,0,0,L,Fresno State,Fresno-State,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark / Box Score",2026,WN2026
+05/16/2026,San Jose State,Fresno State,8,7,0,0,L,Fresno State,Fresno-State,San-Jose-State,1,9,"San Jose, CA / Excite Ballpark / Box Score",2026,WN2026

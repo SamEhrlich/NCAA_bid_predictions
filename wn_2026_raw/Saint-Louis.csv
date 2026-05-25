@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Ohio State,Saint Louis,7,1,0,1,L,Saint Louis,Saint-Louis,Ohio-State,0,9,"Pensacola, FL",2026,WN2026
+02/14/2026,Ohio State,Saint Louis,3,2,0,1,L,Saint Louis,Saint-Louis,Ohio-State,0,9,"Pensacola, FL",2026,WN2026
+02/14/2026,Ohio State,Saint Louis,7,3,0,1,L,Saint Louis,Saint-Louis,Ohio-State,0,9,"Pensacola, FL",2026,WN2026
+02/17/2026,Southeast Missouri,Saint Louis,11,3,0,0,L,Saint Louis,Saint-Louis,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+02/20/2026,North Alabama,Saint Louis,7,4,0,0,L,Saint Louis,Saint-Louis,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/21/2026,North Alabama,Saint Louis,12,2,0,0,L,Saint Louis,Saint-Louis,North-Alabama,1,7,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/22/2026,North Alabama,Saint Louis,8,6,0,0,L,Saint Louis,Saint-Louis,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+02/24/2026,SIUE,Saint Louis,17,7,0,0,L,Saint Louis,Saint-Louis,SIUE,1,7,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+02/25/2026,Saint Louis,Southern Indiana,3,1,0,0,W,Saint Louis,Saint-Louis,Southern-Indiana,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+02/27/2026,Saint Louis,Bellarmine,13,3,0,0,W,Saint Louis,Saint-Louis,Bellarmine,0,7,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+02/28/2026,Saint Louis,Bellarmine,6,4,0,0,W,Saint Louis,Saint-Louis,Bellarmine,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+02/28/2026,Saint Louis,Bellarmine,8,0,0,0,W,Saint Louis,Saint-Louis,Bellarmine,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/03/2026,Saint Louis,Western Illinois,2,3,0,0,L,Saint Louis,Saint-Louis,Western-Illinois,0,10,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/06/2026,Saint Louis,Bradley,2,1,0,0,W,Saint Louis,Saint-Louis,Bradley,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/07/2026,Saint Louis,Bradley,9,7,0,0,W,Saint Louis,Saint-Louis,Bradley,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/08/2026,Saint Louis,Bradley,4,1,0,0,W,Saint Louis,Saint-Louis,Bradley,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/10/2026,Saint Louis,Illinois State,5,8,0,0,L,Saint Louis,Saint-Louis,Illinois-State,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/13/2026,Saint Louis,Dayton,8,3,0,0,W,Saint Louis,Saint-Louis,Dayton,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/14/2026,Saint Louis,Dayton,9,1,0,0,W,Saint Louis,Saint-Louis,Dayton,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/14/2026,Saint Louis,Dayton,2,12,0,0,L,Saint Louis,Saint-Louis,Dayton,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/20/2026,Saint Bonaventure,Saint Louis,5,7,0,0,W,Saint Louis,Saint-Louis,Saint-Bonaventure,1,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/21/2026,Saint Bonaventure,Saint Louis,3,6,0,0,W,Saint Louis,Saint-Louis,Saint-Bonaventure,1,9,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/22/2026,Saint Bonaventure,Saint Louis,14,3,0,0,L,Saint Louis,Saint-Louis,Saint-Bonaventure,1,7,"Erie, PA / Mercyhurst Baseball Field",2026,WN2026
+03/24/2026,Saint Louis,SIUE,8,2,0,0,W,Saint Louis,Saint-Louis,SIUE,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/27/2026,Saint Louis,George Mason,3,5,0,0,L,Saint Louis,Saint-Louis,George-Mason,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/28/2026,Saint Louis,George Mason,3,5,0,0,L,Saint Louis,Saint-Louis,George-Mason,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/29/2026,Saint Louis,George Mason,1,3,0,0,L,Saint Louis,Saint-Louis,George-Mason,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+03/30/2026,Saint Louis,Utah Tech,3,2,0,0,W,Saint Louis,Saint-Louis,Utah-Tech,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+04/02/2026,Saint Joseph's,Saint Louis,18,4,0,0,L,Saint Louis,Saint-Louis,Saint-Josephs,1,9,"Merion Station, PA / Smithson Field",2026,WN2026
+04/03/2026,Saint Joseph's,Saint Louis,5,4,0,0,L,Saint Louis,Saint-Louis,Saint-Josephs,1,9,"Merion Station, PA / Smithson Field",2026,WN2026
+04/04/2026,Saint Joseph's,Saint Louis,7,3,0,0,L,Saint Louis,Saint-Louis,Saint-Josephs,1,9,"Merion Station, PA / Smithson Field",2026,WN2026
+04/07/2026,Illinois State,Saint Louis,5,4,0,0,L,Saint Louis,Saint-Louis,Illinois-State,1,9,"Normal, IL / Duffy Bass Field",2026,WN2026
+04/10/2026,George Washington,Saint Louis,0,3,0,0,W,Saint Louis,Saint-Louis,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+04/11/2026,George Washington,Saint Louis,13,4,0,0,L,Saint Louis,Saint-Louis,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+04/12/2026,George Washington,Saint Louis,2,3,0,0,W,Saint Louis,Saint-Louis,George-Washington,1,9,"Arlington, VA / Barcroft Park",2026,WN2026
+04/14/2026,Saint Louis,Lindenwood,1,9,0,0,L,Saint Louis,Saint-Louis,Lindenwood,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+04/15/2026,SIUE,Saint Louis,15,5,0,0,L,Saint Louis,Saint-Louis,SIUE,1,7,"Edwardsville, IL / Roy E. Lee Field at Simmons Baseball Complex",2026,WN2026
+04/17/2026,Saint Louis,Davidson,5,9,0,0,L,Saint Louis,Saint-Louis,Davidson,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+04/18/2026,Saint Louis,Davidson,3,18,0,0,L,Saint Louis,Saint-Louis,Davidson,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+04/19/2026,Saint Louis,Davidson,7,2,0,0,W,Saint Louis,Saint-Louis,Davidson,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+04/22/2026,Western Illinois,Saint Louis,8,6,0,0,L,Saint Louis,Saint-Louis,Western-Illinois,1,9,"Macomb, IL / Alfred D. Boyer Stadium",2026,WN2026
+04/24/2026,Saint Louis,Rhode Island,2,12,0,0,L,Saint Louis,Saint-Louis,Rhode-Island,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+04/25/2026,Saint Louis,Rhode Island,11,7,0,0,W,Saint Louis,Saint-Louis,Rhode-Island,0,9,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+04/26/2026,Saint Louis,Rhode Island,5,7,0,0,L,Saint Louis,Saint-Louis,Rhode-Island,0,12,"St. Louis, MO / Billiken Sports Center",2026,WN2026
+05/01/2026,VCU,Saint Louis,12,1,0,0,L,Saint Louis,Saint-Louis,VCU,1,9,"Richmond, VA / The Diamond",2026,WN2026
+05/01/2026,VCU,Saint Louis,5,1,0,0,L,Saint Louis,Saint-Louis,VCU,1,9,"Richmond, VA / The Diamond",2026,WN2026
+05/03/2026,VCU,Saint Louis,10,7,0,0,L,Saint Louis,Saint-Louis,VCU,1,9,"Richmond, VA / The Diamond",2026,WN2026
+05/06/2026,Lindenwood,Saint Louis,10,1,0,0,L,Saint Louis,Saint-Louis,Lindenwood,1,9,"St. Charles, MO / Lou Brock Sports Complex",2026,WN2026
+05/08/2026,Fordham,Saint Louis,0,4,0,0,W,Saint Louis,Saint-Louis,Fordham,1,9,"Bronx, NY / Jim Houlihan Park / Box Score",2026,WN2026
+05/08/2026,Fordham,Saint Louis,2,7,0,0,W,Saint Louis,Saint-Louis,Fordham,1,9,"Bronx, NY / Jim Houlihan Park / Box Score",2026,WN2026
+05/10/2026,Fordham,Saint Louis,6,7,0,0,W,Saint Louis,Saint-Louis,Fordham,1,9,"Bronx, NY / Jim Houlihan Park / Box Score",2026,WN2026
+05/14/2026,Saint Louis,Richmond,1,4,0,0,L,Saint Louis,Saint-Louis,Richmond,0,9,"St. Louis, MO / Billiken Sports Center / Box Score",2026,WN2026
+05/15/2026,Saint Louis,Richmond,0,2,0,0,L,Saint Louis,Saint-Louis,Richmond,0,9,"St. Louis, MO / Billiken Sports Center / Box Score",2026,WN2026
+05/16/2026,Saint Louis,Richmond,24,26,0,0,L,Saint Louis,Saint-Louis,Richmond,0,9,"St. Louis, MO / Billiken Sports Center / Box Score",2026,WN2026

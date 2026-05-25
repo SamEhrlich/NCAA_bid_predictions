@@ -1,0 +1,48 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Radford,Iona,2,0,0,0,L,Iona,Iona,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+02/14/2026,Radford,Iona,8,9,0,0,W,Iona,Iona,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+02/14/2026,Radford,Iona,6,3,0,0,L,Iona,Iona,Radford,1,9,"Radford, VA / Sherman Carter Memorial Stadium",2026,WN2026
+02/28/2026,NJIT,Iona,8,0,0,1,L,Iona,Iona,NJIT,0,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+02/28/2026,NJIT,Iona,10,2,0,1,L,Iona,Iona,NJIT,0,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+03/04/2026,Fairleigh Dickinson,Iona,4,3,0,0,L,Iona,Iona,Fairleigh-Dickinson,1,9,"Teaneck, NJ / Naimoli Family Baseball Complex",2026,WN2026
+03/06/2026,Mount Saint Mary's,Iona,2,3,0,0,W,Iona,Iona,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/06/2026,Mount Saint Mary's,Iona,3,5,0,0,W,Iona,Iona,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/08/2026,Mount Saint Mary's,Iona,9,2,0,0,L,Iona,Iona,Mount-Saint-Marys,1,9,"Emmitsburg, MD / Straw Family Stadium",2026,WN2026
+03/10/2026,Fordham,Iona,14,2,0,0,L,Iona,Iona,Fordham,1,9,"Bronx, NY / Jim Houlihan Park",2026,WN2026
+03/13/2026,Iona,Merrimack,3,4,0,0,L,Iona,Iona,Merrimack,0,9,"New Rochelle, NY / City Park",2026,WN2026
+03/14/2026,Iona,Merrimack,4,7,0,0,L,Iona,Iona,Merrimack,0,9,"New Rochelle, NY / City Park",2026,WN2026
+03/15/2026,Iona,Merrimack,15,11,0,0,W,Iona,Iona,Merrimack,0,9,"New Rochelle, NY / City Park",2026,WN2026
+03/17/2026,Iona,Long Island,5,3,0,0,W,Iona,Iona,Long-Island,0,9,"New Rochelle, NY / City Park",2026,WN2026
+03/20/2026,Iona,Marist,0,1,0,0,L,Iona,Iona,Marist,0,9,"New Rochelle, NY / City Park",2026,WN2026
+03/21/2026,Iona,Marist,5,3,0,0,W,Iona,Iona,Marist,0,9,"New Rochelle, NY / City Park",2026,WN2026
+03/22/2026,Iona,Marist,3,10,0,0,L,Iona,Iona,Marist,0,9,"New Rochelle, NY / City Park",2026,WN2026
+03/25/2026,Iona,Yale,6,7,0,0,L,Iona,Iona,Yale,0,10,"New Rochelle, NY / City Park",2026,WN2026
+03/27/2026,Niagara,Iona,3,2,0,0,L,Iona,Iona,Niagara,1,9,"Lewiston, NY / Bobo Field",2026,WN2026
+03/28/2026,Niagara,Iona,3,9,0,0,W,Iona,Iona,Niagara,1,9,"Lewiston, NY / Bobo Field",2026,WN2026
+03/29/2026,Niagara,Iona,3,2,0,0,L,Iona,Iona,Niagara,1,9,"Lewiston, NY / Bobo Field",2026,WN2026
+04/01/2026,La Salle,Iona,18,13,0,0,L,Iona,Iona,La-Salle,1,9,"Philadelphia, PA / DeVincent Field",2026,WN2026
+04/02/2026,UMBC,Iona,9,8,0,0,L,Iona,Iona,UMBC,1,9,"Catonsville, MD / Alumni Field",2026,WN2026
+04/03/2026,UMBC,Iona,12,2,0,0,L,Iona,Iona,UMBC,1,7,"Catonsville, MD / Alumni Field",2026,WN2026
+04/04/2026,UMBC,Iona,3,4,0,0,W,Iona,Iona,UMBC,1,10,"Catonsville, MD / Alumni Field",2026,WN2026
+04/08/2026,Iona,Fairleigh Dickinson,3,1,0,0,W,Iona,Iona,Fairleigh-Dickinson,0,9,"New Rochelle, NY / City Park",2026,WN2026
+04/10/2026,Iona,Sacred Heart,7,6,0,0,W,Iona,Iona,Sacred-Heart,0,9,"New Rochelle, NY / City Park",2026,WN2026
+04/11/2026,Iona,Sacred Heart,6,3,0,0,W,Iona,Iona,Sacred-Heart,0,9,"New Rochelle, NY / City Park",2026,WN2026
+04/14/2026,Long Island,Iona,10,4,0,0,L,Iona,Iona,Long-Island,1,9,"Brooklyn, NY / Long Island University Field",2026,WN2026
+04/18/2026,Saint Peter's,Iona,7,16,0,0,W,Iona,Iona,Saint-Peters,1,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+04/18/2026,Saint Peter's,Iona,6,9,0,0,W,Iona,Iona,Saint-Peters,1,9,"Jersey City, NJ / Joseph J. Jaroschak Field",2026,WN2026
+04/19/2026,Iona,Saint Peter's,8,5,0,0,W,Iona,Iona,Saint-Peters,0,9,"New Rochelle, NY",2026,WN2026
+04/22/2026,Iona,Fordham,5,6,0,0,L,Iona,Iona,Fordham,0,12,"New Rochelle, NY / City Park",2026,WN2026
+04/24/2026,Fairfield,Iona,21,6,0,0,L,Iona,Iona,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/26/2026,Fairfield,Iona,5,1,0,0,L,Iona,Iona,Fairfield,1,9,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/26/2026,Fairfield,Iona,4,5,0,0,W,Iona,Iona,Fairfield,1,10,"Fairfield, CT / Alumni Baseball Diamond",2026,WN2026
+04/29/2026,Iona,La Salle,0,8,0,0,L,Iona,Iona,La-Salle,0,9,"New Rochelle, NY / City Park",2026,WN2026
+05/01/2026,Iona,Canisius,1,3,0,0,L,Iona,Iona,Canisius,0,11,"New Rochelle, NY / City Park",2026,WN2026
+05/02/2026,Iona,Canisius,4,2,0,0,W,Iona,Iona,Canisius,0,9,"New Rochelle, NY / City Park",2026,WN2026
+05/03/2026,Iona,Canisius,1,7,0,0,L,Iona,Iona,Canisius,0,9,"New Rochelle, NY / City Park",2026,WN2026
+05/06/2026,Yale,Iona,12,1,0,0,L,Iona,Iona,Yale,1,7,"West Haven, CT / George H.W. Bush 48 Field",2026,WN2026
+05/08/2026,Siena,Iona,12,11,0,0,L,Iona,Iona,Siena,1,9,"Loudonville, NY / Siena Baseball Field / Box Score",2026,WN2026
+05/08/2026,Siena,Iona,1,9,0,0,W,Iona,Iona,Siena,1,9,"Loudonville, NY / Siena Baseball Field / Box Score",2026,WN2026
+05/10/2026,Siena,Iona,8,1,0,0,L,Iona,Iona,Siena,1,9,"Loudonville, NY / Siena Baseball Field / Box Score",2026,WN2026
+05/14/2026,Iona,Manhattan,7,2,0,0,W,Iona,Iona,Manhattan,0,9,"New Rochelle, NY / City Park / Box Score",2026,WN2026
+05/15/2026,Iona,Manhattan,3,6,0,0,L,Iona,Iona,Manhattan,0,9,"New Rochelle, NY / City Park / Box Score",2026,WN2026
+05/16/2026,Iona,Manhattan,8,7,0,0,W,Iona,Iona,Manhattan,0,9,"New Rochelle, NY / City Park / Box Score",2026,WN2026

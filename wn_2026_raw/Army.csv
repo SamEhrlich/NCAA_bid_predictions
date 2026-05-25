@@ -1,0 +1,49 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Clemson,Army,3,2,0,0,L,Army,Army,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+02/14/2026,Clemson,Army,10,0,0,0,L,Army,Army,Clemson,1,8,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+02/14/2026,Clemson,Army,7,0,0,0,L,Army,Army,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+02/20/2026,South Carolina,Army,5,9,0,0,W,Army,Army,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+02/21/2026,Air Force,Army,3,11,0,1,W,Army,Army,Air-Force,0,9,"Columbia, SC / Founders Park",2026,WN2026
+02/22/2026,The Citadel,Army,14,8,0,0,L,Army,Army,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park",2026,WN2026
+02/27/2026,Queens,Army,2,3,0,0,W,Army,Army,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+02/28/2026,Queens,Army,3,4,0,0,W,Army,Army,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/01/2026,Queens,Army,2,5,0,0,W,Army,Army,Queens,1,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/06/2026,VCU,Army,4,3,0,0,L,Army,Army,VCU,1,10,"Richmond, VA / The Diamond",2026,WN2026
+03/07/2026,VCU,Army,11,3,0,0,L,Army,Army,VCU,1,9,"Richmond, VA / The Diamond",2026,WN2026
+03/08/2026,VCU,Army,11,3,0,0,L,Army,Army,VCU,1,9,"Richmond, VA / The Diamond",2026,WN2026
+03/10/2026,Army,Merrimack,10,9,0,0,W,Army,Army,Merrimack,0,9,"West Point, NY / Doubleday Field",2026,WN2026
+03/11/2026,Army,Merrimack,4,8,0,0,L,Army,Army,Merrimack,0,9,"West Point, NY / Doubleday Field",2026,WN2026
+03/13/2026,Army,Holy Cross,1,6,0,0,L,Army,Army,Holy-Cross,0,9,"West Point, NY / Doubleday Field",2026,WN2026
+03/14/2026,Army,Holy Cross,5,1,0,0,W,Army,Army,Holy-Cross,0,9,"West Point, NY / Doubleday Field",2026,WN2026
+03/15/2026,Army,Holy Cross,4,10,0,0,L,Army,Army,Holy-Cross,0,9,"West Point, NY / Doubleday Field",2026,WN2026
+03/18/2026,Army,Albany,12,2,0,0,W,Army,Army,Albany,0,7,"West Point, NY / Doubleday Field",2026,WN2026
+03/21/2026,Lafayette,Army,2,11,0,0,W,Army,Army,Lafayette,1,7,"Forks Township, PA / Kamine Stadium",2026,WN2026
+03/21/2026,Lafayette,Army,2,11,0,0,W,Army,Army,Lafayette,1,7,"Forks Township, PA / Kamine Stadium",2026,WN2026
+03/22/2026,Lafayette,Army,5,10,0,0,W,Army,Army,Lafayette,1,9,"Forks Township, PA / Kamine Stadium",2026,WN2026
+03/24/2026,Army,Saint Peter's,9,4,0,0,W,Army,Army,Saint-Peters,0,9,"West Point, NY / Doubleday Field",2026,WN2026
+03/27/2026,Army,Navy,5,4,0,0,W,Army,Army,Navy,0,10,"West Point, NY / Doubleday Field",2026,WN2026
+03/28/2026,Army,Navy,2,5,0,0,L,Army,Army,Navy,0,9,"West Point, NY / Doubleday Field",2026,WN2026
+03/29/2026,Army,Navy,4,3,0,0,W,Army,Army,Navy,0,9,"West Point, NY / Doubleday Field",2026,WN2026
+03/31/2026,Army,Cornell,12,6,0,0,W,Army,Army,Cornell,0,9,"West Point, NY / Doubleday Field",2026,WN2026
+04/04/2026,Holy Cross,Army,11,5,0,0,L,Army,Army,Holy-Cross,1,7,"Worcester, MA / Hanover Insurance Park at Fitton Field",2026,WN2026
+04/04/2026,Holy Cross,Army,16,6,0,0,L,Army,Army,Holy-Cross,1,7,"Worcester, MA / Hanover Insurance Park at Fitton Field",2026,WN2026
+04/06/2026,Holy Cross,Army,10,2,0,0,L,Army,Army,Holy-Cross,1,9,"Worcester, MA / Hanover Insurance Park at Fitton Field",2026,WN2026
+04/10/2026,Lehigh,Army,5,20,0,0,W,Army,Army,Lehigh,1,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+04/11/2026,Lehigh,Army,2,4,0,0,W,Army,Army,Lehigh,1,7,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+04/11/2026,Lehigh,Army,9,13,0,0,W,Army,Army,Lehigh,1,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+04/12/2026,Lehigh,Army,9,7,0,0,L,Army,Army,Lehigh,1,9,"Bethlehem, PA / J. David Walker Field at Legacy Park",2026,WN2026
+04/14/2026,Army,Wagner,18,8,0,0,W,Army,Army,Wagner,0,7,"West Point, NY / Doubleday Field",2026,WN2026
+04/17/2026,Army,Bucknell,14,3,0,0,W,Army,Army,Bucknell,0,7,"West Point, NY / Doubleday Field",2026,WN2026
+04/18/2026,Army,Bucknell,2,1,0,0,W,Army,Army,Bucknell,0,8,"West Point, NY / Doubleday Field",2026,WN2026
+04/18/2026,Army,Bucknell,5,1,0,0,W,Army,Army,Bucknell,0,9,"West Point, NY / Doubleday Field",2026,WN2026
+04/19/2026,Army,Bucknell,0,8,0,0,L,Army,Army,Bucknell,0,9,"West Point, NY / Doubleday Field",2026,WN2026
+04/21/2026,Army,Marist,4,5,0,0,L,Army,Army,Marist,0,9,"West Point, NY / Doubleday Field",2026,WN2026
+04/26/2026,Army,Lafayette,6,3,0,0,W,Army,Army,Lafayette,0,7,"West Point, NY / Doubleday Field",2026,WN2026
+04/26/2026,Army,Lafayette,10,9,0,0,W,Army,Army,Lafayette,0,9,"West Point, NY / Doubleday Field",2026,WN2026
+04/27/2026,Army,Lafayette,9,8,0,0,W,Army,Army,Lafayette,0,10,"West Point, NY / Doubleday Field",2026,WN2026
+04/28/2026,Army,Long Island,7,0,0,0,W,Army,Army,Long-Island,0,9,"West Point, NY / Doubleday Field",2026,WN2026
+05/02/2026,Navy,Army,4,5,0,0,W,Army,Army,Navy,1,13,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+05/03/2026,Navy,Army,7,4,0,0,L,Army,Army,Navy,1,7,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+05/03/2026,Navy,Army,4,16,0,0,W,Army,Army,Navy,1,7,"Annapolis, MD / Terwilliger Brothers Field at Max Bishop Stadium",2026,WN2026
+05/09/2026,Holy Cross,Army,5,3,0,1,L,Army,Army,Holy-Cross,0,9,"West Point, NY / Doubleday Field / Box Score",2026,WN2026
+05/10/2026,Holy Cross,Army,6,2,0,1,L,Army,Army,Holy-Cross,0,9,"West Point, NY / Doubleday Field / Box Score",2026,WN2026

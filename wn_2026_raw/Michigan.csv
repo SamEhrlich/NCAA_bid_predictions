@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Oregon State,Michigan,3,5,0,1,W,Michigan,Michigan,Oregon-State,0,9,"Surprise, AZ / Surprise Stadium",2026,WN2026
+02/14/2026,Stanford,Michigan,6,7,0,1,W,Michigan,Michigan,Stanford,0,9,"Surprise, AZ / Surprise Stadium",2026,WN2026
+02/15/2026,Arizona,Michigan,1,4,0,1,W,Michigan,Michigan,Arizona,0,9,"Surprise, AZ / Surprise Stadium",2026,WN2026
+02/16/2026,Oregon State,Michigan,5,4,0,1,L,Michigan,Michigan,Oregon-State,0,10,"Surprise, AZ / Surprise Stadium",2026,WN2026
+02/20/2026,Florida State,Michigan,6,1,0,1,L,Michigan,Michigan,Florida-State,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/21/2026,Louisville,Michigan,5,8,0,1,W,Michigan,Michigan,Louisville,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/22/2026,Kansas State,Michigan,10,6,0,1,L,Michigan,Michigan,Kansas-State,0,9,"Arlington, TX / Globe Life Field",2026,WN2026
+02/27/2026,San Diego,Michigan,6,5,0,0,L,Michigan,Michigan,San-Diego,1,10,"San Diego, CA / Fowler Park",2026,WN2026
+02/28/2026,San Diego,Michigan,0,9,0,0,W,Michigan,Michigan,San-Diego,1,9,"San Diego, CA / Fowler Park",2026,WN2026
+03/01/2026,San Diego,Michigan,2,9,0,0,W,Michigan,Michigan,San-Diego,1,9,"San Diego, CA / Fowler Park",2026,WN2026
+03/03/2026,Cal State Northridge,Michigan,9,8,0,0,L,Michigan,Michigan,Cal-State-Northridge,1,12,"Northridge, CA / Matador Field",2026,WN2026
+03/05/2026,Pepperdine,Michigan,4,17,0,0,W,Michigan,Michigan,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+03/06/2026,Pepperdine,Michigan,9,8,0,0,L,Michigan,Michigan,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+03/07/2026,Pepperdine,Michigan,2,5,0,0,W,Michigan,Michigan,Pepperdine,1,9,"Malibu, CA / Eddy D. Field Stadium",2026,WN2026
+03/10/2026,Michigan,Western Michigan,3,2,0,0,W,Michigan,Michigan,Western-Michigan,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+03/13/2026,UCLA,Michigan,10,5,0,0,L,Michigan,Michigan,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/14/2026,UCLA,Michigan,2,0,0,0,L,Michigan,Michigan,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/15/2026,UCLA,Michigan,7,2,0,0,L,Michigan,Michigan,UCLA,1,9,"Los Angeles, CA / Jackie Robinson Stadium",2026,WN2026
+03/18/2026,Michigan,Michigan State,2,0,0,0,W,Michigan,Michigan,Michigan-State,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+03/20/2026,Michigan,Nebraska,2,1,0,0,W,Michigan,Michigan,Nebraska,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+03/21/2026,Michigan,Nebraska,0,10,0,0,L,Michigan,Michigan,Nebraska,0,7,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+03/22/2026,Michigan,Nebraska,5,9,0,0,L,Michigan,Michigan,Nebraska,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+03/24/2026,Michigan,Oakland,6,7,0,0,L,Michigan,Michigan,Oakland,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+03/25/2026,Michigan,Toledo,5,2,0,0,W,Michigan,Michigan,Toledo,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+03/27/2026,Rutgers,Michigan,4,3,0,0,L,Michigan,Michigan,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/28/2026,Rutgers,Michigan,5,11,0,0,W,Michigan,Michigan,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+03/29/2026,Rutgers,Michigan,2,6,0,0,W,Michigan,Michigan,Rutgers,1,9,"Piscataway, NJ / Bainton Field",2026,WN2026
+04/02/2026,Michigan,Oregon,10,0,0,0,W,Michigan,Michigan,Oregon,0,7,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/03/2026,Michigan,Oregon,2,5,0,0,L,Michigan,Michigan,Oregon,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/04/2026,Michigan,Oregon,4,3,0,0,W,Michigan,Michigan,Oregon,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/06/2026,Eastern Michigan,Michigan,4,15,0,0,W,Michigan,Michigan,Eastern-Michigan,1,7,"Ypsilanti, MI / Oestrike Stadium",2026,WN2026
+04/07/2026,Michigan,Central Michigan,6,4,0,0,W,Michigan,Michigan,Central-Michigan,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/10/2026,Michigan State,Michigan,2,4,0,0,W,Michigan,Michigan,Michigan-State,1,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/11/2026,Michigan State,Michigan,4,6,0,0,W,Michigan,Michigan,Michigan-State,1,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/12/2026,Michigan State,Michigan,10,5,0,0,L,Michigan,Michigan,Michigan-State,1,9,"East Lansing, MI / McLane Stadium at Kobs Field",2026,WN2026
+04/14/2026,Toledo,Michigan,4,6,0,0,W,Michigan,Michigan,Toledo,1,9,"Toledo, OH / Fifth Third Field",2026,WN2026
+04/17/2026,Michigan,Northwestern,7,6,0,0,W,Michigan,Michigan,Northwestern,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/18/2026,Michigan,Northwestern,8,3,0,0,W,Michigan,Michigan,Northwestern,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/19/2026,Michigan,Northwestern,2,1,0,0,W,Michigan,Michigan,Northwestern,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/21/2026,Miami (OH),Michigan,12,10,0,0,L,Michigan,Michigan,Miami-OH,1,9,"Oxford, OH / Stanley G. McKie Field at Joseph P. Hayden Jr. Park",2026,WN2026
+04/22/2026,Michigan,Bowling Green,9,6,0,0,W,Michigan,Michigan,Bowling-Green,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/24/2026,Michigan,Washington,8,7,0,0,W,Michigan,Michigan,Washington,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/25/2026,Michigan,Washington,4,3,0,0,W,Michigan,Michigan,Washington,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+04/26/2026,Michigan,Washington,5,7,0,0,L,Michigan,Michigan,Washington,0,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+05/01/2026,Maryland,Michigan,1,2,0,0,W,Michigan,Michigan,Maryland,1,10,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+05/02/2026,Maryland,Michigan,5,17,0,0,W,Michigan,Michigan,Maryland,1,8,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+05/03/2026,Maryland,Michigan,7,8,0,0,W,Michigan,Michigan,Maryland,1,9,"College Park, MD / Bob 'Turtle' Smith Stadium",2026,WN2026
+05/08/2026,Minnesota,Michigan,13,1,0,0,L,Michigan,Michigan,Minnesota,1,7,"Minneapolis, MN / Siebert Field / Box Score",2026,WN2026
+05/09/2026,Minnesota,Michigan,8,9,0,0,W,Michigan,Michigan,Minnesota,1,9,"Minneapolis, MN / Siebert Field / Box Score",2026,WN2026
+05/10/2026,Minnesota,Michigan,5,8,0,0,W,Michigan,Michigan,Minnesota,1,9,"Minneapolis, MN / Siebert Field / Box Score",2026,WN2026
+05/12/2026,Kent State,Michigan,5,3,0,0,L,Michigan,Michigan,Kent-State,1,9,"Kent, OH / Olga Mural Field at Schoonover Stadium",2026,WN2026
+05/14/2026,Michigan,Ohio State,2,13,0,0,L,Michigan,Michigan,Ohio-State,0,7,"Ann Arbor, MI / Ray Fisher Stadium / Box Score",2026,WN2026
+05/15/2026,Michigan,Ohio State,3,7,0,0,L,Michigan,Michigan,Ohio-State,0,9,"Ann Arbor, MI / Ray Fisher Stadium / Box Score",2026,WN2026
+05/16/2026,Michigan,Ohio State,1,8,0,0,L,Michigan,Michigan,Ohio-State,0,9,"Ann Arbor, MI / Ray Fisher Stadium / Box Score",2026,WN2026
+05/19/2026,Rutgers,Michigan,0,10,0,1,W,Michigan,Michigan,Rutgers,0,7,"Omaha, NE / Charles Schwab Field Omaha / Recap",2026,WN2026
+05/20/2026,Washington,Michigan,7,1,0,1,L,Michigan,Michigan,Washington,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+05/21/2026,Ohio State,Michigan,0,3,0,1,W,Michigan,Michigan,Ohio-State,0,9,"Omaha, NE / Charles Schwab Field Omaha",2026,WN2026
+05/22/2026,Nebraska,Michigan,6,4,0,1,L,Michigan,Michigan,Nebraska,0,9,"Omaha, NE / Charles Schwab Field Omaha / Recap",2026,WN2026

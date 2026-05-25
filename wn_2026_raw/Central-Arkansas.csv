@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,ULM,Central Arkansas,11,2,0,0,L,Central Arkansas,Central-Arkansas,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+02/14/2026,ULM,Central Arkansas,11,12,0,0,W,Central Arkansas,Central-Arkansas,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+02/15/2026,ULM,Central Arkansas,4,6,0,0,W,Central Arkansas,Central-Arkansas,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+02/15/2026,ULM,Central Arkansas,10,2,0,0,L,Central Arkansas,Central-Arkansas,ULM,1,9,"Monroe, LA / Lou St. Amant Field",2026,WN2026
+02/20/2026,Central Arkansas,Northwestern State,5,4,0,0,W,Central Arkansas,Central-Arkansas,Northwestern-State,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+02/21/2026,Central Arkansas,Northwestern State,3,2,0,0,W,Central Arkansas,Central-Arkansas,Northwestern-State,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+02/21/2026,Central Arkansas,Northwestern State,2,5,0,0,L,Central Arkansas,Central-Arkansas,Northwestern-State,0,15,"Conway, AR / Bear Stadium",2026,WN2026
+02/22/2026,Central Arkansas,Northwestern State,13,5,0,0,W,Central Arkansas,Central-Arkansas,Northwestern-State,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+02/24/2026,Oklahoma State,Central Arkansas,14,3,0,0,L,Central Arkansas,Central-Arkansas,Oklahoma-State,1,7,"Stillwater, OK / O'Brate Stadium",2026,WN2026
+02/27/2026,Central Arkansas,South Dakota State,5,1,0,0,W,Central Arkansas,Central-Arkansas,South-Dakota-State,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+02/28/2026,Central Arkansas,South Dakota State,5,8,0,0,L,Central Arkansas,Central-Arkansas,South-Dakota-State,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/01/2026,Central Arkansas,South Dakota State,9,3,0,0,W,Central Arkansas,Central-Arkansas,South-Dakota-State,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/03/2026,Vanderbilt,Central Arkansas,4,5,0,0,W,Central Arkansas,Central-Arkansas,Vanderbilt,1,9,"Nashville, TN / Hawkins Field",2026,WN2026
+03/06/2026,Central Arkansas,Little Rock,7,1,0,0,W,Central Arkansas,Central-Arkansas,Little-Rock,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/06/2026,Central Arkansas,Little Rock,2,8,0,0,L,Central Arkansas,Central-Arkansas,Little-Rock,0,7,"Conway, AR / Bear Stadium",2026,WN2026
+03/08/2026,Little Rock,Central Arkansas,7,2,0,0,L,Central Arkansas,Central-Arkansas,Little-Rock,1,9,"Little Rock, AR / Gary Hogan Field",2026,WN2026
+03/10/2026,Central Arkansas,Oral Roberts,8,7,0,0,W,Central Arkansas,Central-Arkansas,Oral-Roberts,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/13/2026,Eastern Kentucky,Central Arkansas,12,16,0,0,W,Central Arkansas,Central-Arkansas,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+03/14/2026,Eastern Kentucky,Central Arkansas,16,3,0,0,L,Central Arkansas,Central-Arkansas,Eastern-Kentucky,1,7,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+03/15/2026,Eastern Kentucky,Central Arkansas,6,5,0,0,L,Central Arkansas,Central-Arkansas,Eastern-Kentucky,1,9,"Richmond, KY / Turkey Hughes Field",2026,WN2026
+03/17/2026,Louisiana Tech,Central Arkansas,5,4,0,0,L,Central Arkansas,Central-Arkansas,Louisiana-Tech,1,9,"Ruston, LA / J. C. Love Field at Pat Patterson Park",2026,WN2026
+03/20/2026,Central Arkansas,Bellarmine,17,12,0,0,W,Central Arkansas,Central-Arkansas,Bellarmine,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/21/2026,Central Arkansas,Bellarmine,2,5,0,0,L,Central Arkansas,Central-Arkansas,Bellarmine,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/22/2026,Central Arkansas,Bellarmine,8,7,0,0,W,Central Arkansas,Central-Arkansas,Bellarmine,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/24/2026,Arkansas,Central Arkansas,15,2,0,0,L,Central Arkansas,Central-Arkansas,Arkansas,1,7,"Fayetteville, AR / Baum Stadium",2026,WN2026
+03/27/2026,Central Arkansas,Austin Peay,1,4,0,0,L,Central Arkansas,Central-Arkansas,Austin-Peay,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/28/2026,Central Arkansas,Austin Peay,8,0,0,0,W,Central Arkansas,Central-Arkansas,Austin-Peay,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/29/2026,Central Arkansas,Austin Peay,4,8,0,0,L,Central Arkansas,Central-Arkansas,Austin-Peay,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+03/31/2026,Arkansas-Pine Bluff,Central Arkansas,13,3,0,0,L,Central Arkansas,Central-Arkansas,Arkansas-Pine-Bluff,1,7,"Pine Bluff, AR / Torii Hunter Baseball Complex",2026,WN2026
+04/02/2026,North Alabama,Central Arkansas,4,3,0,0,L,Central Arkansas,Central-Arkansas,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+04/03/2026,North Alabama,Central Arkansas,2,4,0,0,W,Central Arkansas,Central-Arkansas,North-Alabama,1,11,"Florence, AL / Mike D. Lane Field",2026,WN2026
+04/04/2026,North Alabama,Central Arkansas,16,9,0,0,L,Central Arkansas,Central-Arkansas,North-Alabama,1,9,"Florence, AL / Mike D. Lane Field",2026,WN2026
+04/07/2026,Central Arkansas,Arkansas-Pine Bluff,9,6,0,0,W,Central Arkansas,Central-Arkansas,Arkansas-Pine-Bluff,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+04/10/2026,Lipscomb,Central Arkansas,6,12,0,0,W,Central Arkansas,Central-Arkansas,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+04/11/2026,Lipscomb,Central Arkansas,5,10,0,0,W,Central Arkansas,Central-Arkansas,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+04/12/2026,Lipscomb,Central Arkansas,6,5,0,0,L,Central Arkansas,Central-Arkansas,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+04/14/2026,Oral Roberts,Central Arkansas,3,5,0,0,W,Central Arkansas,Central-Arkansas,Oral-Roberts,1,9,"Tulsa, OK / Chapman Park",2026,WN2026
+04/17/2026,Central Arkansas,Eastern Kentucky,12,2,0,0,W,Central Arkansas,Central-Arkansas,Eastern-Kentucky,0,7,"Conway, AR / Bear Stadium",2026,WN2026
+04/18/2026,Central Arkansas,Eastern Kentucky,8,3,0,0,W,Central Arkansas,Central-Arkansas,Eastern-Kentucky,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+04/19/2026,Central Arkansas,Eastern Kentucky,9,6,0,0,W,Central Arkansas,Central-Arkansas,Eastern-Kentucky,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+04/21/2026,Arkansas State,Central Arkansas,20,10,0,0,L,Central Arkansas,Central-Arkansas,Arkansas-State,1,7,"Jonesboro, AR / Tomlinson Stadium-Kell Field",2026,WN2026
+04/22/2026,Central Arkansas,Arkansas-Pine Bluff,10,9,0,0,W,Central Arkansas,Central-Arkansas,Arkansas-Pine-Bluff,0,9,"Conway, AR / Bear Stadium",2026,WN2026
+04/24/2026,Bellarmine,Central Arkansas,2,13,0,0,W,Central Arkansas,Central-Arkansas,Bellarmine,1,8,"Louisville, KY / Knights Field",2026,WN2026
+04/25/2026,Bellarmine,Central Arkansas,7,14,0,0,W,Central Arkansas,Central-Arkansas,Bellarmine,1,9,"Louisville, KY / Knights Field",2026,WN2026
+04/26/2026,Bellarmine,Central Arkansas,3,6,0,0,W,Central Arkansas,Central-Arkansas,Bellarmine,1,9,"Louisville, KY / Knights Field",2026,WN2026
+05/01/2026,Austin Peay,Central Arkansas,5,2,0,0,L,Central Arkansas,Central-Arkansas,Austin-Peay,1,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+05/02/2026,Austin Peay,Central Arkansas,2,1,0,0,L,Central Arkansas,Central-Arkansas,Austin-Peay,1,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+05/03/2026,Austin Peay,Central Arkansas,7,8,0,0,W,Central Arkansas,Central-Arkansas,Austin-Peay,1,9,"Clarksville, TN / Raymond C. Hand Park",2026,WN2026
+05/05/2026,Memphis,Central Arkansas,8,3,0,0,L,Central Arkansas,Central-Arkansas,Memphis,1,9,"Memphis, TN / FedExPark",2026,WN2026
+05/08/2026,Central Arkansas,North Alabama,11,6,0,0,W,Central Arkansas,Central-Arkansas,North-Alabama,0,9,"Conway, AR / Bear Stadium / Box Score",2026,WN2026
+05/09/2026,Central Arkansas,North Alabama,4,12,0,0,L,Central Arkansas,Central-Arkansas,North-Alabama,0,9,"Conway, AR / Bear Stadium / Box Score",2026,WN2026
+05/09/2026,Central Arkansas,North Alabama,4,3,0,0,W,Central Arkansas,Central-Arkansas,North-Alabama,0,10,"Conway, AR / Bear Stadium / Box Score",2026,WN2026
+05/14/2026,Central Arkansas,Lipscomb,4,1,0,0,W,Central Arkansas,Central-Arkansas,Lipscomb,0,9,"Conway, AR / Bear Stadium / Box Score",2026,WN2026
+05/15/2026,Central Arkansas,Lipscomb,5,16,0,0,L,Central Arkansas,Central-Arkansas,Lipscomb,0,9,"Conway, AR / Bear Stadium / Box Score",2026,WN2026
+05/16/2026,Central Arkansas,Lipscomb,4,7,0,0,L,Central Arkansas,Central-Arkansas,Lipscomb,0,9,"Conway, AR / Bear Stadium / Box Score",2026,WN2026
+05/19/2026,Stetson,Central Arkansas,4,6,0,1,W,Central Arkansas,Central-Arkansas,Stetson,0,9,"DeLand, FL / Melching Field at Conrad Park / Recap",2026,WN2026
+05/21/2026,FGCU,Central Arkansas,4,3,0,1,L,Central Arkansas,Central-Arkansas,FGCU,0,9,"DeLand, FL / Melching Field at Conrad Park / Recap",2026,WN2026

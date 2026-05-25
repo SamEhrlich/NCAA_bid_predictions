@@ -1,0 +1,53 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UCF,Siena,16,0,0,0,W,UCF,UCF,Siena,0,7,"Orlando, FL / John Euliano Park",2026,WN2026
+02/14/2026,UCF,Siena,13,1,0,0,W,UCF,UCF,Siena,0,7,"Orlando, FL / John Euliano Park",2026,WN2026
+02/15/2026,UCF,Siena,15,0,0,0,W,UCF,UCF,Siena,0,7,"Orlando, FL / John Euliano Park",2026,WN2026
+02/17/2026,Miami (FL),UCF,8,7,0,0,L,UCF,UCF,Miami-FL,1,13,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+02/20/2026,Notre Dame,UCF,2,4,0,1,W,UCF,UCF,Notre-Dame,0,10,"Jacksonville, FL / VyStar Ballpark",2026,WN2026
+02/21/2026,Indiana,UCF,6,1,0,1,L,UCF,UCF,Indiana,0,9,"Jacksonville, FL / VyStar Ballpark",2026,WN2026
+02/22/2026,LSU,UCF,11,0,0,1,L,UCF,UCF,LSU,0,7,"Jacksonville, FL / VyStar Ballpark",2026,WN2026
+02/28/2026,UCF,South Florida,2,9,0,0,L,UCF,UCF,South-Florida,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+02/28/2026,UCF,South Florida,1,2,0,0,L,UCF,UCF,South-Florida,0,10,"Orlando, FL / John Euliano Park",2026,WN2026
+03/01/2026,UCF,South Florida,2,1,0,0,W,UCF,UCF,South-Florida,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/04/2026,UCF,FGCU,12,5,0,0,W,UCF,UCF,FGCU,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/06/2026,UCF,Murray State,8,3,0,0,W,UCF,UCF,Murray-State,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/07/2026,UCF,Murray State,4,0,0,0,W,UCF,UCF,Murray-State,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/08/2026,UCF,Murray State,10,9,0,0,W,UCF,UCF,Murray-State,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/11/2026,UCF,Miami (FL),5,9,0,0,L,UCF,UCF,Miami-FL,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/13/2026,UCF,Oklahoma State,12,11,0,0,W,UCF,UCF,Oklahoma-State,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/14/2026,UCF,Oklahoma State,6,1,0,0,W,UCF,UCF,Oklahoma-State,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/15/2026,UCF,Oklahoma State,6,5,0,0,W,UCF,UCF,Oklahoma-State,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/17/2026,UCF,Columbia,8,5,0,0,W,UCF,UCF,Columbia,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/20/2026,TCU,UCF,7,18,0,0,W,UCF,UCF,TCU,1,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/21/2026,TCU,UCF,6,0,0,0,L,UCF,UCF,TCU,1,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/22/2026,TCU,UCF,1,9,0,0,W,UCF,UCF,TCU,1,9,"Fort Worth, TX / Lupton Stadium",2026,WN2026
+03/24/2026,Stetson,UCF,8,4,0,0,L,UCF,UCF,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+03/27/2026,UCF,Arizona,11,6,0,0,W,UCF,UCF,Arizona,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/28/2026,UCF,Arizona,13,3,0,0,W,UCF,UCF,Arizona,0,8,"Orlando, FL / John Euliano Park",2026,WN2026
+03/29/2026,UCF,Arizona,3,2,0,0,W,UCF,UCF,Arizona,0,13,"Orlando, FL / John Euliano Park",2026,WN2026
+04/03/2026,West Virginia,UCF,0,5,0,0,W,UCF,UCF,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+04/04/2026,West Virginia,UCF,11,10,0,0,L,UCF,UCF,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+04/05/2026,West Virginia,UCF,1,5,0,0,W,UCF,UCF,West-Virginia,1,9,"Granville, WV / Monongalia County Ballpark",2026,WN2026
+04/10/2026,Kansas,UCF,4,3,0,0,L,UCF,UCF,Kansas,1,11,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/11/2026,Kansas,UCF,6,3,0,0,L,UCF,UCF,Kansas,1,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/11/2026,Kansas,UCF,3,1,0,0,L,UCF,UCF,Kansas,1,9,"Lawrence, KS / Hoglund Ballpark",2026,WN2026
+04/14/2026,UCF,Jacksonville,4,5,0,0,L,UCF,UCF,Jacksonville,0,11,"Orlando, FL / John Euliano Park",2026,WN2026
+04/17/2026,UCF,Cincinnati,7,1,0,0,W,UCF,UCF,Cincinnati,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+04/18/2026,UCF,Cincinnati,3,9,0,0,L,UCF,UCF,Cincinnati,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+04/19/2026,UCF,Cincinnati,9,11,0,0,L,UCF,UCF,Cincinnati,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+04/21/2026,Bethune-Cookman,UCF,4,5,0,0,W,UCF,UCF,Bethune-Cookman,1,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+04/24/2026,Utah,UCF,2,12,0,0,W,UCF,UCF,Utah,1,8,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+04/25/2026,Utah,UCF,4,12,0,0,W,UCF,UCF,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+04/25/2026,Utah,UCF,0,10,0,0,W,UCF,UCF,Utah,1,7,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+04/29/2026,Stetson,UCF,5,6,0,1,W,UCF,UCF,Stetson,0,9,"Lakeland, FL / Publix Field",2026,WN2026
+05/01/2026,UCF,Arizona State,4,9,0,0,L,UCF,UCF,Arizona-State,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+05/03/2026,UCF,Arizona State,4,2,0,0,W,UCF,UCF,Arizona-State,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+05/03/2026,UCF,Arizona State,3,6,0,0,L,UCF,UCF,Arizona-State,0,9,"Orlando, FL / John Euliano Park",2026,WN2026
+05/05/2026,FAU,UCF,6,5,0,0,L,UCF,UCF,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+05/08/2026,Baylor,UCF,0,8,0,0,W,UCF,UCF,Baylor,1,9,"Waco, TX / Baylor Ballpark / Box Score",2026,WN2026
+05/09/2026,Baylor,UCF,3,19,0,0,W,UCF,UCF,Baylor,1,7,"Waco, TX / Baylor Ballpark / Box Score",2026,WN2026
+05/10/2026,Baylor,UCF,8,7,0,0,L,UCF,UCF,Baylor,1,9,"Waco, TX / Baylor Ballpark / Box Score",2026,WN2026
+05/14/2026,UCF,Kansas State,10,6,0,0,W,UCF,UCF,Kansas-State,0,9,"Orlando, FL / John Euliano Park / Box Score",2026,WN2026
+05/15/2026,UCF,Kansas State,4,5,0,0,L,UCF,UCF,Kansas-State,0,9,"Orlando, FL / John Euliano Park / Box Score",2026,WN2026
+05/16/2026,UCF,Kansas State,6,5,0,0,W,UCF,UCF,Kansas-State,0,9,"Orlando, FL / John Euliano Park / Box Score",2026,WN2026
+05/21/2026,Oklahoma State,UCF,12,6,0,1,L,UCF,UCF,Oklahoma-State,0,9,"Surprize, AZ / Surprise Stadium / Box Score / Recap",2026,WN2026

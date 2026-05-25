@@ -1,0 +1,54 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,South Florida,Illinois,9,4,0,0,W,South Florida,South-Florida,Illinois,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/14/2026,South Florida,Illinois,2,4,0,0,L,South Florida,South-Florida,Illinois,0,10,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/15/2026,South Florida,Illinois,11,10,0,0,W,South Florida,South-Florida,Illinois,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/17/2026,South Florida,North Dakota State,9,5,0,0,W,South Florida,South-Florida,North-Dakota-State,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/18/2026,South Florida,North Dakota State,3,1,0,0,W,South Florida,South-Florida,North-Dakota-State,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/20/2026,South Florida,Georgia Southern,9,7,0,0,W,South Florida,South-Florida,Georgia-Southern,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/21/2026,South Florida,Georgia Southern,29,4,0,0,W,South Florida,South-Florida,Georgia-Southern,0,7,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/22/2026,South Florida,Georgia Southern,4,3,0,0,W,South Florida,South-Florida,Georgia-Southern,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+02/24/2026,Bethune-Cookman,South Florida,4,3,0,0,L,South Florida,South-Florida,Bethune-Cookman,1,9,"Daytona, FL / Radiology Associates Field at Jackie Robinson Ballpark",2026,WN2026
+02/28/2026,UCF,South Florida,2,9,0,0,W,South Florida,South-Florida,UCF,1,9,"Orlando, FL / John Euliano Park",2026,WN2026
+02/28/2026,UCF,South Florida,1,2,0,0,W,South Florida,South-Florida,UCF,1,10,"Orlando, FL / John Euliano Park",2026,WN2026
+03/01/2026,UCF,South Florida,2,1,0,0,L,South Florida,South-Florida,UCF,1,9,"Orlando, FL / John Euliano Park",2026,WN2026
+03/03/2026,South Florida,Stetson,12,4,0,0,W,South Florida,South-Florida,Stetson,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/06/2026,South Florida,Southern,6,1,0,0,W,South Florida,South-Florida,Southern,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/07/2026,South Florida,Southern,15,1,0,0,W,South Florida,South-Florida,Southern,0,7,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/07/2026,South Florida,Southern,9,2,0,0,W,South Florida,South-Florida,Southern,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/09/2026,Jacksonville,South Florida,6,11,0,0,W,South Florida,South-Florida,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+03/13/2026,South Florida,Columbia,6,3,0,0,W,South Florida,South-Florida,Columbia,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/14/2026,South Florida,Columbia,2,0,0,0,W,South Florida,South-Florida,Columbia,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/14/2026,South Florida,Columbia,10,6,0,0,W,South Florida,South-Florida,Columbia,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/17/2026,South Florida,Jacksonville,13,3,0,0,W,South Florida,South-Florida,Jacksonville,0,7,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/20/2026,South Florida,Rice,4,5,0,0,L,South Florida,South-Florida,Rice,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/21/2026,South Florida,Rice,2,0,0,0,W,South Florida,South-Florida,Rice,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/22/2026,South Florida,Rice,7,2,0,0,W,South Florida,South-Florida,Rice,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+03/24/2026,FGCU,South Florida,3,7,0,0,W,South Florida,South-Florida,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/27/2026,Charlotte,South Florida,11,2,0,0,L,South Florida,South-Florida,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/28/2026,Charlotte,South Florida,5,9,0,0,W,South Florida,South-Florida,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/29/2026,Charlotte,South Florida,10,3,0,0,L,South Florida,South-Florida,Charlotte,1,9,"Charlotte, NC / Robert and Mariam Hayes Stadium",2026,WN2026
+03/31/2026,South Florida,Bethune-Cookman,5,6,0,0,L,South Florida,South-Florida,Bethune-Cookman,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+04/02/2026,South Florida,Memphis,10,1,0,0,W,South Florida,South-Florida,Memphis,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+04/03/2026,South Florida,Memphis,4,7,0,0,L,South Florida,South-Florida,Memphis,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+04/04/2026,South Florida,Memphis,5,0,0,0,W,South Florida,South-Florida,Memphis,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+04/10/2026,UTSA,South Florida,11,3,0,0,L,South Florida,South-Florida,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+04/11/2026,UTSA,South Florida,7,3,0,0,L,South Florida,South-Florida,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+04/11/2026,UTSA,South Florida,1,7,0,0,W,South Florida,South-Florida,UTSA,1,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+04/15/2026,Miami (FL),South Florida,2,4,0,0,W,South Florida,South-Florida,Miami-FL,1,9,"Coral Gables, FL / Alex Rodriguez Park at Mark Light Field",2026,WN2026
+04/17/2026,South Florida,UAB,4,8,0,0,L,South Florida,South-Florida,UAB,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+04/18/2026,South Florida,UAB,6,12,0,0,L,South Florida,South-Florida,UAB,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+04/19/2026,South Florida,UAB,1,0,0,0,W,South Florida,South-Florida,UAB,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+04/21/2026,Stetson,South Florida,5,6,0,0,W,South Florida,South-Florida,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+04/24/2026,East Carolina,South Florida,11,1,0,0,L,South Florida,South-Florida,East-Carolina,1,7,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+04/25/2026,East Carolina,South Florida,12,4,0,0,L,South Florida,South-Florida,East-Carolina,1,9,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+04/26/2026,East Carolina,South Florida,12,2,0,0,L,South Florida,South-Florida,East-Carolina,1,8,"Greenville, NC / Clark-LeClair Stadium",2026,WN2026
+04/29/2026,Florida State,South Florida,9,1,0,0,L,South Florida,South-Florida,Florida-State,1,9,"Tallahassee, FL / Mike Martin Field at Dick Howser Stadium",2026,WN2026
+05/01/2026,South Florida,FAU,9,12,0,0,L,South Florida,South-Florida,FAU,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+05/02/2026,South Florida,FAU,5,6,0,0,L,South Florida,South-Florida,FAU,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+05/03/2026,South Florida,FAU,11,6,0,0,W,South Florida,South-Florida,FAU,0,9,"Tampa, FL / USF Baseball Stadium",2026,WN2026
+05/08/2026,Tulane,South Florida,6,16,0,0,W,South Florida,South-Florida,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium / Box Score",2026,WN2026
+05/09/2026,Tulane,South Florida,9,8,0,0,L,South Florida,South-Florida,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium / Box Score",2026,WN2026
+05/10/2026,Tulane,South Florida,9,5,0,0,L,South Florida,South-Florida,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium / Box Score",2026,WN2026
+05/14/2026,South Florida,Wichita State,4,1,0,0,W,South Florida,South-Florida,Wichita-State,0,9,"Tampa, FL / USF Baseball Stadium / Box Score",2026,WN2026
+05/15/2026,South Florida,Wichita State,7,6,0,0,W,South Florida,South-Florida,Wichita-State,0,10,"Tampa, FL / USF Baseball Stadium / Box Score",2026,WN2026
+05/16/2026,South Florida,Wichita State,5,8,0,0,L,South Florida,South-Florida,Wichita-State,0,10,"Tampa, FL / USF Baseball Stadium / Box Score",2026,WN2026

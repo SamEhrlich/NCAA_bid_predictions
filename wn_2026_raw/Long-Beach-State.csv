@@ -1,0 +1,53 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Long Beach State,San Jose State,0,8,0,0,L,Long Beach State,Long-Beach-State,San-Jose-State,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+02/14/2026,Long Beach State,San Jose State,12,3,0,0,W,Long Beach State,Long-Beach-State,San-Jose-State,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+02/15/2026,Long Beach State,San Jose State,2,3,0,0,L,Long Beach State,Long-Beach-State,San-Jose-State,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+02/17/2026,Long Beach State,San Diego,3,6,0,0,L,Long Beach State,Long-Beach-State,San-Diego,0,11,"Long Beach, CA / Blair Field",2026,WN2026
+02/20/2026,Pittsburgh,Long Beach State,6,2,0,1,L,Long Beach State,Long-Beach-State,Pittsburgh,0,9,"Corpus Christi, TX / Whataburger Field",2026,WN2026
+02/21/2026,Texas A&M-Corpus Christi,Long Beach State,5,10,0,0,W,Long Beach State,Long-Beach-State,Texas-AM-Corpus-Christi,1,9,"Corpus Christi, TX / Whataburger Field",2026,WN2026
+02/22/2026,Cal State Bakersfield,Long Beach State,15,2,0,1,L,Long Beach State,Long-Beach-State,Cal-State-Bakersfield,0,8,"Corpus Christi, TX / Whataburger Field",2026,WN2026
+02/25/2026,Long Beach State,BYU,10,7,0,0,W,Long Beach State,Long-Beach-State,BYU,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+02/27/2026,Long Beach State,Washington State,4,10,0,0,L,Long Beach State,Long-Beach-State,Washington-State,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+02/28/2026,Long Beach State,BYU,7,6,0,0,W,Long Beach State,Long-Beach-State,BYU,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+03/01/2026,Long Beach State,Washington State,7,9,0,0,L,Long Beach State,Long-Beach-State,Washington-State,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+03/04/2026,San Diego State,Long Beach State,13,10,0,0,L,Long Beach State,Long-Beach-State,San-Diego-State,1,9,"San Diego, CA / Tony Gwynn Stadium",2026,WN2026
+03/06/2026,UC Santa Barbara,Long Beach State,4,3,0,0,L,Long Beach State,Long-Beach-State,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+03/07/2026,UC Santa Barbara,Long Beach State,7,4,0,0,L,Long Beach State,Long-Beach-State,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+03/08/2026,UC Santa Barbara,Long Beach State,6,2,0,0,L,Long Beach State,Long-Beach-State,UC-Santa-Barbara,1,9,"Santa Barbara, CA / Caesar Uyesaka Stadium",2026,WN2026
+03/10/2026,USC,Long Beach State,6,1,0,0,L,Long Beach State,Long-Beach-State,USC,1,9,"Los Angeles, CA / Dedeaux Field",2026,WN2026
+03/13/2026,Long Beach State,Hawaii,1,11,0,0,L,Long Beach State,Long-Beach-State,Hawaii,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+03/14/2026,Long Beach State,Hawaii,7,6,0,0,W,Long Beach State,Long-Beach-State,Hawaii,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+03/15/2026,Long Beach State,Hawaii,2,1,0,0,W,Long Beach State,Long-Beach-State,Hawaii,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+03/17/2026,Long Beach State,Loyola-Marymount,16,7,0,0,W,Long Beach State,Long-Beach-State,Loyola-Marymount,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+03/20/2026,Cal State Bakersfield,Long Beach State,3,0,0,0,L,Long Beach State,Long-Beach-State,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+03/21/2026,Cal State Bakersfield,Long Beach State,12,6,0,0,L,Long Beach State,Long-Beach-State,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+03/22/2026,Cal State Bakersfield,Long Beach State,1,5,0,0,W,Long Beach State,Long-Beach-State,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+03/23/2026,Fresno State,Long Beach State,8,1,0,0,L,Long Beach State,Long-Beach-State,Fresno-State,1,9,"Fresno, CA / Pete Beiden Field at Bob Bennett Stadium",2026,WN2026
+03/27/2026,Long Beach State,UC Irvine,10,2,0,0,W,Long Beach State,Long-Beach-State,UC-Irvine,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+03/28/2026,Long Beach State,UC Irvine,9,12,0,0,L,Long Beach State,Long-Beach-State,UC-Irvine,0,11,"Long Beach, CA / Blair Field",2026,WN2026
+03/29/2026,Long Beach State,UC Irvine,1,7,0,0,L,Long Beach State,Long-Beach-State,UC-Irvine,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/02/2026,Cal State Northridge,Long Beach State,7,2,0,0,L,Long Beach State,Long-Beach-State,Cal-State-Northridge,1,9,"Northridge, CA / Matador Field",2026,WN2026
+04/03/2026,Cal State Northridge,Long Beach State,4,17,0,0,W,Long Beach State,Long-Beach-State,Cal-State-Northridge,1,9,"Northridge, CA / Matador Field",2026,WN2026
+04/04/2026,Cal State Northridge,Long Beach State,18,4,0,0,L,Long Beach State,Long-Beach-State,Cal-State-Northridge,1,9,"Northridge, CA / Matador Field",2026,WN2026
+04/06/2026,Long Beach State,California Baptist,5,10,0,0,L,Long Beach State,Long-Beach-State,California-Baptist,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/10/2026,Long Beach State,Cal State Fullerton,0,10,0,0,L,Long Beach State,Long-Beach-State,Cal-State-Fullerton,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/11/2026,Long Beach State,Cal State Fullerton,4,3,0,0,W,Long Beach State,Long-Beach-State,Cal-State-Fullerton,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/12/2026,Long Beach State,Cal State Fullerton,2,6,0,0,L,Long Beach State,Long-Beach-State,Cal-State-Fullerton,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/14/2026,Long Beach State,USC,5,3,0,0,W,Long Beach State,Long-Beach-State,USC,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/15/2026,Long Beach State,San Diego State,5,7,0,0,L,Long Beach State,Long-Beach-State,San-Diego-State,0,12,"Long Beach, CA / Blair Field",2026,WN2026
+04/17/2026,Long Beach State,UC Riverside,3,5,0,0,L,Long Beach State,Long-Beach-State,UC-Riverside,0,11,"Long Beach, CA / Blair Field",2026,WN2026
+04/18/2026,Long Beach State,UC Riverside,1,4,0,0,L,Long Beach State,Long-Beach-State,UC-Riverside,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/19/2026,Long Beach State,UC Riverside,2,7,0,0,L,Long Beach State,Long-Beach-State,UC-Riverside,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/21/2026,Long Beach State,Fresno State,2,5,0,0,L,Long Beach State,Long-Beach-State,Fresno-State,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+04/24/2026,UC Davis,Long Beach State,3,5,0,0,W,Long Beach State,Long-Beach-State,UC-Davis,1,9,"Davis, CA / Dobbins Stadium",2026,WN2026
+04/25/2026,UC Davis,Long Beach State,3,5,0,0,W,Long Beach State,Long-Beach-State,UC-Davis,1,9,"Davis, CA / Dobbins Stadium",2026,WN2026
+04/26/2026,UC Davis,Long Beach State,3,0,0,0,L,Long Beach State,Long-Beach-State,UC-Davis,1,9,"Davis, CA / Dobbins Stadium",2026,WN2026
+05/01/2026,Long Beach State,UC San Diego,3,1,0,0,W,Long Beach State,Long-Beach-State,UC-San-Diego,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+05/02/2026,Long Beach State,UC San Diego,11,1,0,0,W,Long Beach State,Long-Beach-State,UC-San-Diego,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+05/03/2026,Long Beach State,UC San Diego,6,4,0,0,W,Long Beach State,Long-Beach-State,UC-San-Diego,0,9,"Long Beach, CA / Blair Field",2026,WN2026
+05/08/2026,Long Beach State,Oregon State,2,7,0,0,L,Long Beach State,Long-Beach-State,Oregon-State,0,9,"Long Beach, CA / Blair Field / Box Score",2026,WN2026
+05/09/2026,Long Beach State,Oregon State,1,8,0,0,L,Long Beach State,Long-Beach-State,Oregon-State,0,9,"Long Beach, CA / Blair Field / Box Score",2026,WN2026
+05/10/2026,Long Beach State,Oregon State,4,8,0,0,L,Long Beach State,Long-Beach-State,Oregon-State,0,9,"Long Beach, CA / Blair Field / Box Score",2026,WN2026
+05/14/2026,Cal Poly,Long Beach State,11,3,0,0,L,Long Beach State,Long-Beach-State,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium / Box Score",2026,WN2026
+05/15/2026,Cal Poly,Long Beach State,6,2,0,0,L,Long Beach State,Long-Beach-State,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium / Box Score",2026,WN2026
+05/16/2026,Cal Poly,Long Beach State,8,3,0,0,L,Long Beach State,Long-Beach-State,Cal-Poly,1,9,"San Luis Obispo, CA / Robin Baggett Stadium / Box Score",2026,WN2026

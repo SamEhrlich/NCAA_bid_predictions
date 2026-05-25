@@ -1,0 +1,50 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,FIU,Villanova,4,7,0,0,W,Villanova,Villanova,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+02/14/2026,FIU,Villanova,13,3,0,0,L,Villanova,Villanova,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+02/15/2026,FIU,Villanova,4,3,0,0,L,Villanova,Villanova,FIU,1,9,"Miami, FL / FIU Baseball Stadium",2026,WN2026
+02/20/2026,Lipscomb,Villanova,5,11,0,0,W,Villanova,Villanova,Lipscomb,1,10,"Nashville, TN / Ken Dugan Field",2026,WN2026
+02/21/2026,Lipscomb,Villanova,9,8,0,0,L,Villanova,Villanova,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+02/27/2026,FAU,Villanova,11,4,0,0,L,Villanova,Villanova,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+02/28/2026,FAU,Villanova,11,5,0,0,L,Villanova,Villanova,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/01/2026,FAU,Villanova,15,5,0,0,L,Villanova,Villanova,FAU,1,7,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/04/2026,North Florida,Villanova,0,4,0,0,W,Villanova,Villanova,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+03/06/2026,Florida A&M,Villanova,4,1,0,0,L,Villanova,Villanova,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/07/2026,Florida A&M,Villanova,6,5,0,0,L,Villanova,Villanova,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/08/2026,Florida A&M,Villanova,1,4,0,0,W,Villanova,Villanova,Florida-AM,1,8,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/10/2026,Villanova,La Salle,14,10,0,0,W,Villanova,Villanova,La-Salle,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+03/13/2026,Charleston Southern,Villanova,4,5,0,0,W,Villanova,Villanova,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+03/14/2026,Charleston Southern,Villanova,0,5,0,0,W,Villanova,Villanova,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+03/14/2026,Charleston Southern,Villanova,22,4,0,0,L,Villanova,Villanova,Charleston-Southern,1,7,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+03/20/2026,Villanova,UNC Asheville,9,12,0,0,L,Villanova,Villanova,UNC-Asheville,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+03/21/2026,Villanova,UNC Asheville,10,4,0,0,W,Villanova,Villanova,UNC-Asheville,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+03/22/2026,Villanova,UNC Asheville,11,6,0,0,W,Villanova,Villanova,UNC-Asheville,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+03/25/2026,Villanova,Hofstra,9,8,0,0,W,Villanova,Villanova,Hofstra,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+03/27/2026,UTA,Villanova,9,2,0,0,L,Villanova,Villanova,UTA,1,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/28/2026,UTA,Villanova,11,3,0,0,L,Villanova,Villanova,UTA,1,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/29/2026,UTA,Villanova,2,1,0,0,L,Villanova,Villanova,UTA,1,9,"Arlington, TX / Clay Gould Ballpark",2026,WN2026
+03/31/2026,Villanova,Lafayette,1,11,0,0,L,Villanova,Villanova,Lafayette,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+04/02/2026,Villanova,Butler,6,8,0,0,L,Villanova,Villanova,Butler,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+04/03/2026,Villanova,Butler,5,7,0,0,L,Villanova,Villanova,Butler,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+04/04/2026,Villanova,Butler,1,10,0,0,L,Villanova,Villanova,Butler,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+04/08/2026,Delaware State,Villanova,10,20,0,0,W,Villanova,Villanova,Delaware-State,1,9,"Dover, DE / Soldier Field",2026,WN2026
+04/10/2026,Xavier,Villanova,8,4,0,0,L,Villanova,Villanova,Xavier,1,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+04/11/2026,Xavier,Villanova,9,7,0,0,L,Villanova,Villanova,Xavier,1,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+04/12/2026,Xavier,Villanova,9,6,0,0,L,Villanova,Villanova,Xavier,1,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+04/14/2026,Villanova,Bucknell,14,2,0,0,W,Villanova,Villanova,Bucknell,0,7,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+04/17/2026,Villanova,Creighton,4,9,0,0,L,Villanova,Villanova,Creighton,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+04/18/2026,Villanova,Creighton,2,20,0,0,L,Villanova,Villanova,Creighton,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+04/18/2026,Villanova,Creighton,3,14,0,0,L,Villanova,Villanova,Creighton,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+04/24/2026,Seton Hall,Villanova,9,3,0,0,L,Villanova,Villanova,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/26/2026,Seton Hall,Villanova,3,2,0,0,L,Villanova,Villanova,Seton-Hall,1,7,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/26/2026,Seton Hall,Villanova,6,11,0,0,W,Villanova,Villanova,Seton-Hall,1,9,"South Orange, NJ / Owen T. Carroll Field",2026,WN2026
+04/28/2026,Villanova,Saint Joseph's,8,7,0,0,W,Villanova,Villanova,Saint-Josephs,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+05/01/2026,Georgetown,Villanova,7,11,0,0,W,Villanova,Villanova,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+05/02/2026,Georgetown,Villanova,3,9,0,0,W,Villanova,Villanova,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+05/03/2026,Georgetown,Villanova,14,5,0,0,L,Villanova,Villanova,Georgetown,1,9,"Tysons, VA / Capital One Park",2026,WN2026
+05/06/2026,Villanova,Towson,14,1,0,0,W,Villanova,Villanova,Towson,0,7,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth",2026,WN2026
+05/08/2026,Villanova,Saint John's,1,8,0,0,L,Villanova,Villanova,Saint-Johns,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth / Box Score",2026,WN2026
+05/09/2026,Villanova,Saint John's,0,3,0,0,L,Villanova,Villanova,Saint-Johns,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth / Box Score",2026,WN2026
+05/10/2026,Villanova,Saint John's,8,2,0,0,W,Villanova,Villanova,Saint-Johns,0,9,"Plymouth Meeting, PA / Villanova Ballpark at Plymouth / Box Score",2026,WN2026
+05/14/2026,Connecticut,Villanova,6,5,0,0,L,Villanova,Villanova,Connecticut,1,9,"Storrs, CT / Elliot Ballpark / Box Score",2026,WN2026
+05/15/2026,Connecticut,Villanova,8,0,0,0,L,Villanova,Villanova,Connecticut,1,9,"Storrs, CT / Elliot Ballpark / Box Score",2026,WN2026
+05/16/2026,Connecticut,Villanova,6,9,0,0,W,Villanova,Villanova,Connecticut,1,9,"Storrs, CT / Elliot Ballpark / Box Score",2026,WN2026

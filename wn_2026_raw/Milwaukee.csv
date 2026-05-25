@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,LSU,Milwaukee,16,5,0,0,L,Milwaukee,Milwaukee,LSU,1,8,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+02/14/2026,LSU,Milwaukee,5,3,0,0,L,Milwaukee,Milwaukee,LSU,1,9,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+02/15/2026,LSU,Milwaukee,21,7,0,0,L,Milwaukee,Milwaukee,LSU,1,7,"Baton Rouge, LA / Alex Box Stadium",2026,WN2026
+02/20/2026,Duke,Milwaukee,20,3,0,0,L,Milwaukee,Milwaukee,Duke,1,7,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/21/2026,Duke,Milwaukee,10,8,0,0,L,Milwaukee,Milwaukee,Duke,1,7,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/21/2026,Duke,Milwaukee,6,9,0,0,W,Milwaukee,Milwaukee,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/22/2026,Duke,Milwaukee,6,1,0,0,L,Milwaukee,Milwaukee,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+02/27/2026,Evansville,Milwaukee,9,12,0,0,W,Milwaukee,Milwaukee,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+02/28/2026,Evansville,Milwaukee,2,1,0,0,L,Milwaukee,Milwaukee,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/01/2026,Evansville,Milwaukee,4,2,0,0,L,Milwaukee,Milwaukee,Evansville,1,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/03/2026,Minnesota,Milwaukee,14,4,0,0,L,Milwaukee,Milwaukee,Minnesota,1,8,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/04/2026,Minnesota,Milwaukee,6,2,0,0,L,Milwaukee,Milwaukee,Minnesota,1,9,"Minneapolis, MN / U.S. Bank Stadium",2026,WN2026
+03/06/2026,Southeast Missouri,Milwaukee,8,2,0,0,L,Milwaukee,Milwaukee,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/07/2026,Southeast Missouri,Milwaukee,9,2,0,0,L,Milwaukee,Milwaukee,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/08/2026,Southeast Missouri,Milwaukee,12,2,0,0,L,Milwaukee,Milwaukee,Southeast-Missouri,1,7,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/10/2026,Purdue,Milwaukee,17,1,0,0,L,Milwaukee,Milwaukee,Purdue,1,9,"West Lafayette, IN / Alexander Field",2026,WN2026
+03/13/2026,Northern Kentucky,Milwaukee,9,16,0,0,W,Milwaukee,Milwaukee,Northern-Kentucky,1,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/14/2026,Northern Kentucky,Milwaukee,14,1,0,0,L,Milwaukee,Milwaukee,Northern-Kentucky,1,7,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/15/2026,Northern Kentucky,Milwaukee,10,16,0,0,W,Milwaukee,Milwaukee,Northern-Kentucky,1,14,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/20/2026,Wright State,Milwaukee,8,4,0,0,L,Milwaukee,Milwaukee,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+03/21/2026,Wright State,Milwaukee,8,3,0,0,L,Milwaukee,Milwaukee,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+03/22/2026,Wright State,Milwaukee,6,5,0,0,L,Milwaukee,Milwaukee,Wright-State,1,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+03/28/2026,Milwaukee,Butler,2,6,0,0,L,Milwaukee,Milwaukee,Butler,0,7,"Franklin, WI / Franklin Field",2026,WN2026
+03/28/2026,Milwaukee,Butler,10,3,0,0,W,Milwaukee,Milwaukee,Butler,0,7,"Franklin, WI / Franklin Field",2026,WN2026
+03/29/2026,Milwaukee,Butler,7,8,0,0,L,Milwaukee,Milwaukee,Butler,0,9,"Franklin, WI / Franklin Field",2026,WN2026
+03/31/2026,UIC,Milwaukee,12,5,0,0,L,Milwaukee,Milwaukee,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+04/03/2026,Milwaukee,Youngstown State,3,5,0,0,L,Milwaukee,Milwaukee,Youngstown-State,0,9,"Franklin, WI / Franklin Field",2026,WN2026
+04/03/2026,Milwaukee,Youngstown State,4,7,0,0,L,Milwaukee,Milwaukee,Youngstown-State,0,9,"Franklin, WI / Franklin Field",2026,WN2026
+04/04/2026,Milwaukee,Youngstown State,5,1,0,0,W,Milwaukee,Milwaukee,Youngstown-State,0,9,"Franklin, WI / Franklin Field",2026,WN2026
+04/10/2026,Oakland,Milwaukee,4,12,0,0,W,Milwaukee,Milwaukee,Oakland,1,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/11/2026,Oakland,Milwaukee,6,5,0,0,L,Milwaukee,Milwaukee,Oakland,1,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/12/2026,Oakland,Milwaukee,0,12,0,0,W,Milwaukee,Milwaukee,Oakland,1,7,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/13/2026,Central Michigan,Milwaukee,6,9,0,0,W,Milwaukee,Milwaukee,Central-Michigan,1,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+04/16/2026,Milwaukee,Northern Kentucky,6,5,0,0,W,Milwaukee,Milwaukee,Northern-Kentucky,0,11,"Franklin, WI / Franklin Field",2026,WN2026
+04/18/2026,Milwaukee,Northern Kentucky,14,4,0,0,W,Milwaukee,Milwaukee,Northern-Kentucky,0,8,"Franklin, WI / Franklin Field",2026,WN2026
+04/18/2026,Milwaukee,Northern Kentucky,15,9,0,0,W,Milwaukee,Milwaukee,Northern-Kentucky,0,9,"Franklin, WI / Franklin Field",2026,WN2026
+04/21/2026,Milwaukee,Saint Thomas,9,8,0,0,W,Milwaukee,Milwaukee,Saint-Thomas,0,9,"Franklin, WI / Franklin Field",2026,WN2026
+04/24/2026,Milwaukee,Wright State,10,7,0,0,W,Milwaukee,Milwaukee,Wright-State,0,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+04/25/2026,Milwaukee,Wright State,4,0,0,0,W,Milwaukee,Milwaukee,Wright-State,0,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+04/26/2026,Milwaukee,Wright State,2,13,0,0,L,Milwaukee,Milwaukee,Wright-State,0,8,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+04/28/2026,Northwestern,Milwaukee,10,8,0,0,L,Milwaukee,Milwaukee,Northwestern,1,9,"Evanston, IL / Rocky Miller Park",2026,WN2026
+04/29/2026,Notre Dame,Milwaukee,16,2,0,0,L,Milwaukee,Milwaukee,Notre-Dame,1,7,"Notre Dame, IN / Frank Eck Stadium",2026,WN2026
+05/01/2026,UNLV,Milwaukee,14,4,0,0,L,Milwaukee,Milwaukee,UNLV,1,8,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+05/02/2026,UNLV,Milwaukee,1,4,0,0,W,Milwaukee,Milwaukee,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+05/03/2026,UNLV,Milwaukee,8,7,0,0,L,Milwaukee,Milwaukee,UNLV,1,9,"Paradise, NV / Earl Wilson Stadium",2026,WN2026
+05/05/2026,Milwaukee,Valparaiso,6,4,0,0,W,Milwaukee,Milwaukee,Valparaiso,0,9,"Franklin, WI / Franklin Field",2026,WN2026
+05/06/2026,UIC,Milwaukee,6,12,0,0,W,Milwaukee,Milwaukee,UIC,1,9,"Chicago, IL / Les Miller Field at Curtis Granderson Stadium",2026,WN2026
+05/08/2026,Youngstown State,Milwaukee,13,11,0,0,L,Milwaukee,Milwaukee,Youngstown-State,1,9,"Niles, OH / Eastwood Field / Box Score",2026,WN2026
+05/09/2026,Youngstown State,Milwaukee,4,3,0,0,L,Milwaukee,Milwaukee,Youngstown-State,1,9,"Niles, OH / Eastwood Field / Box Score",2026,WN2026
+05/10/2026,Youngstown State,Milwaukee,8,12,0,0,W,Milwaukee,Milwaukee,Youngstown-State,1,9,"Niles, OH / Eastwood Field / Box Score",2026,WN2026
+05/14/2026,Milwaukee,Oakland,12,11,0,0,W,Milwaukee,Milwaukee,Oakland,0,11,"Franklin, WI / Franklin Field / Box Score",2026,WN2026
+05/15/2026,Milwaukee,Oakland,8,4,0,0,W,Milwaukee,Milwaukee,Oakland,0,9,"Franklin, WI / Franklin Field / Box Score",2026,WN2026
+05/16/2026,Milwaukee,Oakland,14,8,0,0,W,Milwaukee,Milwaukee,Oakland,0,9,"Franklin, WI / Franklin Field / Box Score",2026,WN2026
+05/21/2026,Northern Kentucky,Milwaukee,2,14,0,1,W,Milwaukee,Milwaukee,Northern-Kentucky,0,9,"Dayton, OH / Nischwitz Stadium / Box Score / Recap",2026,WN2026
+05/22/2026,Wright State,Milwaukee,1,4,0,1,W,Milwaukee,Milwaukee,Wright-State,0,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026
+05/23/2026,Wright State,Milwaukee,4,5,0,1,W,Milwaukee,Milwaukee,Wright-State,0,9,"Dayton, OH / Nischwitz Stadium",2026,WN2026

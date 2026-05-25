@@ -1,0 +1,56 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Alabama State,Eastern Kentucky,6,3,0,0,W,Alabama State,Alabama-State,Eastern-Kentucky,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+02/14/2026,Alabama State,Eastern Kentucky,13,0,0,0,W,Alabama State,Alabama-State,Eastern-Kentucky,0,7,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+02/14/2026,Alabama State,Eastern Kentucky,7,14,0,0,L,Alabama State,Alabama-State,Eastern-Kentucky,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+02/18/2026,Alabama,Alabama State,2,1,0,0,L,Alabama State,Alabama-State,Alabama,1,9,"Tuscaloosa, AL / Sewell-Thomas Stadium",2026,WN2026
+02/20/2026,Florida A&M,Alabama State,4,11,0,1,W,Alabama State,Alabama-State,Florida-AM,0,9,Vero Beach. FL / Jackie Robinson Training Complex,2026,WN2026
+02/21/2026,Grambling State,Alabama State,0,7,0,1,W,Alabama State,Alabama-State,Grambling-State,0,7,Vero Beach. FL / Jackie Robinson Training Complex,2026,WN2026
+02/22/2026,Texas Southern,Alabama State,1,2,0,1,W,Alabama State,Alabama-State,Texas-Southern,0,9,Vero Beach. FL / Jackie Robinson Training Complex,2026,WN2026
+02/24/2026,UAB,Alabama State,10,5,0,0,L,Alabama State,Alabama-State,UAB,1,9,"Birmingham, AL / Jerry D. Young Memorial Field",2026,WN2026
+02/27/2026,Alabama State,Valparaiso,6,1,0,0,W,Alabama State,Alabama-State,Valparaiso,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+02/28/2026,Alabama State,Valparaiso,0,9,0,0,L,Alabama State,Alabama-State,Valparaiso,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/01/2026,Alabama State,Valparaiso,1,3,0,0,L,Alabama State,Alabama-State,Valparaiso,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/04/2026,Alabama State,Alabama,4,13,0,0,L,Alabama State,Alabama-State,Alabama,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/06/2026,Alabama State,Longwood,1,16,0,0,L,Alabama State,Alabama-State,Longwood,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/07/2026,Alabama State,Longwood,9,3,0,0,W,Alabama State,Alabama-State,Longwood,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/07/2026,Alabama State,Longwood,9,3,0,0,W,Alabama State,Alabama-State,Longwood,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/13/2026,Alabama State,Grambling State,5,9,0,0,L,Alabama State,Alabama-State,Grambling-State,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/14/2026,Alabama State,Grambling State,5,4,0,0,W,Alabama State,Alabama-State,Grambling-State,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/15/2026,Alabama State,Grambling State,13,14,0,0,L,Alabama State,Alabama-State,Grambling-State,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/17/2026,Alabama State,Troy,2,11,0,0,L,Alabama State,Alabama-State,Troy,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/20/2026,Alabama State,Southern,6,18,0,0,L,Alabama State,Alabama-State,Southern,0,8,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/21/2026,Alabama State,Southern,7,5,0,0,W,Alabama State,Alabama-State,Southern,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/22/2026,Alabama State,Southern,5,2,0,0,W,Alabama State,Alabama-State,Southern,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+03/24/2026,Georgia State,Alabama State,4,7,0,0,W,Alabama State,Alabama-State,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+03/27/2026,Florida A&M,Alabama State,5,1,0,0,L,Alabama State,Alabama-State,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/28/2026,Florida A&M,Alabama State,9,1,0,0,L,Alabama State,Alabama-State,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/29/2026,Florida A&M,Alabama State,7,2,0,0,L,Alabama State,Alabama-State,Florida-AM,1,9,"Tallahassee, FL / Moore-Kittles Field",2026,WN2026
+03/31/2026,Troy,Alabama State,14,2,0,0,L,Alabama State,Alabama-State,Troy,1,7,"Troy, AL / Riddle-Pace Field",2026,WN2026
+04/02/2026,Alabama State,Arkansas-Pine Bluff,14,10,0,0,W,Alabama State,Alabama-State,Arkansas-Pine-Bluff,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+04/03/2026,Alabama State,Arkansas-Pine Bluff,9,4,0,0,W,Alabama State,Alabama-State,Arkansas-Pine-Bluff,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+04/04/2026,Alabama State,Arkansas-Pine Bluff,1,26,0,0,L,Alabama State,Alabama-State,Arkansas-Pine-Bluff,0,8,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+04/08/2026,Alabama State,South Alabama,7,5,0,0,W,Alabama State,Alabama-State,South-Alabama,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+04/10/2026,Alabama A&M,Alabama State,0,10,0,0,W,Alabama State,Alabama-State,Alabama-AM,1,9,"Huntsville, AL / Bulldog Field",2026,WN2026
+04/11/2026,Alabama A&M,Alabama State,1,12,0,0,W,Alabama State,Alabama-State,Alabama-AM,1,7,"Huntsville, AL / Bulldog Field",2026,WN2026
+04/12/2026,Alabama A&M,Alabama State,6,15,0,0,W,Alabama State,Alabama-State,Alabama-AM,1,9,"Huntsville, AL / Bulldog Field",2026,WN2026
+04/14/2026,Auburn,Alabama State,13,0,0,0,L,Alabama State,Alabama-State,Auburn,1,7,"Auburn, AL / Plainsman Park",2026,WN2026
+04/17/2026,Jackson State,Alabama State,2,3,0,0,W,Alabama State,Alabama-State,Jackson-State,1,9,"Jackson, MS / Braddy Field",2026,WN2026
+04/18/2026,Jackson State,Alabama State,7,8,0,0,W,Alabama State,Alabama-State,Jackson-State,1,10,"Jackson, MS / Braddy Field",2026,WN2026
+04/19/2026,Jackson State,Alabama State,9,6,0,0,L,Alabama State,Alabama-State,Jackson-State,1,9,"Jackson, MS / Braddy Field",2026,WN2026
+04/21/2026,Mercer,Alabama State,14,4,0,0,L,Alabama State,Alabama-State,Mercer,1,7,"Macon, GA / Claude Smith Field",2026,WN2026
+04/24/2026,Alabama State,Mississippi Valley State,11,3,0,0,W,Alabama State,Alabama-State,Mississippi-Valley-State,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+04/25/2026,Alabama State,Mississippi Valley State,11,9,0,0,W,Alabama State,Alabama-State,Mississippi-Valley-State,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+04/26/2026,Alabama State,Mississippi Valley State,7,2,0,0,W,Alabama State,Alabama-State,Mississippi-Valley-State,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex",2026,WN2026
+05/02/2026,Texas Southern,Alabama State,2,7,0,0,W,Alabama State,Alabama-State,Texas-Southern,1,9,"Houston, TX / MacGregor Park",2026,WN2026
+05/03/2026,Texas Southern,Alabama State,3,8,0,0,W,Alabama State,Alabama-State,Texas-Southern,1,9,"Houston, TX / MacGregor Park",2026,WN2026
+05/03/2026,Texas Southern,Alabama State,4,6,0,0,W,Alabama State,Alabama-State,Texas-Southern,1,9,"Houston, TX / MacGregor Park",2026,WN2026
+05/08/2026,Alabama State,Bethune-Cookman,1,6,0,0,L,Alabama State,Alabama-State,Bethune-Cookman,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex / Box Score",2026,WN2026
+05/09/2026,Alabama State,Bethune-Cookman,3,7,0,0,L,Alabama State,Alabama-State,Bethune-Cookman,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex / Box Score",2026,WN2026
+05/10/2026,Alabama State,Bethune-Cookman,14,11,0,0,W,Alabama State,Alabama-State,Bethune-Cookman,0,9,"Montgomery, AL / Wheeler-Watkins Baseball Complex / Box Score",2026,WN2026
+05/14/2026,Alcorn State,Alabama State,11,15,0,0,W,Alabama State,Alabama-State,Alcorn-State,1,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+05/15/2026,Alcorn State,Alabama State,2,6,0,0,W,Alabama State,Alabama-State,Alcorn-State,1,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+05/16/2026,Alcorn State,Alabama State,10,14,0,0,W,Alabama State,Alabama-State,Alcorn-State,1,9,"Lorman, MS / Foster Baseball Field at McGowan Stadium",2026,WN2026
+05/20/2026,Grambling State,Alabama State,0,10,0,1,W,Alabama State,Alabama-State,Grambling-State,0,8,"Birmingham, AL / Rickwood Field / Box Score / Recap",2026,WN2026
+05/22/2026,Arkansas-Pine Bluff,Alabama State,7,8,0,1,W,Alabama State,Alabama-State,Arkansas-Pine-Bluff,0,9,"Birmingham, AL / Rickwood Field",2026,WN2026
+05/23/2026,Arkansas-Pine Bluff,Alabama State,5,8,0,1,W,Alabama State,Alabama-State,Arkansas-Pine-Bluff,0,9,"Birmingham, AL / Rickwood Field",2026,WN2026
+05/24/2026,Florida A&M,Alabama State,6,8,0,1,W,Alabama State,Alabama-State,Florida-AM,0,9,"Birmingham, AL / Rickwood Field",2026,WN2026

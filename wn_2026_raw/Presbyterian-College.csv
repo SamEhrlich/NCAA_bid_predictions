@@ -1,0 +1,57 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Presbyterian College,Akron,8,6,0,0,W,Presbyterian College,Presbyterian-College,Akron,0,7,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+02/13/2026,Presbyterian College,Akron,8,6,0,0,W,Presbyterian College,Presbyterian-College,Akron,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+02/14/2026,Presbyterian College,Akron,7,8,0,0,L,Presbyterian College,Presbyterian-College,Akron,0,7,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+02/14/2026,Presbyterian College,Akron,2,9,0,0,L,Presbyterian College,Presbyterian-College,Akron,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+02/17/2026,Elon,Presbyterian College,6,4,0,0,L,Presbyterian College,Presbyterian-College,Elon,1,9,"Elon, NC / Walter C. Latham Park",2026,WN2026
+02/20/2026,Presbyterian College,NJIT,2,14,0,0,L,Presbyterian College,Presbyterian-College,NJIT,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+02/21/2026,Presbyterian College,Northern Illinois,1,3,0,0,L,Presbyterian College,Presbyterian-College,Northern-Illinois,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+02/22/2026,Presbyterian College,Valparaiso,9,21,0,0,L,Presbyterian College,Presbyterian-College,Valparaiso,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+02/24/2026,Clemson,Presbyterian College,6,2,0,0,L,Presbyterian College,Presbyterian-College,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+02/27/2026,North Florida,Presbyterian College,15,6,0,0,L,Presbyterian College,Presbyterian-College,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+02/28/2026,North Florida,Presbyterian College,12,11,0,0,L,Presbyterian College,Presbyterian-College,North-Florida,1,10,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+03/01/2026,North Florida,Presbyterian College,12,2,0,0,L,Presbyterian College,Presbyterian-College,North-Florida,1,7,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+03/03/2026,Charleston,Presbyterian College,6,3,0,0,L,Presbyterian College,Presbyterian-College,Charleston,1,9,"Mount Pleasant, SC / CofC Baseball Stadium at Patriot's Point",2026,WN2026
+03/06/2026,Presbyterian College,Appalachian State,5,7,0,0,L,Presbyterian College,Presbyterian-College,Appalachian-State,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+03/07/2026,Appalachian State,Presbyterian College,13,3,0,0,L,Presbyterian College,Presbyterian-College,Appalachian-State,1,7,"Hickory, NC / L.P. Frans Stadium",2026,WN2026
+03/08/2026,Appalachian State,Presbyterian College,13,4,0,0,L,Presbyterian College,Presbyterian-College,Appalachian-State,1,9,"Boone, NC / Beaver Field at Jim and Bettie Smith Stadium",2026,WN2026
+03/10/2026,FAU,Presbyterian College,12,2,0,0,L,Presbyterian College,Presbyterian-College,FAU,1,8,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/11/2026,FAU,Presbyterian College,7,2,0,0,L,Presbyterian College,Presbyterian-College,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/13/2026,Presbyterian College,UNC Asheville,5,6,0,0,L,Presbyterian College,Presbyterian-College,UNC-Asheville,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+03/14/2026,Presbyterian College,UNC Asheville,11,0,0,0,W,Presbyterian College,Presbyterian-College,UNC-Asheville,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+03/15/2026,Presbyterian College,UNC Asheville,11,1,0,0,W,Presbyterian College,Presbyterian-College,UNC-Asheville,0,7,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+03/17/2026,Presbyterian College,Wofford,2,9,0,0,L,Presbyterian College,Presbyterian-College,Wofford,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+03/20/2026,High Point,Presbyterian College,6,5,0,0,L,Presbyterian College,Presbyterian-College,High-Point,1,10,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+03/21/2026,High Point,Presbyterian College,8,5,0,0,L,Presbyterian College,Presbyterian-College,High-Point,1,9,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+03/22/2026,High Point,Presbyterian College,9,3,0,0,L,Presbyterian College,Presbyterian-College,High-Point,1,8,"High Point, NC / George S. Erath Field at Coy O. Williard Baseball Stadium",2026,WN2026
+03/25/2026,The Citadel,Presbyterian College,9,4,0,0,L,Presbyterian College,Presbyterian-College,The-Citadel,1,9,"Charleston, SC / Joseph P. Riley Jr. Park",2026,WN2026
+03/27/2026,Samford,Presbyterian College,5,7,0,0,W,Presbyterian College,Presbyterian-College,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+03/28/2026,Samford,Presbyterian College,7,4,0,0,L,Presbyterian College,Presbyterian-College,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+03/29/2026,Samford,Presbyterian College,5,0,0,0,L,Presbyterian College,Presbyterian-College,Samford,1,9,"Homewood, AL / Joe Lee Griffin Stadium",2026,WN2026
+03/31/2026,Western Carolina,Presbyterian College,5,6,0,0,W,Presbyterian College,Presbyterian-College,Western-Carolina,1,9,"Cullowhee, NC / Hennon Stadium",2026,WN2026
+04/02/2026,Charleston Southern,Presbyterian College,7,0,0,0,L,Presbyterian College,Presbyterian-College,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+04/03/2026,Charleston Southern,Presbyterian College,13,12,0,0,L,Presbyterian College,Presbyterian-College,Charleston-Southern,1,10,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+04/04/2026,Charleston Southern,Presbyterian College,15,11,0,0,L,Presbyterian College,Presbyterian-College,Charleston-Southern,1,9,"North Charleston, SC / Buccaneer Ballpark",2026,WN2026
+04/07/2026,Georgia,Presbyterian College,28,3,0,0,L,Presbyterian College,Presbyterian-College,Georgia,1,7,"Athens, GA / Foley Field",2026,WN2026
+04/10/2026,Presbyterian College,Winthrop,2,4,0,0,L,Presbyterian College,Presbyterian-College,Winthrop,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+04/11/2026,Presbyterian College,Winthrop,5,2,0,0,W,Presbyterian College,Presbyterian-College,Winthrop,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+04/12/2026,Presbyterian College,Winthrop,12,10,0,0,W,Presbyterian College,Presbyterian-College,Winthrop,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+04/14/2026,Wofford,Presbyterian College,11,2,0,0,L,Presbyterian College,Presbyterian-College,Wofford,1,9,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+04/17/2026,Longwood,Presbyterian College,2,3,0,0,W,Presbyterian College,Presbyterian-College,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+04/18/2026,Longwood,Presbyterian College,11,10,0,0,L,Presbyterian College,Presbyterian-College,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+04/19/2026,Longwood,Presbyterian College,6,5,0,0,L,Presbyterian College,Presbyterian-College,Longwood,1,9,"Farmville, VA / Bolding Stadium",2026,WN2026
+04/21/2026,South Carolina,Presbyterian College,9,3,0,0,L,Presbyterian College,Presbyterian-College,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+04/24/2026,Presbyterian College,Radford,6,5,0,0,W,Presbyterian College,Presbyterian-College,Radford,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+04/25/2026,Presbyterian College,Radford,2,21,0,0,L,Presbyterian College,Presbyterian-College,Radford,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+04/26/2026,Presbyterian College,Radford,6,10,0,0,L,Presbyterian College,Presbyterian-College,Radford,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+05/01/2026,Presbyterian College,The Citadel,2,7,0,0,L,Presbyterian College,Presbyterian-College,The-Citadel,0,9,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+05/03/2026,Presbyterian College,The Citadel,0,3,0,0,L,Presbyterian College,Presbyterian-College,The-Citadel,0,7,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+05/03/2026,Presbyterian College,The Citadel,1,2,0,0,L,Presbyterian College,Presbyterian-College,The-Citadel,0,7,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+05/05/2026,Tennessee,Presbyterian College,8,1,0,0,L,Presbyterian College,Presbyterian-College,Tennessee,1,9,"Knoxville, TN / Lindsey Nelson Stadium",2026,WN2026
+05/08/2026,Presbyterian College,South Carolina Upstate,6,5,0,0,W,Presbyterian College,Presbyterian-College,South-Carolina-Upstate,0,9,"Clinton, SC / Presbyterian Baseball Complex / Box Score",2026,WN2026
+05/09/2026,Presbyterian College,South Carolina Upstate,1,7,0,0,L,Presbyterian College,Presbyterian-College,South-Carolina-Upstate,0,9,"Clinton, SC / Presbyterian Baseball Complex / Box Score",2026,WN2026
+05/10/2026,Presbyterian College,South Carolina Upstate,4,13,0,0,L,Presbyterian College,Presbyterian-College,South-Carolina-Upstate,0,9,"Clinton, SC / Presbyterian Baseball Complex / Box Score",2026,WN2026
+05/12/2026,Presbyterian College,Western Carolina,3,14,0,0,L,Presbyterian College,Presbyterian-College,Western-Carolina,0,7,"Clinton, SC / Presbyterian Baseball Complex",2026,WN2026
+05/14/2026,Gardner-Webb,Presbyterian College,2,11,0,0,W,Presbyterian College,Presbyterian-College,Gardner-Webb,1,9,"Boiling Springs, NC / John Henry Moss Stadium / Box Score",2026,WN2026
+05/15/2026,Gardner-Webb,Presbyterian College,11,6,0,0,L,Presbyterian College,Presbyterian-College,Gardner-Webb,1,9,"Boiling Springs, NC / John Henry Moss Stadium / Box Score",2026,WN2026
+05/16/2026,Gardner-Webb,Presbyterian College,9,2,0,0,L,Presbyterian College,Presbyterian-College,Gardner-Webb,1,9,"Boiling Springs, NC / John Henry Moss Stadium / Box Score",2026,WN2026

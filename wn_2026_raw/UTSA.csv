@@ -1,0 +1,59 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,UTSA,South Dakota State,17,4,0,0,W,UTSA,UTSA,South-Dakota-State,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+02/14/2026,UTSA,South Dakota State,13,5,0,0,W,UTSA,UTSA,South-Dakota-State,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+02/15/2026,UTSA,South Dakota State,13,1,0,0,W,UTSA,UTSA,South-Dakota-State,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+02/17/2026,UTSA,UIC,10,3,0,0,W,UTSA,UTSA,UIC,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+02/20/2026,UTSA,Dallas Baptist,12,8,0,0,W,UTSA,UTSA,Dallas-Baptist,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+02/21/2026,UTSA,Dallas Baptist,10,8,0,0,W,UTSA,UTSA,Dallas-Baptist,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+02/22/2026,UTSA,Dallas Baptist,6,3,0,0,W,UTSA,UTSA,Dallas-Baptist,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+02/24/2026,Texas State,UTSA,7,2,0,0,L,UTSA,UTSA,Texas-State,1,9,"San Marcos, TX / Bobcat Ballpark",2026,WN2026
+02/27/2026,Ohio State,UTSA,5,6,0,1,W,UTSA,UTSA,Ohio-State,0,9,"Houston, TX / Daikin Park",2026,WN2026
+02/28/2026,Coastal Carolina,UTSA,10,16,0,1,W,UTSA,UTSA,Coastal-Carolina,0,9,"Houston, TX / Daikin Park",2026,WN2026
+03/01/2026,Baylor,UTSA,6,11,0,1,W,UTSA,UTSA,Baylor,0,9,"Houston, TX / Daikin Park",2026,WN2026
+03/03/2026,Texas A&M-Corpus Christi,UTSA,5,7,0,0,W,UTSA,UTSA,Texas-AM-Corpus-Christi,1,9,"Corpus Christi, TX / Chapman Field",2026,WN2026
+03/06/2026,New Mexico State,UTSA,2,10,0,0,W,UTSA,UTSA,New-Mexico-State,1,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/07/2026,New Mexico State,UTSA,0,13,0,0,W,UTSA,UTSA,New-Mexico-State,1,8,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/08/2026,New Mexico State,UTSA,5,4,0,0,L,UTSA,UTSA,New-Mexico-State,1,9,"Las Cruces, NM / Presley Askew Field",2026,WN2026
+03/10/2026,Texas Tech,UTSA,8,9,0,0,W,UTSA,UTSA,Texas-Tech,1,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/11/2026,Texas Tech,UTSA,10,5,0,0,L,UTSA,UTSA,Texas-Tech,1,9,"Lubbock, TX / Dan Law Field at Rip Griffin Park",2026,WN2026
+03/13/2026,UTSA,UTA,11,15,0,0,L,UTSA,UTSA,UTA,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+03/14/2026,UTSA,UTA,8,11,0,0,L,UTSA,UTSA,UTA,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+03/15/2026,UTSA,UTA,15,8,0,0,W,UTSA,UTSA,UTA,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+03/17/2026,Houston Christian,UTSA,12,11,0,0,L,UTSA,UTSA,Houston-Christian,1,9,"Houston, TX / Husky Field",2026,WN2026
+03/20/2026,FAU,UTSA,1,4,0,0,W,UTSA,UTSA,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/21/2026,FAU,UTSA,7,6,0,0,L,UTSA,UTSA,FAU,1,9,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/22/2026,FAU,UTSA,8,18,0,0,W,UTSA,UTSA,FAU,1,7,"Boca Raton, FL / FAU Baseball Stadium",2026,WN2026
+03/24/2026,UTSA,Texas A&M-Corpus Christi,3,1,0,0,W,UTSA,UTSA,Texas-AM-Corpus-Christi,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+03/27/2026,UTSA,East Carolina,0,3,0,0,L,UTSA,UTSA,East-Carolina,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+03/28/2026,UTSA,East Carolina,6,1,0,0,W,UTSA,UTSA,East-Carolina,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+03/29/2026,UTSA,East Carolina,8,7,0,0,W,UTSA,UTSA,East-Carolina,0,10,"San Antonio, TX / Roadrunner Field",2026,WN2026
+03/31/2026,Incarnate Word,UTSA,13,11,0,0,L,UTSA,UTSA,Incarnate-Word,1,9,"San Antonio, TX / Daniel Sullivan Field",2026,WN2026
+04/02/2026,Rice,UTSA,3,2,0,0,L,UTSA,UTSA,Rice,1,10,"Houston, TX / Reckling Park",2026,WN2026
+04/03/2026,Rice,UTSA,0,8,0,0,W,UTSA,UTSA,Rice,1,9,"Houston, TX / Reckling Park",2026,WN2026
+04/04/2026,Rice,UTSA,0,13,0,0,W,UTSA,UTSA,Rice,1,7,"Houston, TX / Reckling Park",2026,WN2026
+04/07/2026,Tarleton State,UTSA,2,6,0,0,W,UTSA,UTSA,Tarleton-State,1,9,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+04/10/2026,UTSA,South Florida,11,3,0,0,W,UTSA,UTSA,South-Florida,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+04/11/2026,UTSA,South Florida,7,3,0,0,W,UTSA,UTSA,South-Florida,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+04/11/2026,UTSA,South Florida,1,7,0,0,L,UTSA,UTSA,South-Florida,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+04/14/2026,Baylor,UTSA,10,9,0,0,L,UTSA,UTSA,Baylor,1,12,"Waco, TX / Baylor Ballpark",2026,WN2026
+04/17/2026,UTSA,Charlotte,11,5,0,0,W,UTSA,UTSA,Charlotte,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+04/18/2026,UTSA,Charlotte,8,3,0,0,W,UTSA,UTSA,Charlotte,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+04/19/2026,UTSA,Charlotte,5,7,0,0,L,UTSA,UTSA,Charlotte,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+04/24/2026,Tulane,UTSA,3,7,0,0,W,UTSA,UTSA,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+04/25/2026,Tulane,UTSA,2,8,0,0,W,UTSA,UTSA,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+04/26/2026,Tulane,UTSA,12,7,0,0,L,UTSA,UTSA,Tulane,1,9,"New Orleans, LA / Greer Field at Turchin Stadium",2026,WN2026
+04/28/2026,UTSA,Incarnate Word,22,10,0,0,W,UTSA,UTSA,Incarnate-Word,0,7,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/02/2026,UTSA,Wichita State,13,7,0,0,W,UTSA,UTSA,Wichita-State,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/02/2026,UTSA,Wichita State,8,1,0,0,W,UTSA,UTSA,Wichita-State,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/03/2026,UTSA,Wichita State,6,3,0,0,W,UTSA,UTSA,Wichita-State,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/05/2026,Texas,UTSA,11,8,0,0,L,UTSA,UTSA,Texas,1,9,"Austin, TX / UFCU Disch-Falk Field",2026,WN2026
+05/08/2026,Memphis,UTSA,6,4,0,0,L,UTSA,UTSA,Memphis,1,9,"Memphis, TN / FedExPark / Box Score",2026,WN2026
+05/09/2026,Memphis,UTSA,2,9,0,0,W,UTSA,UTSA,Memphis,1,9,"Memphis, TN / FedExPark / Box Score",2026,WN2026
+05/10/2026,Memphis,UTSA,10,5,0,0,L,UTSA,UTSA,Memphis,1,9,"Memphis, TN / FedExPark / Box Score",2026,WN2026
+05/12/2026,UTSA,Texas State,19,4,0,0,W,UTSA,UTSA,Texas-State,0,7,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/14/2026,UTSA,UAB,6,7,0,0,L,UTSA,UTSA,UAB,0,9,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/15/2026,UTSA,UAB,19,9,0,0,W,UTSA,UTSA,UAB,0,7,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/16/2026,UTSA,UAB,11,23,0,0,L,UTSA,UTSA,UAB,0,8,"San Antonio, TX / Roadrunner Field",2026,WN2026
+05/22/2026,Memphis,UTSA,0,4,0,1,W,UTSA,UTSA,Memphis,0,9,"Clearwater, FL / BayCare Ballpark / Recap",2026,WN2026
+05/23/2026,East Carolina,UTSA,2,4,0,1,W,UTSA,UTSA,East-Carolina,0,9,"Clearwater, FL / BayCare Ballpark",2026,WN2026
+05/24/2026,East Carolina,UTSA,1,0,0,1,L,UTSA,UTSA,East-Carolina,0,9,"Clearwater, FL / BayCare Ballpark",2026,WN2026

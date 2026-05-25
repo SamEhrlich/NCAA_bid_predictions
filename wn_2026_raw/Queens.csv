@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Queens,Navy,1,12,0,0,L,Queens,Queens,Navy,0,7,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+02/14/2026,Queens,Navy,2,1,0,0,W,Queens,Queens,Navy,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+02/14/2026,Queens,Navy,4,12,0,0,L,Queens,Queens,Navy,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+02/17/2026,Queens,Radford,2,11,0,0,L,Queens,Queens,Radford,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+02/20/2026,Queens,Southern Illinois,2,0,0,0,W,Queens,Queens,Southern-Illinois,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+02/21/2026,Queens,Southern Illinois,9,8,0,0,W,Queens,Queens,Southern-Illinois,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+02/22/2026,Queens,North Carolina A&T,3,6,0,0,L,Queens,Queens,North-Carolina-AT,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+02/25/2026,South Carolina,Queens,8,9,0,0,W,Queens,Queens,South-Carolina,1,9,"Columbia, SC / Founders Park",2026,WN2026
+02/27/2026,Queens,Army,2,3,0,0,L,Queens,Queens,Army,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+02/28/2026,Queens,Army,3,4,0,0,L,Queens,Queens,Army,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/01/2026,Queens,Army,2,5,0,0,L,Queens,Queens,Army,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/04/2026,North Carolina State,Queens,9,2,0,0,L,Queens,Queens,North-Carolina-State,1,9,"Raleigh, NC / Doak Field",2026,WN2026
+03/06/2026,Georgia,Queens,12,2,0,0,L,Queens,Queens,Georgia,1,8,"Athens, GA / Foley Field",2026,WN2026
+03/07/2026,Georgia,Queens,13,5,0,0,L,Queens,Queens,Georgia,1,9,"Athens, GA / Foley Field",2026,WN2026
+03/07/2026,Georgia,Queens,11,0,0,0,L,Queens,Queens,Georgia,1,7,"Athens, GA / Foley Field",2026,WN2026
+03/08/2026,Georgia,Queens,14,3,0,0,L,Queens,Queens,Georgia,1,7,"Athens, GA / Foley Field",2026,WN2026
+03/10/2026,Queens,Notre Dame,6,11,0,0,L,Queens,Queens,Notre-Dame,0,9,"Charlotte, NC / Atrium Health Ballpark",2026,WN2026
+03/13/2026,FGCU,Queens,11,0,0,0,L,Queens,Queens,FGCU,1,7,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/13/2026,FGCU,Queens,2,1,0,0,L,Queens,Queens,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/14/2026,FGCU,Queens,4,2,0,0,L,Queens,Queens,FGCU,1,9,"Fort Myers, FL / Swanson Stadium",2026,WN2026
+03/20/2026,Queens,Jacksonville,5,17,0,0,L,Queens,Queens,Jacksonville,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/21/2026,Queens,Jacksonville,4,1,0,0,W,Queens,Queens,Jacksonville,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/22/2026,Queens,Jacksonville,4,3,0,0,W,Queens,Queens,Jacksonville,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/24/2026,Charlotte,Queens,11,1,0,0,L,Queens,Queens,Charlotte,1,7,"Charlotte, NC / Hayes Stadium",2026,WN2026
+03/27/2026,Queens,West Georgia,9,10,0,0,L,Queens,Queens,West-Georgia,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/28/2026,Queens,West Georgia,1,7,0,0,L,Queens,Queens,West-Georgia,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/29/2026,Queens,West Georgia,9,8,0,0,W,Queens,Queens,West-Georgia,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+03/31/2026,Elon,Queens,8,7,0,0,L,Queens,Queens,Elon,1,10,"Elon, NC / Walter C. Latham Park",2026,WN2026
+04/02/2026,North Florida,Queens,3,7,0,0,W,Queens,Queens,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/03/2026,North Florida,Queens,5,2,0,0,L,Queens,Queens,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/04/2026,North Florida,Queens,10,6,0,0,L,Queens,Queens,North-Florida,1,9,"Jacksonville, FL / Harmon Stadium",2026,WN2026
+04/07/2026,Queens,Davidson,3,8,0,0,L,Queens,Queens,Davidson,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+04/10/2026,Stetson,Queens,0,2,0,0,W,Queens,Queens,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+04/11/2026,Stetson,Queens,2,8,0,0,W,Queens,Queens,Stetson,1,9,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+04/12/2026,Stetson,Queens,13,3,0,0,L,Queens,Queens,Stetson,1,8,"DeLand, FL / Melching Field at Conrad Park",2026,WN2026
+04/14/2026,Gardner-Webb,Queens,11,1,0,0,L,Queens,Queens,Gardner-Webb,1,7,"Boiling Springs, NC / John Henry Moss Stadium",2026,WN2026
+04/17/2026,Queens,FGCU,6,5,0,0,W,Queens,Queens,FGCU,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+04/18/2026,Queens,FGCU,0,5,0,0,L,Queens,Queens,FGCU,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+04/19/2026,Queens,FGCU,6,5,0,0,W,Queens,Queens,FGCU,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+04/21/2026,Wofford,Queens,20,1,0,0,L,Queens,Queens,Wofford,1,7,"Spartanburg, SC / Russell C. King Field",2026,WN2026
+04/24/2026,Jacksonville,Queens,10,1,0,0,L,Queens,Queens,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/25/2026,Jacksonville,Queens,6,2,0,0,L,Queens,Queens,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+04/26/2026,Jacksonville,Queens,6,2,0,0,L,Queens,Queens,Jacksonville,1,9,"Jacksonville, FL / John Sessions Stadium",2026,WN2026
+05/01/2026,West Georgia,Queens,14,9,0,0,L,Queens,Queens,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+05/02/2026,West Georgia,Queens,2,7,0,0,W,Queens,Queens,West-Georgia,1,9,"Carrollton, GA / Cole Field",2026,WN2026
+05/03/2026,West Georgia,Queens,14,4,0,0,L,Queens,Queens,West-Georgia,1,7,"Carrollton, GA / Cole Field",2026,WN2026
+05/05/2026,Duke,Queens,7,11,0,0,W,Queens,Queens,Duke,1,9,"Durham, NC / Jack Coombs Field",2026,WN2026
+05/08/2026,Queens,North Florida,6,10,0,0,L,Queens,Queens,North-Florida,0,9,"Charlotte, NC / Tuckaseegee Dream Fields / Box Score",2026,WN2026
+05/09/2026,Queens,North Florida,4,3,0,0,W,Queens,Queens,North-Florida,0,9,"Charlotte, NC / Tuckaseegee Dream Fields / Box Score",2026,WN2026
+05/10/2026,Queens,North Florida,1,12,0,0,L,Queens,Queens,North-Florida,0,7,"Charlotte, NC / Tuckaseegee Dream Fields / Box Score",2026,WN2026
+05/12/2026,Queens,Elon,3,10,0,0,L,Queens,Queens,Elon,0,9,"Charlotte, NC / Tuckaseegee Dream Fields",2026,WN2026
+05/14/2026,Queens,Stetson,0,2,0,0,L,Queens,Queens,Stetson,0,9,"Charlotte, NC / Tuckaseegee Dream Fields / Box Score",2026,WN2026
+05/15/2026,Queens,Stetson,4,5,0,0,L,Queens,Queens,Stetson,0,14,"Charlotte, NC / Tuckaseegee Dream Fields / Box Score",2026,WN2026
+05/16/2026,Queens,Stetson,12,2,0,0,W,Queens,Queens,Stetson,0,8,"Charlotte, NC / Tuckaseegee Dream Fields / Box Score",2026,WN2026

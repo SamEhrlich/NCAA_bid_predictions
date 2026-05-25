@@ -1,0 +1,62 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Memphis,Toledo,6,8,0,0,W,Toledo,Toledo,Memphis,1,9,"Memphis, TN / FedExPark",2026,WN2026
+02/14/2026,Memphis,Toledo,5,4,0,0,L,Toledo,Toledo,Memphis,1,10,"Memphis, TN / FedExPark",2026,WN2026
+02/15/2026,Memphis,Toledo,6,4,0,0,L,Toledo,Toledo,Memphis,1,9,"Memphis, TN / FedExPark",2026,WN2026
+02/20/2026,Jacksonville State,Toledo,5,0,0,0,L,Toledo,Toledo,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+02/21/2026,Jacksonville State,Toledo,2,1,0,0,L,Toledo,Toledo,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+02/22/2026,Jacksonville State,Toledo,12,9,0,0,L,Toledo,Toledo,Jacksonville-State,1,9,"Jacksonville, AL / Rudy Abbott Field",2026,WN2026
+02/25/2026,Dayton,Toledo,18,8,0,0,L,Toledo,Toledo,Dayton,1,7,"Dayton, OH / Woerner Field",2026,WN2026
+02/27/2026,Lipscomb,Toledo,1,5,0,0,W,Toledo,Toledo,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+02/28/2026,Lipscomb,Toledo,7,10,0,0,W,Toledo,Toledo,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/01/2026,Lipscomb,Toledo,9,7,0,0,L,Toledo,Toledo,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/02/2026,Lipscomb,Toledo,13,5,0,0,L,Toledo,Toledo,Lipscomb,1,9,"Nashville, TN / Ken Dugan Field",2026,WN2026
+03/06/2026,Toledo,UMass,5,0,0,0,W,Toledo,Toledo,UMass,0,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+03/07/2026,Toledo,UMass,11,1,0,0,W,Toledo,Toledo,UMass,0,7,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+03/08/2026,Toledo,UMass,16,11,0,0,W,Toledo,Toledo,UMass,0,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+03/10/2026,Northern Kentucky,Toledo,3,12,0,0,W,Toledo,Toledo,Northern-Kentucky,1,9,"Highland Heights, KY / Bill Aker Baseball Complex",2026,WN2026
+03/13/2026,Toledo,Northern Illinois,21,5,0,0,W,Toledo,Toledo,Northern-Illinois,0,7,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+03/14/2026,Toledo,Northern Illinois,3,8,0,0,L,Toledo,Toledo,Northern-Illinois,0,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+03/15/2026,Toledo,Northern Illinois,17,2,0,0,W,Toledo,Toledo,Northern-Illinois,0,7,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+03/20/2026,Central Michigan,Toledo,1,10,0,0,W,Toledo,Toledo,Central-Michigan,1,9,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+03/21/2026,Central Michigan,Toledo,18,7,0,0,L,Toledo,Toledo,Central-Michigan,1,8,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+03/22/2026,Central Michigan,Toledo,6,5,0,0,L,Toledo,Toledo,Central-Michigan,1,11,"Mount Pleasant, MI / Bill Theunissen Stadium",2026,WN2026
+03/24/2026,Butler,Toledo,11,1,0,0,L,Toledo,Toledo,Butler,1,8,"Indianapolis, IN / Bulldog Park",2026,WN2026
+03/25/2026,Michigan,Toledo,5,2,0,0,L,Toledo,Toledo,Michigan,1,9,"Ann Arbor, MI / Ray Fisher Stadium",2026,WN2026
+03/27/2026,Akron,Toledo,1,13,0,0,W,Toledo,Toledo,Akron,1,8,"Akron, OH / Skeeles Field",2026,WN2026
+03/28/2026,Akron,Toledo,3,7,0,0,W,Toledo,Toledo,Akron,1,9,"Akron, OH / Skeeles Field",2026,WN2026
+03/29/2026,Akron,Toledo,7,4,0,0,L,Toledo,Toledo,Akron,1,9,"Akron, OH / Skeeles Field",2026,WN2026
+03/31/2026,Ohio State,Toledo,10,5,0,0,L,Toledo,Toledo,Ohio-State,1,9,"Columbus, OH / Bill Davis Stadium",2026,WN2026
+04/02/2026,Toledo,Eastern Michigan,10,2,0,0,W,Toledo,Toledo,Eastern-Michigan,0,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+04/03/2026,Toledo,Eastern Michigan,6,4,0,0,W,Toledo,Toledo,Eastern-Michigan,0,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+04/03/2026,Toledo,Eastern Michigan,23,8,0,0,W,Toledo,Toledo,Eastern-Michigan,0,7,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+04/07/2026,Oakland,Toledo,4,2,0,0,L,Toledo,Toledo,Oakland,1,9,"Rochester, MI / Oakland Baseball Field",2026,WN2026
+04/08/2026,Toledo,Dayton,5,9,0,0,L,Toledo,Toledo,Dayton,0,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+04/10/2026,Western Michigan,Toledo,2,3,0,0,W,Toledo,Toledo,Western-Michigan,1,9,"Kalamazoo, MI / Hyames Field",2026,WN2026
+04/11/2026,Western Michigan,Toledo,8,6,0,0,L,Toledo,Toledo,Western-Michigan,1,9,"Kalamazoo, MI / Hyames Field",2026,WN2026
+04/12/2026,Western Michigan,Toledo,6,3,0,0,L,Toledo,Toledo,Western-Michigan,1,9,"Kalamazoo, MI / Hyames Field",2026,WN2026
+04/14/2026,Toledo,Michigan,4,6,0,0,L,Toledo,Toledo,Michigan,0,9,"Toledo, OH / Fifth Third Field",2026,WN2026
+04/17/2026,Toledo,Miami (OH),2,7,0,0,L,Toledo,Toledo,Miami-OH,0,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+04/18/2026,Toledo,Miami (OH),3,6,0,0,L,Toledo,Toledo,Miami-OH,0,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+04/19/2026,Toledo,Miami (OH),20,4,0,0,W,Toledo,Toledo,Miami-OH,0,7,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+04/21/2026,Toledo,Youngstown State,10,11,0,0,L,Toledo,Toledo,Youngstown-State,0,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+04/22/2026,Youngstown State,Toledo,0,21,0,0,W,Toledo,Toledo,Youngstown-State,1,8,"Niles, OH / Eastwood Field",2026,WN2026
+04/24/2026,Bowling Green,Toledo,9,5,0,0,L,Toledo,Toledo,Bowling-Green,1,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/25/2026,Bowling Green,Toledo,1,3,0,0,W,Toledo,Toledo,Bowling-Green,1,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/26/2026,Bowling Green,Toledo,4,6,0,0,W,Toledo,Toledo,Bowling-Green,1,9,"Bowling Green, OH / Steller Field",2026,WN2026
+04/28/2026,Toledo,Oakland,18,8,0,0,W,Toledo,Toledo,Oakland,0,7,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+05/01/2026,Toledo,Ball State,8,3,0,0,W,Toledo,Toledo,Ball-State,0,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+05/02/2026,Toledo,Ball State,5,4,0,0,W,Toledo,Toledo,Ball-State,0,9,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+05/03/2026,Toledo,Ball State,20,3,0,0,W,Toledo,Toledo,Ball-State,0,7,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+05/06/2026,Toledo,Butler,12,1,0,0,W,Toledo,Toledo,Butler,0,7,"Toledo, OH / Scott Park Baseball Complex",2026,WN2026
+05/08/2026,Ohio,Toledo,4,3,0,0,L,Toledo,Toledo,Ohio,1,10,"Athens, OH / Bob Wren Stadium / Box Score",2026,WN2026
+05/09/2026,Ohio,Toledo,5,7,0,0,W,Toledo,Toledo,Ohio,1,9,"Athens, OH / Bob Wren Stadium / Box Score",2026,WN2026
+05/10/2026,Ohio,Toledo,3,8,0,0,W,Toledo,Toledo,Ohio,1,9,"Athens, OH / Bob Wren Stadium / Box Score",2026,WN2026
+05/12/2026,Bowling Green,Toledo,5,15,0,1,W,Toledo,Toledo,Bowling-Green,0,9,"Toledo, OH / Fifth Third Field",2026,WN2026
+05/14/2026,Toledo,Kent State,3,4,0,0,L,Toledo,Toledo,Kent-State,0,9,"Toledo, OH / Scott Park Baseball Complex / Box Score",2026,WN2026
+05/15/2026,Toledo,Kent State,3,4,0,0,L,Toledo,Toledo,Kent-State,0,9,"Toledo, OH / Scott Park Baseball Complex / Box Score",2026,WN2026
+05/16/2026,Toledo,Kent State,9,6,0,0,W,Toledo,Toledo,Kent-State,0,9,"Toledo, OH / Scott Park Baseball Complex / Box Score",2026,WN2026
+05/20/2026,Ball State,Toledo,2,8,0,1,W,Toledo,Toledo,Ball-State,0,9,"Avon, OH / Mercy Health Stadium / Box Score / Recap",2026,WN2026
+05/21/2026,Kent State,Toledo,0,8,0,1,W,Toledo,Toledo,Kent-State,0,9,"Avon, OH / Mercy Health Stadium / Recap",2026,WN2026
+05/22/2026,Northern Illinois,Toledo,10,3,0,1,L,Toledo,Toledo,Northern-Illinois,0,9,"Avon, OH / Mercy Health Stadium",2026,WN2026
+05/23/2026,Kent State,Toledo,2,5,0,1,W,Toledo,Toledo,Kent-State,0,9,"Avon, OH / Mercy Health Stadium",2026,WN2026
+05/23/2026,Northern Illinois,Toledo,5,1,0,1,L,Toledo,Toledo,Northern-Illinois,0,9,"Avon, OH / Mercy Health Stadium",2026,WN2026

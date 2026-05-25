@@ -1,0 +1,51 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Pacific,Utah Valley,2,3,0,0,W,Utah Valley,Utah-Valley,Pacific,1,11,"Stockton, CA / Klein Family Field",2026,WN2026
+02/14/2026,Pacific,Utah Valley,6,9,0,0,W,Utah Valley,Utah-Valley,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+02/14/2026,Pacific,Utah Valley,13,7,0,0,L,Utah Valley,Utah-Valley,Pacific,1,9,"Stockton, CA / Klein Family Field",2026,WN2026
+02/15/2026,Pacific,Utah Valley,3,2,0,0,L,Utah Valley,Utah-Valley,Pacific,1,10,"Stockton, CA / Klein Family Field",2026,WN2026
+02/21/2026,Nevada,Utah Valley,7,4,0,0,L,Utah Valley,Utah-Valley,Nevada,1,9,"Reno, NV / William Peccole Park",2026,WN2026
+02/21/2026,Nevada,Utah Valley,9,5,0,0,L,Utah Valley,Utah-Valley,Nevada,1,9,"Reno, NV / William Peccole Park",2026,WN2026
+02/22/2026,Nevada,Utah Valley,5,3,0,0,L,Utah Valley,Utah-Valley,Nevada,1,10,"Reno, NV / William Peccole Park",2026,WN2026
+02/27/2026,Utah Valley,UC Riverside,9,10,0,0,L,Utah Valley,Utah-Valley,UC-Riverside,0,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+02/28/2026,Utah Valley,UC Riverside,11,3,0,0,W,Utah Valley,Utah-Valley,UC-Riverside,0,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+02/28/2026,Utah Valley,UC Riverside,7,2,0,0,W,Utah Valley,Utah-Valley,UC-Riverside,0,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+03/01/2026,Utah Valley,UC Riverside,13,2,0,0,W,Utah Valley,Utah-Valley,UC-Riverside,0,7,"Orem, UT / UCCU Ballpark",2026,WN2026
+03/06/2026,Utah Valley,Northern Colorado,11,6,0,0,W,Utah Valley,Utah-Valley,Northern-Colorado,0,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+03/07/2026,Utah Valley,Northern Colorado,3,14,0,0,L,Utah Valley,Utah-Valley,Northern-Colorado,0,7,"Orem, UT / UCCU Ballpark",2026,WN2026
+03/07/2026,Utah Valley,Northern Colorado,12,1,0,0,W,Utah Valley,Utah-Valley,Northern-Colorado,0,7,"Orem, UT / UCCU Ballpark",2026,WN2026
+03/08/2026,Utah Valley,Northern Colorado,14,4,0,0,W,Utah Valley,Utah-Valley,Northern-Colorado,0,7,"Orem, UT / UCCU Ballpark",2026,WN2026
+03/09/2026,Utah Valley,Northern Colorado,5,1,0,0,W,Utah Valley,Utah-Valley,Northern-Colorado,0,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+03/16/2026,Utah Valley,Cincinnati,1,11,0,0,L,Utah Valley,Utah-Valley,Cincinnati,0,8,"Orem, UT / UCCU Ballpark",2026,WN2026
+03/17/2026,Utah Valley,Cincinnati,3,6,0,0,L,Utah Valley,Utah-Valley,Cincinnati,0,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+03/21/2026,Stanford,Utah Valley,4,3,0,0,L,Utah Valley,Utah-Valley,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/22/2026,Stanford,Utah Valley,17,10,0,0,L,Utah Valley,Utah-Valley,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/22/2026,Stanford,Utah Valley,15,9,0,0,L,Utah Valley,Utah-Valley,Stanford,1,9,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/23/2026,Stanford,Utah Valley,15,6,0,0,L,Utah Valley,Utah-Valley,Stanford,1,8,"Stanford, CA / Klein Field at Sunken Diamond",2026,WN2026
+03/31/2026,Utah Valley,Utah,9,15,0,0,L,Utah Valley,Utah-Valley,Utah,0,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+04/02/2026,Cal State Bakersfield,Utah Valley,4,14,0,0,W,Utah Valley,Utah-Valley,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+04/03/2026,Cal State Bakersfield,Utah Valley,4,5,0,0,W,Utah Valley,Utah-Valley,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+04/04/2026,Cal State Bakersfield,Utah Valley,8,2,0,0,L,Utah Valley,Utah-Valley,Cal-State-Bakersfield,1,9,"Bakersfield, CA / Hardt Field",2026,WN2026
+04/07/2026,Utah Valley,BYU,5,10,0,0,L,Utah Valley,Utah-Valley,BYU,0,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+04/10/2026,Sacramento State,Utah Valley,7,2,0,0,L,Utah Valley,Utah-Valley,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+04/10/2026,Sacramento State,Utah Valley,1,11,0,0,W,Utah Valley,Utah-Valley,Sacramento-State,1,7,"Sacramento, CA / John Smith Field",2026,WN2026
+04/11/2026,Sacramento State,Utah Valley,9,5,0,0,L,Utah Valley,Utah-Valley,Sacramento-State,1,9,"Sacramento, CA / John Smith Field",2026,WN2026
+04/13/2026,Air Force,Utah Valley,17,7,0,0,L,Utah Valley,Utah-Valley,Air-Force,1,7,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/14/2026,Air Force,Utah Valley,5,4,0,0,L,Utah Valley,Utah-Valley,Air-Force,1,9,"Colorado Springs, CO / Erdle Field",2026,WN2026
+04/17/2026,Utah Valley,Utah Tech,4,7,0,0,L,Utah Valley,Utah-Valley,Utah-Tech,0,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+04/18/2026,Utah Valley,Utah Tech,5,6,0,0,L,Utah Valley,Utah-Valley,Utah-Tech,0,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+04/19/2026,Utah Valley,Utah Tech,10,13,0,0,L,Utah Valley,Utah-Valley,Utah-Tech,0,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+04/21/2026,Utah,Utah Valley,16,9,0,0,L,Utah Valley,Utah-Valley,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+04/24/2026,Tarleton State,Utah Valley,12,2,0,0,L,Utah Valley,Utah-Valley,Tarleton-State,1,7,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+04/25/2026,Tarleton State,Utah Valley,8,2,0,0,L,Utah Valley,Utah-Valley,Tarleton-State,1,9,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+04/26/2026,Tarleton State,Utah Valley,13,9,0,0,L,Utah Valley,Utah-Valley,Tarleton-State,1,9,"Stephenville, TX / Cecil Ballow Baseball Complex",2026,WN2026
+05/01/2026,Utah Valley,California Baptist,10,14,0,0,L,Utah Valley,Utah-Valley,California-Baptist,0,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+05/02/2026,Utah Valley,California Baptist,8,14,0,0,L,Utah Valley,Utah-Valley,California-Baptist,0,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+05/03/2026,Utah Valley,California Baptist,1,2,0,0,L,Utah Valley,Utah-Valley,California-Baptist,0,9,"Orem, UT / UCCU Ballpark",2026,WN2026
+05/05/2026,Utah,Utah Valley,9,5,0,0,L,Utah Valley,Utah-Valley,Utah,1,9,"Salt Lake City, UT / America First Ballpark",2026,WN2026
+05/08/2026,Abilene Christian,Utah Valley,9,2,0,0,L,Utah Valley,Utah-Valley,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field / Box Score",2026,WN2026
+05/09/2026,Abilene Christian,Utah Valley,3,5,0,0,W,Utah Valley,Utah-Valley,Abilene-Christian,1,9,"Abilene, TX / Crutcher Scott Field / Box Score",2026,WN2026
+05/10/2026,Abilene Christian,Utah Valley,16,6,0,0,L,Utah Valley,Utah-Valley,Abilene-Christian,1,8,"Abilene, TX / Crutcher Scott Field / Box Score",2026,WN2026
+05/12/2026,BYU,Utah Valley,13,3,0,0,L,Utah Valley,Utah-Valley,BYU,1,7,"Provo, UT / Larry H. Miller Field",2026,WN2026
+05/14/2026,Utah Valley,UTA,13,5,0,0,W,Utah Valley,Utah-Valley,UTA,0,9,"Orem, UT / UCCU Ballpark / Box Score",2026,WN2026
+05/15/2026,Utah Valley,UTA,10,9,0,0,W,Utah Valley,Utah-Valley,UTA,0,9,"Orem, UT / UCCU Ballpark / Box Score",2026,WN2026
+05/16/2026,Utah Valley,UTA,10,11,0,0,L,Utah Valley,Utah-Valley,UTA,0,9,"Orem, UT / UCCU Ballpark / Box Score",2026,WN2026

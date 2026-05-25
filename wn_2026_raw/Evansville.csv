@@ -1,0 +1,55 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Kennesaw State,Evansville,11,3,0,0,L,Evansville,Evansville,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+02/13/2026,Marshall,Evansville,5,2,0,1,L,Evansville,Evansville,Marshall,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+02/14/2026,Marshall,Evansville,18,11,0,1,L,Evansville,Evansville,Marshall,0,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+02/20/2026,Evansville,Kentucky,2,9,0,0,L,Evansville,Evansville,Kentucky,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+02/21/2026,Evansville,Kentucky,3,5,0,0,L,Evansville,Evansville,Kentucky,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+02/21/2026,Evansville,Kentucky,1,0,0,0,W,Evansville,Evansville,Kentucky,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+02/24/2026,Vanderbilt,Evansville,15,3,0,0,L,Evansville,Evansville,Vanderbilt,1,7,"Nashville, TN / Hawkins Field",2026,WN2026
+02/27/2026,Evansville,Milwaukee,9,12,0,0,L,Evansville,Evansville,Milwaukee,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+02/28/2026,Evansville,Milwaukee,2,1,0,0,W,Evansville,Evansville,Milwaukee,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/01/2026,Evansville,Milwaukee,4,2,0,0,W,Evansville,Evansville,Milwaukee,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/03/2026,Southeast Missouri,Evansville,13,4,0,0,L,Evansville,Evansville,Southeast-Missouri,1,9,"Cape Girardeau, MO / Capaha Field",2026,WN2026
+03/06/2026,Ole Miss,Evansville,7,2,0,0,L,Evansville,Evansville,Ole-Miss,1,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/06/2026,Ole Miss,Evansville,14,2,0,0,L,Evansville,Evansville,Ole-Miss,1,7,"Oxford, MS / Swayze Field",2026,WN2026
+03/08/2026,Ole Miss,Evansville,8,3,0,0,L,Evansville,Evansville,Ole-Miss,1,9,"Oxford, MS / Swayze Field",2026,WN2026
+03/10/2026,Cincinnati,Evansville,13,11,0,0,L,Evansville,Evansville,Cincinnati,1,9,"Cincinnati, OH / UC Baseball Stadium",2026,WN2026
+03/13/2026,Xavier,Evansville,7,5,0,0,L,Evansville,Evansville,Xavier,1,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+03/14/2026,Xavier,Evansville,4,6,0,0,W,Evansville,Evansville,Xavier,1,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+03/15/2026,Xavier,Evansville,1,5,0,0,W,Evansville,Evansville,Xavier,1,9,"Cincinnati, OH / J. Page Hayden Field",2026,WN2026
+03/18/2026,Evansville,Southeast Missouri,1,9,0,0,L,Evansville,Evansville,Southeast-Missouri,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/20/2026,California Baptist,Evansville,11,6,0,0,L,Evansville,Evansville,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/21/2026,California Baptist,Evansville,10,3,0,0,L,Evansville,Evansville,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/22/2026,California Baptist,Evansville,9,1,0,0,L,Evansville,Evansville,California-Baptist,1,9,"Riverside, CA / James W. Totman Stadium",2026,WN2026
+03/27/2026,Evansville,Illinois State,5,2,0,0,W,Evansville,Evansville,Illinois-State,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/28/2026,Evansville,Illinois State,4,0,0,0,W,Evansville,Evansville,Illinois-State,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/29/2026,Evansville,Illinois State,9,15,0,0,L,Evansville,Evansville,Illinois-State,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+03/31/2026,Evansville,Indiana,5,4,0,0,W,Evansville,Evansville,Indiana,0,11,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+04/03/2026,Bradley,Evansville,5,2,0,0,L,Evansville,Evansville,Bradley,1,9,"Peoria, IL / Dozer Park",2026,WN2026
+04/04/2026,Bradley,Evansville,3,12,0,0,W,Evansville,Evansville,Bradley,1,9,"Peoria, IL / Dozer Park",2026,WN2026
+04/04/2026,Bradley,Evansville,4,9,0,0,W,Evansville,Evansville,Bradley,1,9,"Peoria, IL / Dozer Park",2026,WN2026
+04/08/2026,Evansville,Lindenwood,9,2,0,0,W,Evansville,Evansville,Lindenwood,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+04/10/2026,Evansville,Southern Illinois,6,5,0,0,W,Evansville,Evansville,Southern-Illinois,0,10,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+04/11/2026,Evansville,Southern Illinois,7,3,0,0,W,Evansville,Evansville,Southern-Illinois,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+04/12/2026,Evansville,Southern Illinois,3,16,0,0,L,Evansville,Evansville,Southern-Illinois,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+04/15/2026,Indiana,Evansville,8,6,0,0,L,Evansville,Evansville,Indiana,1,9,"Bloomington, IN / Bart Kaufman Field",2026,WN2026
+04/17/2026,Belmont,Evansville,2,11,0,0,W,Evansville,Evansville,Belmont,1,9,"Nashville, TN / E. S. Rose Park",2026,WN2026
+04/18/2026,Belmont,Evansville,11,7,0,0,L,Evansville,Evansville,Belmont,1,9,"Nashville, TN / E. S. Rose Park",2026,WN2026
+04/19/2026,Belmont,Evansville,1,6,0,0,W,Evansville,Evansville,Belmont,1,9,"Nashville, TN / E. S. Rose Park",2026,WN2026
+04/22/2026,Southern Indiana,Evansville,14,4,0,0,L,Evansville,Evansville,Southern-Indiana,1,7,"Evansville, IN / USI Baseball Field",2026,WN2026
+04/24/2026,Indiana State,Evansville,4,3,0,0,L,Evansville,Evansville,Indiana-State,1,10,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/25/2026,Indiana State,Evansville,8,5,0,0,L,Evansville,Evansville,Indiana-State,1,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/26/2026,Indiana State,Evansville,3,4,0,0,W,Evansville,Evansville,Indiana-State,1,9,"Terre Haute, IN / Bob Warn Field at Sycamore Stadium",2026,WN2026
+04/28/2026,Evansville,SIUE,4,6,0,0,L,Evansville,Evansville,SIUE,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+05/01/2026,Evansville,UIC,2,1,0,0,W,Evansville,Evansville,UIC,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+05/02/2026,Evansville,UIC,1,2,0,0,L,Evansville,Evansville,UIC,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+05/03/2026,Evansville,UIC,5,11,0,0,L,Evansville,Evansville,UIC,0,9,"Evansville, IN / Charles H. Braun Stadium",2026,WN2026
+05/08/2026,Valparaiso,Evansville,6,5,0,0,L,Evansville,Evansville,Valparaiso,1,9,"Valparaiso, IN / Emory G. Bauer Field / Box Score",2026,WN2026
+05/09/2026,Valparaiso,Evansville,5,6,0,0,W,Evansville,Evansville,Valparaiso,1,9,"Valparaiso, IN / Emory G. Bauer Field / Box Score",2026,WN2026
+05/10/2026,Valparaiso,Evansville,0,11,0,0,W,Evansville,Evansville,Valparaiso,1,9,"Valparaiso, IN / Emory G. Bauer Field / Box Score",2026,WN2026
+05/14/2026,Evansville,Murray State,10,6,0,0,W,Evansville,Evansville,Murray-State,0,9,"Evansville, IN / Charles H. Braun Stadium / Box Score",2026,WN2026
+05/15/2026,Evansville,Murray State,10,15,0,0,L,Evansville,Evansville,Murray-State,0,9,"Evansville, IN / Charles H. Braun Stadium / Box Score",2026,WN2026
+05/16/2026,Evansville,Murray State,5,12,0,0,L,Evansville,Evansville,Murray-State,0,9,"Evansville, IN / Charles H. Braun Stadium / Box Score",2026,WN2026
+05/20/2026,Southern Illinois,Evansville,8,4,0,1,L,Evansville,Evansville,Southern-Illinois,0,9,"Murray, KY / Reagan Field / Box Score / Recap",2026,WN2026
+05/21/2026,Illinois State,Evansville,3,6,0,1,W,Evansville,Evansville,Illinois-State,0,9,"Murray, KY / Reagan Field",2026,WN2026
+05/21/2026,Southern Illinois,Evansville,3,2,0,1,L,Evansville,Evansville,Southern-Illinois,0,9,"Murray, KY / Reagan Field",2026,WN2026

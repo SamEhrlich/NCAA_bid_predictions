@@ -1,0 +1,58 @@
+Date,home_team,away_team,home_score,away_score,doubleheader_game,neutral_site,game_result,team_name,team_slug,opp_slug,is_away,innings,venue,year,season_id
+02/13/2026,Georgia Tech,Bowling Green,11,5,0,0,W,Georgia Tech,Georgia-Tech,Bowling-Green,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/14/2026,Georgia Tech,Bowling Green,27,4,0,0,W,Georgia Tech,Georgia-Tech,Bowling-Green,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/14/2026,Georgia Tech,Bowling Green,12,2,0,0,W,Georgia Tech,Georgia-Tech,Bowling-Green,0,7,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/17/2026,Georgia Southern,Georgia Tech,1,25,0,0,W,Georgia Tech,Georgia-Tech,Georgia-Southern,1,9,"Statesboro, GA / J. I. Clements Stadium",2026,WN2026
+02/20/2026,Georgia Tech,Stony Brook,14,5,0,0,W,Georgia Tech,Georgia-Tech,Stony-Brook,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/20/2026,Georgia Tech,Stony Brook,10,5,0,0,W,Georgia Tech,Georgia-Tech,Stony-Brook,0,7,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/21/2026,Georgia Tech,Stony Brook,6,5,0,0,W,Georgia Tech,Georgia-Tech,Stony-Brook,0,10,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/22/2026,Georgia Tech,Stony Brook,21,3,0,0,W,Georgia Tech,Georgia-Tech,Stony-Brook,0,7,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/24/2026,Georgia Tech,Georgia State,4,9,0,0,L,Georgia Tech,Georgia-Tech,Georgia-State,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/27/2026,Georgia Tech,Northwestern,17,3,0,0,W,Georgia Tech,Georgia-Tech,Northwestern,0,7,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+02/28/2026,Georgia Tech,Northwestern,13,3,0,0,W,Georgia Tech,Georgia-Tech,Northwestern,0,7,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+03/01/2026,Georgia Tech,Northwestern,14,6,0,0,W,Georgia Tech,Georgia-Tech,Northwestern,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+03/03/2026,Georgia State,Georgia Tech,1,4,0,0,W,Georgia Tech,Georgia-Tech,Georgia-State,1,9,"Decatur, GA / Georgia State Baseball Complex",2026,WN2026
+03/06/2026,Georgia Tech,Virginia Tech,16,1,0,0,W,Georgia Tech,Georgia-Tech,Virginia-Tech,0,7,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+03/07/2026,Georgia Tech,Virginia Tech,14,5,0,0,W,Georgia Tech,Georgia-Tech,Virginia-Tech,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+03/08/2026,Georgia Tech,Virginia Tech,6,9,0,0,L,Georgia Tech,Georgia-Tech,Virginia-Tech,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+03/10/2026,Georgia Tech,West Georgia,14,0,0,0,W,Georgia Tech,Georgia-Tech,West-Georgia,0,7,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+03/12/2026,Clemson,Georgia Tech,0,10,0,0,W,Georgia Tech,Georgia-Tech,Clemson,1,7,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+03/13/2026,Clemson,Georgia Tech,3,9,0,0,W,Georgia Tech,Georgia-Tech,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+03/14/2026,Clemson,Georgia Tech,13,7,0,0,L,Georgia Tech,Georgia-Tech,Clemson,1,9,"Clemson, SC / Doug Kingsmore Stadium",2026,WN2026
+03/17/2026,Auburn,Georgia Tech,9,2,0,0,L,Georgia Tech,Georgia-Tech,Auburn,1,9,"Auburn, AL / Plainsman Park",2026,WN2026
+03/20/2026,Pittsburgh,Georgia Tech,9,11,0,0,W,Georgia Tech,Georgia-Tech,Pittsburgh,1,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+03/21/2026,Pittsburgh,Georgia Tech,14,9,0,0,L,Georgia Tech,Georgia-Tech,Pittsburgh,1,9,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+03/22/2026,Pittsburgh,Georgia Tech,4,12,0,0,W,Georgia Tech,Georgia-Tech,Pittsburgh,1,7,"Pittsburgh, PA / Charles L. Cost Field",2026,WN2026
+03/27/2026,Georgia Tech,North Carolina State,3,1,0,0,W,Georgia Tech,Georgia-Tech,North-Carolina-State,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+03/28/2026,Georgia Tech,North Carolina State,6,4,0,0,W,Georgia Tech,Georgia-Tech,North-Carolina-State,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+03/29/2026,Georgia Tech,North Carolina State,10,0,0,0,W,Georgia Tech,Georgia-Tech,North-Carolina-State,0,8,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+03/31/2026,Georgia Tech,Auburn,13,3,0,0,W,Georgia Tech,Georgia-Tech,Auburn,0,8,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+04/02/2026,California,Georgia Tech,2,17,0,0,W,Georgia Tech,Georgia-Tech,California,1,7,"Berkeley, CA / Evans Diamond",2026,WN2026
+04/03/2026,California,Georgia Tech,2,7,0,0,W,Georgia Tech,Georgia-Tech,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+04/04/2026,California,Georgia Tech,3,9,0,0,W,Georgia Tech,Georgia-Tech,California,1,9,"Berkeley, CA / Evans Diamond",2026,WN2026
+04/07/2026,Georgia Tech,Kennesaw State,11,4,0,0,W,Georgia Tech,Georgia-Tech,Kennesaw-State,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+04/09/2026,Georgia Tech,Florida State,4,3,0,0,W,Georgia Tech,Georgia-Tech,Florida-State,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+04/10/2026,Georgia Tech,Florida State,8,3,0,0,W,Georgia Tech,Georgia-Tech,Florida-State,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+04/11/2026,Georgia Tech,Florida State,17,3,0,0,W,Georgia Tech,Georgia-Tech,Florida-State,0,7,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+04/14/2026,Georgia Tech,Georgia Southern,13,9,0,0,W,Georgia Tech,Georgia-Tech,Georgia-Southern,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+04/17/2026,North Carolina,Georgia Tech,5,2,0,0,L,Georgia Tech,Georgia-Tech,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/18/2026,North Carolina,Georgia Tech,14,4,0,0,L,Georgia Tech,Georgia-Tech,North-Carolina,1,8,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/19/2026,North Carolina,Georgia Tech,2,5,0,0,W,Georgia Tech,Georgia-Tech,North-Carolina,1,9,"Chapel Hill, NC / Boshamer Stadium",2026,WN2026
+04/21/2026,Georgia,Georgia Tech,4,14,0,1,W,Georgia Tech,Georgia-Tech,Georgia,0,7,"Atlanta, GA / Truist Park",2026,WN2026
+04/24/2026,Georgia Tech,Wake Forest,6,5,0,0,W,Georgia Tech,Georgia-Tech,Wake-Forest,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+04/25/2026,Georgia Tech,Wake Forest,14,11,0,0,W,Georgia Tech,Georgia-Tech,Wake-Forest,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+04/26/2026,Georgia Tech,Wake Forest,6,5,0,0,W,Georgia Tech,Georgia-Tech,Wake-Forest,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+04/28/2026,Kennesaw State,Georgia Tech,7,10,0,0,W,Georgia Tech,Georgia-Tech,Kennesaw-State,1,9,"Kennesaw, GA / Mickey Dunn Stadium",2026,WN2026
+05/01/2026,Georgia Tech,Xavier,4,8,0,0,L,Georgia Tech,Georgia-Tech,Xavier,0,10,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+05/02/2026,Georgia Tech,Xavier,7,5,0,0,W,Georgia Tech,Georgia-Tech,Xavier,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+05/03/2026,Georgia Tech,Xavier,14,6,0,0,W,Georgia Tech,Georgia-Tech,Xavier,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+05/08/2026,Georgia Tech,Duke,10,9,0,0,W,Georgia Tech,Georgia-Tech,Duke,0,10,"Atlanta, GA / Russ Chandler Stadium / Box Score",2026,WN2026
+05/09/2026,Georgia Tech,Duke,15,2,0,0,W,Georgia Tech,Georgia-Tech,Duke,0,7,"Atlanta, GA / Russ Chandler Stadium / Box Score",2026,WN2026
+05/10/2026,Georgia Tech,Duke,14,1,0,0,W,Georgia Tech,Georgia-Tech,Duke,0,7,"Atlanta, GA / Russ Chandler Stadium / Box Score",2026,WN2026
+05/12/2026,Georgia Tech,Mercer,9,12,0,0,L,Georgia Tech,Georgia-Tech,Mercer,0,9,"Atlanta, GA / Russ Chandler Stadium",2026,WN2026
+05/14/2026,Boston College,Georgia Tech,0,9,0,0,W,Georgia Tech,Georgia-Tech,Boston-College,1,9,"Brighton, MA / Eddie Pellagrini Diamond / Box Score",2026,WN2026
+05/15/2026,Boston College,Georgia Tech,1,14,0,0,W,Georgia Tech,Georgia-Tech,Boston-College,1,9,"Brighton, MA / Eddie Pellagrini Diamond / Box Score",2026,WN2026
+05/16/2026,Boston College,Georgia Tech,2,15,0,0,W,Georgia Tech,Georgia-Tech,Boston-College,1,7,"Brighton, MA / Eddie Pellagrini Diamond / Box Score",2026,WN2026
+05/21/2026,Virginia,Georgia Tech,10,16,0,1,W,Georgia Tech,Georgia-Tech,Virginia,0,9,"Charlotte, NC / Truist Field / Recap",2026,WN2026
+05/23/2026,Miami (FL),Georgia Tech,3,9,0,1,W,Georgia Tech,Georgia-Tech,Miami-FL,0,9,"Charlotte, NC / Truist Field",2026,WN2026
+05/24/2026,North Carolina,Georgia Tech,6,13,0,1,W,Georgia Tech,Georgia-Tech,North-Carolina,0,9,"Durham, NC / Durham Bulls Athletic Park",2026,WN2026
