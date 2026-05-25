@@ -31,7 +31,7 @@ import numpy as np
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parent
-SITE = ROOT / "site"
+SITE = ROOT / "docs"    # GitHub Pages requires source path to be / or /docs
 DATA = SITE / "data"
 HIST = DATA / "elo_history"
 for d in (SITE, DATA, HIST):
