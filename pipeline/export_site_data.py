@@ -30,21 +30,23 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-ROOT = Path(__file__).resolve().parent
-SITE = ROOT / "docs"    # GitHub Pages requires source path to be / or /docs
+SCRIPT_DIR = Path(__file__).resolve().parent
+ROOT = SCRIPT_DIR.parent           # repo root (one level up from pipeline/)
+PIPELINE = SCRIPT_DIR              # this script + its inputs live here
+SITE = ROOT / "docs"               # GitHub Pages requires source path / or /docs
 DATA = SITE / "data"
 HIST = DATA / "elo_history"
 for d in (SITE, DATA, HIST):
     d.mkdir(parents=True, exist_ok=True)
 
-sys.path.insert(0, str(ROOT))
+sys.path.insert(0, str(PIPELINE))
 from wn_to_ncaa_name_map import WN_TO_NCAA
 
 # Reverse map: NCAA canonical name -> WN slug (used for the logo URL)
 NCAA_TO_WN_NAME: dict[str, str] = {v: k for k, v in WN_TO_NCAA.items()}
 # Read the WN team list to map WN name -> slug
 _WN_NAME_TO_SLUG: dict[str, str] = {}
-with (ROOT / "wn_teams_2026.csv").open() as f:
+with (PIPELINE / "wn_teams_2026.csv").open() as f:
     for row in csv.DictReader(f):
         _WN_NAME_TO_SLUG[row["wn_name"]] = row["wn_slug"]
 
@@ -155,7 +157,7 @@ def logo_url(slug: str | None) -> str | None:
 # 1. Load + clean games (mirror notebook logic)
 # ---------------------------------------------------------------------------
 print("Loading combined schedule...")
-combined = pd.read_csv(ROOT / "d1_sched_2126_combined.csv", low_memory=False)
+combined = pd.read_csv(PIPELINE / "d1_sched_2126_combined.csv", low_memory=False)
 
 def _r_str(x):
     if pd.isna(x): return ''
