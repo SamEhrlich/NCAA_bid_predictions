@@ -1,0 +1,39 @@
+name: Update tournament data
+
+on:
+  schedule:
+    # Every hour on the hour, UTC. The script itself short-circuits outside
+    # the 2026 tournament window so off-season runs are nearly free.
+    - cron: '0 * * * *'
+  workflow_dispatch:    # also allow manual runs from the Actions tab
+
+permissions:
+  contents: write       # needed to push the updated JSON back to main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Pull ESPN data + update JSON
+        run: python3 pipeline/update_tournament.py
+
+      - name: Commit & push if anything changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain docs/data/schedule.json docs/data/results.json)" ]]; then
+            git add docs/data/schedule.json docs/data/results.json
+            git commit -m "chore: auto-update tournament data from ESPN ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+          else
+            echo "No changes."
+          fi
