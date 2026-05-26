@@ -602,7 +602,13 @@ async function loadEntries() {
       champ: header.findIndex(h => h.toLowerCase() === "champion"),
       brack: header.findIndex(h => h.toLowerCase() === "bracket"),
     };
-    const data = rows.slice(1);
+    // Skip blank rows (deleted-but-not-removed Sheet rows leave empty cells).
+    const data = rows.slice(1).filter(row => {
+      const name    = (row[idx.name]  ?? "").trim();
+      const bracket = (row[idx.brack] ?? "").trim();
+      const champ   = (row[idx.champ] ?? "").trim();
+      return name || bracket || champ;   // keep only rows with real content
+    });
 
     ENTRIES = data.map(row => {
       let picks = {};
