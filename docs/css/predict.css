@@ -1,0 +1,775 @@
+/* ============================================================
+   Bracket prediction page — NCAA tournament-tree layout
+   ============================================================ */
+
+.container-wide { max-width: 1840px; padding: 18px 14px; }
+
+/* ---- Header row: title left, name/email/submit right ---- */
+.predict-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+.predict-submit-row {
+  display: flex; gap: 12px; align-items: center;
+  flex-wrap: wrap;
+}
+.header-input {
+  background: var(--bg-hover);
+  border: 1.5px solid var(--accent-dim);
+  color: var(--text);
+  padding: 12px 16px;
+  border-radius: var(--radius);
+  font-size: 14.5px;
+  font-weight: 500;
+  font-family: var(--sans);
+  outline: none;
+  min-width: 220px;
+  transition: border-color 0.12s, box-shadow 0.12s, background 0.12s;
+}
+.header-input::placeholder {
+  color: var(--text-dim);
+  font-weight: 400;
+}
+.header-input:hover {
+  border-color: var(--accent);
+  background: var(--bg-elevated);
+}
+.header-input:focus {
+  border-color: var(--accent);
+  background: var(--bg-elevated);
+  box-shadow: 0 0 0 3px var(--accent-fade);
+}
+
+/* Make the submit button stand out next to the inputs */
+.predict-submit-row .btn-primary {
+  padding: 12px 24px;
+  font-size: 14.5px;
+  letter-spacing: 0.4px;
+  box-shadow: 0 2px 10px rgba(255, 163, 0, 0.25);
+}
+.predict-submit-row .btn-primary:not(:disabled):hover {
+  box-shadow: 0 2px 18px rgba(255, 163, 0, 0.5);
+  transform: translateY(-1px);
+}
+.btn-primary:disabled,
+.btn-primary[disabled] {
+  background: var(--bg-hover);
+  border-color: var(--border);
+  color: var(--text-muted);
+  cursor: not-allowed;
+  box-shadow: none;
+}
+.btn-primary:disabled:hover {
+  background: var(--bg-hover);
+  border-color: var(--border);
+  transform: none;
+}
+
+.predict-controls {
+  display: flex; gap: 10px; align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 18px;
+}
+.btn-primary, .btn-secondary {
+  font-family: var(--sans);
+  font-size: 13px;
+  padding: 8px 16px;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: all 0.12s;
+  font-weight: 500;
+}
+.btn-primary {
+  background: var(--accent);
+  color: var(--bg);
+  border: 1px solid var(--accent);
+  font-weight: 700;
+}
+.btn-primary:hover { background: var(--accent-dim); border-color: var(--accent-dim); }
+.btn-secondary {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+}
+.btn-secondary:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-fade);
+}
+.predict-status {
+  font-size: 12px; font-family: var(--mono);
+  color: var(--text-muted);
+  margin-left: 6px;
+}
+.predict-status.complete { color: var(--win); font-weight: 700; }
+
+/* =====================================================================
+   BRACKET BOARD — 3 main columns
+   ===================================================================== */
+.bracket-board {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 16px;
+  background: var(--bg-elevated);
+  border-radius: var(--radius);
+  padding: 18px 12px;
+  box-shadow: var(--shadow);
+  align-items: start;
+  font-family: var(--sans);
+}
+/* Explicit Gotham Office on the team-name + tile-head text so nothing
+   accidentally falls back to a system font.  Numeric metadata (Elo, seeds)
+   intentionally stays in `var(--mono)`. */
+.tile-head span:not(.meta),
+.tile-cell .nm,
+.champion-trophy .name,
+.champion-trophy .label { font-family: var(--sans); }
+@media (max-width: 1280px) {
+  .bracket-board { grid-template-columns: 1fr; gap: 24px; }
+}
+
+.bracket-side {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.bracket-center {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: center;
+  padding-top: 10px;
+}
+
+/* =====================================================================
+   SUPER-PAIR — two regionals stacked with a super-regional slot to one side
+   ===================================================================== */
+.super-pair {
+  display: grid;
+  grid-template-columns: 1fr 18px 1fr;
+  align-items: center;
+  gap: 0;
+}
+/* Right-side rows: super-slot is the FIRST column (closer to center),
+   connector is the middle column, regional tiles are on the OUTER right.
+   The JS already appends children in the correct visual order
+   (super-slot, connector, regionals) for the right side. */
+
+.super-pair .regionals {
+  display: flex; flex-direction: column; gap: 14px;
+}
+.super-pair .connector {
+  position: relative;
+  height: 100%;
+  min-height: 320px;
+}
+/* Two horizontal lines from regionals + one vertical line down the middle */
+.super-pair .connector::before,
+.super-pair .connector::after {
+  content: ""; position: absolute;
+  border-top: 1.5px solid var(--border);
+  width: 100%;
+}
+.super-pair .connector::before { top: 25%; }
+.super-pair .connector::after  { top: 75%; }
+.super-pair .connector .vline {
+  position: absolute; left: 50%; top: 25%; bottom: 25%;
+  width: 1.5px;
+  background: var(--border);
+}
+/* Highlight connector when both regional picks made */
+.super-pair.pair-complete .connector::before,
+.super-pair.pair-complete .connector::after,
+.super-pair.pair-complete .connector .vline {
+  border-color: var(--accent);
+  background: var(--accent);
+}
+
+.super-pair .super-slot { align-self: center; }
+
+/* =====================================================================
+   TILES — base
+   ===================================================================== */
+.tile {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+}
+.tile-head {
+  display: flex; justify-content: center; align-items: baseline;
+  padding: 9px 14px;
+  background: var(--bg-elevated);
+  border-bottom: 1px solid var(--border-soft);
+  font-size: 12px; text-transform: uppercase; letter-spacing: 0.8px;
+  color: var(--accent);
+  font-weight: 700;
+  text-align: center;
+  transition: background 0.1s;
+}
+.tile-head.clickable {
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-color: var(--accent-dim);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+.tile-head.clickable:hover {
+  background: var(--accent-fade);
+  text-decoration-color: var(--accent);
+}
+.tile { position: relative; }
+.tile-head .meta { color: var(--text-muted); font-family: var(--mono); font-weight: 500; font-size: 11px; }
+.tile-cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 14px 10px;
+  text-align: center;
+  font-size: 13.5px;
+  cursor: pointer;
+  background: var(--bg);
+  transition: background 0.1s, color 0.1s;
+  min-height: 110px;
+  position: relative;
+}
+.tile-cell .logo {
+  width: 44px; height: 44px;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+.tile-cell .row {
+  display: flex; flex-direction: column; gap: 3px;
+  width: 100%;
+}
+.tile-cell .nm {
+  color: var(--text);
+  font-weight: 500;
+  line-height: 1.2;
+  /* Words stay intact — wrap only on whitespace, never split a word. */
+  word-break: keep-all;
+  overflow-wrap: normal;
+}
+.tile-cell .sub {
+  font-size: 11px; font-family: var(--mono); color: var(--text-muted);
+}
+.tile-cell:hover:not(.empty):not(.dimmed) {
+  background: var(--accent-fade);
+}
+.tile-cell:hover:not(.empty):not(.dimmed) .nm { color: var(--accent); }
+.tile-cell.picked {
+  background: var(--accent-fade-strong);
+}
+.tile-cell.picked .nm { color: var(--accent); font-weight: 700; }
+.tile-cell.picked .sub { color: var(--accent); opacity: 0.75; }
+
+/* Pick was correct — actual winner matches your pick */
+.tile-cell.picked-correct {
+  background: rgba(54, 211, 153, 0.22);
+  box-shadow: inset 0 0 0 2px var(--win);
+}
+.tile-cell.picked-correct .nm  { color: var(--win); font-weight: 700; }
+.tile-cell.picked-correct .sub { color: var(--win); opacity: 0.85; }
+.tile-cell.picked-correct::after {
+  content: "✓";
+  position: absolute;
+  top: 6px; right: 8px;
+  font-size: 14px; color: var(--win); font-weight: 700;
+}
+
+/* Pick was wrong — actual winner is known but it isn't you */
+.tile-cell.picked-wrong {
+  background: rgba(255, 82, 82, 0.18);
+  box-shadow: inset 0 0 0 2px var(--loss);
+}
+.tile-cell.picked-wrong .nm  { color: var(--loss); font-weight: 700; text-decoration: line-through; text-decoration-thickness: 1.5px; }
+.tile-cell.picked-wrong .sub { color: var(--loss); opacity: 0.7; }
+.tile-cell.picked-wrong::after {
+  content: "✗";
+  position: absolute;
+  top: 6px; right: 8px;
+  font-size: 14px; color: var(--loss); font-weight: 700;
+}
+
+/* Not the user's pick, but the actual winner — show a subtle marker */
+.tile-cell.actual-winner::after {
+  content: "✓ actual";
+  position: absolute;
+  top: 6px; right: 8px;
+  font-size: 9px; color: var(--win);
+  letter-spacing: 0.5px;
+  font-family: var(--mono);
+  text-transform: uppercase;
+}
+.tile-cell.empty {
+  cursor: default;
+  color: var(--text-muted);
+  font-style: italic;
+}
+.tile-cell.empty .placeholder {
+  font-size: 12px;
+  grid-column: 1 / -1;
+  text-align: center;
+}
+.tile-cell.dimmed {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+/* 2x2 layout (regional + CWS bracket) */
+.tile-2x2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.tile-2x2 .tile-cell { border-right: 1px solid var(--border-soft); border-bottom: 1px solid var(--border-soft); }
+.tile-2x2 .tile-cell:nth-child(2n) { border-right: none; }
+.tile-2x2 .tile-cell:nth-last-child(-n+2) { border-bottom: none; }
+
+/* 2x1 layout (super regional + finals) — cells side-by-side at same width
+   as regional 2x2 cells, so all tile cells render uniformly across the page. */
+.tile-2x1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.tile-2x1 .tile-cell { border-right: 1px solid var(--border-soft); }
+.tile-2x1 .tile-cell:last-child { border-right: none; }
+
+/* Slight tint per tile type */
+.tile-super .tile-head { color: var(--accent); }
+.tile-cws .tile-head    { color: var(--accent); }
+.tile-finals { border-color: var(--accent); }
+.tile-finals .tile-head { color: var(--accent); }
+
+/* =====================================================================
+   CHAMPION TROPHY
+   ===================================================================== */
+.champion-trophy {
+  background: var(--bg);
+  border: 1.5px solid var(--accent);
+  border-radius: 10px;
+  padding: 22px 30px;
+  text-align: center;
+  min-width: 320px;
+  margin-bottom: 4px;
+}
+.champion-trophy .label {
+  font-size: 12px; text-transform: uppercase; letter-spacing: 1.8px;
+  color: var(--accent); margin-bottom: 10px; font-weight: 700;
+}
+.champion-trophy .champion-logo {
+  display: block;
+  width: 72px; height: 72px;
+  border-radius: 8px;
+  margin: 0 auto 10px;
+}
+.champion-trophy .name {
+  font-size: 26px; font-weight: 700; color: var(--text);
+  min-height: 32px;
+}
+.champion-trophy.empty .name {
+  color: var(--text-muted); font-weight: 400; font-size: 13px; font-style: italic;
+}
+
+/* Connectors inside the center column */
+.center-connector {
+  width: 1.5px; height: 18px; background: var(--border);
+}
+.center-connector.lit { background: var(--accent); }
+
+/* =====================================================================
+   SUBMIT CARD
+   ===================================================================== */
+.submit-card { margin-top: 22px; }
+.submit-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin-bottom: 12px;
+}
+@media (max-width: 700px) { .submit-grid { grid-template-columns: 1fr; } }
+.submit-grid label { display: flex; flex-direction: column; gap: 4px; }
+.submit-grid label > span {
+  font-size: 11px; color: var(--text-dim);
+  text-transform: uppercase; letter-spacing: 0.5px;
+}
+.submit-grid label > span em {
+  font-style: normal; color: var(--accent); margin-left: 4px;
+}
+.submit-grid input {
+  padding: 9px 12px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: var(--radius);
+  font-size: 14px;
+  font-family: var(--sans);
+  outline: none;
+}
+.submit-grid input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px var(--accent-fade);
+}
+.submit-result { margin-top: 12px; font-size: 13px; font-family: var(--mono); }
+.submit-result.success { color: var(--win); }
+.submit-result.error { color: var(--loss); }
+
+/* =====================================================================
+   ENTRIES LEADERBOARD (with scoring)
+   ===================================================================== */
+.entries-list .entry-row {
+  display: grid;
+  grid-template-columns: 36px 1fr auto;
+  gap: 12px; align-items: center;
+  padding: 10px 8px;
+  border-bottom: 1px solid var(--border-soft);
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.1s;
+  border-radius: 4px;
+}
+.entries-list .entry-row:last-child { border-bottom: none; }
+.entries-list .entry-row:hover { background: var(--accent-fade); }
+.entries-list .entry-row:hover .nm { color: var(--accent); }
+.entries-list .entry-row .rank {
+  font-family: var(--mono); color: var(--text-muted);
+  font-size: 13px; text-align: right;
+  font-weight: 600;
+}
+.entries-list .entry-row .nm { color: var(--text); font-weight: 500; }
+.entries-list .entry-row .pick { color: var(--text-dim); font-size: 11px; font-family: var(--mono); margin-left: 8px; }
+.entries-list .entry-row .score {
+  font-family: var(--mono);
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--accent);
+  white-space: nowrap;
+}
+.entries-list .entry-row .score-lbl {
+  font-size: 11px; color: var(--text-muted);
+  font-weight: 400; margin-left: 2px;
+}
+
+/* =====================================================================
+   ENTRY DETAIL MODAL
+   ===================================================================== */
+.modal-backdrop {
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,0.75);
+  display: none;
+  align-items: flex-start;
+  justify-content: center;
+  z-index: 200;
+  padding: 40px 20px;
+  overflow-y: auto;
+  backdrop-filter: blur(3px);
+}
+.modal-backdrop.open { display: flex; }
+.modal-panel {
+  background: var(--bg-elevated);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  max-width: 1280px;
+  width: 100%;
+  padding: 28px 32px;
+  position: relative;
+}
+.modal-close {
+  position: absolute; top: 12px; right: 14px;
+  background: transparent; border: none;
+  color: var(--text-dim);
+  font-size: 28px; line-height: 1;
+  cursor: pointer;
+  padding: 4px 10px;
+  border-radius: 4px;
+}
+.modal-close:hover { color: var(--accent); background: var(--accent-fade); }
+
+.modal-head {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 22px; padding-bottom: 16px;
+  border-bottom: 1px solid var(--border-soft);
+}
+.modal-name { font-size: 22px; font-weight: 700; color: var(--text); }
+.modal-sub  { font-size: 12px; font-family: var(--mono); color: var(--text-muted); margin-top: 4px; }
+.modal-score {
+  text-align: right;
+}
+.modal-score-num {
+  font-size: 38px; font-weight: 700;
+  color: var(--accent);
+  font-family: var(--mono);
+  line-height: 1;
+}
+.modal-score-lbl {
+  font-size: 11px; color: var(--text-muted);
+  text-transform: uppercase; letter-spacing: 1px;
+  margin-top: 4px;
+}
+
+.modal-section { margin-bottom: 22px; }
+.modal-section-head {
+  display: flex; justify-content: space-between; align-items: baseline;
+  margin-bottom: 8px;
+}
+.modal-section-title {
+  font-size: 12px; text-transform: uppercase; letter-spacing: 0.8px;
+  color: var(--accent); font-weight: 700;
+}
+.modal-section-meta {
+  font-size: 11px; font-family: var(--mono); color: var(--text-dim);
+}
+.modal-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+}
+@media (max-width: 600px) { .modal-grid { grid-template-columns: 1fr; } }
+.modal-pick {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: auto auto;
+  column-gap: 8px;
+  align-items: center;
+  padding: 8px 12px;
+  background: var(--bg);
+  border-radius: 4px;
+  border-left: 3px solid var(--border);
+  font-size: 13px;
+}
+/* When a logo is present, add a column for it on the left */
+.modal-pick.has-logo {
+  grid-template-columns: 32px 1fr auto;
+}
+.modal-pick .modal-logo {
+  grid-column: 1; grid-row: 1 / span 2;
+  width: 30px; height: 30px;
+  border-radius: 3px;
+  align-self: center;
+}
+.modal-pick .modal-logo-placeholder {
+  background: var(--bg-elevated);
+  border: 1px dashed var(--border);
+}
+.modal-pick.has-logo .modal-key      { grid-column: 2; }
+.modal-pick.has-logo .modal-team     { grid-column: 2; }
+.modal-pick.has-logo .modal-actual   { grid-column: 1 / span 3; }
+.modal-pick.has-logo .modal-status   { grid-column: 3; }
+
+.modal-pick .modal-key {
+  grid-column: 1; grid-row: 1;
+  font-size: 10px;
+  color: var(--text-muted);
+  text-transform: uppercase; letter-spacing: 0.5px;
+  font-family: var(--mono);
+}
+.modal-pick .modal-team {
+  grid-column: 1; grid-row: 2;
+  color: var(--text); font-weight: 500;
+}
+.modal-pick .modal-actual {
+  grid-column: 1 / span 2; grid-row: 3;
+  font-size: 10px; font-family: var(--mono);
+  color: var(--loss);
+  margin-top: 4px;
+  display: flex; align-items: center; gap: 5px;
+}
+.modal-pick .modal-actual-logo {
+  width: 16px; height: 16px;
+  border-radius: 2px;
+  opacity: 0.85;
+}
+.modal-pick .modal-status {
+  grid-column: 2; grid-row: 1 / span 2;
+  font-family: var(--mono);
+  font-size: 18px; font-weight: 700;
+  align-self: center;
+}
+.modal-pick-correct { border-left-color: var(--win); }
+.modal-pick-correct .modal-status { color: var(--win); }
+.modal-pick-correct .modal-team { color: var(--win); }
+.modal-pick-wrong   { border-left-color: var(--loss); opacity: 0.85; }
+.modal-pick-wrong .modal-status { color: var(--loss); }
+.modal-pick-pending { border-left-color: var(--border); }
+.modal-pick-pending .modal-status { color: var(--text-muted); }
+
+/* =====================================================================
+   Bracket-flow schedule (replaces vertical list — games arranged in
+   columns by chronological round, top row Winners', bottom row Elim)
+   ===================================================================== */
+.bracket-flow {
+  display: flex; flex-direction: column;
+  gap: 22px;
+  /* horizontal scroll lives on the inner rows (one scrollbar per section) */
+}
+.bracket-section {
+  /* clip + scroll the row's overflow, not the entire flow */
+  overflow-x: auto;
+  overflow-y: visible;
+  padding-bottom: 6px;
+}
+.bracket-section::-webkit-scrollbar { height: 8px; }
+.bracket-section::-webkit-scrollbar-track { background: var(--bg); border-radius: 4px; }
+.bracket-section::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+.bracket-section::-webkit-scrollbar-thumb:hover { background: var(--accent-dim); }
+
+.bracket-section .bracket-section-title {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-dim);
+  margin: 0 0 10px;
+  font-weight: 700;
+  position: sticky; left: 0;     /* keep the heading anchored while you scroll */
+}
+.bracket-row {
+  display: grid;
+  gap: 14px;
+  align-items: stretch;
+  min-width: max-content;        /* allow row to be wider than container → triggers scroll */
+}
+.bracket-row.cols-4 { grid-template-columns: repeat(4, 230px); }
+.bracket-row.cols-3 { grid-template-columns: repeat(3, 230px); }
+.bracket-row.cols-2 { grid-template-columns: repeat(2, 230px); }
+.bracket-row.cols-1 { grid-template-columns: 230px; }
+
+.bracket-col {
+  display: flex; flex-direction: column;
+  gap: 10px;
+}
+.game-tile {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  font-size: 12px;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+  position: relative;
+}
+.game-tile .game-header {
+  background: var(--bg-elevated);
+  padding: 7px 11px;
+  border-bottom: 1px solid var(--border-soft);
+  display: flex; flex-direction: column; gap: 2px;
+}
+.game-tile .game-label {
+  font-size: 9.5px;
+  color: var(--accent);
+  font-family: var(--mono);
+  text-transform: uppercase;
+  letter-spacing: 0.7px;
+  font-weight: 700;
+}
+.game-tile .game-when {
+  color: var(--text);
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 500;
+  display: flex; gap: 6px; align-items: baseline;
+  flex-wrap: wrap;
+}
+.game-tile .game-when .net {
+  color: var(--text-muted);
+  font-size: 10px;
+  padding: 1px 5px;
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  letter-spacing: 0.3px;
+}
+.game-tile .game-body {
+  display: flex; flex-direction: column;
+}
+.game-tile .game-team {
+  display: grid;
+  grid-template-columns: 28px 1fr;
+  gap: 10px;
+  align-items: center;
+  padding: 8px 11px;
+  border-bottom: 1px solid var(--border-soft);
+  font-size: 12px;
+}
+.game-tile .game-team:last-child { border-bottom: none; }
+.game-tile .game-logo {
+  width: 26px; height: 26px;
+  border-radius: 3px;
+}
+.game-tile .game-team-meta {
+  display: flex; flex-direction: column; gap: 1px;
+  overflow: hidden;
+}
+.game-tile .game-team-nm {
+  color: var(--text);
+  font-weight: 500;
+  overflow: hidden; text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.game-tile .game-team-seed {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--text-muted);
+}
+.game-tile .game-team-tbd {
+  grid-template-columns: 1fr;
+  color: var(--text-muted);
+  font-style: italic;
+  font-size: 11.5px;
+  padding: 10px 11px;
+  min-height: 42px;
+}
+.game-tile.tentative {
+  opacity: 0.55;
+  border-style: dashed;
+}
+
+/* ---- Bracket connecting lines (CSS ::after / ::before on game-tiles) ---- */
+.bracket-row .bracket-col {
+  position: relative;
+}
+/* Right-side connector — every game in a non-last column extends a horizontal
+   line into the gap. */
+.bracket-row .bracket-col:not(:last-child) .game-tile::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: -14px;        /* full gap width */
+  width: 14px;
+  height: 2px;
+  background: var(--accent-dim);
+  z-index: 1;
+}
+/* Left-side connector — every game in a non-first column receives a horizontal
+   line entering from the left. */
+.bracket-row .bracket-col:not(:first-child) .game-tile::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -14px;
+  width: 14px;
+  height: 2px;
+  background: var(--accent-dim);
+  z-index: 1;
+}
+/* Vertical merger line: when a column has multiple games whose outputs merge
+   into the next column's single game, draw a vertical line spanning them on
+   the right edge.  Implemented with a column-level ::after.
+   Only applies when this column has >1 tile AND the next column has fewer. */
+.bracket-row .bracket-col.merger::after {
+  content: "";
+  position: absolute;
+  right: -7px;
+  top: var(--merger-top, 50%);
+  bottom: var(--merger-bottom, 50%);
+  width: 2px;
+  background: var(--accent-dim);
+  z-index: 0;
+}
+.bracket-col-empty {
+  /* invisible spacer so two-row grids align */
+  height: 4px;
+}
