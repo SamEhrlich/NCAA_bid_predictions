@@ -2,3 +2,9 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+THREAD_DRAFT.md
+
+# Local-only screenshot / image artifacts (Twitter thread, bracket reference, etc.)
+/image.png
+/image[0-9].png
+/thread_regionals*.png

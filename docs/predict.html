@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Predict — NCAA D1 Baseball Elo</title>
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/predict.css" />
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-brand">NCAA D1 Baseball <span>Elo</span></div>
+  <div class="nav-links">
+    <a href="index.html"   data-nav="leaderboard">Leaderboard</a>
+    <a href="bracket.html" data-nav="bracket">2026 Bracket</a>
+    <a href="predict.html" data-nav="predict">Fill Out Bracket</a>
+    <a href="whatif.html"  data-nav="whatif">What-If</a>
+    <a href="compare.html" data-nav="compare">Compare</a>
+    <a href="conference.html" data-nav="conference">Conferences</a>
+    <a href="extras.html"  data-nav="extras">Upsets</a>
+  </div>
+  <div class="nav-meta" id="nav-meta"></div>
+</nav>
+
+<div class="container container-wide">
+  <div class="predict-header">
+    <h1 class="section-title" style="margin: 0;">Fill Out Your Bracket</h1>
+    <div class="predict-submit-row">
+      <input id="entry-name"  class="header-input" type="text"  placeholder="Name (required)" />
+      <input id="entry-email" class="header-input" type="email" placeholder="Email (optional)" />
+      <button id="submit-bracket" class="btn-primary" disabled>Submit</button>
+    </div>
+  </div>
+  <div class="submit-result" id="submit-result"></div>
+
+  <div class="predict-controls">
+    <button id="reset" class="btn-secondary">Reset</button>
+    <button id="random" class="btn-secondary">Random Picks</button>
+    <button id="autopick" class="btn-secondary">Use Elo Favorites</button>
+    <span class="predict-status" id="predict-status">0 of 27 picks made</span>
+  </div>
+
+  <div class="bracket-board" id="bracket-board">
+    <div class="loading">Loading bracket...</div>
+  </div>
+
+  <h2 class="section-title" style="margin-top:48px;">
+    Entries
+    <span class="sub" id="entries-sub">live count + recent submissions</span>
+  </h2>
+  <div class="card">
+    <div id="entries-list" class="entries-list">
+      <p class="loading">Leaderboard backend not yet configured.</p>
+    </div>
+  </div>
+</div>
+
+<!-- Entry detail modal -->
+<div id="entry-modal" class="modal-backdrop">
+  <div class="modal-panel">
+    <button class="modal-close" id="entry-modal-close" aria-label="Close">×</button>
+    <div id="entry-modal-body"></div>
+  </div>
+</div>
+
+<footer class="footer">
+  Bracket auto-saves to your browser. Refresh-safe.
+</footer>
+
+<script type="module" src="js/predict.js"></script>
+
+</body>
+</html>
