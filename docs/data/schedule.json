@@ -1,0 +1,865 @@
+{
+  "_comment": "Edit team-specific game times here. All dates default to the official 2026 NCAA tournament window (Regionals May 29-Jun 1, Supers Jun 5-8, CWS Jun 13-23). The 'venue' string shows in the per-regional popup. The 'games' array can hold any number of games \u2014 typically 6-7 per regional double-elim.",
+  "regional": {
+    "los_angeles": {
+      "venue": "Jackie Robinson Stadium \u00b7 Los Angeles, California",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 3 PM EDT",
+          "network": "ESPNU",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Fri May 29 \u00b7 6:00 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "Fri May 29 \u00b7 8 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "Sat May 30 \u00b7 7:00 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "Sun May 31 \u00b7 1:00 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "Sun May 31 \u00b7 7:00 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "Mon Jun 1 \u00b7 6:00 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "_default": {
+      "venue": "Regional Site \u00b7 TBD",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 TBD",
+          "network": "ESPN+",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Fri May 29 \u00b7 TBD",
+          "network": "ESPN+",
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "Sat May 30 \u00b7 TBD",
+          "network": "ESPN+",
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "Sat May 30 \u00b7 TBD",
+          "network": "ESPN+",
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "Sun May 31 \u00b7 TBD",
+          "network": "ESPN+",
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "Sun May 31 \u00b7 TBD",
+          "network": "ESPN+",
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "Mon Jun 1 \u00b7 TBD",
+          "network": "ESPN+",
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "atlanta": {
+      "venue": "Mac Nease Baseball Park \u00b7 Atlanta, Georgia",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 12 PM EDT",
+          "network": "ACC Network",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Fri May 29 \u00b7 5 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "chapel_hill": {
+      "venue": "Bryson Field at Boshamer Stadium \u00b7 Chapel Hill, North Carolina",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 5 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Fri May 29 \u00b7 12 PM EDT",
+          "network": "ESPNU",
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "morgantown": {
+      "venue": "Wagener Field at Monongalia County Ballpark \u00b7 Morgantown, West Virginia",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 5 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Fri May 29 \u00b7 12 PM EDT",
+          "network": "ESPN2",
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "auburn": {
+      "venue": "Plainsman Park \u00b7 Auburn, Alabama",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 1 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Fri May 29 \u00b7 6 PM EDT",
+          "network": "ESPNU",
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "austin": {
+      "venue": "UFCU Disch-Falk Field \u00b7 Austin, Texas",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 1 PM EDT",
+          "network": "SEC Network",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Fri May 29 \u00b7 6 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "gainesville": {
+      "venue": "Condron Family Ballpark \u00b7 Gainesville, Florida",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 1 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Fri May 29 \u00b7 6 PM EDT",
+          "network": "ACC Network",
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "lawrence": {
+      "venue": "Hoglund Ballpark \u00b7 Lawrence, Kansas",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 1 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Fri May 29 \u00b7 6 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "hattiesburg": {
+      "venue": "Pete Taylor Park/Hill Denson Field \u00b7 Hattiesburg, Mississippi",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 2 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Fri May 29 \u00b7 7 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "starkville": {
+      "venue": "Dudy Noble Field \u00b7 Starkville, Mississippi",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 2 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Fri May 29 \u00b7 7 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "tuscaloosa": {
+      "venue": "Sewell-Thomas Stadium \u00b7 Tuscaloosa, Alabama",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 7 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Fri May 29 \u00b7 2 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "athens": {
+      "venue": "Foley Field \u00b7 Athens, Georgia",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 7 PM EDT",
+          "network": "SEC Network",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Fri May 29 \u00b7 2 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "tallahassee": {
+      "venue": "Mike Martin Field at Dick Howser Stadium \u00b7 Tallahassee, Florida",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 3 PM EDT",
+          "network": "ACC Network",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "Fri May 29 \u00b7 8 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "eugene": {
+      "venue": "PK Park \u00b7 Eugene, Oregon",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Fri May 29 \u00b7 3 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "Fri May 29 \u00b7 8 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "college_station": {
+      "venue": "Olsen Field at Blue Bell Park \u00b7 College Station, Texas",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 4 PM EDT",
+          "network": "SEC Network",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "Fri May 29 \u00b7 9 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "rematch"
+        }
+      ]
+    },
+    "lincoln": {
+      "venue": "Hawks Field At Haymarket Park \u00b7 Lincoln, Nebraska",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri May 29 \u00b7 4 PM EDT",
+          "network": "ESPN+",
+          "matchup_pattern": "1v4"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "2v3"
+        },
+        {
+          "label": "Game 3",
+          "datetime": "Fri May 29 \u00b7 9 PM EDT",
+          "network": "ESPNU",
+          "matchup_pattern": "L1vL2"
+        },
+        {
+          "label": "Game 4",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W1vW2"
+        },
+        {
+          "label": "Game 5",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "L4vW3"
+        },
+        {
+          "label": "Game 6",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "W4vW5"
+        },
+        {
+          "label": "Game 7 (if necessary)",
+          "datetime": "TBD",
+          "network": null,
+          "matchup_pattern": "rematch"
+        }
+      ]
+    }
+  },
+  "super": {
+    "_default": {
+      "venue": "Higher seed's home park",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Fri Jun 5 \u00b7 TBD",
+          "network": "ESPN+",
+          "matchup_pattern": "AvB"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Sat Jun 6 \u00b7 TBD",
+          "network": "ESPN+",
+          "matchup_pattern": "AvB"
+        },
+        {
+          "label": "Game 3 (if necessary)",
+          "datetime": "Sun Jun 7 \u00b7 TBD",
+          "network": "ESPN+",
+          "matchup_pattern": "AvB"
+        }
+      ]
+    }
+  },
+  "cws": {
+    "bracket": {
+      "venue": "Charles Schwab Field \u00b7 Omaha, NE",
+      "games": [
+        {
+          "label": "Bracket play",
+          "datetime": "Jun 13\u201317 \u00b7 TBD",
+          "network": "ESPN/ESPN2",
+          "matchup_pattern": "tbd"
+        }
+      ]
+    },
+    "finals": {
+      "venue": "Charles Schwab Field \u00b7 Omaha, NE",
+      "games": [
+        {
+          "label": "Game 1",
+          "datetime": "Sat Jun 20 \u00b7 TBD",
+          "network": "ESPN",
+          "matchup_pattern": "AvB"
+        },
+        {
+          "label": "Game 2",
+          "datetime": "Sun Jun 21 \u00b7 TBD",
+          "network": "ESPN",
+          "matchup_pattern": "AvB"
+        },
+        {
+          "label": "Game 3 (if necessary)",
+          "datetime": "Mon Jun 22 \u00b7 TBD",
+          "network": "ESPN",
+          "matchup_pattern": "AvB"
+        }
+      ]
+    }
+  }
+}
