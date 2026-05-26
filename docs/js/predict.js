@@ -638,10 +638,14 @@ async function loadEntries() {
       const row = document.createElement("div");
       row.className = "entry-row";
       row.dataset.idx = String(i);
+      const champTeam = e.champion ? TEAM_BY_NAME[e.champion] : null;
+      const champLogo = champTeam && champTeam.logo
+        ? `<img class="entry-champ-logo" src="${champTeam.logo}" alt="" onerror="this.style.visibility='hidden'" loading="lazy">`
+        : "";
       row.innerHTML = `
         <span class="rank">${i + 1}</span>
         <span class="nm">${esc(e.name)}
-          <span class="pick"> → champ: ${esc(e.champion || "?")}</span></span>
+          <span class="pick"> → champ: ${champLogo}${esc(e.champion || "?")}</span></span>
         <span class="score">${e.score.total} <span class="score-lbl">pts</span></span>
       `;
       row.addEventListener("click", () => openEntryModal(i));
