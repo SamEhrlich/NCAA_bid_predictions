@@ -429,7 +429,7 @@
       "games": [
         {
           "label": "Game 1",
-          "datetime": "Fri May 29 \u00b7 2 PM EDT",
+          "datetime": "Fri May 29 \u00b7 1 PM EDT",
           "network": "ESPN+",
           "matchup_pattern": "1v4"
         },
@@ -524,7 +524,7 @@
         {
           "label": "Game 1",
           "datetime": "Fri May 29 \u00b7 7 PM EDT",
-          "network": "ESPN+",
+          "network": "SEC Network",
           "matchup_pattern": "1v4"
         },
         {
@@ -570,13 +570,13 @@
       "games": [
         {
           "label": "Game 1",
-          "datetime": "Fri May 29 \u00b7 7 PM EDT",
+          "datetime": "Fri May 29 \u00b7 5 PM EDT",
           "network": "SEC Network",
           "matchup_pattern": "1v4"
         },
         {
           "label": "Game 2",
-          "datetime": "Fri May 29 \u00b7 2 PM EDT",
+          "datetime": "Fri May 29 \u00b7 12 PM EDT",
           "network": "ESPN+",
           "matchup_pattern": "2v3"
         },
