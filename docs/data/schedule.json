@@ -106,7 +106,7 @@
         },
         {
           "label": "Game 2",
-          "datetime": "Fri May 29 \u00b7 5 PM EDT",
+          "datetime": "Fri May 29 \u00b7 6:30 PM EDT",
           "network": "ESPN+",
           "matchup_pattern": "2v3"
         },
@@ -147,7 +147,7 @@
       "games": [
         {
           "label": "Game 1",
-          "datetime": "Fri May 29 \u00b7 5 PM EDT",
+          "datetime": "Fri May 29 \u00b7 6 PM EDT",
           "network": "ESPN+",
           "matchup_pattern": "1v4"
         },
@@ -247,7 +247,7 @@
         },
         {
           "label": "Game 2",
-          "datetime": "Fri May 29 \u00b7 6 PM EDT",
+          "datetime": "Fri May 29 \u00b7 7 PM EDT",
           "network": "ESPN2",
           "matchup_pattern": "2v3"
         },
@@ -617,7 +617,7 @@
       "games": [
         {
           "label": "Game 1",
-          "datetime": "Fri May 29 \u00b7 4 PM EDT",
+          "datetime": "Fri May 29 \u00b7 5 PM EDT",
           "network": "ESPN+",
           "matchup_pattern": "1v4"
         },
@@ -671,7 +671,7 @@
         {
           "label": "Game 2",
           "datetime": "Fri May 29 \u00b7 3 PM EDT",
-          "network": "ESPNEWS",
+          "network": "ESPNU",
           "matchup_pattern": "2v3"
         },
         {
