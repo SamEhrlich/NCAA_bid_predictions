@@ -617,8 +617,8 @@
       "games": [
         {
           "label": "Game 1",
-          "datetime": "Fri May 29 \u00b7 3 PM EDT",
-          "network": "ACC Network",
+          "datetime": "Fri May 29 \u00b7 4 PM EDT",
+          "network": "ESPN+",
           "matchup_pattern": "1v4"
         },
         {
@@ -671,7 +671,7 @@
         {
           "label": "Game 2",
           "datetime": "Fri May 29 \u00b7 3 PM EDT",
-          "network": "ESPNU",
+          "network": "ESPNEWS",
           "matchup_pattern": "2v3"
         },
         {
