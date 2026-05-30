@@ -118,14 +118,14 @@
         },
         {
           "label": "Game 4",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Sat May 30 \u00b7 2:06 PM EDT",
+          "network": "ESPN+",
           "matchup_pattern": "W1vW2"
         },
         {
           "label": "Game 5",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Sat May 30 \u00b7 6 PM EDT",
+          "network": "ESPN+",
           "matchup_pattern": "L4vW3"
         },
         {
