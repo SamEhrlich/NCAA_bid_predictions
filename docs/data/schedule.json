@@ -400,7 +400,7 @@
         },
         {
           "label": "Game 4",
-          "datetime": "Sat May 30 \u00b7 6 PM EDT",
+          "datetime": "Sat May 30 \u00b7 6:30 PM EDT",
           "network": "ESPN2",
           "matchup_pattern": "W1vW2"
         },
@@ -636,7 +636,7 @@
         {
           "label": "Game 4",
           "datetime": "Sat May 30 \u00b7 2 PM EDT",
-          "network": "ACC Network",
+          "network": "ESPN+",
           "matchup_pattern": "W1vW2"
         },
         {
