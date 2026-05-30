@@ -359,7 +359,7 @@
         },
         {
           "label": "Game 5",
-          "datetime": "Sat May 30 \u00b7 8 PM EDT",
+          "datetime": "Sat May 30 \u00b7 8:30 PM EDT",
           "network": "ACC Network",
           "matchup_pattern": "L4vW3"
         },
@@ -547,8 +547,8 @@
         },
         {
           "label": "Game 5",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Sat May 30 \u00b7 8:36 PM EDT",
+          "network": "ESPN+",
           "matchup_pattern": "L4vW3"
         },
         {
