@@ -106,7 +106,7 @@
         },
         {
           "label": "Game 2",
-          "datetime": "Fri May 29 \u00b7 6:30 PM EDT",
+          "datetime": "Fri May 29 \u00b7 7:30 PM EDT",
           "network": "ESPN+",
           "matchup_pattern": "2v3"
         },
@@ -206,14 +206,14 @@
         },
         {
           "label": "Game 3",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Sat May 30 \u00b7 12 PM EDT",
+          "network": "ESPN+",
           "matchup_pattern": "L1vL2"
         },
         {
           "label": "Game 4",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Sat May 30 \u00b7 5 PM EDT",
+          "network": "ESPN+",
           "matchup_pattern": "W1vW2"
         },
         {
@@ -253,8 +253,8 @@
         },
         {
           "label": "Game 3",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Fri May 29 \u00b7 8 PM EDT",
+          "network": "ESPN2",
           "matchup_pattern": "L1vL2"
         },
         {
@@ -488,8 +488,8 @@
         },
         {
           "label": "Game 3",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Fri May 29 \u00b7 8 PM EDT",
+          "network": "ESPN+",
           "matchup_pattern": "L1vL2"
         },
         {
@@ -629,7 +629,7 @@
         },
         {
           "label": "Game 3",
-          "datetime": "Fri May 29 \u00b7 8 PM EDT",
+          "datetime": "Fri May 29 \u00b7 9 PM EDT",
           "network": "ESPN+",
           "matchup_pattern": "L1vL2"
         },
