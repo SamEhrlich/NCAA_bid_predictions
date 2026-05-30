@@ -25,7 +25,7 @@
         {
           "label": "Game 4",
           "datetime": "Sat May 30 \u00b7 4 PM EDT",
-          "network": "ESPN+",
+          "network": "ESPNU",
           "matchup_pattern": "W1vW2"
         },
         {
@@ -166,7 +166,7 @@
         {
           "label": "Game 4",
           "datetime": "Sat May 30 \u00b7 5 PM EDT",
-          "network": "ESPN+",
+          "network": "ACC Network",
           "matchup_pattern": "W1vW2"
         },
         {
@@ -213,7 +213,7 @@
         {
           "label": "Game 4",
           "datetime": "Sat May 30 \u00b7 5 PM EDT",
-          "network": "ESPN+",
+          "network": "SEC Network",
           "matchup_pattern": "W1vW2"
         },
         {
@@ -360,7 +360,7 @@
         {
           "label": "Game 5",
           "datetime": "Sat May 30 \u00b7 8 PM EDT",
-          "network": "ESPN+",
+          "network": "ACC Network",
           "matchup_pattern": "L4vW3"
         },
         {
@@ -582,14 +582,14 @@
         },
         {
           "label": "Game 3",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Sat May 30 \u00b7 12 PM EDT",
+          "network": "ESPN+",
           "matchup_pattern": "L1vL2"
         },
         {
           "label": "Game 4",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Sat May 30 \u00b7 5 PM EDT",
+          "network": "ESPN+",
           "matchup_pattern": "W1vW2"
         },
         {
@@ -636,7 +636,7 @@
         {
           "label": "Game 4",
           "datetime": "Sat May 30 \u00b7 2 PM EDT",
-          "network": "ESPN+",
+          "network": "ACC Network",
           "matchup_pattern": "W1vW2"
         },
         {
@@ -783,7 +783,7 @@
         {
           "label": "Game 5",
           "datetime": "Sat May 30 \u00b7 8 PM EDT",
-          "network": "ESPN+",
+          "network": "ESPNU",
           "matchup_pattern": "L4vW3"
         },
         {
