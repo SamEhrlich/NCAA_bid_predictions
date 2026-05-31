@@ -2,7 +2,7 @@
   "_comment": "Edit team-specific game times here. All dates default to the official 2026 NCAA tournament window (Regionals May 29-Jun 1, Supers Jun 5-8, CWS Jun 13-23). The 'venue' string shows in the per-regional popup. The 'games' array can hold any number of games \u2014 typically 6-7 per regional double-elim.",
   "regional": {
     "los_angeles": {
-      "venue": "Jackie Robinson Ballpark \u00b7 Daytona Beach, Florida",
+      "venue": "Jackie Robinson Stadium \u00b7 Los Angeles, California",
       "games": [
         {
           "label": "Game 1",
@@ -284,7 +284,7 @@
       ]
     },
     "austin": {
-      "venue": "Caesar Uyesaka Stadium \u00b7 Santa Barbara, California",
+      "venue": "UFCU Disch-Falk Field \u00b7 Austin, Texas",
       "games": [
         {
           "label": "Game 1",
@@ -378,7 +378,7 @@
       ]
     },
     "lawrence": {
-      "venue": "Baum-Walker Stadium \u00b7 Fayetteville, Arkansas",
+      "venue": "Hoglund Ballpark \u00b7 Lawrence, Kansas",
       "games": [
         {
           "label": "Game 1",
@@ -413,7 +413,7 @@
         {
           "label": "Game 6",
           "datetime": "Sun May 31 \u00b7 6 PM EDT",
-          "network": "ESPN+",
+          "network": "ESPN2 \u00b7 ESPN+",
           "matchup_pattern": "W4vW5"
         },
         {
