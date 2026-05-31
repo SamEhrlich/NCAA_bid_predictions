@@ -2,7 +2,7 @@
   "_comment": "Edit team-specific game times here. All dates default to the official 2026 NCAA tournament window (Regionals May 29-Jun 1, Supers Jun 5-8, CWS Jun 13-23). The 'venue' string shows in the per-regional popup. The 'games' array can hold any number of games \u2014 typically 6-7 per regional double-elim.",
   "regional": {
     "los_angeles": {
-      "venue": "Jackie Robinson Stadium \u00b7 Los Angeles, California",
+      "venue": "Jackie Robinson Ballpark \u00b7 Daytona Beach, Florida",
       "games": [
         {
           "label": "Game 1",
@@ -36,8 +36,8 @@
         },
         {
           "label": "Game 6",
-          "datetime": "Sun May 31 \u00b7 7:00 PM EDT",
-          "network": "ESPN+",
+          "datetime": "Sun May 31 \u00b7 4 PM EDT",
+          "network": "ESPNU",
           "matchup_pattern": "W4vW5"
         },
         {
@@ -125,7 +125,7 @@
         {
           "label": "Game 5",
           "datetime": "Sun May 31 \u00b7 1 PM EDT",
-          "network": "ESPN+",
+          "network": "SEC Network",
           "matchup_pattern": "L4vW3"
         },
         {
@@ -219,7 +219,7 @@
         {
           "label": "Game 5",
           "datetime": "Sun May 31 \u00b7 12 PM EDT",
-          "network": "ESPN+",
+          "network": "ESPN2",
           "matchup_pattern": "L4vW3"
         },
         {
@@ -271,8 +271,8 @@
         },
         {
           "label": "Game 6",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Sun May 31 \u00b7 3 PM EDT",
+          "network": "ESPN2",
           "matchup_pattern": "W4vW5"
         },
         {
@@ -365,8 +365,8 @@
         },
         {
           "label": "Game 6",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Sun May 31 \u00b7 12 PM EDT",
+          "network": "ACC Network",
           "matchup_pattern": "W4vW5"
         },
         {
@@ -407,7 +407,7 @@
         {
           "label": "Game 5",
           "datetime": "Sun May 31 \u00b7 1 PM EDT",
-          "network": "ESPN+",
+          "network": "ESPNU",
           "matchup_pattern": "L4vW3"
         },
         {
@@ -459,8 +459,8 @@
         },
         {
           "label": "Game 6",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Sun May 31 \u00b7 4 PM EDT",
+          "network": "ESPN+",
           "matchup_pattern": "W4vW5"
         },
         {
@@ -506,8 +506,8 @@
         },
         {
           "label": "Game 6",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Sun May 31 \u00b7 3 PM EDT",
+          "network": "ESPN+",
           "matchup_pattern": "W4vW5"
         },
         {
@@ -636,13 +636,13 @@
         {
           "label": "Game 4",
           "datetime": "Sat May 30 \u00b7 2 PM EDT",
-          "network": "ESPN+",
+          "network": "ESPNU",
           "matchup_pattern": "W1vW2"
         },
         {
           "label": "Game 5",
           "datetime": "Sun May 31 \u00b7 2 PM EDT",
-          "network": null,
+          "network": "ESPN+",
           "matchup_pattern": "L4vW3"
         },
         {
@@ -741,8 +741,8 @@
         },
         {
           "label": "Game 6",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Sun May 31 \u00b7 4 PM EDT",
+          "network": "ESPN+",
           "matchup_pattern": "W4vW5"
         },
         {
@@ -783,13 +783,13 @@
         {
           "label": "Game 5",
           "datetime": "Sat May 30 \u00b7 8 PM EDT",
-          "network": "ESPNU",
+          "network": "ESPN+",
           "matchup_pattern": "L4vW3"
         },
         {
           "label": "Game 6",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Sat May 30 \u00b7 8 PM EDT",
+          "network": "ESPN+",
           "matchup_pattern": "W4vW5"
         },
         {
