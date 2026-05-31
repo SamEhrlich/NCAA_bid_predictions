@@ -794,8 +794,8 @@
         },
         {
           "label": "Game 7 (if necessary)",
-          "datetime": "TBD",
-          "network": null,
+          "datetime": "Sun May 31 \u00b7 3 PM EDT",
+          "network": "ESPN",
           "matchup_pattern": "rematch"
         }
       ]
