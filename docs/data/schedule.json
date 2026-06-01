@@ -42,8 +42,8 @@
         },
         {
           "label": "Game 7 (if necessary)",
-          "datetime": "Mon Jun 1 \u00b7 6:00 PM EDT",
-          "network": "ESPN+",
+          "datetime": "Mon Jun 1 \u00b7 12 AM EDT",
+          "network": null,
           "matchup_pattern": "rematch"
         }
       ]
@@ -413,7 +413,7 @@
         {
           "label": "Game 6",
           "datetime": "Sun May 31 \u00b7 6 PM EDT",
-          "network": "ESPN2 \u00b7 ESPN+",
+          "network": "ESPN2",
           "matchup_pattern": "W4vW5"
         },
         {
@@ -465,7 +465,7 @@
         },
         {
           "label": "Game 7 (if necessary)",
-          "datetime": "TBD",
+          "datetime": "Mon Jun 1 \u00b7 12 AM EDT",
           "network": null,
           "matchup_pattern": "rematch"
         }
@@ -700,7 +700,7 @@
         },
         {
           "label": "Game 7 (if necessary)",
-          "datetime": "TBD",
+          "datetime": "Mon Jun 1 \u00b7 12 AM EDT",
           "network": null,
           "matchup_pattern": "rematch"
         }
