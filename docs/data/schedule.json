@@ -278,7 +278,7 @@
         {
           "label": "Game 7 (if necessary)",
           "datetime": "Mon Jun 1 \u00b7 6 PM EDT",
-          "network": null,
+          "network": "ESPNU",
           "matchup_pattern": "rematch"
         }
       ]
@@ -372,7 +372,7 @@
         {
           "label": "Game 7 (if necessary)",
           "datetime": "Mon Jun 1 \u00b7 6 PM EDT",
-          "network": null,
+          "network": "SEC Network",
           "matchup_pattern": "rematch"
         }
       ]
