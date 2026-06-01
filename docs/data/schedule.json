@@ -277,8 +277,8 @@
         },
         {
           "label": "Game 7 (if necessary)",
-          "datetime": "Mon Jun 1 \u00b7 6 PM EDT",
-          "network": "ESPNU",
+          "datetime": "Sun May 31 \u00b7 11:10 PM EDT",
+          "network": "SEC Network \u00b7 ESPN+",
           "matchup_pattern": "rematch"
         }
       ]
@@ -653,8 +653,8 @@
         },
         {
           "label": "Game 7 (if necessary)",
-          "datetime": "Mon Jun 1 \u00b7 4 PM EDT",
-          "network": "ACC Network",
+          "datetime": "Mon Jun 1 \u00b7 12 PM EDT",
+          "network": "ESPNU",
           "matchup_pattern": "rematch"
         }
       ]
