@@ -1,6 +1,6 @@
 {
   "_comment": "Update this file as the 2026 tournament unfolds. Set each field to the team name that won (must match the names used in bracket.json exactly). Leave as null until the result is decided. The leaderboard auto-scores against this file.",
-  "last_updated": "2026-06-07",
+  "last_updated": "2026-06-08",
   "regional": {
     "los_angeles": "Cal Poly",
     "atlanta": "Oklahoma",
@@ -25,7 +25,7 @@
     "super_3": "Georgia",
     "super_4": "Ole Miss",
     "super_5": "North Carolina",
-    "super_6": null,
+    "super_6": "Texas",
     "super_7": null,
     "super_8": "Troy"
   },
